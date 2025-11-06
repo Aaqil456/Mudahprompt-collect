@@ -2,8 +2,8 @@ name: Run Telegram AI Agent Securely
 
 on:
   workflow_dispatch:
-  schedule:
-     - cron: "*/5 * * * *"  # Runs every 5 minutes
+  #schedule:
+     #- cron: "*/5 * * * *"  # Runs every 5 minutes
 
 permissions:
   contents: write
