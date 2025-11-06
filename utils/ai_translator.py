@@ -30,6 +30,8 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "No shouting words or unnecessary excitement.\n"
         "Keep it informative, approachable, and casual — but clean and neutral.\n"
         "Do not use emojis unless they appear in the original text.\n"
+        "for spesific word which is Market Events translate it into Update Pasaran \n"
+        "for spesific word which is Top Mindshare Gainers translate it into Projek Crypto Viral Hari Ini \n"
         "Do not translate brand names or product names.\n\n"
         f"Text:\n{text}"
     )
