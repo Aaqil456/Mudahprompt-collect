@@ -9,14 +9,12 @@ def fetch_channels_from_google_sheet(sheet_id, api_key):
     header = rows[0]
     name_idx = header.index("Name")
     link_idx = header.index("Link")
-    channel_idx = header.index("TelegramChannelLink")
 
     channel_data = []
     for row in rows[1:]:
         if len(row) > max(name_idx, link_idx, channel_idx):
             channel_data.append({
-                "exchange_name": row[name_idx],
-                "referral_link": row[link_idx],
+                "channel_name": row[name_idx],
                 "channel_link": row[channel_idx]
             })
 
