@@ -1,7 +1,7 @@
 import requests
 
 def fetch_channels_from_google_sheet(sheet_id, api_key):
-    url = f"https://sheets.googleapis.com/v4/spreadsheets/{sheet_id}/values/'api call'!A3:Z1000?key={api_key}"
+   url = f"https://sheets.googleapis.com/v4/spreadsheets/{sheet_id}/values/%27api%20call%27!A2:Z1000?key={api_key}"
     response = requests.get(url)
     data = response.json()
     rows = data.get("values", [])
