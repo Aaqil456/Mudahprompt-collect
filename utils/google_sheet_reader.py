@@ -11,7 +11,7 @@ def fetch_channels_from_google_sheet(sheet_id, api_key):
     link_idx = header.index("Link")
 
     channel_data = []
-    for row in rows[1:]:
+    for row in rows[2:]:
         if len(row) > max(name_idx, link_idx):
             channel_data.append({
                 "channel_name": row[name_idx],
