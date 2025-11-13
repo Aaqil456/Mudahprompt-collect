@@ -2,13 +2,54 @@ import os
 import re
 import html
 import requests
+import google.generativeai as genai
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 API_BASE = "https://api.telegram.org"
 MESSAGE_LIMIT = 4096
-CAPTION_LIMIT = 1024  # safe caption limit for captions' VISIBLE text
+CAPTION_LIMIT = 1024  # official caption limit
+
+# Safe budgets under the hard limits (room for type tag + HTML tags)
+SAFE_TEXT_BODY = 3600       # < 4096
+SAFE_CAPTION_BODY = 850     # < 1024
+
+# -------------------- Gemini config --------------------
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-1.5-flash")
+
+if GEMINI_API_KEY:
+    genai.configure(api_key=GEMINI_API_KEY)
+else:
+    print("⚠️ GEMINI_API_KEY not set. telegram_sender will fall back to naive trimming.")
+
+
+def _call_gemini(prompt: str) -> str | None:
+    """
+    Low-level Gemini wrapper.
+    Returns response text or None on error.
+    """
+    if not GEMINI_API_KEY:
+        return None
+
+    try:
+        model = genai.GenerativeModel(GEMINI_MODEL_NAME)
+        resp = model.generate_content(prompt)
+        # For safety: some clients use resp.text, others resp.candidates[0].content.parts
+        if hasattr(resp, "text") and resp.text:
+            return resp.text.strip()
+        # Fallback manual extraction if needed
+        if getattr(resp, "candidates", None):
+            parts = resp.candidates[0].content.parts
+            txt = "".join(p.text for p in parts if hasattr(p, "text"))
+            return txt.strip()
+        return None
+    except Exception as e:
+        print(f"❌ Gemini call error in telegram_sender: {e}")
+        return None
+
 
 # -------------------- Markdown → HTML (safe subset) --------------------
 
@@ -34,7 +75,6 @@ def render_html_with_basic_md(text: str) -> str:
     if not text:
         return ""
 
-    # We do one pass with a combined regex so we can escape 'between' parts safely
     token_re = re.compile(
         r'(\[([^\]]+)\]\((https?://[^)\s]+)\)|'          # [label](url)
         r'(\*\*|__)(.+?)\4|'                             # **bold** or __bold__
@@ -50,13 +90,10 @@ def render_html_with_basic_md(text: str) -> str:
         out.append(html.escape(text[i:m.start()]))
 
         full = m.group(1)
-        # link pieces
         link_label = m.group(2)
         link_href = m.group(3)
-        # bold pieces
         bold_delim = m.group(4)
         bold_inner = m.group(5)
-        # italic pieces (two alternatives)
         italic_star_inner = m.group(6)
         italic_underscore_inner = m.group(7)
 
@@ -72,17 +109,75 @@ def render_html_with_basic_md(text: str) -> str:
         elif italic_underscore_inner is not None:
             out.append(f'<i>{html.escape(italic_underscore_inner)}</i>')
         else:
-            # Fallback (shouldn't happen): escape token
             out.append(html.escape(full))
 
         i = m.end()
 
-    # Tail after the last token
     out.append(html.escape(text[i:]))
     return "".join(out)
 
 
-# -------------------- Smarter splitter (try not to cut sentences) --------------------
+# -------------------- Gemini helper to avoid awkward splits --------------------
+
+def compress_with_gemini_if_needed(text: str, max_chars: int) -> str:
+    """
+    If 'text' is longer than max_chars, call Gemini to rewrite/compress it so that:
+      - It stays under max_chars.
+      - It keeps core meaning.
+      - It ends on a natural sentence boundary.
+    Falls back to naive trimming if Gemini is not available or fails.
+    """
+    if not text:
+        return ""
+
+    text = text.strip()
+    if len(text) <= max_chars:
+        return text
+
+    prompt = f"""
+You are an assistant that rewrites text to fit inside a strict character limit.
+
+Requirements:
+1. Rewrite the text in the SAME LANGUAGE as the input (do not translate).
+2. Keep the key information and important points but feel free to compress or summarise.
+3. The final answer MUST be at most {max_chars} characters long.
+4. The text MUST end at a natural sentence boundary. Do NOT cut mid-sentence.
+5. Do NOT add any explanations, meta comments, or headings. Output only the final rewritten text.
+
+Text:
+\"\"\"{text}\"\"\"
+"""
+
+    rewritten = _call_gemini(prompt)
+
+    if not rewritten:
+        # Fallback: naive trim + try to cut at last sentence end/space
+        trimmed = text[:max_chars]
+        for ender in [". ", "! ", "? "]:
+            idx = trimmed.rfind(ender)
+            if idx != -1 and idx > max_chars * 0.4:
+                return trimmed[: idx + len(ender)].strip()
+        # fallback to last space
+        idx = trimmed.rfind(" ")
+        if idx != -1 and idx > max_chars * 0.4:
+            return trimmed[:idx].strip()
+        return trimmed.strip()
+
+    rewritten = rewritten.strip()
+    if len(rewritten) > max_chars:
+        rewritten = rewritten[:max_chars]
+
+        # Try to make the cut cleaner
+        for ender in [". ", "! ", "? "]:
+            idx = rewritten.rfind(ender)
+            if idx != -1 and idx > max_chars * 0.4:
+                rewritten = rewritten[: idx + len(ender)]
+                break
+
+    return rewritten.strip()
+
+
+# -------------------- Smarter splitter (backup) --------------------
 
 def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
     """
@@ -93,6 +188,9 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
       3. Sentence end (. / ! / ? + space)
       4. Space
       5. Hard cut at 'limit' if needed (e.g., very long URL)
+
+    With compress_with_gemini_if_needed(), this should rarely
+    produce more than 1 chunk, but it's a safety net.
     """
     if text is None:
         return [""]
@@ -108,15 +206,13 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
             parts.append(remaining)
             break
 
-        # Look at the next 'limit' chars window
         chunk = remaining[:limit]
-
         split_idx = -1
 
         # 1. Try double newline
         idx = chunk.rfind("\n\n")
         if idx != -1 and idx > limit * 0.4:
-            split_idx = idx + 2  # include the "\n\n"
+            split_idx = idx + 2
 
         # 2. Try single newline
         if split_idx == -1:
@@ -144,10 +240,8 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
 
         part = remaining[:split_idx].rstrip()
         parts.append(part)
-
         remaining = remaining[split_idx:].lstrip()
 
-    # Hard cap just in case
     return [p[:limit] for p in parts]
 
 
@@ -161,25 +255,30 @@ def send_telegram_message_html(
 ):
     """
     Sends a (possibly long) message with Telegram HTML parse_mode.
-      - Converts **bold**, *italic*, [label](url) to <b>, <i>, <a>
-      - Escapes everything else
-      - Splits RAW text into 4096-safe chunks, then converts each chunk
-      - Adds a bold [Type] label on its own line at the top if post_type is provided.
+      - First uses Gemini to compress to SAFE_TEXT_BODY.
+      - Then, as safety, splits if still >4096.
+      - Adds [<b>Type</b>] on its own line at the top of the FIRST chunk only.
     """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
         return []
 
-    raw_chunks = _split_for_telegram_raw(translated_text or "", MESSAGE_LIMIT)
+    # 1) Let Gemini compress to a safe size (this prevents awkward mid-sentence cuts)
+    safe_text = compress_with_gemini_if_needed(
+        translated_text or "",
+        max_chars=SAFE_TEXT_BODY,
+    )
+
+    # 2) Split as a backup (usually will return only 1 chunk)
+    raw_chunks = _split_for_telegram_raw(safe_text, MESSAGE_LIMIT)
     url = f"{API_BASE}/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
     results = []
 
     for i, raw_chunk in enumerate(raw_chunks, 1):
-        # Convert message body first (safe, escaped)
         safe_html = render_html_with_basic_md(raw_chunk)
 
-        # Inject TYPE TAG AFTER conversion so <b> isn't escaped
+        # Insert type tag AFTER HTML conversion so <b> isn't escaped
         if post_type and i == 1:
             type_tag = f"[<b>{html.escape(post_type)}</b>]\n\n"
             safe_html = type_tag + safe_html
@@ -217,30 +316,33 @@ def send_photo_to_telegram_channel(
     post_type: str | None = None,
 ):
     """
-    Sends a photo with caption (<=1024 VISIBLE chars). If caption is longer,
-    sends the remainder as follow-up 4096-safe text messages.
-      - Uses the same Markdown→HTML conversion
-      - Splits RAW caption first, then converts each part
-      - Adds a bold [Type] label on its own line at the top of the caption if provided.
+    Sends a photo with caption.
+      - Uses Gemini to compress the caption so it fits under SAFE_CAPTION_BODY.
+      - Adds [<b>Type</b>] on its own line at the top of the caption.
+      - If somehow still longer than Telegram's 1024-char caption limit, sends
+        the remainder as follow-up text (without repeating the type tag).
     """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
         return None
 
-    raw_caption = translated_caption or ""
+    # 1) Compress caption using Gemini for natural ending & fewer splits
+    safe_caption = compress_with_gemini_if_needed(
+        translated_caption or "",
+        max_chars=SAFE_CAPTION_BODY,
+    )
 
-    # Split RAW caption by CAPTION_LIMIT (visible text)
-    if len(raw_caption) <= CAPTION_LIMIT:
-        head_raw = raw_caption
+    # 2) Split caption into head (caption) + optional tail (follow-up)
+    if len(safe_caption) <= CAPTION_LIMIT:
+        head_raw = safe_caption
         tail_raw = ""
     else:
-        head_raw = raw_caption[:CAPTION_LIMIT]
-        tail_raw = raw_caption[CAPTION_LIMIT:]
+        head_raw = safe_caption[:CAPTION_LIMIT]
+        tail_raw = safe_caption[CAPTION_LIMIT:]
 
-    # Convert the head to HTML for caption
     caption_head_html = render_html_with_basic_md(head_raw)
 
-    # Insert type tag after conversion, only for the first (caption) part
+    # Insert type tag only once, at the top of the caption
     if post_type:
         type_tag = f"[<b>{html.escape(post_type)}</b>]\n\n"
         caption_head_html = type_tag + caption_head_html
@@ -262,18 +364,17 @@ def send_photo_to_telegram_channel(
         else:
             print(f"❌ Failed to send photo: {r.text}")
 
-        # Remainder of caption as regular messages (split raw -> then convert)
+        # If there's any leftover text, send it as normal text messages
         if tail_raw:
             print(
                 f"[INFO] Sending caption remainder as text "
                 f"(raw-len={len(tail_raw)})."
             )
-            # Here we DON'T repeat post_type so tag only appears once.
             send_telegram_message_html(
                 translated_text=tail_raw,
                 exchange_name=exchange_name,
                 referral_link=referral_link,
-                post_type=None,
+                post_type=None,  # don't repeat type
             )
 
         return r.json()
