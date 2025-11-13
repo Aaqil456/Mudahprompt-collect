@@ -164,7 +164,7 @@ def send_telegram_message_html(
 
     # Prefix with type once at the very beginning (e.g. [Alpha] ...)
     if post_type:
-        base_text = f"[{post_type}] {base_text}"
+        base_text = f"[<b>{post_type}</b>]\n\n{base_text}"
 
     raw_chunks = _split_for_telegram_raw(base_text, MESSAGE_LIMIT)
     url = f"{API_BASE}/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
@@ -219,7 +219,7 @@ def send_photo_to_telegram_channel(
 
     # Prefix the caption with the type (only once, for the first chunk)
     if post_type:
-        raw_caption = f"[{post_type}] {raw_caption}"
+        raw_caption = f"[<b>{post_type}</b>]\n\n{raw_caption}"
 
     # Split RAW caption by visible-text limit (safer than counting HTML chars)
     if len(raw_caption) <= CAPTION_LIMIT:
