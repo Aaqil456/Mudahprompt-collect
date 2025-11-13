@@ -17,7 +17,11 @@ MD_LINK_RE = re.compile(r'\[([^\]]+)\]\((https?://[^)\s]+)\)')
 # **bold** or __bold__
 MD_BOLD_RE = re.compile(r'(\*\*|__)(.+?)\1', re.DOTALL)
 # *italic* or _italic_ (but not **bold**)
-MD_ITALIC_RE = re.compile(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)|(?<!_)_(?!_)(.+?)(?<!_)_(?!_)', re.DOTALL)
+MD_ITALIC_RE = re.compile(
+    r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)|(?<!_)_(?!_)(.+?)(?<!_)_(?!_)',
+    re.DOTALL
+)
+
 
 def render_html_with_basic_md(text: str) -> str:
     """
@@ -48,7 +52,7 @@ def render_html_with_basic_md(text: str) -> str:
         full = m.group(1)
         # link pieces
         link_label = m.group(2)
-        link_href  = m.group(3)
+        link_href = m.group(3)
         # bold pieces
         bold_delim = m.group(4)
         bold_inner = m.group(5)
@@ -57,7 +61,10 @@ def render_html_with_basic_md(text: str) -> str:
         italic_underscore_inner = m.group(7)
 
         if link_label and link_href:
-            out.append(f'<a href="{html.escape(link_href, quote=True)}">{html.escape(link_label)}</a>')
+            out.append(
+                f'<a href="{html.escape(link_href, quote=True)}">'
+                f'{html.escape(link_label)}</a>'
+            )
         elif bold_delim and bold_inner is not None:
             out.append(f'<b>{html.escape(bold_inner)}</b>')
         elif italic_star_inner is not None:
@@ -73,6 +80,7 @@ def render_html_with_basic_md(text: str) -> str:
     # Tail after the last token
     out.append(html.escape(text[i:]))
     return "".join(out)
+
 
 # -------------------- Splitter (split raw text, then render) --------------------
 
@@ -93,7 +101,8 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
     for para in text.split("\n\n"):
         chunk = para + "\n\n"
         if cur_len + len(chunk) <= limit:
-            current.append(chunk); cur_len += len(chunk)
+            current.append(chunk)
+            cur_len += len(chunk)
         else:
             if current:
                 parts.append("".join(current).rstrip())
@@ -108,7 +117,8 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
                         for w in words:
                             w2 = w + " "
                             if L + len(w2) <= limit:
-                                buf.append(w2); L += len(w2)
+                                buf.append(w2)
+                                L += len(w2)
                             else:
                                 parts.append("".join(buf).rstrip())
                                 buf, L = [w2], len(w2)
@@ -116,7 +126,8 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
                             parts.append("".join(buf).rstrip())
                     else:
                         if cur_len + len(line_n) <= limit:
-                            current.append(line_n); cur_len += len(line_n)
+                            current.append(line_n)
+                            cur_len += len(line_n)
                         else:
                             parts.append("".join(current).rstrip())
                             current, cur_len = [line_n], len(line_n)
@@ -129,22 +140,33 @@ def _split_for_telegram_raw(text: str, limit: int) -> list[str]:
     # Final hard cap just in case
     return [p[:limit] for p in parts]
 
+
 # -------------------- Public send functions --------------------
 
-def send_telegram_message_html(translated_text: str,
-                               exchange_name: str | None = None,
-                               referral_link: str | None = None):
+def send_telegram_message_html(
+    translated_text: str,
+    exchange_name: str | None = None,
+    referral_link: str | None = None,
+    post_type: str | None = None,
+):
     """
     Sends a (possibly long) message with Telegram HTML parse_mode.
       - Converts **bold**, *italic*, [label](url) to <b>, <i>, <a>
       - Escapes everything else
       - Splits RAW text into 4096-safe chunks, then converts each chunk
+      - Optionally prefixes the message with [Type] from Google Sheet
     """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
         return []
 
-    raw_chunks = _split_for_telegram_raw(translated_text or "", MESSAGE_LIMIT)
+    base_text = translated_text or ""
+
+    # Prefix with type once at the very beginning (e.g. [Alpha] ...)
+    if post_type:
+        base_text = f"[{post_type}] {base_text}"
+
+    raw_chunks = _split_for_telegram_raw(base_text, MESSAGE_LIMIT)
     url = f"{API_BASE}/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
     results = []
@@ -161,31 +183,45 @@ def send_telegram_message_html(translated_text: str,
             r = requests.post(url, json=payload, timeout=20)
             results.append(r.json())
             if r.ok and r.json().get("ok"):
-                print(f"✅ Telegram message part {i}/{len(raw_chunks)} sent (len={len(raw_chunk)} raw).")
+                print(
+                    f"✅ Telegram message part {i}/{len(raw_chunks)} sent "
+                    f"(len={len(raw_chunk)} raw)."
+                )
             else:
-                print(f"❌ Telegram send error part {i}/{len(raw_chunks)}: {r.text}")
+                print(
+                    f"❌ Telegram send error part {i}/{len(raw_chunks)}: {r.text}"
+                )
         except Exception as e:
             print(f"❌ Telegram send exception part {i}/{len(raw_chunks)}: {e}")
 
     return results
 
 
-def send_photo_to_telegram_channel(image_path: str,
-                                   translated_caption: str,
-                                   exchange_name: str | None = None,
-                                   referral_link: str | None = None):
+def send_photo_to_telegram_channel(
+    image_path: str,
+    translated_caption: str,
+    exchange_name: str | None = None,
+    referral_link: str | None = None,
+    post_type: str | None = None,
+):
     """
     Sends a photo with caption (<=1024 VISIBLE chars). If caption is longer,
     sends the remainder as follow-up 4096-safe text messages.
       - Uses the same Markdown→HTML conversion
       - Splits RAW caption first, then converts each part
+      - Optionally prefixes the caption with [Type]
     """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
         return None
 
-    # Split RAW caption by visible-text limit (safer than counting HTML chars)
     raw_caption = translated_caption or ""
+
+    # Prefix the caption with the type (only once, for the first chunk)
+    if post_type:
+        raw_caption = f"[{post_type}] {raw_caption}"
+
+    # Split RAW caption by visible-text limit (safer than counting HTML chars)
     if len(raw_caption) <= CAPTION_LIMIT:
         head_raw = raw_caption
         tail_raw = ""
@@ -214,9 +250,18 @@ def send_photo_to_telegram_channel(image_path: str,
 
         # Remainder of caption as regular messages (split raw -> then convert)
         if tail_raw:
-            print(f"[INFO] Sending caption remainder as text (raw-len={len(tail_raw)}).")
-            # Split the rest into 4096 chunks, then convert each to HTML in send_telegram_message_html
-            send_telegram_message_html(tail_raw, exchange_name=exchange_name, referral_link=referral_link)
+            print(
+                f"[INFO] Sending caption remainder as text "
+                f"(raw-len={len(tail_raw)})."
+            )
+            # IMPORTANT: we don't pass post_type again, so the type tag
+            # only appears once at the beginning.
+            send_telegram_message_html(
+                tail_raw,
+                exchange_name=exchange_name,
+                referral_link=referral_link,
+                post_type=None,
+            )
 
         return r.json()
     except FileNotFoundError:
