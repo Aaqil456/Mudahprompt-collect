@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-26T23:28:16.012568",
+    "timestamp": "2025-11-26T23:37:58.838737",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -320,6 +320,22 @@
             "translated_text": "",
             "date": "2025-11-26T19:04:13+00:00",
             "message_id": 6315
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T19:04:13+00:00",
+            "message_id": 6315
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "Google is working on an image annotation feature for Gemini. Users will be able to draw and add text to generated images before downloading them. \n\n\"Generate me a coloring page\" \ud83c\udf4c",
+            "translated_text": "Google tengah usahakan satu ciri baru untuk Gemini, iaitu pengguna boleh conteng dan tambah teks kat gambar yang dijana sebelum di muat turun.\n\n\"Jana untuk saya satu muka surat mewarna\" \ud83c\udf4c",
+            "date": "2025-11-26T23:30:55+00:00",
+            "message_id": 6318
         },
         {
             "channel_link": "https://t.me/testingcatalog",
