@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-26T20:47:31.693125",
+    "timestamp": "2025-11-26T21:10:31.944695",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -248,6 +248,22 @@
             "translated_text": "",
             "date": "2025-11-26T13:17:52+00:00",
             "message_id": 6312
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "Perplexity announced the \"Virtual Try On\" feature powered by Nano Banana! \n\nIt allows you to generate your avatar on Perplexity, which you can use to try out clothes before making a purchase. \n\nThis is a huge market btw \ud83d\udc40",
+            "translated_text": "Perplexity baru je umumkan ciri baru, \"Virtual Try On\" yang guna teknologi Nano Banana!\n\nDengan ciri ni, kau boleh buat avatar kau sendiri kat Perplexity, lepas tu boleh guna avatar tu untuk try baju sebelum beli.\n\nGempak jugak Update Pasaran ni \ud83d\udc40",
+            "date": "2025-11-26T20:58:02+00:00",
+            "message_id": 6317
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T19:04:13+00:00",
+            "message_id": 6315
         }
     ]
 }
