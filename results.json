@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-26T16:40:20.656678",
+    "timestamp": "2025-11-26T16:52:00.251151",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8,6 +8,38 @@
             "translated_text": "Perplexity language tutor dah boleh guna kat browser Comet, tau. Nak akses dia, cari je tab \"language\".\n\nKonnichiwa \ud83e\udd77",
             "date": "2025-11-26T13:46:31+00:00",
             "message_id": 6313
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T13:17:52+00:00",
+            "message_id": 6312
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "Updated Images tab with suggested prompts and styles is rolling out to ChatGPT users on web and mobile. \n\ngpt-image-2 soon? \ud83d\udc40",
+            "translated_text": "Okay, tab Imej yang dah dikemaskini dengan cadangan prompt dan gaya dah mula keluar untuk pengguna ChatGPT kat web dan telefon.\n\ngpt-image-2 tak lama lagi ke? \ud83d\udc40",
+            "date": "2025-11-26T13:17:52+00:00",
+            "message_id": 6311
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T13:07:17+00:00",
+            "message_id": 6310
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "ICYMI: According to Sam Altman, OpenAI\u2019s hardware is expected to be released within the next 2 years timeframe. \n\n\u201cAltman describes OpenAI\u2019s forthcoming AI device as more peaceful and calm than the iPhone\u201d",
+            "translated_text": "Just nak bagitau: Sam Altman ada cakap, diorang jangka hardware OpenAI akan keluar dalam masa 2 tahun lagi.\n\n\"Altman kata alat AI OpenAI yang akan datang ni lebih tenang dan aman berbanding iPhone\"",
+            "date": "2025-11-26T13:07:17+00:00",
+            "message_id": 6309
         }
     ]
 }
