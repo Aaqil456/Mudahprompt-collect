@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-25T11:21:56.469904",
+    "timestamp": "2025-11-26T13:52:18.723968",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -680,6 +680,14 @@
             "translated_text": "**\u0421\u0435\u0439\u043b Makina: Nak join ke tak?**\n\n**Simple je pasal projek ni:** Pengguna masukkan duit dalam \"Mesin\" (nama untuk vault), yang diuruskan oleh operator (setakat ni, [Dialectic](https://x.com/Dialectic_Group) diketahui - 2648 [Moni Score](https://getmoni.io/discover)). Semua tindakan diproses menggunakan MakinaVM dengan bantuan AI. Sekarang dah [dapat](https://defillama.com/protocol/makina) $105.55 juta TVL.\n\nSekarang Dialectic tengah buat 3 strategi:\n\n\u2013 **DUSD**: cari untung atas stablecoin melalui AMM, pinjaman, beli bon diskaun dan basis-trade (pinjam stablecoin dengan kadar rendah, lepas tu labur dalam protokol lain dengan kadar lebih tinggi);\n\n\u2013 **DETH**: dapat untung atas ETH melalui arbitraj kadar pinjaman dan insentif farming (deposit dalam LRT, sediakan kecairan);\n\n\u2013 **DBIT**: guna token BTC sebagai cagaran, pinjam stablecoin dan laburkan dengan kadar lebih tinggi.\n\n**Butiran Seil**\n\n- Mula hari ni pukul 16:00 UTC+3 kat [Legion](https://app.legion.cc/makina);\n\n- Priority Sale untuk yang join Season 0 dan farm tiket. Mereka akan dapat alokasi terjamin dan penilaian sama macam dalam pusingan seed;\n\n- Public Sale untuk semua pengguna Legion yang dah disahkan. Keutamaan akan diberi kepada early adopter projek (pemilik tiket dengan alokasi kecil pun termasuk), DeFi OG dan pemegang token tertentu (takde detail).\n\n**Perkara yang perlu diberi perhatian**\n\n\u2013 Pasaran tengah tak menentu, dan listing masa fasa buruk boleh rosakkan impak;\n\u2013 Alokasi untuk public sale mungkin tak besar;\n\u2013 Buka kunci: hanya 25% akan diberi terus.\n\n**Pendapat Moni (disediakan oleh **[\u041b\u0430\u043c\u0435\u0440](https://t.me/YourFriendCL)**)**\n\nMinggu lepas saya lebih bersemangat daripada sekarang. Sekarang ni, semua bergantung pada pasaran. Makina keluar dengan penilaian yang ok: Almanak dulu start sekitar $75 juta. Tambah lagi [\u0421yber.Fund](https://x.com/cyberFund_) sebagai pelabur. [\u041b\u043e\u043c\u0430\u0449\u0443\u043a](https://x.com/Lomashuk) ada rekod baik dengan 7 unicorn. Untuk DeFi Tier-2, ni dah kira ok.\n\nSaya rasa, mereka boleh capai $150\u2013300 juta. Tapi saya tak jangka public akan dapat banyak.\n\nSaya join, tapi Legion mungkin tak bagi semua orang peluang. Ada risiko, terutama dengan hanya suku token diberi masa TGE. Tapi berdasarkan maklumat dalaman (kena berhati-hati) dan maklum balas \u2014 semua ok, team bersemangat. Kita tengok macam mana nanti.\n\nSUMBER: 0 [https://x.com/Dialectic_Group](https://x.com/Dialectic_Group) 1 [https://getmoni.io/discover](https://getmoni.io/discover) 2 [https://defillama.com/protocol/makina](https://defillama.com/protocol/makina) 3 [https://app.legion.cc/makina](https://app.legion.cc/makina) 4 [https://t.me/YourFriendCL](https://t.me/YourFriendCL) 5 [https://x.com/cyberFund_](https://x.com/cyberFund_) 6 [https://x.com/Lomashuk](https://x.com/Lomashuk)",
             "date": "2025-11-25 11:14:01+00:00",
             "message_id": 11630
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "Perplexity language tutor is rolling out on the Comet browser and can be accessed through a dedicated \"language\" tab. \n\nKonnichiwa \ud83e\udd77",
+            "translated_text": "Perplexity language tutor dah boleh guna kat browser Comet, tau. Boleh jumpa kat tab khas \"language\".\n\nKonnichiwa \ud83e\udd77",
+            "date": "2025-11-26 13:46:31+00:00",
+            "message_id": 6313
         }
     ]
 }
