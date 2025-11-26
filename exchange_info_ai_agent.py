@@ -52,7 +52,7 @@ async def main():
             telegram_api_id,
             telegram_api_hash,
             channel_username,
-            limit=1,
+            limit=5,
         )
 
         for msg in messages:
