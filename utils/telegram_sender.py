@@ -411,3 +411,83 @@ def send_photo_to_telegram_channel(
         print(f"❌ Telegram photo send exception: {e}")
 
     return None
+
+
+def send_video_to_telegram_channel(
+    video_path: str,
+    translated_caption: str,
+    exchange_name: str | None = None,
+    referral_link: str | None = None,
+    post_type: str | None = None,
+):
+    """
+    Sends a video with caption.
+
+    Behaviour:
+      - Same style as send_photo_to_telegram_channel:
+        * Split caption with Gemini/fallback into CAPTION_SPLIT_LIMIT chunks.
+        * First chunk as video caption.
+        * Remaining chunks as follow-up text messages.
+        * [<b>Type</b>] only once at the top of the caption.
+    """
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("❌ TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set in environment.")
+        return None
+
+    if not os.path.exists(video_path):
+        print(f"❌ Video not found: {video_path}")
+        return None
+
+    caption_text = translated_caption or ""
+
+    # Split caption into chunks
+    caption_chunks = split_text_with_gemini_or_fallback(
+        caption_text,
+        CAPTION_SPLIT_LIMIT,
+    )
+
+    head_raw = caption_chunks[0]
+    tail_chunks = caption_chunks[1:] if len(caption_chunks) > 1 else []
+
+    # Enforce official caption limit
+    if len(head_raw) > CAPTION_LIMIT:
+        head_raw = head_raw[:CAPTION_LIMIT]
+
+    caption_head_html = render_html_with_basic_md(head_raw)
+
+    # Add type tag once
+    if post_type:
+        type_tag = f"[<b>{html.escape(post_type)}</b>]\n\n"
+        caption_head_html = type_tag + caption_head_html
+
+    url = f"{API_BASE}/bot{TELEGRAM_BOT_TOKEN}/sendVideo"
+
+    try:
+        with open(video_path, "rb") as video_file:
+            files = {"video": video_file}
+            data = {
+                "chat_id": TELEGRAM_CHAT_ID,
+                "caption": caption_head_html,
+                "parse_mode": "HTML",
+            }
+            r = requests.post(url, data=data, files=files, timeout=60)
+
+        if r.ok and r.json().get("ok"):
+            print(f"✅ Video sent. Caption raw-len={len(head_raw)}.")
+        else:
+            print(f"❌ Failed to send video: {r.text}")
+
+        # Remainder caption as separate text messages
+        for chunk in tail_chunks:
+            send_telegram_message_html(
+                translated_text=chunk,
+                exchange_name=exchange_name,
+                referral_link=referral_link,
+                post_type=None,
+            )
+
+        return r.json()
+    except Exception as e:
+        print(f"❌ Telegram video send exception: {e}")
+
+    return None
