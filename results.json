@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-26T23:10:39.924149",
+    "timestamp": "2025-11-26T23:28:16.012568",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -256,6 +256,14 @@
             "translated_text": "Perplexity baru je umumkan ciri baru, \"Virtual Try On\" yang guna teknologi Nano Banana!\n\nDengan ciri ni, kau boleh buat avatar kau sendiri kat Perplexity, lepas tu boleh guna avatar tu untuk try baju sebelum beli.\n\nGempak jugak Update Pasaran ni \ud83d\udc40",
             "date": "2025-11-26T20:58:02+00:00",
             "message_id": 6317
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T19:04:13+00:00",
+            "message_id": 6315
         },
         {
             "channel_link": "https://t.me/testingcatalog",
