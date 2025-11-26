@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-26T18:41:47.009570",
+    "timestamp": "2025-11-26T18:53:59.211758",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -40,6 +40,22 @@
             "translated_text": "Just nak bagitau: Sam Altman ada cakap, diorang jangka hardware OpenAI akan keluar dalam masa 2 tahun lagi.\n\n\"Altman kata alat AI OpenAI yang akan datang ni lebih tenang dan aman berbanding iPhone\"",
             "date": "2025-11-26T13:07:17+00:00",
             "message_id": 6309
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T13:17:52+00:00",
+            "message_id": 6312
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-26T13:07:17+00:00",
+            "message_id": 6310
         },
         {
             "channel_link": "https://t.me/testingcatalog",
