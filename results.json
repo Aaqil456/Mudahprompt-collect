@@ -1,1 +1,13 @@
-
+{
+    "timestamp": "2025-11-26T16:40:20.656678",
+    "messages": [
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "original_text": "Perplexity language tutor is rolling out on the Comet browser and can be accessed through a dedicated \"language\" tab. \n\nKonnichiwa \ud83e\udd77",
+            "translated_text": "Perplexity language tutor dah boleh guna kat browser Comet, tau. Nak akses dia, cari je tab \"language\".\n\nKonnichiwa \ud83e\udd77",
+            "date": "2025-11-26T13:46:31+00:00",
+            "message_id": 6313
+        }
+    ]
+}
