@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-27T12:22:06.875338",
+    "timestamp": "2025-11-29T08:57:27.101824",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -576,6 +576,56 @@
             "translated_text": "",
             "date": "2025-11-26T19:04:13+00:00",
             "message_id": 6315
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Moonshot is working on Memory and Personalisation support for Kimi. \n\n\"Kimi remembers your preferences from past chats to better tailor future responses.\"\n\nMoonshine? \ud83d\udc40",
+            "translated_text": "Moonshot tengah usahakan sokongan Memory dan Personalisation untuk Kimi.\n\n\"Kimi ingat pilihan kau dari chat sebelum ni, jadi dia boleh bagi jawapan yang lebih sesuai lepas ni.\"\n\nMoonshine? \ud83d\udc40",
+            "date": "2025-11-28T23:06:09+00:00",
+            "message_id": 6323,
+            "message_key": "@testingcatalog:6323"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on publicly shareable canvas nodes for Stitch so you can share only a selected generation rather than the whole project.",
+            "translated_text": "Okay, Google tengah usahakan sesuatu untuk Stitch. Nanti kita boleh kongsi canvas nodes secara public. Jadi, kita boleh pilih generasi mana yang kita nak kongsi, tak payah kongsi keseluruhan projek.",
+            "date": "2025-11-28T16:32:38+00:00",
+            "message_id": 6322,
+            "message_key": "@testingcatalog:6322"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Kimi released Slides feature, powered by Nano Banana Pro, and it is available for free during the next 48 hours!",
+            "translated_text": "Kimi dah keluarkan ciri Slides, guna Nano Banana Pro, dan percuma untuk 48 jam akan datang ni!",
+            "date": "2025-11-28T11:59:02+00:00",
+            "message_id": 6321,
+            "message_key": "@testingcatalog:6321"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on Scheduled tasks for Jules SWE Agent and preparing \"Proactive Mode\" for the release.\n\nProactive mode was teased earlier and will enable Jules to proactively scan the codebase and fix bugs.",
+            "translated_text": "Okay, Google tengah usahakan fungsi tugasan berjadual untuk Jules SWE Agent dan diorang tengah siapkan \"Proactive Mode\" untuk dikeluarkan nanti.\n\n\"Proactive Mode\" ni dah diusik-usik sikit sebelum ni, dan fungsi ni akan membolehkan Jules untuk imbas kod dan betulkan pepijat secara proaktif.",
+            "date": "2025-11-27T15:43:01+00:00",
+            "message_id": 6320,
+            "message_key": "@testingcatalog:6320"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google to add scheduled jobs and proactive mode to Jules Agent**](https://www.testingcatalog.com/google-to-add-scheduled-jobs-and-proactive-mode-to-jules-agent/)\n\nGoogle is expanding Jules with scheduled task automation and a proactive mode for code monitoring, allowing autonomous project upkeep and recurring analyses, aiming to support large engineering teams through persistent memory-based workflows.\n\n\ud83d\uddde #jules",
+            "translated_text": "Google nak tambah fungsi kerja berjadual dan mod proaktif kat Jules Agent diorang.\n\nKiranya, Jules ni nanti boleh automatik buat kerja-kerja yang dah ditetapkan dan pantau kod projek. Senanglah nak maintain projek dan buat analisis berulang. Diorang buat ni sebab nak tolong team engineering yang besar, supaya kerja lebih lancar dengan sistem memori yang berterusan.\n\n\ud83d\uddde #jules",
+            "date": "2025-11-27T15:37:54+00:00",
+            "message_id": 6319,
+            "message_key": "@testingcatalog:6319"
         }
     ]
 }
