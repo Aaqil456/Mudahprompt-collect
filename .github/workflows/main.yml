@@ -58,7 +58,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           export PYTHONPATH=$PWD
-          python exchange_info_ai_agent.py
+          python main.py
           echo "[DEBUG] Contents of results.json:"
           cat results.json || echo "[WARNING] results.json not found or empty"
 
