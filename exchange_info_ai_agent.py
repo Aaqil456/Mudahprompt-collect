@@ -25,7 +25,9 @@ async def main():
     sheet_id = os.environ["GOOGLE_SHEET_ID"]
     google_sheet_api_key = os.environ["GOOGLE_SHEET_API_KEY"]
 
-    # --- Dedupe: text yang dah pernah dipost ---
+    # --- Dedupe: mesej yang dah pernah dipost ---
+    # Sekarang kita expect load_posted_messages() pulangkan list of message_key,
+    # contoh: ["@channelA:12345", "@channelB:67890", ...]
     posted_messages = set(load_posted_messages() or [])
     result_output = []
 
@@ -47,7 +49,7 @@ async def main():
 
         print(f"\n📡 Processing channel: {channel_username} (Type: {channel_type})")
 
-        # Ambil latest message (limit=1), kalau nak lebih boleh ubah
+        # Ambil latest messages, kalau nak lebih/kurang boleh ubah limit
         messages = await fetch_latest_messages(
             telegram_api_id,
             telegram_api_hash,
@@ -57,12 +59,15 @@ async def main():
 
         for msg in messages:
             text = msg.get("text") or ""
+            msg_id = msg["id"]
+            # Unique key untuk setiap mesej dalam setiap channel
+            msg_key = f"{channel_username}:{msg_id}"
 
-            # Skip kalau text ni dah pernah dipost (based on json_writer)
-            if text and text in posted_messages:
+            # --- DEDUPE BERDASARKAN MESSAGE ID (BUKAN TEXT) ---
+            if msg_key in posted_messages:
                 print(
-                    f"⚠️ Skipping duplicate message ID {msg['id']} "
-                    f"from {channel_username}"
+                    f"⚠️ Skipping duplicate message ID {msg_id} "
+                    f"from {channel_username} (key={msg_key})"
                 )
                 continue
 
@@ -74,7 +79,7 @@ async def main():
 
                 if msg.get("has_video"):
                     # Download video dari channel sumber
-                    video_path = f"video_{msg['id']}.mp4"
+                    video_path = f"video_{msg_id}.mp4"
                     async with TelegramClient(
                         "telegram_session", telegram_api_id, telegram_api_hash
                     ) as client:
@@ -93,7 +98,7 @@ async def main():
 
                 elif msg.get("has_photo"):
                     # Download photo dari channel sumber
-                    image_path = f"photo_{msg['id']}.jpg"
+                    image_path = f"photo_{msg_id}.jpg"
                     async with TelegramClient(
                         "telegram_session", telegram_api_id, telegram_api_hash
                     ) as client:
@@ -117,25 +122,26 @@ async def main():
                         post_type=channel_type,  # [<b>Type</b>] line atas
                     )
 
-                # Mark text ni dah dipost (kalau ada text)
-                if text:
-                    posted_messages.add(text)
+                # Mark mesej ni dah dipost (tak kira ada text atau tidak)
+                posted_messages.add(msg_key)
 
                 # Log dalam results.json (via json_writer.save_results)
                 result_output.append(
                     {
                         "channel_link": channel_link,
                         "channel_type": channel_type,
+                        "channel_username": channel_username,
                         "original_text": text,
                         "translated_text": translated,
                         "date": msg.get("date"),
-                        "message_id": msg["id"],
+                        "message_id": msg_id,
+                        "message_key": msg_key,
                     }
                 )
 
             except Exception as e:
                 print(
-                    f"❌ Error while processing message {msg['id']} "
+                    f"❌ Error while processing message {msg_id} "
                     f"from {channel_username}: {e}"
                 )
 
