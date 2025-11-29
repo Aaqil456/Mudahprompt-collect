@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-29T08:57:27.101824",
+    "timestamp": "2025-11-29T10:44:07.425855",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -626,6 +626,16 @@
             "date": "2025-11-27T15:37:54+00:00",
             "message_id": 6319,
             "message_key": "@testingcatalog:6319"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is planning to start testing ads on ChatGPT soon, as new ad related strings appeared in the latest build for Android. \n\nLikely it will be limited to search ads only. Highly possible that it is powered by the same infrastructure as Bing ads?\n\nCredits: Tibor",
+            "translated_text": "Berita penting \ud83d\udea8: OpenAI macam nak mula uji iklan kat ChatGPT tak lama lagi. Ada kod baru pasal iklan muncul dalam versi Android terbaru.\n\nKemungkinan besar iklan carian je. Besar kemungkinan guna sistem yang sama macam iklan Bing, kot?\n\nKredit: Tibor",
+            "date": "2025-11-29T10:38:24+00:00",
+            "message_id": 6324,
+            "message_key": "@testingcatalog:6324"
         }
     ]
 }
