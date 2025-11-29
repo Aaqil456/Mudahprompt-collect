@@ -15,7 +15,7 @@ from utils.telegram_sender import (
     send_photo_to_telegram_channel,
     send_video_to_telegram_channel,
 )
-from utils.json_writer import save_results, load_posted_messages
+from utils.json_writer import save_results, load_posted_message_keys
 
 
 async def main():
@@ -26,9 +26,8 @@ async def main():
     google_sheet_api_key = os.environ["GOOGLE_SHEET_API_KEY"]
 
     # --- Dedupe: mesej yang dah pernah dipost ---
-    # Sekarang kita expect load_posted_messages() pulangkan list of message_key,
-    # contoh: ["@channelA:12345", "@channelB:67890", ...]
-    posted_messages = set(load_posted_messages() or [])
+    # Kita guna message_key macam "@channel:12345"
+    posted_messages = set(load_posted_message_keys() or [])
     result_output = []
 
     # channels_data expected daripada google_sheet_reader:
