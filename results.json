@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-30T02:08:52.159679",
+    "timestamp": "2025-11-30T13:30:01.183696",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -676,6 +676,16 @@
             "date": "2025-11-30T00:20:25+00:00",
             "message_id": 6325,
             "message_key": "@testingcatalog:6325"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Don't forget to claim your 1 month of free ChatGPT Plus subscription. If you try to cancel, ChatGPT will offer you a month off if you keep it. \n\nAlso, don't miss today's weekly Newsletter with 16 months of free subs and 5000 free credits across 7 tools in total!\n\n Claim them \ud83d\udc40",
+            "translated_text": "Jangan lupa claim langganan ChatGPT Plus percuma selama sebulan. Kalau kau cuba nak batalkan, ChatGPT mungkin akan bagi kau sebulan percuma kalau kau teruskan langganan tu.\n\nJangan terlepas juga Newsletter mingguan hari ni! Ada 16 bulan langganan percuma dan 5000 kredit percuma untuk 7 tools semuanya!\n\nClaim sekarang \ud83d\udc40",
+            "date": "2025-11-30T13:06:54+00:00",
+            "message_id": 6329,
+            "message_key": "@testingcatalog:6329"
         }
     ]
 }
