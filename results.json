@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-30T13:30:01.183696",
+    "timestamp": "2025-11-30T19:39:47.586587",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -686,6 +686,26 @@
             "date": "2025-11-30T13:06:54+00:00",
             "message_id": 6329,
             "message_key": "@testingcatalog:6329"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-30T19:38:43+00:00",
+            "message_id": 6331,
+            "message_key": "@testingcatalog:6331"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Telegram launched Cocoon, a decentralised compute network to power future AI tools. \n\nAI features on Telegram soon!",
+            "translated_text": "Berita penting \ud83d\udea8: Telegram dah lancarkan Cocoon, rangkaian pengkomputeran terdesentralisasi untuk kuasakan alat AI masa depan.\n\nTak lama lagi ada ciri-ciri AI kat Telegram!",
+            "date": "2025-11-30T19:38:43+00:00",
+            "message_id": 6330,
+            "message_key": "@testingcatalog:6330"
         }
     ]
 }
