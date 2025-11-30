@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-29T10:44:07.425855",
+    "timestamp": "2025-11-30T02:08:52.159679",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -636,6 +636,46 @@
             "date": "2025-11-29T10:38:24+00:00",
             "message_id": 6324,
             "message_key": "@testingcatalog:6324"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-11-30T00:46:12+00:00",
+            "message_id": 6328,
+            "message_key": "@testingcatalog:6328"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on Gemini UI revamp as well as on the standalone macOS application. \n\nExtremely needed \ud83d\udd25",
+            "translated_text": "Google tengah usahakan perubahan pada UI Gemini, dan juga aplikasi macOS yang berasingan.\n\nMemang diperlukan sangat \ud83d\udd25",
+            "date": "2025-11-30T00:46:12+00:00",
+            "message_id": 6327,
+            "message_key": "@testingcatalog:6327"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft keeps working on a Career Coach experiment for Copilot. It seems users will speak face-to-face with an AI avatar that asks 6 interview questions. \n\nYou will be able to record your own camera footage to see later how you are performing. \n\nAI hiring AI soon? \ud83d\udc40",
+            "translated_text": "Microsoft tengah usahakan satu projek Career Coach untuk Copilot. Nampak gaya macam pengguna akan berdepan dengan avatar AI yang tanya 6 soalan temuduga.\n\nNanti boleh rakam video sendiri untuk tengok balik macam mana kita jawab.\n\nAI ambil pekerja guna AI, tak lama lagi? \ud83d\udc40",
+            "date": "2025-11-30T00:27:56+00:00",
+            "message_id": 6326,
+            "message_key": "@testingcatalog:6326"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI plants testing ads in ChatGPT Android app**](https://www.testingcatalog.com/openai-plants-testing-ads-in-chatgpt-android-app/)\n\nOpenAI is preparing to introduce ads in its ChatGPT Android app, with code in the latest beta referencing \u201csearch ads\u201d and \u201cbazaar content,\u201d suggesting commercial displays in shopping and recommendation contexts for free users.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "**OpenAI mula uji iklan dalam app ChatGPT Android** (SUMBER: 0)\n\nOpenAI tengah bersiap sedia nak masukkan iklan dalam app ChatGPT Android diorang. Dalam versi beta terbaru, ada kod yang sebut pasal \"search ads\" (iklan carian) dan \"bazaar content\" (kandungan bazar). Macam nak tunjuk iklan komersial kat pengguna percuma masa diorang shopping atau cari cadangan.\n\n\ud83d\uddde #chatgpt\n\nSUMBER: 0 [https://www.testingcatalog.com/openai-plants-testing-ads-in-chatgpt-android-app/](https://www.testingcatalog.com/openai-plants-testing-ads-in-chatgpt-android-app/)",
+            "date": "2025-11-30T00:20:25+00:00",
+            "message_id": 6325,
+            "message_key": "@testingcatalog:6325"
         }
     ]
 }
