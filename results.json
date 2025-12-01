@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-01T17:01:17.904931",
+    "timestamp": "2025-12-01T19:28:12.896804",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -736,6 +736,36 @@
             "date": "2025-12-01T16:36:33+00:00",
             "message_id": 6334,
             "message_key": "@testingcatalog:6334"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Kling AI released the Kling O1 model with multimodal understanding that can unify input across texts, images, and videos!\n\nAI video week \ud83d\udd25",
+            "translated_text": "Kling AI dah keluarkan model Kling O1 dengan pemahaman multimodal. Maksudnya, dia boleh faham input dari teks, gambar, dan video sekaligus!\n\nMinggu video AI \ud83d\udd25",
+            "date": "2025-12-01T19:14:15+00:00",
+            "message_id": 6337,
+            "message_key": "@testingcatalog:6337"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The score \ud83d\udd25",
+            "translated_text": "Markah \ud83d\udd25",
+            "date": "2025-12-01T19:03:19+00:00",
+            "message_id": 6336,
+            "message_key": "@testingcatalog:6336"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Runway released Gen-4.5, a new SOTA video gen model which scored 1,247  points in the Video leaderboard, setting. \n\nA new top 1 \ud83d\udc40",
+            "translated_text": "Runway dah keluarkan Gen-4.5, model baru untuk hasilkan video yang paling canggih sekarang ni. Skor dia 1,247 mata dalam carta Video, memang terbaik.\n\nMemang nombor satu sekarang ni! \ud83d\udc40",
+            "date": "2025-12-01T19:02:38+00:00",
+            "message_id": 6335,
+            "message_key": "@testingcatalog:6335"
         }
     ]
 }
