@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-01T19:28:12.896804",
+    "timestamp": "2025-12-01T19:43:49.129055",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -766,6 +766,26 @@
             "date": "2025-12-01T19:02:38+00:00",
             "message_id": 6335,
             "message_key": "@testingcatalog:6335"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-01T19:29:54+00:00",
+            "message_id": 6339,
+            "message_key": "@testingcatalog:6339"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Perplexity now has Claude Opus 4.5 available to Max users. \n\nBesides that a new Discover feed is being tested on iOS. Users will see Perplexity pages from Discover directly on the home page. \n\n* Not available to the public yet",
+            "translated_text": "Kalau terlepas berita, Perplexity sekarang dah ada Claude Opus 4.5 untuk pengguna Max.\n\nSelain tu, ada Discover feed baru tengah diuji dekat iOS. Pengguna akan nampak laman Perplexity dari Discover terus dekat home page.\n\n* Belum ada untuk semua orang lagi.",
+            "date": "2025-12-01T19:29:54+00:00",
+            "message_id": 6338,
+            "message_key": "@testingcatalog:6338"
         }
     ]
 }
