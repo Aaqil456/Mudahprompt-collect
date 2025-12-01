@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-30T19:39:47.586587",
+    "timestamp": "2025-12-01T08:38:26.335475",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -706,6 +706,26 @@
             "date": "2025-11-30T19:38:43+00:00",
             "message_id": 6330,
             "message_key": "@testingcatalog:6330"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-01T08:05:31+00:00",
+            "message_id": 6333,
+            "message_key": "@testingcatalog:6333"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Kling AI is known for launching models that outperform other top tier labs and they are about to drop a new omni video model this week! \n\nLaunch week \ud83d\udc40",
+            "translated_text": "Kling AI ni memang terkenal sebab selalu keluarkan model yang lagi power dari lab-lab lain yang top. Minggu ni diorang nak keluarkan model video omni yang baru!\n\nMinggu pelancaran ni... \ud83d\udc40",
+            "date": "2025-12-01T08:05:31+00:00",
+            "message_id": 6332,
+            "message_key": "@testingcatalog:6332"
         }
     ]
 }
