@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-01T19:43:49.129055",
+    "timestamp": "2025-12-01T19:55:43.054335",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -786,6 +786,16 @@
             "date": "2025-12-01T19:29:54+00:00",
             "message_id": 6338,
             "message_key": "@testingcatalog:6338"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Runway unveils Gen-4.5 video generation model that tops Video Arena**](https://www.testingcatalog.com/runway-unveils-gen-4-5-video-generation-model-that-tops-video-arena/)\n\nRunway introduces Gen-4.5, a video generation model offering high visual fidelity, precise motion, and creative control. It outperforms peers on benchmarking, supports global access, and builds on prior models with technical upgrades and GPU optimization.\n\n\ud83d\uddde #runway",
+            "translated_text": "Runway baru je keluarkan Gen-4.5, model baru untuk buat video. Model ni memang cun sebab kualiti gambar dia tinggi, gerakan pun tepat, dan kita boleh kawal kreativiti kita. Dia lagi power dari model lain bila diuji. Semua orang boleh guna dan dia upgrade dari model lama dengan penambahbaikan teknikal dan GPU.\n\n\ud83d\uddde #runway",
+            "date": "2025-12-01T19:53:02+00:00",
+            "message_id": 6340,
+            "message_key": "@testingcatalog:6340"
         }
     ]
 }
