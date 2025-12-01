@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-01T19:55:43.054335",
+    "timestamp": "2025-12-01T20:42:25.178441",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -796,6 +796,16 @@
             "date": "2025-12-01T19:53:02+00:00",
             "message_id": 6340,
             "message_key": "@testingcatalog:6340"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI is preparing to release 2 new open models:\n- Mistral-Large-3-675B-Instruct-2512-NVFP4\n- Ministral-3-3B-Instruct-2512\n\nA big open drop soon \ud83d\udc40",
+            "translated_text": "Okay, dengar sini. Mistral AI tengah bersiap sedia nak keluarkan 2 model open source baru:\n\n- Mistral-Large-3-675B-Instruct-2512-NVFP4\n- Ministral-3-3B-Instruct-2512\n\nNampaknya, tak lama lagi ada keluaran besar open source \ud83d\udc40",
+            "date": "2025-12-01T20:29:50+00:00",
+            "message_id": 6341,
+            "message_key": "@testingcatalog:6341"
         }
     ]
 }
