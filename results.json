@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-02T21:25:18.012389",
+    "timestamp": "2025-12-02T22:55:41.605752",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -926,6 +926,16 @@
             "date": "2025-12-02T20:57:10+00:00",
             "message_id": 6353,
             "message_key": "@testingcatalog:6353"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral AI released Mistral 3 Large and Ministral 3 under Apache 2.0**](https://www.testingcatalog.com/mistral-ai-released-mistral-3-large-and-ministral-3-under-apache-2-0/)\n\nMistral AI has released the Mistral 3 model family, including compact models and the 41B-parameter Mistral Large 3. All are open source under Apache 2.0, optimized for efficiency, and available across multiple major AI platforms.\n\n\ud83d\uddde #mistral",
+            "translated_text": "Okay, dengar sini. Mistral AI dah keluarkan Mistral 3 Large dan Ministral 3, tau? Semuanya di bawah lesen Apache 2.0.\n\nMistral AI dah lancarkan model Mistral 3, termasuk model yang lebih kecil dan Mistral Large 3 dengan 41 bilion parameter. Semuanya sumber terbuka di bawah Apache 2.0, dioptimumkan untuk efisien, dan boleh didapati di banyak platform AI yang besar.\n\n\ud83d\uddde #mistral\nSUMBER: 0",
+            "date": "2025-12-02T22:50:17+00:00",
+            "message_id": 6354,
+            "message_key": "@testingcatalog:6354"
         }
     ]
 }
