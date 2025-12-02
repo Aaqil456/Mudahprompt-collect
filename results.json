@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-02T18:40:22.635728",
+    "timestamp": "2025-12-02T20:55:14.546874",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -896,6 +896,26 @@
             "date": "2025-12-02T18:08:23+00:00",
             "message_id": 6349,
             "message_key": "@testingcatalog:6349"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "It also has a \"Special Accessory\" which will turn Mico into an \"Alix Earle\" avatar. Alix Earle is an influencer with millions of subscribers. \n\nMicrosoft colLABs \ud83d\udc40",
+            "translated_text": "Dia ada juga \"Aksesori Istimewa\" yang boleh tukar Mico jadi avatar \"Alix Earle\". Alix Earle ni seorang influencer yang ada berjuta-juta pengikut.\n\nMicrosoft ada projek colLABs \ud83d\udc40",
+            "date": "2025-12-02T20:53:38+00:00",
+            "message_id": 6352,
+            "message_key": "@testingcatalog:6352"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "It turns out that Microsoft Copilot has special accessory controls for Mico in the US. \n\nYou can change its colour (as in the app) and also add a wizard's hat.",
+            "translated_text": "Oh, Microsoft Copilot rupanya ada kawalan aksesori khas untuk Mico kat US.\n\nKau boleh tukar warna dia (macam dalam app) dan boleh tambah topi ahli sihir jugak.",
+            "date": "2025-12-02T20:50:47+00:00",
+            "message_id": 6351,
+            "message_key": "@testingcatalog:6351"
         }
     ]
 }
