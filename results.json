@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-02T22:55:41.605752",
+    "timestamp": "2025-12-02T23:41:39.176952",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -936,6 +936,16 @@
             "date": "2025-12-02T22:50:17+00:00",
             "message_id": 6354,
             "message_key": "@testingcatalog:6354"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity releases BrowseSafe-Benchmark for browser AI Agents**](https://www.testingcatalog.com/perplexity-releases-browsesafe-benchmark-for-browser-ai-agents/)\n\nPerplexity released BrowseSafe-Bench, a public benchmark and detection model targeting prompt injection and adversarial threats in browser-based AI agents, offering strong real-time performance and fostering research collaboration in web agent security.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "**Perplexity Lancarkan BrowseSafe-Benchmark untuk Ejen AI Pelayar** (SUMBER: 0)\n\nPerplexity dah keluarkan BrowseSafe-Bench, satu penanda aras awam dan model pengesanan yang fokus pada suntikan prompt dan ancaman dalam ejen AI berasaskan pelayar. Benda ni bagi prestasi masa nyata yang bagus dan galakkan kerjasama penyelidikan dalam keselamatan ejen web.\n\n\ud83d\uddde #perplexity\n\nSUMBER: 0 https://www.testingcatalog.com/perplexity-releases-browsesafe-benchmark-for-browser-ai-agents/",
+            "date": "2025-12-02T23:39:35+00:00",
+            "message_id": 6355,
+            "message_key": "@testingcatalog:6355"
         }
     ]
 }
