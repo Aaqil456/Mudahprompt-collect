@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-02T07:01:24.598120",
+    "timestamp": "2025-12-02T17:01:48.796563",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -826,6 +826,16 @@
             "date": "2025-12-02T06:51:55+00:00",
             "message_id": 6342,
             "message_key": "@testingcatalog:6342"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Mistral AI released Mistral 3 Large and Ministral 3 in different sizes under Apache 2.0 Licence! \n\n- Ministral 3 3B-25-12\n- Ministral 3 8B-25-12\n- Ministral 3 14B-25-12\n- Mistral Large 3 (675B)",
+            "translated_text": "Berita penting \ud83d\udea8: Mistral AI baru je keluarkan Mistral 3 Large dan Ministral 3 dalam saiz yang berbeza, di bawah Lesen Apache 2.0!\n\n- Ministral 3 3B-25-12\n- Ministral 3 8B-25-12\n- Ministral 3 14B-25-12\n- Mistral Large 3 (675B)",
+            "date": "2025-12-02T16:51:44+00:00",
+            "message_id": 6344,
+            "message_key": "@testingcatalog:6344"
         }
     ]
 }
