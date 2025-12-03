@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-02T23:54:18.013458",
+    "timestamp": "2025-12-03T01:58:38.048576",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -956,6 +956,26 @@
             "date": "2025-12-02T23:49:52+00:00",
             "message_id": 6356,
             "message_key": "@testingcatalog:6356"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Kling AI is about to release new Video 2.6 model with native audio**](https://www.testingcatalog.com/kling-ai-is-about-to-release-new-video-2-6-model-with-native-audio/)\n\nKling 2.6 introduces native audio generation, integrating dialogue, singing, and effects directly into video output. This update strengthens its multimodal capabilities and positions it competitively against leading AI video platforms.\n\n\ud83d\uddde #kling",
+            "translated_text": "Okay, ni nak cerita sikit. Kling AI akan keluarkan model Video 2.6 yang baru, siap dengan audio sekali.\n\nKling 2.6 ni boleh hasilkan audio terus, macam dialog, nyanyian, dan efek bunyi, semua dalam video. Update ni memang power sebab dia jadi lagi serba boleh dan boleh lawan dengan platform video AI yang lain.\n\n\ud83d\uddde #kling\nSUMBER: 0",
+            "date": "2025-12-03T01:23:55+00:00",
+            "message_id": 6360,
+            "message_key": "@testingcatalog:6360"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Amazon unveils 3 AI agents and new Nova models**](https://www.testingcatalog.com/amazon-unveils-3-ai-agents-and-new-nova-models/)\n\nAWS introduced new Nova models and three AI agents - Kiro, Security, and DevOps, targeting software teams aiming to reduce manual workload and accelerate delivery. These agents operate autonomously and integrate with common dev tools.\n\n\ud83d\uddde #amazon",
+            "translated_text": "**Amazon lancar 3 ejen AI dan model Nova baru** (SUMBER: 0)\n\nAWS dah perkenalkan model Nova yang baru dan tiga ejen AI - Kiro, Security, dan DevOps. Target diorang ni team software yang nak kurangkan kerja manual dan nak percepatkan proses kerja. Ejen-ejen ni boleh jalan sendiri dan berintegrasi dengan tools pembangunan yang biasa digunakan.\n\n\ud83d\uddde #amazon\n\nSUMBER: 0 [https://www.testingcatalog.com/amazon-unveils-3-ai-agents-and-new-nova-models/](https://www.testingcatalog.com/amazon-unveils-3-ai-agents-and-new-nova-models/)",
+            "date": "2025-12-03T00:24:07+00:00",
+            "message_id": 6357,
+            "message_key": "@testingcatalog:6357"
         }
     ]
 }
