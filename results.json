@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-03T01:58:38.048576",
+    "timestamp": "2025-12-03T09:01:17.921853",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -976,6 +976,16 @@
             "date": "2025-12-03T00:24:07+00:00",
             "message_id": 6357,
             "message_key": "@testingcatalog:6357"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google Flow got a new object removal feature that allows you to clean up unnecessary parts from the video. Previously released \"Camera controls\" have been expanded more broadly as well. \n\nh/t x@VividFeverDrms",
+            "translated_text": "Google Flow ada feature baru untuk buang objek yang tak perlu dari video, tau? Jadi, video kau boleh nampak lagi kemas. Selain tu, fungsi \"Camera controls\" yang dah ada sebelum ni pun dah diperluaskan lagi.\n\nSUMBER: x@VividFeverDrms",
+            "date": "2025-12-03T08:44:41+00:00",
+            "message_id": 6361,
+            "message_key": "@testingcatalog:6361"
         }
     ]
 }
