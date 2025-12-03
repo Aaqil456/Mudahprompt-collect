@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-03T15:30:11.056484",
+    "timestamp": "2025-12-03T20:55:10.778098",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1006,6 +1006,16 @@
             "date": "2025-12-03T15:26:40+00:00",
             "message_id": 6363,
             "message_key": "@testingcatalog:6363"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests new Scheduled Actions manager tab for Gemini**](https://www.testingcatalog.com/google-tests-new-scheduled-actions-manager-tab-for-gemini/)\n\nGoogle is adding a scheduled actions menu in Gemini with templates like Daily Briefing and Sunday Comic, allowing custom recurring prompts. This update supports routine use and hints at broader productivity features in development.\n\n\ud83d\uddde #gemini",
+            "translated_text": "Google tengah uji tab pengurus \"Scheduled Actions\" baru untuk Gemini.\n\nGoogle nak tambah menu \"scheduled actions\" dalam Gemini dengan templat macam \"Daily Briefing\" dan \"Sunday Comic\". Boleh set arahan berulang ikut suka. Update ni bagus untuk kegunaan harian dan macam bagi hint ada lagi feature produktiviti lain yang tengah diusahakan.\n\n\ud83d\uddde #gemini",
+            "date": "2025-12-03T20:42:48+00:00",
+            "message_id": 6364,
+            "message_key": "@testingcatalog:6364"
         }
     ]
 }
