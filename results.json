@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-03T21:52:50.096662",
+    "timestamp": "2025-12-03T23:22:42.264537",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1026,6 +1026,26 @@
             "date": "2025-12-03T21:46:26+00:00",
             "message_id": 6365,
             "message_key": "@testingcatalog:6365"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Early look at the upcoming App submission flow for ChatGPT on the OpenAI Platform. \n\nBuilders will be asked to fill in App Info, MCP details, Testing scenarios, Screenshots, and release notes in order to publish their App on the upcoming App directory.",
+            "translated_text": "Okay, ni nak cerita sikit. Ada berita terbaru pasal cara nak submit App untuk ChatGPT kat OpenAI Platform nanti.\n\nNanti, orang yang buat apps tu kena isi maklumat App, detail MCP, senario ujian, tangkapan skrin, dan nota keluaran sebelum boleh publish App diorang kat direktori App yang akan datang.",
+            "date": "2025-12-03T22:50:23+00:00",
+            "message_id": 6367,
+            "message_key": "@testingcatalog:6367"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early look at upcoming App submission flow for ChatGPT**](https://www.testingcatalog.com/early-look-at-new-app-submition-flow-for-chatgpt-apps/)\n\nOpenAI is moving toward a structured app directory for ChatGPT, introducing a five-step submission process with compliance checks and manual reviews, aiming to create a more regulated developer ecosystem ahead of a public launch.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "**Intip Awal Proses Penghantaran App Akan Datang untuk ChatGPT** (SUMBER: 0)\n\nOpenAI tengah menuju ke arah direktori app yang lebih tersusun untuk ChatGPT. Diorang perkenalkan proses penghantaran lima langkah, siap dengan pemeriksaan pematuhan dan semakan manual. Tujuan dia nak wujudkan ekosistem pembangun yang lebih terkawal sebelum pelancaran umum.\n\n\ud83d\uddde #chatgpt\n\nSUMBER: 0 [https://www.testingcatalog.com/early-look-at-new-app-submition-flow-for-chatgpt-apps/](https://www.testingcatalog.com/early-look-at-new-app-submition-flow-for-chatgpt-apps/)",
+            "date": "2025-12-03T22:49:04+00:00",
+            "message_id": 6366,
+            "message_key": "@testingcatalog:6366"
         }
     ]
 }
