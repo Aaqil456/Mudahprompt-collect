@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-04T17:56:24.884008",
+    "timestamp": "2025-12-04T18:40:05.529635",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1106,6 +1106,26 @@
             "date": "2025-12-04T17:40:16+00:00",
             "message_id": 6373,
             "message_key": "@testingcatalog:6373"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-04T18:07:26+00:00",
+            "message_id": 6375,
+            "message_key": "@testingcatalog:6375"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NotebookLM app for iOS will soon get capabilities to generate Infographics and Slide Decks. \n\n* Gradually rolling out",
+            "translated_text": "Okay, dengar sini. Aplikasi NotebookLM untuk iOS tak lama lagi akan ada fungsi baru: boleh buat Infografik dan Slide Decks.\n\n* Diorang tengah lancarkan fungsi ni sikit-sikit.",
+            "date": "2025-12-04T18:07:26+00:00",
+            "message_id": 6374,
+            "message_key": "@testingcatalog:6374"
         }
     ]
 }
