@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-04T20:29:59.106735",
+    "timestamp": "2025-12-04T22:43:34.527341",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1156,6 +1156,26 @@
             "date": "2025-12-04T20:01:24+00:00",
             "message_id": 6378,
             "message_key": "@testingcatalog:6378"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-04T22:23:16+00:00",
+            "message_id": 6380,
+            "message_key": "@testingcatalog:6380"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NotebookLM chat customisation feature got a huge boost with an expanded character limit from 500 to 10k. Users now can utilise much more detailed prompts.",
+            "translated_text": "Okay, gini cerita dia. NotebookLM punya ciri sembang dah upgrade gila-gila! Had aksara dia dah naik dari 500 ke 10,000. Sekarang, pengguna boleh guna arahan yang lagi detail.",
+            "date": "2025-12-04T22:23:16+00:00",
+            "message_id": 6379,
+            "message_key": "@testingcatalog:6379"
         }
     ]
 }
