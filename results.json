@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-05T09:32:25.054242",
+    "timestamp": "2025-12-05T14:48:13.339249",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1186,6 +1186,16 @@
             "date": "2025-12-05T09:11:52+00:00",
             "message_id": 6381,
             "message_key": "@testingcatalog:6381"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**NotebookLM to get new model selector with Gemini 3 Pro**](https://www.testingcatalog.com/notebooklm-to-get-new-model-selector-with-gemini-3-pro/)\n\nNotebookLM introduces a model selector for switching between AI models, raises custom instruction limits to 10,000 characters, and begins rolling out features like infographic and slide deck generation on iOS to support complex content creation.\n\n\ud83d\uddde #notebooklm",
+            "translated_text": "**NotebookLM Akan Dapat Pemilih Model Baru dengan Gemini 3 Pro** (SUMBER: 0)\n\nNotebookLM memperkenalkan pemilih model untuk bertukar antara model AI, menaikkan had arahan tersuai kepada 10,000 aksara, dan mula melancarkan ciri seperti penjanaan infografik dan slaid dek pada iOS untuk menyokong penciptaan kandungan yang kompleks.\n\n\ud83d\uddde #notebooklm",
+            "date": "2025-12-05T14:46:00+00:00",
+            "message_id": 6382,
+            "message_key": "@testingcatalog:6382"
         }
     ]
 }
