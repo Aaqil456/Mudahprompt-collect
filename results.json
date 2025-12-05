@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-05T17:45:41.969163",
+    "timestamp": "2025-12-05T20:47:06.764397",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1296,6 +1296,26 @@
             "date": "2025-12-05T17:36:06+00:00",
             "message_id": 6391,
             "message_key": "@testingcatalog:6391"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-05T20:36:07+00:00",
+            "message_id": 6394,
+            "message_key": "@testingcatalog:6394"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Slide Decks and Infographics are now available on NotebookLM for mobile. \n\nNow you can generate your content on the go from anywhere.",
+            "translated_text": "Slide Deck dan Infografik dah ada kat NotebookLM untuk telefon bimbit sekarang.\n\nSekarang ni, kau boleh hasilkan kandungan kau kat mana-mana je.",
+            "date": "2025-12-05T20:36:07+00:00",
+            "message_id": 6393,
+            "message_key": "@testingcatalog:6393"
         }
     ]
 }
