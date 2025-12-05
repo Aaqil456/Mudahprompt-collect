@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-05T17:28:48.741006",
+    "timestamp": "2025-12-05T17:45:41.969163",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1276,6 +1276,26 @@
             "date": "2025-12-05T17:11:47+00:00",
             "message_id": 6386,
             "message_key": "@testingcatalog:6386"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-05T17:36:06+00:00",
+            "message_id": 6392,
+            "message_key": "@testingcatalog:6392"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mico character is now available to Microsoft Copilot users in UK and Canada.",
+            "translated_text": "Watak Mico dah boleh guna untuk pengguna Microsoft Copilot kat UK dan Kanada.",
+            "date": "2025-12-05T17:36:06+00:00",
+            "message_id": 6391,
+            "message_key": "@testingcatalog:6391"
         }
     ]
 }
