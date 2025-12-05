@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-05T21:24:45.807641",
+    "timestamp": "2025-12-05T21:54:51.045278",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1336,6 +1336,26 @@
             "date": "2025-12-05T21:14:22+00:00",
             "message_id": 6395,
             "message_key": "@testingcatalog:6395"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-05T21:53:44+00:00",
+            "message_id": 6398,
+            "message_key": "@testingcatalog:6398"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Meta acquired\u00a0AI-wearables startup Limitless!\n\nPersonal AI assistants will be everywhere in several years. Meta is probably the only company that can quickly bring them to a big market with their smart glasses.",
+            "translated_text": "Berita penting \ud83d\udea8: Meta dah beli startup AI boleh pakai, Limitless!\n\nPembantu AI peribadi akan ada di mana-mana dalam beberapa tahun lagi. Meta mungkin satu-satunya syarikat yang boleh bawa benda ni ke pasaran besar dengan cepat, guna cermin mata pintar diorang.",
+            "date": "2025-12-05T21:53:44+00:00",
+            "message_id": 6397,
+            "message_key": "@testingcatalog:6397"
         }
     ]
 }
