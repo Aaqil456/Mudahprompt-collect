@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T21:23:45.608122",
+    "timestamp": "2025-12-06T21:41:02.543089",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1386,6 +1386,16 @@
             "date": "2025-12-06T21:14:51+00:00",
             "message_id": 6401,
             "message_key": "@testingcatalog:6401"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Gemini Live with screen sharing for desktop web**](https://www.testingcatalog.com/google-prepares-gemini-live-with-screen-sharing-for-desktop-web/)\n\nGoogle is preparing to bring Gemini Live to desktop, expanding real-time voice, screen, and video support beyond mobile. The move aligns with its cross-platform unification strategy, benefiting productivity and language-related use cases.\n\n\ud83d\uddde #gemini",
+            "translated_text": "",
+            "date": "2025-12-06T21:33:21+00:00",
+            "message_id": 6402,
+            "message_key": "@testingcatalog:6402"
         }
     ]
 }
