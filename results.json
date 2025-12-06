@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T09:41:51.235747",
+    "timestamp": "2025-12-06T21:23:45.608122",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1376,6 +1376,16 @@
             "date": "2025-12-06T09:39:24+00:00",
             "message_id": 6399,
             "message_key": "@testingcatalog:6399"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft prepares GPT-5.1, Reminders and Projects for Copilot**](https://www.testingcatalog.com/microsoft-prepares-gpt-5-1-reminders-and-projects-for-copilot/)\n\nMicrosoft is upgrading Copilot with GPT-5.1, making Smart mode the default for complex queries. New features like 3D model remixing, Reminders, and Projects aim to position Copilot as a fuller productivity tool.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "",
+            "date": "2025-12-06T21:14:51+00:00",
+            "message_id": 6401,
+            "message_key": "@testingcatalog:6401"
         }
     ]
 }
