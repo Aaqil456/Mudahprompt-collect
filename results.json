@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-10T20:29:04.037546",
+    "timestamp": "2025-12-10T21:24:31.197133",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1486,6 +1486,16 @@
             "date": "2025-12-10T12:14:01+00:00",
             "message_id": 6448,
             "message_key": "@testingcatalog:6448"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor released a new Debug mode, which can analyse server logs and instrument the code in order to find a problem. \n\nWhat else? \ud83d\udc40\n- Plan Mode now supports Mermaid diagrams\n- Multi-Agent Judging\n- Pinned Chats",
+            "translated_text": "Cursor dah keluarkan Debug mode baru, yang boleh analisis log server dan instrument kod untuk cari masalah.\n\nApa lagi? \ud83d\udc40\n- Plan Mode sekarang dah sokong Mermaid diagrams\n- Multi-Agent Judging\n- Pinned Chats",
+            "date": "2025-12-10T21:17:07+00:00",
+            "message_id": 6453,
+            "message_key": "@testingcatalog:6453"
         }
     ]
 }
