@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-08T13:42:09.766883",
+    "timestamp": "2025-12-10T20:29:04.037546",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1436,6 +1436,56 @@
             "date": "2025-12-08T13:00:39+00:00",
             "message_id": 6406,
             "message_key": "@testingcatalog:6406"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google released Scheduled Tasks and Suggestions in Beta on Jules SWE Agent, where it can proactively propose improvements to your repository. \n\nThe whole UI got redesigned as well \ud83e\udd29",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google dah keluarkan Tugasan Berjadual dan Cadangan dalam versi Beta pada Jules SWE Agent. Dengan ini, ia boleh secara proaktif cadangkan penambahbaikan untuk repositori anda.\n\nSeluruh UI pun dah direka semula juga \ud83e\udd29",
+            "date": "2025-12-10T20:23:55+00:00",
+            "message_id": 6452,
+            "message_key": "@testingcatalog:6452"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT users are now able to use Adobe Photoshop, Express, and Acrobat for free.\n\nChatGPT Apps are expanding \ud83d\udc40",
+            "translated_text": "Pengguna ChatGPT kini boleh guna Adobe Photoshop, Express, dan Acrobat secara percuma.\n\nAplikasi ChatGPT semakin berkembang \ud83d\udc40",
+            "date": "2025-12-10T16:56:18+00:00",
+            "message_id": 6451,
+            "message_key": "@testingcatalog:6451"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on a TODOs support for its Comet browser! It will be a small feature, but with huge potential if Perplexity Assistant can create, manage and execute these tasks. \n\n* Not available to the users yet \ud83d\udc40",
+            "translated_text": "Perplexity sedang usahakan sokongan TODOs untuk pelayar Comet mereka! Ia akan jadi ciri kecil, tapi dengan potensi besar kalau Perplexity Assistant boleh cipta, urus, dan laksanakan tugasan-tugasan ni.\n\n* Belum tersedia untuk pengguna lagi \ud83d\udc40",
+            "date": "2025-12-10T16:47:14+00:00",
+            "message_id": 6450,
+            "message_key": "@testingcatalog:6450"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches fully managed MCP servers for AI agents**](https://www.testingcatalog.com/google-launches-fully-managed-mcp-servers-for-ai-agents/)\n\nGoogle launched fully managed MCP servers across its platforms, offering a consistent API layer for AI agents to access services like Maps, BigQuery, Compute Engine, and GKE. The system supports enterprise-grade agent operations globally.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Google melancarkan pelayan MCP yang dikelola sepenuhnya untuk ejen AI**](https://www.testingcatalog.com/google-launches-fully-managed-mcp-servers-for-ai-agents/)\n\nGoogle telah melancarkan pelayan MCP yang dikelola sepenuhnya di semua platformnya, menawarkan lapisan API yang konsisten untuk ejen AI mengakses perkhidmatan seperti Maps, BigQuery, Compute Engine, dan GKE. Sistem ini menyokong operasi ejen bertaraf perusahaan di seluruh dunia.\n\n\ud83d\uddde #ai",
+            "date": "2025-12-10T15:10:50+00:00",
+            "message_id": 6449,
+            "message_key": "@testingcatalog:6449"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity published a study about the use of AI Agents. Less of a surprise but most people are willing to get a productivity boost. \n\nAI covers a huge range of topics! \ud83d\udc40",
+            "translated_text": "Perplexity mengeluarkan satu kajian tentang penggunaan Ejen AI. Taklah mengejutkan sangat, tapi kebanyakan orang memang nak tingkatkan produktiviti mereka.\n\nAI ni memang meliputi pelbagai topik! \ud83d\udc40",
+            "date": "2025-12-10T12:14:01+00:00",
+            "message_id": 6448,
+            "message_key": "@testingcatalog:6448"
         }
     ]
 }
