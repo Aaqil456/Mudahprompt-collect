@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-10T21:24:31.197133",
+    "timestamp": "2025-12-10T22:23:31.894062",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1496,6 +1496,56 @@
             "date": "2025-12-10T21:17:07+00:00",
             "message_id": 6453,
             "message_key": "@testingcatalog:6453"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-10T22:20:44+00:00",
+            "message_id": 6458,
+            "message_key": "@testingcatalog:6458"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI hints at \u201cgarlic\u201d, a rumoured codename of their upcoming model. \n\nGPT-5.2 is expected tomorrow \ud83d\udc40",
+            "translated_text": "TERKINI \ud83d\udea8: OpenAI bagi bayangan pasal \u201cgarlic\u201d, nama kod yang digosipkan untuk model terbaru diorang.\n\nGPT-5.2 dijangka keluar esok \ud83d\udc40",
+            "date": "2025-12-10T22:20:44+00:00",
+            "message_id": 6457,
+            "message_key": "@testingcatalog:6457"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google updated Gemini 2.5 Flash and Pro Text-to-Speech (TTS) models with new capabilities.  \n\n- Emotional style and tone versatility \n- Context-aware pacing control \n- Improved multiple-speaker capabilities \n\nBoth models replaced older versions in AI Studio",
+            "translated_text": "Google dah kemas kini model Gemini 2.5 Flash dan Pro Text-to-Speech (TTS) dengan keupayaan baru.\n\n- Kepelbagaian gaya dan nada emosi\n- Kawalan rentak yang peka konteks\n- Keupayaan berbilang suara yang lebih baik\n\nKedua-dua model ni dah ganti versi lama dalam AI Studio.",
+            "date": "2025-12-10T22:10:43+00:00",
+            "message_id": 6456,
+            "message_key": "@testingcatalog:6456"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Yutory released Scouts, a team of AI agents that can monitor information on web resources for you. \n\nFor example, it can scout for the latest AI news from TestingCatalog and notify you as soon as a new post comes out. \n\nOr any other website \ud83d\udc40",
+            "translated_text": "Yutory dah keluarkan Scouts, satu pasukan ejen AI yang boleh pantau maklumat dari pelbagai sumber web untuk awak. Contohnya, ia boleh cari berita AI terkini dari TestingCatalog dan terus maklumkan pada awak bila ada post baru je keluar. Atau mana-mana laman web lain \ud83d\udc40",
+            "date": "2025-12-10T21:50:17+00:00",
+            "message_id": 6455,
+            "message_key": "@testingcatalog:6455"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google upgraded Stitch design Agent with Gemini 3 Pro, which is the new default mode now. \n\nTesting time \ud83d\udc40",
+            "translated_text": "Google dah naik taraf Stitch design Agent dengan Gemini 3 Pro, dan ini dah jadi mod lalai utama sekarang. Jom test \ud83d\udc40",
+            "date": "2025-12-10T21:24:32+00:00",
+            "message_id": 6454,
+            "message_key": "@testingcatalog:6454"
         }
     ]
 }
