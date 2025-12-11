@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-10T22:23:31.894062",
+    "timestamp": "2025-12-11T01:52:30.479817",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1546,6 +1546,56 @@
             "date": "2025-12-10T21:24:32+00:00",
             "message_id": 6454,
             "message_key": "@testingcatalog:6454"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google Labs introduced a new \"Animate\" feature for Pomelli marketing Agent, powered by Veo 3.1 \ud83d\udd25",
+            "translated_text": "Google Labs dah perkenalkan satu ciri baharu 'Animate' untuk Pomelli marketing Agent, yang dikuasakan oleh Veo 3.1 \ud83d\udd25",
+            "date": "2025-12-11T00:09:43+00:00",
+            "message_id": 6463,
+            "message_key": "@testingcatalog:6463"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google expands Gemini TTS with 24 languages, lifelike voices**](https://www.testingcatalog.com/google-expands-gemini-tts-with-24-languages-lifelike-voices/)\n\nGoogle's updated Gemini 2.5 Flash and Pro TTS models offer global developers refined vocal synthesis with improved tone control, multilingual support, and context-aware adjustments for use in complex audio applications via the Gemini API.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google Luaskan Gemini TTS Dengan 24 Bahasa, Suara Lebih Realistik**](https://www.testingcatalog.com/google-expands-gemini-tts-with-24-languages-lifelike-voices/)\n\nModel Gemini 2.5 Flash dan Pro TTS Google yang baru dikemaskini ni, sekarang dah boleh tawarkan kepada pembangun di seluruh dunia penghasilan suara yang lebih baik. Ia datang dengan kawalan nada yang dipertingkat, sokongan pelbagai bahasa, dan pelarasan yang peka konteks untuk digunakan dalam aplikasi audio yang rumit melalui Gemini API.\n\n\ud83d\uddde #aistudio",
+            "date": "2025-12-11T00:01:27+00:00",
+            "message_id": 6462,
+            "message_key": "@testingcatalog:6462"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor receives 2.2 update with new Debug Mode and more**](https://www.testingcatalog.com/cursor-receives-2-2-update-with-new-debug-mode-and-more/)\n\nCursor 2.2 introduces Debug Mode that automates the bug-fixing loop using runtime logs and user validation. Updates also bring Mermaid diagrams in Plan Mode, multi-agent judging for task review, and pinned chats for quick access to key threads.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor dikemas kini ke versi 2.2 dengan Mod Nyahpepijat baharu dan banyak lagi**](https://www.testingcatalog.com/cursor-receives-2-2-update-with-new-debug-mode-and-more/)\n\nCursor 2.2 memperkenalkan Mod Nyahpepijat yang mengautomasikan proses pembetulan pepijat menggunakan log masa jalanan dan pengesahan pengguna. Pembaharuan ini turut disertakan dengan gambar rajah Mermaid dalam Mod Perancangan, penilaian berbilang ejen untuk semakan tugasan, dan sembang yang disematkan untuk akses pantas kepada perbincangan penting.\n\n\ud83d\uddde #cursor",
+            "date": "2025-12-10T23:56:57+00:00",
+            "message_id": 6461,
+            "message_key": "@testingcatalog:6461"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI will add a capability to trim draft videos before posting. Also, a new \"actions\" menu will be added to the right side menu.",
+            "translated_text": "OpenAI akan ada fungsi baru untuk potong video draf sebelum kita post. Selain tu, satu menu \"actions\" baru akan ditambah dekat menu sebelah kanan.",
+            "date": "2025-12-10T23:54:02+00:00",
+            "message_id": 6460,
+            "message_key": "@testingcatalog:6460"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sora got 2 new styles, \"Festive\" and \"Retro\" \ud83d\udc40\n\nBtw, have you checked TestingCatalog there already?",
+            "translated_text": "Sora ada 2 gaya baru, \"Festive\" dan \"Retro\" \ud83d\udc40\n\nOh ya, dah check TestingCatalog kat sana ke?",
+            "date": "2025-12-10T23:48:16+00:00",
+            "message_id": 6459,
+            "message_key": "@testingcatalog:6459"
         }
     ]
 }
