@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-11T16:34:55.799081",
+    "timestamp": "2025-12-11T17:28:09.837284",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1686,6 +1686,26 @@
             "date": "2025-12-11T16:11:33+00:00",
             "message_id": 6469,
             "message_key": "@testingcatalog:6469"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google released Gemini Deep Research Agent on API, based on Gemini 3 Pro as a core!\n\nGemini Deep Research achieves state-of-the-art 46.4% on the full Humanity\u2019s Last Exam (HLE) set, 66.1% on DeepSearchQA and a high 59.2% on BrowseComp",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google dah lancarkan Gemini Deep Research Agent pada API, dengan teras utamanya Gemini 3 Pro!\n\nGemini Deep Research ni berjaya capai prestasi cemerlang, dengan 46.4% pada set penuh Humanity\u2019s Last Exam (HLE), 66.1% pada DeepSearchQA, dan 59.2% yang tinggi pada BrowseComp.",
+            "date": "2025-12-11T17:16:15+00:00",
+            "message_id": 6477,
+            "message_key": "@testingcatalog:6477"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor released the Visual Editor for Cursor Browser, where you can drag and drop DOM elements around to fine-tune the way how it looks!\n\nCursor Browser can TEST your stuff as well! \ud83d\udc40",
+            "translated_text": "Cursor dah keluarkan Visual Editor untuk Cursor Browser, kat mana anda boleh seret dan lepas elemen DOM untuk sesuaikan rupa dia!\n\nCursor Browser pun boleh UJI kerja-kerja anda jugak! \ud83d\udc40",
+            "date": "2025-12-11T17:04:19+00:00",
+            "message_id": 6476,
+            "message_key": "@testingcatalog:6476"
         }
     ]
 }
