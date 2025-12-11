@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-11T14:24:42.152806",
+    "timestamp": "2025-12-11T15:29:52.012646",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1616,6 +1616,26 @@
             "date": "2025-12-11T14:13:13+00:00",
             "message_id": 6464,
             "message_key": "@testingcatalog:6464"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests new Gemini 3 models on LM Arena**](https://www.testingcatalog.com/google-tests-new-gemini-3-models-on-lm-arena/)\n\nGoogle is testing Fierce Falcon and Ghost Falcon models on LM Arena, signaling a potential Gemini 3 upgrade amid rising competition with OpenAI. With Grok 4.2 expected soon, year-end rankings on LM Arena remain uncertain.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google uji model Gemini 3 baharu di LM Arena**](https://www.testingcatalog.com/google-tests-new-gemini-3-models-on-lm-arena/)\n\nGoogle sedang menguji model Fierce Falcon dan Ghost Falcon di LM Arena, memberi isyarat peningkatan Gemini 3 yang berpotensi di tengah-tengah persaingan sengit dengan OpenAI. Memandangkan Grok 4.2 dijangka tiba tidak lama lagi, kedudukan akhir tahun di LM Arena masih tidak menentu.\n\n\ud83d\uddde #gemini",
+            "date": "2025-12-11T15:22:00+00:00",
+            "message_id": 6467,
+            "message_key": "@testingcatalog:6467"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is partnering with Disney and bringing Disney's characters to Sora! Seems like Sora will be the next big social app.  \n\nCheck TestingCatalog on Sora too \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI bekerjasama dengan Disney dan akan membawa watak-watak Disney ke Sora! Nampaknya Sora akan jadi aplikasi sosial besar yang seterusnya.\n\nJenguk TestingCatalog di Sora juga ya \ud83d\udc40",
+            "date": "2025-12-11T14:30:03+00:00",
+            "message_id": 6466,
+            "message_key": "@testingcatalog:6466"
         }
     ]
 }
