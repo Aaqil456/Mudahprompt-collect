@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-11T18:36:49.699944",
+    "timestamp": "2025-12-11T19:25:16.020404",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1736,6 +1736,46 @@
             "date": "2025-12-11T18:09:15+00:00",
             "message_id": 6478,
             "message_key": "@testingcatalog:6478"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-11T18:55:12+00:00",
+            "message_id": 6484,
+            "message_key": "@testingcatalog:6484"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GPT-5.2 lands second on Web dev arena, following Claude Opus 4.5. \n\nThis whole landscape completely changed during the last several weeks!",
+            "translated_text": "",
+            "date": "2025-12-11T18:55:11+00:00",
+            "message_id": 6483,
+            "message_key": "@testingcatalog:6483"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GPT-5.2 is now available on Notion! Olive oil cake revealed \ud83d\udd25",
+            "translated_text": "",
+            "date": "2025-12-11T18:51:09+00:00",
+            "message_id": 6482,
+            "message_key": "@testingcatalog:6482"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GPT-5.2 is now available on Perplexity for Pro and Max users in both reasoning and non-reasoning versions.",
+            "translated_text": "",
+            "date": "2025-12-11T18:44:31+00:00",
+            "message_id": 6481,
+            "message_key": "@testingcatalog:6481"
         }
     ]
 }
