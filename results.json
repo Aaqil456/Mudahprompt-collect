@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-11T23:23:25.686619",
+    "timestamp": "2025-12-12T01:51:00.497333",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1826,6 +1826,26 @@
             "date": "2025-12-11T22:24:36+00:00",
             "message_id": 6488,
             "message_key": "@testingcatalog:6488"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor launches visual editor for web app development in browser**](https://www.testingcatalog.com/cursor-launches-visual-editor-for-web-app-development-in-browser/)\n\nCursor has launched a visual editor in Cursor Browser for web developers and product teams, focusing on React workflows. It unifies UI editing, code updates, and layout tools in one environment, aiming to speed up prototyping and reduce context switching.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor melancarkan editor visual untuk pembangunan aplikasi web dalam pelayar**](https://www.testingcatalog.com/cursor-launches-visual-editor-for-web-app-development-in-browser/)\n\nCursor dah lancarkan satu editor visual dalam Cursor Browser untuk pembangun web dan pasukan produk, fokus pada aliran kerja React. Ia gabungkan penyuntingan UI, kemas kini kod, dan alatan susun atur dalam satu persekitaran, untuk lajukan prototaip dan kurangkan pertukaran konteks.\n\n\ud83d\uddde #cursor",
+            "date": "2025-12-12T00:43:59+00:00",
+            "message_id": 6491,
+            "message_key": "@testingcatalog:6491"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google makes NotebookLM Ultra! Ultra subscribers will get even higher usage limits, up to 600 sources cap, as well as some extra features!",
+            "translated_text": "Google dah keluarkan NotebookLM Ultra! Pelanggan Ultra akan dapat had penggunaan yang lebih tinggi lagi, sehingga 600 sumber, serta beberapa ciri tambahan!",
+            "date": "2025-12-11T23:25:57+00:00",
+            "message_id": 6490,
+            "message_key": "@testingcatalog:6490"
         }
     ]
 }
