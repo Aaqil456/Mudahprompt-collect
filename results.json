@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-12T01:51:00.497333",
+    "timestamp": "2025-12-12T07:26:23.294492",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1846,6 +1846,26 @@
             "date": "2025-12-11T23:25:57+00:00",
             "message_id": 6490,
             "message_key": "@testingcatalog:6490"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.2 that scores 54% on ARC-AGI-2**](https://www.testingcatalog.com/openai-launches-gpt-5-2-that-scores-54-on-arc-agi-2/)\n\nOpenAI launched GPT-5.2 with models optimized for professional use, now available via ChatGPT paid plans and API. It offers stronger reasoning, coding, and tool use with updated safeguards and support for long-context workflows.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI Lancarkan GPT-5.2 yang Mencatat Skor 54% dalam ARC-AGI-2**](https://www.testingcatalog.com/openai-launches-gpt-5-2-that-scores-54-on-arc-agi-2/)\n\nOpenAI dah lancarkan GPT-5.2 dengan model yang dioptimumkan untuk kegunaan profesional, dan sekarang boleh didapati melalui pelan berbayar ChatGPT serta API. Ia menawarkan keupayaan penaakulan, pengekodan, dan penggunaan alatan yang lebih mantap, dilengkapi dengan perlindungan yang dikemas kini dan sokongan untuk aliran kerja konteks panjang.\n\n\ud83d\uddde #chatgpt",
+            "date": "2025-12-12T07:05:07+00:00",
+            "message_id": 6493,
+            "message_key": "@testingcatalog:6493"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google releases Gemini Deep Research agent on APIs**](https://www.testingcatalog.com/google-releases-gemini-deep-research-agent-on-apis/)\n\nGoogle has launched Gemini Deep Research via the Interactions API, giving developers access to Gemini 3 Pro for autonomous, multi-step research with structured outputs, factual sourcing, and application across data-heavy industries.\n\n\ud83d\uddde #gemini",
+            "translated_text": "",
+            "date": "2025-12-12T07:01:38+00:00",
+            "message_id": 6492,
+            "message_key": "@testingcatalog:6492"
         }
     ]
 }
