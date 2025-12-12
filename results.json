@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-12T17:22:07.381769",
+    "timestamp": "2025-12-12T18:35:46.924057",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1936,6 +1936,26 @@
             "date": "2025-12-12T17:12:15+00:00",
             "message_id": 333,
             "message_key": "@AItoolboxdaily:333"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google updated Gemini 2.5 Flash Native Audio model with 21% improvement over previous version at overall conversational quality. \n\nGemini Live everywhere soon? \ud83d\udc40",
+            "translated_text": "Google dah kemas kini model Gemini 2.5 Flash Native Audio dia, dengan peningkatan 21% berbanding versi sebelum ni dari segi kualiti perbualan secara keseluruhan.\n\nGemini Live dah boleh guna kat mana-mana tak lama lagi ke? \ud83d\udc40",
+            "date": "2025-12-12T18:16:34+00:00",
+            "message_id": 6497,
+            "message_key": "@testingcatalog:6497"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "oops. link is updated",
+            "translated_text": "Alamak. Link dah dikemaskini.",
+            "date": "2025-12-12T18:11:51+00:00",
+            "message_id": 334,
+            "message_key": "@AItoolboxdaily:334"
         }
     ]
 }
