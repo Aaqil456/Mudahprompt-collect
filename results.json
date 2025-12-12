@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-12T15:26:05.026236",
+    "timestamp": "2025-12-12T17:22:07.381769",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1916,6 +1916,26 @@
             "date": "2025-12-12T14:24:21+00:00",
             "message_id": 6494,
             "message_key": "@testingcatalog:6494"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is preparing a new \u201cThink Back 2025\u201d experience to wrap your interactions with Claude during the year.",
+            "translated_text": "Anthropic sedang menyediakan pengalaman baru \u201cThink Back 2025\u201d untuk merangkum interaksi anda dengan Claude sepanjang tahun ini.",
+            "date": "2025-12-12T17:14:13+00:00",
+            "message_id": 6496,
+            "message_key": "@testingcatalog:6496"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83c\udfaf **OpenAI targets AI skills gap with new certification standards**\n\nAdoption of generative AI has outpaced workforce capability, prompting OpenAI to target the skills gap with new certification standards.\n\nWhile it\u2019s safe to say OpenAI\u2019s tools have reached mass adoption, organisations struggle to convert this usage into reliable output. \n\nTo address this, OpenAI has announced \u2018AI Foundations,\u2019 a structured initiative designed to standardise how employees learn and apply the technology.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83c\udfaf **OpenAI sasar jurang kemahiran AI dengan standard pensijilan baharu**\n\nPenggunaan AI generatif telah mengatasi keupayaan tenaga kerja, mendorong OpenAI untuk menyasarkan jurang kemahiran ini dengan standard pensijilan baharu.\n\nWalaupun boleh dikatakan alat-alat OpenAI telah mencapai penggunaan meluas, organisasi bergelut untuk menukar penggunaan ini kepada hasil yang boleh dipercayai.\n\nUntuk menangani isu ini, OpenAI telah mengumumkan \u2018AI Foundations,\u2019 satu inisiatif berstruktur yang direka untuk menyeragamkan cara pekerja belajar dan mengaplikasikan teknologi ini.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2025-12-12T17:12:15+00:00",
+            "message_id": 333,
+            "message_key": "@AItoolboxdaily:333"
         }
     ]
 }
