@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-12T12:50:29.019415",
+    "timestamp": "2025-12-12T15:26:05.026236",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1896,6 +1896,26 @@
             "date": "2025-12-09T18:16:48+00:00",
             "message_id": 328,
             "message_key": "@AItoolboxdaily:328"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI expanded ChatGPT Go to LATAM countries where ChatGPT Go serves as a more affordable subscription that offers broader access to new models and features.",
+            "translated_text": "OpenAI meluaskan ChatGPT Go ke negara-negara LATAM, di mana ChatGPT Go berfungsi sebagai langganan yang lebih berpatutan yang menawarkan akses lebih luas kepada model dan ciri baharu.",
+            "date": "2025-12-12T14:28:41+00:00",
+            "message_id": 6495,
+            "message_key": "@testingcatalog:6495"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**World App adds encrypted chat, group payments, and virtual accounts**](https://www.testingcatalog.com/world-app-adds-encrypted-chat-group-payments-and-virtual-accounts/)\n\nWorld App introduces World Chat, a secure in-app messaging platform with encrypted text, media, and no-fee global payments. Verified users are marked with blue bubbles, and new Mini Apps allow tools like games and savings inside chats.\n\n\ud83d\uddde #worldcoin",
+            "translated_text": "[**World App kini ada sembang disulitkan, pembayaran berkumpulan, dan akaun maya**](https://www.testingcatalog.com/world-app-adds-encrypted-chat-group-payments-and-virtual-accounts/)\n\nWorld App memperkenalkan World Chat, sebuah platform mesej dalam aplikasi yang selamat dengan teks, media disulitkan, dan pembayaran global tanpa yuran. Pengguna yang disahkan ditandakan dengan gelembung biru, dan Mini Apps baharu membolehkan alatan seperti permainan dan simpanan dalam sembang.\n\n\ud83d\uddde #worldcoin",
+            "date": "2025-12-12T14:24:21+00:00",
+            "message_id": 6494,
+            "message_key": "@testingcatalog:6494"
         }
     ]
 }
