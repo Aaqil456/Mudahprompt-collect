@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-12T19:19:15.573773",
+    "timestamp": "2025-12-13T10:22:54.084234",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -1976,6 +1976,46 @@
             "date": "2025-12-12T19:13:40+00:00",
             "message_id": 6498,
             "message_key": "@testingcatalog:6498"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-13T09:54:48+00:00",
+            "message_id": 6503,
+            "message_key": "@testingcatalog:6503"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Gemini Live got an upgrade and won\u2019t interrupt you mid sentence that often! A mute option is rolling out in addition as well.",
+            "translated_text": "Gemini Live dah di-upgrade, jadi dia takkan selalu sangat menyampuk masa awak bercakap! Pilihan 'mute' pun akan dilancarkan juga.",
+            "date": "2025-12-13T09:54:48+00:00",
+            "message_id": 6502,
+            "message_key": "@testingcatalog:6502"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-13T09:46:04+00:00",
+            "message_id": 6501,
+            "message_key": "@testingcatalog:6501"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Gemini app now has a possibility to markup attached images to guide Gemini with precise editing instructions.",
+            "translated_text": "Aplikasi Gemini sekarang dah boleh buat tanda pada imej yang dilampirkan untuk bagi panduan kat Gemini dengan arahan suntingan yang lebih tepat.",
+            "date": "2025-12-13T09:46:04+00:00",
+            "message_id": 6500,
+            "message_key": "@testingcatalog:6500"
         }
     ]
 }
