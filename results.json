@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-14T18:31:15.377803",
+    "timestamp": "2025-12-14T21:20:04.935956",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2086,6 +2086,16 @@
             "date": "2025-12-14T18:01:19+00:00",
             "message_id": 6508,
             "message_key": "@testingcatalog:6508"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Opera launches Neon browser globally**](https://www.testingcatalog.com/icymi-opera-launches-neon-browser-globally/)\n\nOpera has launched public early access to its AI-focused browser Neon for $19.90/month, offering global availability and no waitlist. Neon targets advanced users with access to top AI models and weekly updates based on community input.\n\n\ud83d\uddde #opera",
+            "translated_text": "[**Untuk yang terlepas pandang: Opera dah lancarkan pelayar Neon secara global**](https://www.testingcatalog.com/icymi-opera-launches-neon-browser-globally/)\n\nOpera dah buka akses awal untuk umum bagi pelayar Neon mereka yang fokus pada AI, dengan harga $19.90 sebulan. Ia boleh didapati di seluruh dunia dan tak perlu tunggu giliran. Neon ni sasarkan pengguna tegar, dengan akses kepada model AI terkemuka dan kemas kini mingguan berdasarkan maklum balas komuniti.\n\n\ud83d\uddde #opera",
+            "date": "2025-12-14T21:11:02+00:00",
+            "message_id": 6509,
+            "message_key": "@testingcatalog:6509"
         }
     ]
 }
