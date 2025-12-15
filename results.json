@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-15T12:52:48.864915",
+    "timestamp": "2025-12-15T16:35:04.008863",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2106,6 +2106,36 @@
             "date": "2025-12-15T11:28:01+00:00",
             "message_id": 337,
             "message_key": "@AItoolboxdaily:337"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus released upgrades for its agent system and introduced Manus 1.6 and Manus 1.6 Max. \n\nManus 1.6 Max performs 19% better at internal benchmarks. \n\nTesting time \ud83d\udc40",
+            "translated_text": "Manus dah keluarkan kemas kini untuk sistem ejen dia, dan perkenalkan Manus 1.6 serta Manus 1.6 Max.\nManus 1.6 Max ni tunjuk prestasi 19% lebih baik dalam ujian penanda aras dalaman.\nMasa untuk uji ni \ud83d\udc40",
+            "date": "2025-12-15T16:12:12+00:00",
+            "message_id": 6512,
+            "message_key": "@testingcatalog:6512"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-15T16:03:00+00:00",
+            "message_id": 6511,
+            "message_key": "@testingcatalog:6511"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is preparing for a new open source release on huggingface \n\nAlso noticed just recently that Gemma models are not available on AI Studio anymore. \n\nWhat do you expect? \ud83d\udc40",
+            "translated_text": "Google sedang bersedia untuk keluaran sumber terbuka baru di huggingface.\n\nBaru-baru ni perasan juga yang model Gemma dah tak ada di AI Studio lagi.\n\nApa pendapat anda? \ud83d\udc40",
+            "date": "2025-12-15T16:03:00+00:00",
+            "message_id": 6510,
+            "message_key": "@testingcatalog:6510"
         }
     ]
 }
