@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-15T19:22:05.297746",
+    "timestamp": "2025-12-15T21:23:14.614838",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2156,6 +2156,46 @@
             "date": "2025-12-15T19:19:02+00:00",
             "message_id": 6514,
             "message_key": "@testingcatalog:6514"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is launching new realtime, tts and transcribe models on the OpenAI Platform. \n\n- gpt-4o-mini-tts-2025-12-15\n- gpt-4o-mini-transcribe-2025-12-15\n- gpt-realtime-mini-2025-12-15\n\nVoice mode upgrade soon? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI melancarkan model-model baru untuk realtime, tts dan transcribe di Platform OpenAI.\n\n- gpt-4o-mini-tts-2025-12-15\n- gpt-4o-mini-transcribe-2025-12-15\n- gpt-realtime-mini-2025-12-15\n\nAda upgrade mod suara tak lama lagi ke? \ud83d\udc40",
+            "date": "2025-12-15T21:19:37+00:00",
+            "message_id": 6518,
+            "message_key": "@testingcatalog:6518"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**NVIDIA launches Nemotron 3 Nano, Super and Ultra models**](https://www.testingcatalog.com/nvidia-launches-nemotron-3-nano-super-and-ultra-models/)\n\nNVIDIA introduces the Nemotron 3 model family\u2014Nano, Super, and Ultra\u2014designed for AI agent tasks using a hybrid mixture-of-experts setup. The Nano model offers high throughput and long-context processing with low resource use.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**NVIDIA melancarkan model Nemotron 3 Nano, Super dan Ultra**](https://www.testingcatalog.com/nvidia-launches-nemotron-3-nano-super-and-ultra-models/)\n\nNVIDIA memperkenalkan keluarga model Nemotron 3\u2014Nano, Super, dan Ultra\u2014yang direka untuk tugas ejen AI menggunakan persediaan campuran pakar (mixture-of-experts) hibrid. Model Nano menawarkan daya pemprosesan tinggi (high throughput) dan pemprosesan konteks panjang (long-context processing) dengan penggunaan sumber yang rendah.\n\n\ud83d\uddde #ai",
+            "date": "2025-12-15T21:02:37+00:00",
+            "message_id": 6517,
+            "message_key": "@testingcatalog:6517"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus launches Max agent with new mobile and design tools**](https://www.testingcatalog.com/manus-launches-max-agent-with-new-mobile-and-design-tools/)\n\nManus 1.6 introduces the Max agent, mobile development, and Design View, offering advanced AI-driven solutions for tasks like financial modeling, app creation, and research. It's available now with reduced credit costs for early users.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus melancarkan ejen Max dengan alatan mudah alih dan reka bentuk baharu**](https://www.testingcatalog.com/manus-launches-max-agent-with-new-mobile-and-design-tools/)\n\nManus 1.6 memperkenalkan ejen Max, pembangunan mudah alih, dan Design View, menawarkan penyelesaian canggih berkuasa AI untuk tugasan seperti pemodelan kewangan, penciptaan aplikasi, dan penyelidikan. Ia kini boleh didapati dengan kos kredit yang dikurangkan untuk pengguna awal.\n\n\ud83d\uddde #manus",
+            "date": "2025-12-15T20:48:26+00:00",
+            "message_id": 6516,
+            "message_key": "@testingcatalog:6516"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google expands Gemini with NotebookLM integration**](https://www.testingcatalog.com/google-expands-gemini-with-notebooklm-integration/)\n\nGoogle is rolling out NotebookLM integration within Gemini, allowing users to link notebooks as live data sources in conversations. The feature supports multiple attachments and is gradually expanding to both free and paid accounts.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google kembangkan Gemini dengan integrasi NotebookLM**](https://www.testingcatalog.com/google-expands-gemini-with-notebooklm-integration/)\n\nGoogle sedang melancarkan integrasi NotebookLM dalam Gemini, membolehkan pengguna pautkan buku nota sebagai sumber data langsung dalam perbualan. Ciri ini menyokong pelbagai lampiran dan sedang diperluaskan secara berperingkat kepada akaun percuma dan berbayar.\n\n\ud83d\uddde #gemini",
+            "date": "2025-12-15T20:40:29+00:00",
+            "message_id": 6515,
+            "message_key": "@testingcatalog:6515"
         }
     ]
 }
