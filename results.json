@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-16T20:27:55.195873",
+    "timestamp": "2025-12-16T21:23:49.608805",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2366,6 +2366,26 @@
             "date": "2025-12-16T19:23:33+00:00",
             "message_id": 6534,
             "message_key": "@testingcatalog:6534"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI released GPT Image 1.5 on ChatGPT and APIs**](https://www.testingcatalog.com/openai-released-gpt-image-1-5-on-chatgpt-and-apis/)\n\nOpenAI's new image model in ChatGPT allows users to generate, refine, and edit visuals within chat, supporting prompt accuracy, text integration, and image understanding. It is faster, more precise, and accessible via web, mobile, and API.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI dah lancarkan GPT Image 1.5 di ChatGPT dan API!**](https://www.testingcatalog.com/openai-released-gpt-image-1-5-on-chatgpt-and-apis/)\n\nModel imej baharu OpenAI dalam ChatGPT membolehkan pengguna menjana, memperhalusi, dan menyunting gambar dalam chat, menyokong ketepatan arahan (prompt), integrasi teks, dan pemahaman imej. Ia lebih pantas, lebih tepat, dan boleh diakses melalui web, mudah alih, dan API.\n\n\ud83d\uddde #chatgpt",
+            "date": "2025-12-16T20:54:50+00:00",
+            "message_id": 6536,
+            "message_key": "@testingcatalog:6536"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches SAM Audio for sound separation on playground**](https://www.testingcatalog.com/meta-launches-sam-audio-for-sound-separation-on-playground/)\n\nMeta released SAM Audio, an AI model that segments complex audio using text, visual, or time-based prompts. Available via Segment Anything Playground, it supports precise audio editing for creators, editors, and researchers globally.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta lancarkan SAM Audio untuk asingkan bunyi di platform 'playground'**](https://www.testingcatalog.com/meta-launches-sam-audio-for-sound-separation-on-playground/)\n\nMeta telah melancarkan SAM Audio, sebuah model AI yang boleh asingkan audio kompleks menggunakan arahan berasaskan teks, visual, atau masa. Boleh didapati melalui Segment Anything Playground, ia menyokong penyuntingan audio yang tepat untuk pencipta kandungan, penyunting, dan penyelidik di seluruh dunia.\n\n\ud83d\uddde #meta",
+            "date": "2025-12-16T20:28:46+00:00",
+            "message_id": 6535,
+            "message_key": "@testingcatalog:6535"
         }
     ]
 }
