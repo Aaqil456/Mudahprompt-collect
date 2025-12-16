@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-16T15:28:16.020336",
+    "timestamp": "2025-12-16T16:33:25.610353",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2296,6 +2296,36 @@
             "date": "2025-12-16T14:40:00+00:00",
             "message_id": 6526,
             "message_key": "@testingcatalog:6526"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: It looks like the Image 2 model rollout has started already for ChatGPT. \n\nIt would also come along with a new UI for the Image tab with h style selector and a prompt bar. \n\nDid you get it too? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Nampaknya model Image 2 untuk ChatGPT dah mula dilancarkan.\n\nIa juga akan datang dengan UI baru untuk tab Image, lengkap dengan h style selector dan prompt bar.\n\nAwak pun dah dapat juga ke? \ud83d\udc40",
+            "date": "2025-12-16T16:25:55+00:00",
+            "message_id": 6530,
+            "message_key": "@testingcatalog:6530"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-16T16:08:20+00:00",
+            "message_id": 6529,
+            "message_key": "@testingcatalog:6529"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is about to launch a new image model soon! \n\nLikely \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI bakal melancarkan model imej baharu tak lama lagi!\nNampaknya \ud83d\udc40",
+            "date": "2025-12-16T16:08:20+00:00",
+            "message_id": 6528,
+            "message_key": "@testingcatalog:6528"
         }
     ]
 }
