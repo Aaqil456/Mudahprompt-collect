@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-16T12:51:24.997968",
+    "timestamp": "2025-12-16T15:28:16.020336",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2276,6 +2276,26 @@
             "date": "2025-12-16T12:07:16+00:00",
             "message_id": 338,
             "message_key": "@AItoolboxdaily:338"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sora got some new styles: Golden, Vintage and Handheld. The overall number of styles increased from 5 to 9.",
+            "translated_text": "Sora ada gaya baru: Golden, Vintage, dan Handheld. Jumlah keseluruhan gaya meningkat dari 5 kepada 9.",
+            "date": "2025-12-16T14:59:11+00:00",
+            "message_id": 6527,
+            "message_key": "@testingcatalog:6527"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Just realised that Gemini for Workspace has some extra apps being supported, like Asana, Hubspot and Mailchimp. \n\nAccording to reports, Google is also working on Instacart support. I bet we will see more investment in Apps very soon on Gemini, too.",
+            "translated_text": "Baru perasan yang Gemini untuk Workspace dah sokong beberapa aplikasi tambahan, macam Asana, Hubspot dan Mailchimp.\n\nMengikut laporan, Google pun sedang usahakan sokongan untuk Instacart. Saya rasa tak lama lagi kita akan nampak lebih banyak pelaburan dalam aplikasi untuk Gemini juga.",
+            "date": "2025-12-16T14:40:00+00:00",
+            "message_id": 6526,
+            "message_key": "@testingcatalog:6526"
         }
     ]
 }
