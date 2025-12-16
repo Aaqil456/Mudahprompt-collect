@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-15T22:23:22.113833",
+    "timestamp": "2025-12-16T01:52:57.778970",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2216,6 +2216,56 @@
             "date": "2025-12-15T22:10:31+00:00",
             "message_id": 6519,
             "message_key": "@testingcatalog:6519"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is rolling out a new Audio model for the Completions API on OpenAI Platform! \n\ngpt-audio-mini-2025-12-15 \ud83d\udc40",
+            "translated_text": "OpenAI sedang melancarkan model Audio baharu untuk Completions API di OpenAI Platform!\n\ngpt-audio-mini-2025-12-15 \ud83d\udc40",
+            "date": "2025-12-16T01:16:40+00:00",
+            "message_id": 6525,
+            "message_key": "@testingcatalog:6525"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic will add 5 different starting points to its upcoming Tasks Mode: Research, Analyse, Write, Build, and Do More. Tons of granular controls!\n\nA new sidebar for tracking tasks' progress and working with Claude's context has also been added.",
+            "translated_text": "TERKINI \ud83d\udea8: Anthropic akan tambah 5 pilihan permulaan berbeza untuk Mod Tugas (Tasks Mode) mereka yang akan datang: Kaji, Analisis, Tulis, Bina, dan Buat Lebih Banyak. Ada banyak kawalan terperinci yang boleh kita guna!\n\nSatu sidebar baru pun dah ditambah, untuk kita boleh pantau kemajuan tugas dan bekerja dengan konteks Claude.",
+            "date": "2025-12-16T01:11:35+00:00",
+            "message_id": 6524,
+            "message_key": "@testingcatalog:6524"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic preparing new Agentic Tasks Mode for Claude**](https://www.testingcatalog.com/anthropic-testing-new-agentic-tasks-mode-for-claude/)\n\nAnthropic expands Claude's Agent mode with a structured task delegation interface featuring five core functions\u2014Research, Analyze, Write, Build, and Do More\u2014supports workflow automation, detailed task tracking, and resource management.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic sedang siapkan Mod Tugas Agentik baharu untuk Claude**](https://www.testingcatalog.com/anthropic-testing-new-agentic-tasks-mode-for-claude/)\n\nAnthropic kembangkan mod Ejen Claude dengan antaramuka delegasi tugas berstruktur yang menampilkan lima fungsi utama\u2014Kaji, Analisis, Tulis, Bina, dan Lakukan Lebih Banyak\u2014menyokong automasi aliran kerja, penjejakan tugas terperinci, dan pengurusan sumber.\n\n\ud83d\uddde #claude",
+            "date": "2025-12-16T01:09:11+00:00",
+            "message_id": 6523,
+            "message_key": "@testingcatalog:6523"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Gemini 3 Flash is likely about to arrive on Tuesday this week! \n\nHave you tested it already on Arena?",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Gemini 3 Flash kemungkinan besar akan tiba pada hari Selasa minggu ini!\n\nDah cuba ke di Arena?",
+            "date": "2025-12-16T00:37:53+00:00",
+            "message_id": 6522,
+            "message_key": "@testingcatalog:6522"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Christmas vibe coding time! ...soon \ud83c\udf28",
+            "translated_text": "Masa coding dengan suasana Krismas! ...tak lama lagi \ud83c\udf28",
+            "date": "2025-12-16T00:32:12+00:00",
+            "message_id": 6521,
+            "message_key": "@testingcatalog:6521"
         }
     ]
 }
