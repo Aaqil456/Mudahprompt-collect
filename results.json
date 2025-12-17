@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-17T10:28:15.822942",
+    "timestamp": "2025-12-17T11:23:02.424326",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2486,6 +2486,26 @@
             "date": "2025-12-17T10:18:43+00:00",
             "message_id": 6549,
             "message_key": "@testingcatalog:6549"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-17T10:50:25+00:00",
+            "message_id": 6551,
+            "message_key": "@testingcatalog:6551"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released a new AI-powered video editing app for iOS, YouTube Create, which allows users to generate and edit videos with Veo 3.",
+            "translated_text": "Google baru je keluarkan satu aplikasi edit video baru untuk iOS, namanya YouTube Create. Aplikasi ni dikuasakan AI, dan ia membolehkan pengguna hasilkan serta edit video guna Veo 3.",
+            "date": "2025-12-17T10:50:25+00:00",
+            "message_id": 6550,
+            "message_key": "@testingcatalog:6550"
         }
     ]
 }
