@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-17T17:25:43.642269",
+    "timestamp": "2025-12-17T19:21:39.967351",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2566,6 +2566,26 @@
             "date": "2025-12-17T17:00:44+00:00",
             "message_id": 6557,
             "message_key": "@testingcatalog:6557"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-17T19:12:03+00:00",
+            "message_id": 6559,
+            "message_key": "@testingcatalog:6559"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok for iOS now has a new Voice Activation settings to choose from Default, Isolation and Push to talk options. \n\nGrok isolation \ud83e\udd16",
+            "translated_text": "Grok untuk iOS sekarang ada tetapan Pengaktifan Suara baru yang boleh dipilih, iaitu Default, Isolation, dan Push to talk.\n\nGrok Isolation \ud83e\udd16",
+            "date": "2025-12-17T19:12:03+00:00",
+            "message_id": 6558,
+            "message_key": "@testingcatalog:6558"
         }
     ]
 }
