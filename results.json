@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-17T22:22:36.595986",
+    "timestamp": "2025-12-17T23:23:51.143976",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2616,6 +2616,56 @@
             "date": "2025-12-17T22:01:04+00:00",
             "message_id": 6560,
             "message_key": "@testingcatalog:6560"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta updates Edits app for creators with AI video effects and tools**](https://www.testingcatalog.com/meta-updates-edits-app-for-creators-with-ai-video-effects-and-tools/)\n\nMeta\u2019s Edits app consolidates mobile video production with AI-powered tools, template support, multilingual text options, longer capture times, and direct Reels integration, offering creators a unified platform for content creation and export.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta kemas kini aplikasi Edits untuk pencipta kandungan dengan kesan video dan alatan AI**](https://www.testingcatalog.com/meta-updates-edits-app-for-creators-with-ai-video-effects-and-tools/)\n\nAplikasi Edits dari Meta menggabungkan penghasilan video mudah alih dengan alatan berkuasa AI, sokongan templat, pilihan teks berbilang bahasa, masa rakaman yang lebih panjang, dan integrasi terus dengan Reels. Ini menawarkan pencipta kandungan satu platform yang bersatu untuk penciptaan dan eksport kandungan.\n\n\ud83d\uddde #meta",
+            "date": "2025-12-17T23:03:44+00:00",
+            "message_id": 6567,
+            "message_key": "@testingcatalog:6567"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI opens ChatGPT to third-party apps after review process**](https://www.testingcatalog.com/openai-opens-chatgpt-to-third-party-apps-after-review-process/)\n\nOpenAI now allows developers to submit third-party apps to ChatGPT, following a review process. Approved apps become discoverable within the platform, marking a shift toward a native app ecosystem and a structured distribution model.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI buka ChatGPT kepada aplikasi pihak ketiga selepas proses semakan**](https://www.testingcatalog.com/openai-opens-chatgpt-to-third-party-apps-after-review-process/)\n\nOpenAI kini membenarkan pembangun untuk menghantar aplikasi pihak ketiga ke ChatGPT, selepas melalui proses semakan. Aplikasi yang diluluskan akan boleh ditemui dalam platform itu, menandakan peralihan ke arah ekosistem aplikasi asli dan model pengedaran yang tersusun.\n\n\ud83d\uddde #chatgpt",
+            "date": "2025-12-17T22:56:14+00:00",
+            "message_id": 6566,
+            "message_key": "@testingcatalog:6566"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI launches Grok Voice Agent API for real-time voice apps**](https://www.testingcatalog.com/xai-launches-grok-voice-agent-api-for-real-time-voice-apps/)\n\nxAI has launched the Grok Voice Agent API, offering real-time voice capabilities and flat-rate pricing at $0.05/minute. It supports speech recognition, voice selection, companion personas, and integration with web and X data queries.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI Melancarkan Grok Voice Agent API untuk Aplikasi Suara Masa Nyata**](https://www.testingcatalog.com/xai-launches-grok-voice-agent-api-for-real-time-voice-apps/)\n\nxAI telah melancarkan Grok Voice Agent API, menawarkan keupayaan suara masa nyata dan harga kadar rata pada $0.05 seminit. Ia menyokong pengecaman pertuturan, pemilihan suara, persona teman, serta integrasi dengan pertanyaan data web dan X.\n\n\ud83d\uddde #grok",
+            "date": "2025-12-17T22:51:30+00:00",
+            "message_id": 6565,
+            "message_key": "@testingcatalog:6565"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 3 Flash model with faster, low-cost results**](https://www.testingcatalog.com/google-launches-gemini-3-flash-model-with-faster-low-cost-results/)\n\nGoogle introduces Gemini 3 Flash, a fast, cost-efficient AI model delivering strong reasoning and coding abilities. It surpasses Gemini 2.5 Pro on benchmarks, uses fewer tokens, and is now available across Google platforms for broad adoption.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google melancarkan model Gemini 3 Flash dengan hasil yang lebih pantas dan kos rendah**](https://www.testingcatalog.com/google-launches-gemini-3-flash-model-with-faster-low-cost-results/)\n\nGoogle memperkenalkan Gemini 3 Flash, sebuah model AI yang pantas dan cekap kos, menawarkan keupayaan penaakulan dan pengekodan yang mantap. Ia mengatasi Gemini 2.5 Pro dalam penanda aras, menggunakan lebih sedikit token, dan kini tersedia di seluruh platform Google untuk penggunaan meluas.\n\n\ud83d\uddde #gemini",
+            "date": "2025-12-17T22:46:45+00:00",
+            "message_id": 6564,
+            "message_key": "@testingcatalog:6564"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI opened App submissions for developers via its Platform. Builders can now submit Apps to appear in the upcoming Apps Directory on ChatGPT.",
+            "translated_text": "",
+            "date": "2025-12-17T22:36:50+00:00",
+            "message_id": 6563,
+            "message_key": "@testingcatalog:6563"
         }
     ]
 }
