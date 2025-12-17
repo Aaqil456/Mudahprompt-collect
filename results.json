@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-16T22:22:54.532088",
+    "timestamp": "2025-12-17T01:48:51.241159",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2436,6 +2436,26 @@
             "date": "2025-12-16T21:47:46+00:00",
             "message_id": 6540,
             "message_key": "@testingcatalog:6540"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google started rolling out Super GEMs to some users. \n\nA new GEMs Manager now has a \"Gems from Labs\" section with pre-built and custom workflows from Opal experiment. Users will be able to create and share visual workflows right inside Gemini.",
+            "translated_text": "Google dah mula memperkenalkan Super GEMs kepada beberapa pengguna. GEMs Manager yang baru ni sekarang ada satu bahagian 'Gems from Labs' yang datang dengan aliran kerja (workflows) yang dah siap dan yang boleh diubah suai dari eksperimen Opal. Pengguna nanti boleh cipta dan kongsi aliran kerja visual terus dalam Gemini.",
+            "date": "2025-12-17T00:27:37+00:00",
+            "message_id": 6546,
+            "message_key": "@testingcatalog:6546"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google started rolling out Super GEMs from Opal inside Gemini**](https://www.testingcatalog.com/google-started-rolling-out-super-gems-from-opal-inside-gemini/)\n\nGoogle is integrating Opal apps into Gemini's new Super Gems feature, combining Labs workflows with custom Gems in a unified manager. This update supports direct workflow building, previewing, and sharing, currently rolling out in the US.\n\n\ud83d\uddde #gemini",
+            "translated_text": "",
+            "date": "2025-12-17T00:08:02+00:00",
+            "message_id": 6545,
+            "message_key": "@testingcatalog:6545"
         }
     ]
 }
