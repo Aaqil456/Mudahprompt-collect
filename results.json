@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-18T19:19:29.332851",
+    "timestamp": "2025-12-18T21:19:52.630896",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2846,6 +2846,26 @@
             "date": "2025-12-18T18:57:03+00:00",
             "message_id": 6584,
             "message_key": "@testingcatalog:6584"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT users can finally pin chats on web and mobile!",
+            "translated_text": "Pengguna ChatGPT akhirnya boleh pin sembang di web dan mudah alih!",
+            "date": "2025-12-18T20:52:29+00:00",
+            "message_id": 6587,
+            "message_key": "@testingcatalog:6587"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude in Chrome extension is now available to all paid plans, including Claude Pro users. \n\nClaude in Chrome can access the page DOM and inspect network requests, too. \n\nExactly what I need \ud83d\udc40",
+            "translated_text": "Sambungan Claude dalam Chrome dah boleh guna untuk semua pelan berbayar, termasuk pengguna Claude Pro. Claude dalam Chrome boleh akses DOM halaman dan periksa permintaan rangkaian juga. Memang inilah yang saya perlukan \ud83d\udc40",
+            "date": "2025-12-18T20:41:53+00:00",
+            "message_id": 6586,
+            "message_key": "@testingcatalog:6586"
         }
     ]
 }
