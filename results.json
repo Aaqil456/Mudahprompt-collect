@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-18T10:26:57.295062",
+    "timestamp": "2025-12-18T14:26:33.267916",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2716,6 +2716,26 @@
             "date": "2025-12-18T09:51:26+00:00",
             "message_id": 6572,
             "message_key": "@testingcatalog:6572"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Early look at Claude Task Mode agent workflow. What do we know so far?\n\n- Claude Tasks will operate various Skills and MCPs to achieve the goal.\n- Claude will ask clarifying questions before the execution or skip it after a timeout. \n- Claude will generate an action plan for complex tasks. \n- Users will be able to modify the plan on the fly or send additional context to the workflow while Claude is working. \n- Generated artefacts can be previewed in a separate panel. \n- All artefacts, Skills, scripts and generated files will be stored in the working files directory. \n- And more details in the post \ud83d\udc40\n\nNotebookLM on Skills \ud83d\udd25",
+            "translated_text": "TERKINI \ud83d\udea8: Pandangan awal tentang aliran kerja ejen Mod Tugas Claude. Apa yang kita tahu setakat ini?\n\n- Tugas-tugas Claude akan mengendalikan pelbagai Kemahiran (Skills) dan MCPs untuk mencapai matlamat.\n- Claude akan bertanya soalan penjelasan sebelum pelaksanaan atau melangkauinya selepas tamat masa.\n- Claude akan menjana pelan tindakan untuk tugas-tugas yang kompleks.\n- Pengguna boleh mengubah suai pelan itu secara langsung atau menghantar konteks tambahan kepada aliran kerja semasa Claude sedang berfungsi.\n- Artifak yang dihasilkan boleh dipratonton dalam panel yang berasingan.\n- Semua artifak, Kemahiran (Skills), skrip dan fail yang dihasilkan akan disimpan dalam direktori fail kerja.\n- Dan butiran lanjut dalam hantaran itu \ud83d\udc40\n\nNotebookLM tentang Kemahiran (Skills) \ud83d\udd25",
+            "date": "2025-12-18T14:06:27+00:00",
+            "message_id": 6574,
+            "message_key": "@testingcatalog:6574"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Early look at Claude Tasks Mode Agent from Anthropic**](https://www.testingcatalog.com/exclusive-early-look-at-claude-tasks-mode-agent-from-anthropic/)\n\nAnthropic is testing a new task mode for Claude that supports step-by-step execution, multi-artifact output, and context selection. The interface mirrors NotebookLM but focuses on structured task planning and automation for advanced workflows.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Eksklusif: Pandangan awal tentang Agen Mod Tugas Claude dari Anthropic**](https://www.testingcatalog.com/exclusive-early-look-at-claude-tasks-mode-agent-from-anthropic/)\n\nAnthropic sedang menguji mod tugas baharu untuk Claude yang menyokong pelaksanaan langkah demi langkah, output pelbagai artifak, dan pemilihan konteks. Antaramuka ini menyerupai NotebookLM tetapi fokus pada perancangan tugas berstruktur dan automasi untuk aliran kerja yang lebih canggih.\n\n\ud83d\uddde #claude",
+            "date": "2025-12-18T14:04:46+00:00",
+            "message_id": 6573,
+            "message_key": "@testingcatalog:6573"
         }
     ]
 }
