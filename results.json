@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-18T22:22:26.809845",
+    "timestamp": "2025-12-18T23:22:14.407933",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2876,6 +2876,16 @@
             "date": "2025-12-18T21:29:33+00:00",
             "message_id": 6588,
             "message_key": "@testingcatalog:6588"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Data Table artefact is rolling out on NotebookLM, where it can generate a structured table with your data. This artefact can be exported into Google Sheets as well. \n\nNotes and Reports can be exported into Docs and Sheets, too.",
+            "translated_text": "Fungsi Data Table dah mula diperkenalkan di NotebookLM. Ia boleh hasilkan jadual berstruktur guna data anda. Hasil ini juga boleh dieksport ke Google Sheets.\n\nNota dan Laporan pun boleh dieksport ke Docs dan Sheets juga.",
+            "date": "2025-12-18T22:37:05+00:00",
+            "message_id": 6589,
+            "message_key": "@testingcatalog:6589"
         }
     ]
 }
