@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-18T14:26:33.267916",
+    "timestamp": "2025-12-18T15:26:30.622200",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2736,6 +2736,36 @@
             "date": "2025-12-18T14:04:46+00:00",
             "message_id": 6573,
             "message_key": "@testingcatalog:6573"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral released Mistral OCR 3, which outperforms existing enterprise document processing solutions as well as AI-native OCR systems.",
+            "translated_text": "Mistral dah keluarkan Mistral OCR 3, yang lebih baik dari penyelesaian pemprosesan dokumen perusahaan yang sedia ada dan juga sistem OCR berasaskan AI.",
+            "date": "2025-12-18T15:21:38+00:00",
+            "message_id": 6577,
+            "message_key": "@testingcatalog:6577"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is hiding something from us \ud83d\udc40",
+            "translated_text": "Google ada sorok sesuatu dari kita \ud83d\udc40",
+            "date": "2025-12-18T14:57:23+00:00",
+            "message_id": 6576,
+            "message_key": "@testingcatalog:6576"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI works on Imagine API and Grok API Playground**](https://www.testingcatalog.com/xai-works-on-imagine-api-and-grok-api-playground/)\n\nxAI has launched its Voice Agent API and previewed tools like Playground and Imagine API to expand Grok's capabilities. These updates support developers and signal a broader move to compete in the AI infrastructure market.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI sedang mengusahakan Imagine API dan Grok API Playground**](https://www.testingcatalog.com/xai-works-on-imagine-api-and-grok-api-playground/)\n\nxAI telah melancarkan Voice Agent API mereka dan memperkenalkan pratonton alatan seperti Playground dan Imagine API untuk meluaskan keupayaan Grok. Kemaskini ini menyokong pembangun dan menandakan langkah yang lebih besar untuk bersaing dalam pasaran infrastruktur AI.\n\n\ud83d\uddde #grok",
+            "date": "2025-12-18T14:34:14+00:00",
+            "message_id": 6575,
+            "message_key": "@testingcatalog:6575"
         }
     ]
 }
