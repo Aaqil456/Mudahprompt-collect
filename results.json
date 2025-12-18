@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-18T15:26:30.622200",
+    "timestamp": "2025-12-18T16:34:39.218688",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2766,6 +2766,36 @@
             "date": "2025-12-18T14:34:14+00:00",
             "message_id": 6575,
             "message_key": "@testingcatalog:6575"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is likely about to release Gemma 4 today, as \"Google's Gemma models family\" collection got updates just recently.  \n\nF5F5F5 \ud83d\udc40",
+            "translated_text": "Google kemungkinan besar akan melancarkan Gemma 4 hari ini, memandangkan koleksi 'Google's Gemma models family' baru sahaja menerima kemas kini.\n\nF5F5F5 \ud83d\udc40",
+            "date": "2025-12-18T16:32:06+00:00",
+            "message_id": 6580,
+            "message_key": "@testingcatalog:6580"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is releasing GPT-5.2-Codex \"Caribou\" model today! An earlier code was updated with a new model name just recently.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI akan melancarkan model GPT-5.2-Codex \"Caribou\" hari ini! Kod terdahulu telah dikemaskini dengan nama model baharu baru-baru ini.",
+            "date": "2025-12-18T16:25:44+00:00",
+            "message_id": 6579,
+            "message_key": "@testingcatalog:6579"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Luma Labs is launching Ray 3 Modify, a new video generation model that allows users to modify existing videos by providing character reference images. \n\nYou can inject yourself everywhere now \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Luma Labs akan melancarkan Ray 3 Modify, model penjanaan video baharu yang membolehkan pengguna mengubah suai video sedia ada dengan menyediakan imej rujukan watak.\n\nAnda boleh 'masuk' ke mana-mana saja sekarang \ud83d\udc40",
+            "date": "2025-12-18T15:45:59+00:00",
+            "message_id": 6578,
+            "message_key": "@testingcatalog:6578"
         }
     ]
 }
