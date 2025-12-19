@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-18T23:22:14.407933",
+    "timestamp": "2025-12-19T01:51:11.509434",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2886,6 +2886,56 @@
             "date": "2025-12-18T22:37:05+00:00",
             "message_id": 6589,
             "message_key": "@testingcatalog:6589"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-19T00:17:56+00:00",
+            "message_id": 6596,
+            "message_key": "@testingcatalog:6596"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is developing a new image and video AI model \u201cMango\u201d, along with a previously reported \u201cAvocado\u201d according to WSJ.",
+            "translated_text": "Meta sedang membangunkan model AI imej dan video baharu bernama \u201cMango\u201d, bersama dengan \u201cAvocado\u201d yang pernah dilaporkan sebelum ini, menurut WSJ.",
+            "date": "2025-12-19T00:17:56+00:00",
+            "message_id": 6595,
+            "message_key": "@testingcatalog:6595"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-19T00:08:06+00:00",
+            "message_id": 6594,
+            "message_key": "@testingcatalog:6594"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta AI now allows users to add themselves to AI images and videos, in a similar way to Cameos on Sora. Voice sample can be added as well. \n\nNote that Meta is globally available while Sore is not. \n\nSocial AI race is here \ud83d\udc40",
+            "translated_text": "Meta AI kini membolehkan pengguna masukkan diri mereka ke dalam imej dan video AI, sama macam Cameos di Sora. Sampel suara pun boleh ditambah juga.\n\nPerlu diingat yang Meta boleh didapati di seluruh dunia, manakala Sora belum lagi.\n\nPerlumbaan AI sosial dah bermula \ud83d\udc40",
+            "date": "2025-12-19T00:08:06+00:00",
+            "message_id": 6593,
+            "message_key": "@testingcatalog:6593"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-18T23:55:05+00:00",
+            "message_id": 6592,
+            "message_key": "@testingcatalog:6592"
         }
     ]
 }
