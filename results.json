@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-19T11:21:02.451461",
+    "timestamp": "2025-12-19T12:46:39.289641",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2976,6 +2976,16 @@
             "date": "2025-12-19T10:38:56+00:00",
             "message_id": 6601,
             "message_key": "@testingcatalog:6601"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic working on Planning Mode for Claude on Chrome**](https://www.testingcatalog.com/anthropic-working-on-planing-mode-for-claude/)\n\nAnthropic expands access to its Claude for Chrome extension, allowing paid users to debug, test code, and analyze live web content. New features like customizable shortcuts and planning mode support technical workflows in the browser.\n\n\ud83d\uddde #claude\n\nWarning - I am experimenting with \"Subscribers first / only\" content here. Will make this one public in 3-4 hours from now.",
+            "translated_text": "[**Anthropic sedang usahakan Mod Perancangan untuk Claude di Chrome**](https://www.testingcatalog.com/anthropic-working-on-planing-mode-for-claude/)\n\nAnthropic kembangkan akses kepada sambungan Claude untuk Chrome mereka, membolehkan pengguna berbayar untuk debug, uji kod, dan analisis kandungan web secara langsung. Ciri-ciri baharu seperti pintasan boleh ubah suai dan mod perancangan menyokong aliran kerja teknikal dalam pelayar.\n\n\ud83d\uddde #claude\n\nMakluman - Saya sedang bereksperimen dengan kandungan 'untuk pelanggan dahulu / sahaja' di sini. Akan jadikan ia umum dalam masa 3-4 jam lagi.",
+            "date": "2025-12-19T11:21:00+00:00",
+            "message_id": 6604,
+            "message_key": "@testingcatalog:6604"
         }
     ]
 }
