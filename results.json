@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-19T12:46:39.289641",
+    "timestamp": "2025-12-19T13:35:07.750292",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2986,6 +2986,26 @@
             "date": "2025-12-19T11:21:00+00:00",
             "message_id": 6604,
             "message_key": "@testingcatalog:6604"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-19T13:21:35+00:00",
+            "message_id": 6606,
+            "message_key": "@testingcatalog:6606"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MiniMax M2.1 early access form is out \ud83d\udc40",
+            "translated_text": "Borang akses awal MiniMax M2.1 dah keluar \ud83d\udc40",
+            "date": "2025-12-19T13:21:35+00:00",
+            "message_id": 6605,
+            "message_key": "@testingcatalog:6605"
         }
     ]
 }
