@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-19T13:35:07.750292",
+    "timestamp": "2025-12-19T15:25:40.407718",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3006,6 +3006,16 @@
             "date": "2025-12-19T13:21:35+00:00",
             "message_id": 6605,
             "message_key": "@testingcatalog:6605"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Luma AI working on Realms, Ray 3 Reasoning and Image V2**](https://www.testingcatalog.com/luma-ai-working-on-realms-ray-3-reasoning-and-image-v2/)\n\nLuma Labs is advancing its AI lineup with new Ray 3 models for varied generation tasks, a potential next-gen image model, and a Realm system hinting at a potential World model.\n\n\ud83d\uddde #leak",
+            "translated_text": "[**Luma AI sedang usahakan Realms, Ray 3 Reasoning dan Image V2**](https://www.testingcatalog.com/luma-ai-working-on-realms-ray-3-reasoning-and-image-v2/)\n\nLuma Labs sedang majukan barisan AI mereka dengan model Ray 3 baharu untuk pelbagai tugas penjanaan, model imej generasi seterusnya yang berpotensi, dan sistem Realm yang membayangkan model World yang berpotensi.\n\n\ud83d\uddde #bocor",
+            "date": "2025-12-19T14:34:08+00:00",
+            "message_id": 6607,
+            "message_key": "@testingcatalog:6607"
         }
     ]
 }
