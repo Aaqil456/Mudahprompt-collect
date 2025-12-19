@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-19T01:51:11.509434",
+    "timestamp": "2025-12-19T10:26:35.546127",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -2936,6 +2936,36 @@
             "date": "2025-12-18T23:55:05+00:00",
             "message_id": 6592,
             "message_key": "@testingcatalog:6592"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Beam launches AI-powered platform for making playable videos**](https://www.testingcatalog.com/beam-launches-ai-powered-platform-for-making-playable-videos/)\n\nBeam\u2019s new platform powered by Veo 3.1 lets creators turn AI-generated video, images, and music into browser-based playable mini-games and stories using no-code tools, targeting short-form content formats and creator-driven experiences.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Beam lancarkan platform berkuasa AI untuk hasilkan video yang boleh dimainkan**](https://www.testingcatalog.com/beam-launches-ai-powered-platform-for-making-playable-videos/)\n\nPlatform baru Beam, yang dikuasakan oleh Veo 3.1, membolehkan para pencipta mengubah video, imej, dan muzik yang dijana AI menjadi mini-game dan cerita yang boleh dimainkan melalui pelayar web. Ini semua boleh dibuat guna alatan tanpa kod, dengan sasaran untuk format kandungan pendek dan pengalaman yang didorong oleh pencipta.\n\n\ud83d\uddde #sponsored",
+            "date": "2025-12-19T10:09:50+00:00",
+            "message_id": 6600,
+            "message_key": "@testingcatalog:6600"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google debuts FunctionGemma for on-device AI function calling**](https://www.testingcatalog.com/google-debuts-functiongemma-for-on-device-ai-function-calling/)\n\nGoogle has released FunctionGemma, a compact version of its Gemma 3 model optimized for function calling on edge devices. It supports a broad tech stack and enables local, privacy-focused AI agents that convert language into API actions.\n\n\ud83d\uddde #huggingface",
+            "translated_text": "[**Google perkenalkan FunctionGemma untuk panggilan fungsi AI pada peranti**](https://www.testingcatalog.com/google-debuts-functiongemma-for-on-device-ai-function-calling/)\n\nGoogle dah keluarkan FunctionGemma, versi kecil model Gemma 3 mereka yang dioptimumkan untuk panggilan fungsi pada peranti edge. Ia menyokong pelbagai jenis teknologi dan membolehkan ejen AI tempatan yang fokus privasi untuk menukar bahasa kepada tindakan API.\n\n\ud83d\uddde #huggingface",
+            "date": "2025-12-19T09:53:38+00:00",
+            "message_id": 6599,
+            "message_key": "@testingcatalog:6599"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral AI launches OCR 3 model for document parsing**](https://www.testingcatalog.com/mistral-ai-launches-ocr-3-model-for-document-parsing/)\n\nMistral AI released Mistral OCR 3, a model with a 74% win rate over its predecessor, offering accurate document parsing for forms, tables, and handwriting. It's available via API and AI Studio, with pricing starting at $2 per 1,000 pages.\n\n\ud83d\uddde #mistral",
+            "translated_text": "[**Mistral AI melancarkan model OCR 3 untuk pemprosesan dokumen**](https://www.testingcatalog.com/mistral-ai-launches-ocr-3-model-for-document-parsing/)\n\nMistral AI dah keluarkan Mistral OCR 3, satu model yang 74% lebih bagus dari versi sebelum ni. Ia boleh proses dokumen dengan tepat, termasuk borang, jadual, dan tulisan tangan. Model ni boleh diakses melalui API dan AI Studio, dengan harga bermula $2 untuk setiap 1,000 muka surat.\n\n\ud83d\uddde #mistral",
+            "date": "2025-12-19T09:50:51+00:00",
+            "message_id": 6598,
+            "message_key": "@testingcatalog:6598"
         }
     ]
 }
