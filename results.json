@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-19T21:21:47.808020",
+    "timestamp": "2025-12-19T22:22:55.628019",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3096,6 +3096,16 @@
             "date": "2025-12-19T21:09:18+00:00",
             "message_id": 6614,
             "message_key": "@testingcatalog:6614"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Check your Sora to get free video gen credits and a custom Christmas video. \n\nInvite links now would bring you 10 extra credits for every new user.\nhttps://sora.chatgpt.com/invite?code=39DX6G",
+            "translated_text": "Tengok Sora anda untuk dapat kredit buat video percuma dan video Krismas khas.\n\nLink jemputan sekarang boleh bagi anda 10 kredit tambahan untuk setiap pengguna baru.\nhttps://sora.chatgpt.com/invite?code=39DX6G",
+            "date": "2025-12-19T22:20:18+00:00",
+            "message_id": 6618,
+            "message_key": "@testingcatalog:6618"
         }
     ]
 }
