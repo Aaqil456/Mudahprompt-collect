@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-19T17:20:50.300170",
+    "timestamp": "2025-12-19T20:26:17.608019",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3026,6 +3026,36 @@
             "date": "2025-12-19T16:56:04+00:00",
             "message_id": 6609,
             "message_key": "@testingcatalog:6609"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-19T20:15:32+00:00",
+            "message_id": 6613,
+            "message_key": "@testingcatalog:6613"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Gemini 3 Pro is expected to get another update soon with advancements  that enabled Flash to have a comparable performance. \n\nGeneral Availability before NY? \ud83d\udd25",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Gemini 3 Pro dijangka akan dapat satu lagi kemas kini tak lama lagi dengan kemajuan yang membolehkan Flash mempunyai prestasi yang setanding. Ketersediaan Umum sebelum NY? \ud83d\udd25",
+            "date": "2025-12-19T20:15:32+00:00",
+            "message_id": 6612,
+            "message_key": "@testingcatalog:6612"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is adopting the SKILLs standard in Codex, introduced by Anthropic recently, to configure specific and reusable task instructions.\n\n- \u2705 MCPs\n- \u2705 SKILLs",
+            "translated_text": "OpenAI sedang mengguna pakai standard SKILLs dalam Codex, yang diperkenalkan oleh Anthropic baru-baru ini, untuk menetapkan arahan tugas yang spesifik dan boleh diguna semula.\n\n- \u2705 MCPs\n- \u2705 SKILLs",
+            "date": "2025-12-19T20:04:41+00:00",
+            "message_id": 6611,
+            "message_key": "@testingcatalog:6611"
         }
     ]
 }
