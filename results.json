@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-20T14:20:01.158504",
+    "timestamp": "2025-12-20T15:21:03.398050",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3146,6 +3146,16 @@
             "date": "2025-12-20T13:37:44+00:00",
             "message_id": 6622,
             "message_key": "@testingcatalog:6622"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta AI to get on Memories and Custom Prompts soon**](https://www.testingcatalog.com/meta-ai-to-get-on-memories-and-custom-prompts-soon/)\n\nMeta AI is testing two hidden features, Memories and Custom Prompts, aimed at refining responses and tailoring behavior to user preferences. These tools may help Meta align with AI competitors and expand within its consumer platforms.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta AI akan ada Memories dan Custom Prompts tak lama lagi**](https://www.testingcatalog.com/meta-ai-to-get-on-memories-and-custom-prompts-soon/)\n\nMeta AI sedang menguji dua ciri tersembunyi, iaitu Memories dan Custom Prompts, yang bertujuan untuk memperhalusi respons dan menyesuaikan tingkah laku mengikut pilihan pengguna. Alat-alat ini mungkin boleh bantu Meta untuk selaraskan diri dengan pesaing AI lain dan meluaskan lagi dalam platform pengguna mereka.\n\n\ud83d\uddde #meta",
+            "date": "2025-12-20T14:47:37+00:00",
+            "message_id": 6623,
+            "message_key": "@testingcatalog:6623"
         }
     ]
 }
