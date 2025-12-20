@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-20T13:29:30.303063",
+    "timestamp": "2025-12-20T14:20:01.158504",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3136,6 +3136,16 @@
             "date": "2025-12-20T12:44:23+00:00",
             "message_id": 6621,
             "message_key": "@testingcatalog:6621"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "You can get a personalised Christmas Sora video on ChatGPT if you send \ud83c\udf81 emoji to the chat. \n\nLooking forward to ChatGPT wrapped \ud83d\udc40",
+            "translated_text": "Boleh dapat video Sora Krismas yang khas untuk awak dekat ChatGPT kalau awak hantar emoji \ud83c\udf81 ke chat tu. Tak sabar nak tunggu ChatGPT wrapped \ud83d\udc40",
+            "date": "2025-12-20T13:37:44+00:00",
+            "message_id": 6622,
+            "message_key": "@testingcatalog:6622"
         }
     ]
 }
