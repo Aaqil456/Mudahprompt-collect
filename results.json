@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-22T15:25:46.698780",
+    "timestamp": "2025-12-22T16:30:40.571926",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3256,6 +3256,56 @@
             "date": "2025-12-22T15:07:05+00:00",
             "message_id": 6630,
             "message_key": "@testingcatalog:6630"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Z.AI launches GLM-4.7, new SOTA open-source model for coding**](https://www.testingcatalog.com/z-ai-launches-glm-4-7-new-sota-open-source-model-for-coding/)\n\nZAI has launched its Open Platform featuring the glm-4.7 language model, offering global access and API support for Python and Java. Glm-4.7 improves reasoning, supports 4096 tokens, and shows strong performance on the HLE benchmark.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Z.AI melancarkan GLM-4.7, model sumber terbuka SOTA baharu untuk pengekodan**](https://www.testingcatalog.com/z-ai-launches-glm-4-7-new-sota-open-source-model-for-coding/)\n\nZAI dah lancarkan Platform Terbukanya, yang menampilkan model bahasa glm-4.7. Ia menawarkan akses global dan sokongan API untuk Python dan Java. Glm-4.7 ni tingkatkan keupayaan penaakulan, sokong 4096 token, dan tunjuk prestasi yang mantap dekat penanda aras HLE.\n\n\ud83d\uddde #ai",
+            "date": "2025-12-22T15:49:30+00:00",
+            "message_id": 6636,
+            "message_key": "@testingcatalog:6636"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: MiniMax M2.1 is now available on MiniMax Agent. \n\nWhat's new? \ud83d\udc40\n\n- Multilingual Coding: Expert performance in multi-language development, excelling in test case generation, code optimisation, and code review\n- Agentic Tool Use: Reliably executes long-horizon tool chains and browser-based tasks with strong autonomous planning\n- Digital Employee: Purpose-built for complex office workflows, acting as a \"Digital Employee\" to execute multi-step instructions and reasoning",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: MiniMax M2.1 kini dah ada di MiniMax Agent.\n\nApa yang baru? \ud83d\udc40\n\n- Pengekodan Pelbagai Bahasa: Prestasi pakar dalam pembangunan pelbagai bahasa, sangat cemerlang dalam penjanaan kes ujian, pengoptimuman kod, dan semakan kod.\n- Penggunaan Alat Beragen: Melaksanakan rantaian alat jangka panjang dan tugasan berasaskan pelayar web dengan boleh dipercayai, serta mempunyai perancangan autonomi yang kukuh.\n- Pekerja Digital: Dibina khas untuk aliran kerja pejabat yang kompleks, bertindak sebagai \"Pekerja Digital\" untuk melaksanakan arahan pelbagai langkah dan penaakulan.",
+            "date": "2025-12-22T15:44:42+00:00",
+            "message_id": 6635,
+            "message_key": "@testingcatalog:6635"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus launches AI design tool with image editing**](https://www.testingcatalog.com/manus-launches-ai-design-tool-with-image-editing/)\n\nManus Design View offers designers a unified AI-powered workflow for generating and refining visual assets. It supports cross-device use, precise edits via its Mark Tool, and delivers high-fidelity results through Google's Nano Banana Pro model.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus melancarkan alat reka bentuk AI dengan penyuntingan imej**](https://www.testingcatalog.com/manus-launches-ai-design-tool-with-image-editing/)\n\nManus Design View menawarkan pereka aliran kerja berkuasa AI yang bersepadu untuk menjana dan memperhalusi aset visual. Ia menyokong penggunaan merentas peranti, suntingan tepat melalui Mark Toolnya, dan memberikan hasil berkualiti tinggi melalui model Nano Banana Pro Google.\n\n\ud83d\uddde #manus",
+            "date": "2025-12-22T15:35:30+00:00",
+            "message_id": 6634,
+            "message_key": "@testingcatalog:6634"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-22T15:26:38+00:00",
+            "message_id": 6633,
+            "message_key": "@testingcatalog:6633"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: GLM-4.7 scored 42% on the HLE benchmark, representing a 38% improvement over GLM-4.6 and approaching GPT-5.1 performance.\n\nNew SOTA open source on SWE? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: GLM-4.7 dapat skor 42% dalam penanda aras HLE, menunjukkan peningkatan 38% berbanding GLM-4.6 dan hampir menyamai prestasi GPT-5.1.\n\nAda SOTA sumber terbuka baru untuk SWE ke? \ud83d\udc40",
+            "date": "2025-12-22T15:26:38+00:00",
+            "message_id": 6632,
+            "message_key": "@testingcatalog:6632"
         }
     ]
 }
