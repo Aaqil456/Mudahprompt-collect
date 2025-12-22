@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-22T11:20:54.946267",
+    "timestamp": "2025-12-22T15:25:46.698780",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3236,6 +3236,26 @@
             "date": "2025-12-22T10:53:22+00:00",
             "message_id": 340,
             "message_key": "@AItoolboxdaily:340"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GLM-4.7 is rolling out on Z AI \ud83d\udc40",
+            "translated_text": "GLM-4.7 dah mula ada di Z AI \ud83d\udc40",
+            "date": "2025-12-22T15:13:29+00:00",
+            "message_id": 6631,
+            "message_key": "@testingcatalog:6631"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus introduced a new \"Design View\" flow on web and mobile to help you refine your images and ideas. \n\n\"It is an extension of the Manus agent, allowing you to commission, create, and refine visual assets as part of a single, seamless AI design workflow.\"",
+            "translated_text": "Manus dah perkenalkan aliran \"Design View\" baru dekat web dan mudah alih, untuk bantu anda perhalusi imej dan idea.\n\n\"Ia macam sambungan kepada ejen Manus, yang membolehkan anda menugaskan, mencipta, dan memperhalusi aset visual sebagai sebahagian daripada satu aliran kerja reka bentuk AI yang lancar.\"",
+            "date": "2025-12-22T15:07:05+00:00",
+            "message_id": 6630,
+            "message_key": "@testingcatalog:6630"
         }
     ]
 }
