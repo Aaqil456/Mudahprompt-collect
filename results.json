@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-21T16:27:08.557714",
+    "timestamp": "2025-12-22T11:20:54.946267",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3226,6 +3226,16 @@
             "date": "2025-12-21T15:53:22+00:00",
             "message_id": 6628,
             "message_key": "@testingcatalog:6628"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Office employees managed to [\u201chack\u201d](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34) the Claude AI that was running a vending machine.\nThe AI was responsible for ordering products, setting prices, and handling payments.\n\nEverything worked fine - until someone figured out how to sweet-talk the bot into giving items away \u201cas a favor.\u201d\nThe result? A free PS5, bottles of wine, and even a live fish \ud83d\ude04\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "Pekerja pejabat berjaya [\u201cmenggodam\u201d](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34) Claude AI yang mengendalikan mesin layan diri.\nAI itu bertanggungjawab untuk memesan produk, menetapkan harga, dan menguruskan pembayaran.\n\nSemuanya berjalan lancar \u2014 sampailah ada orang terfikir macam mana nak memujuk bot itu untuk bagi barang percuma \u201csebagai ihsan.\u201d\nHasilnya? PS5 percuma, botol wain, dan siap ada ikan hidup lagi \ud83d\ude04\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2025-12-22T10:53:22+00:00",
+            "message_id": 340,
+            "message_key": "@AItoolboxdaily:340"
         }
     ]
 }
