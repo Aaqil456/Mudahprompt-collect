@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-23T11:21:21.351854",
+    "timestamp": "2025-12-23T12:50:33.139173",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3356,6 +3356,26 @@
             "date": "2025-12-23T10:53:15+00:00",
             "message_id": 6641,
             "message_key": "@testingcatalog:6641"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NotebookLM is teasing new voices with British English narration that are planned to arrive in 2026. \n\nThese voices are available for listening in the \"Archive 1945\" featured notebook, created in partnership with The Economist. \n\nStay tuned for the TC notebook today \ud83d\udc40",
+            "translated_text": "NotebookLM ada tunjuk-tunjuk sikit suara baharu dengan narasi Bahasa Inggeris British, yang dijangka akan sampai pada tahun 2026 nanti.\n\nSuara-suara ni boleh didengar dalam notebook pilihan \"Archive 1945\", yang dibuat dengan kerjasama The Economist.\n\nJangan lupa nantikan notebook TC hari ini ya \ud83d\udc40",
+            "date": "2025-12-23T11:29:20+00:00",
+            "message_id": 6643,
+            "message_key": "@testingcatalog:6643"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MiniMax M2.1 was officially announced, scoring 72.5% on SWE-multilingual. \n\n\"A SOTA 10B-activated OSS coding & agent model, scoring 72.5% on SWE-multilingual and 88.6% on our newly open-sourced VIBE-bench\"",
+            "translated_text": "MiniMax M2.1 telah dilancarkan secara rasmi, mencatat 72.5% dalam SWE-multilingual.\n\n\"Sebuah model pengekodan & agen OSS SOTA 10B-activated, mencatat 72.5% dalam SWE-multilingual dan 88.6% dalam VIBE-bench kami yang baru dilancarkan sebagai sumber terbuka.\"",
+            "date": "2025-12-23T11:21:59+00:00",
+            "message_id": 6642,
+            "message_key": "@testingcatalog:6642"
         }
     ]
 }
