@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-23T12:50:33.139173",
+    "timestamp": "2025-12-23T14:24:52.291761",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3376,6 +3376,26 @@
             "date": "2025-12-23T11:21:59+00:00",
             "message_id": 6642,
             "message_key": "@testingcatalog:6642"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google might be working on a \"Lecture\" format for Audio Overviews on NotebookLM. Lectures would have a single host narration and could last for 30 minutes. \n\nExclusive Notebook with TestingCatalog Lecture sample in the post above. \n\nListening time \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google mungkin sedang usahakan format 'Kuliah' untuk Ringkasan Audio di NotebookLM. Kuliah ini akan ada seorang hos yang bercerita dan boleh berlangsung selama 30 minit.\nNotebook eksklusif bersama contoh Kuliah TestingCatalog ada dalam hantaran di atas.\nJom dengar \ud83d\udc40",
+            "date": "2025-12-23T14:03:57+00:00",
+            "message_id": 6645,
+            "message_key": "@testingcatalog:6645"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Google tests 30-minute audio Lectures on NotebookLM**](https://www.testingcatalog.com/exclusive-google-tests-30-minute-audio-lectures-on-notebooklm/)\n\nGoogle\u2019s NotebookLM is developing a new \u201cLecture\u201d mode for Audio Overviews, offering AI-generated 30-minute monologues to explain source materials, with voice and language options, aimed at students and professionals reviewing complex content.\n\n\ud83d\uddde #notebooklm",
+            "translated_text": "[**Eksklusif: Google Uji Kuliah Audio 30 Minit di NotebookLM**](https://www.testingcatalog.com/exclusive-google-tests-30-minute-audio-lectures-on-notebooklm/)\n\nNotebookLM dari Google sedang membangunkan mod \"Kuliah\" baharu untuk Gambaran Keseluruhan Audio, menawarkan monolog 30 minit yang dijana AI untuk menerangkan bahan sumber, dengan pilihan suara dan bahasa. Ini bertujuan untuk pelajar dan profesional yang menyemak kandungan kompleks.\n\n\ud83d\uddde #notebooklm",
+            "date": "2025-12-23T13:59:19+00:00",
+            "message_id": 6644,
+            "message_key": "@testingcatalog:6644"
         }
     ]
 }
