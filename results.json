@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-23T08:33:05.175371",
+    "timestamp": "2025-12-23T11:21:21.351854",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3346,6 +3346,16 @@
             "date": "2025-12-23T07:55:43+00:00",
             "message_id": 6640,
             "message_key": "@testingcatalog:6640"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Google tests 30-minute audio Lectures on NotebookLM**](https://www.testingcatalog.com/exclusive-google-tests-30-minute-audio-lectures-on-notebooklm/)\n\nGoogle is testing a new \u201cLecture\u201d mode in NotebookLM's Audio Overviews, offering 30-minute monologues that explain and connect uploaded sources. A British English voice is also planned, with full rollout expected in 2026.\n\nWarning \u26a0\ufe0f\n\nI am playing with \"Subscribers First\" content to bring some extra value to our top supporters. This article will be revealed to free users in 4-5 hours from now. \n\n\ud83d\uddde #notebooklm",
+            "translated_text": "[**Eksklusif: Google uji Kuliah audio 30 minit di NotebookLM**](https://www.testingcatalog.com/exclusive-google-tests-30-minute-audio-lectures-on-notebooklm/)\n\nGoogle sedang menguji mod \u201cKuliah\u201d baharu dalam Audio Overviews NotebookLM. Mod ini menawarkan monolog 30 minit yang menerangkan dan menghubungkan sumber-sumber yang dimuat naik. Suara Bahasa Inggeris British juga dirancang, dan pelancaran penuh dijangka pada tahun 2026.\n\nAmaran \u26a0\ufe0f\n\nSaya sedang bereksperimen dengan kandungan 'Subscribers First' untuk memberikan nilai tambahan kepada penyokong utama kami. Artikel ini akan didedahkan kepada pengguna percuma dalam masa 4-5 jam dari sekarang.\n\n\ud83d\uddde #notebooklm",
+            "date": "2025-12-23T10:53:15+00:00",
+            "message_id": 6641,
+            "message_key": "@testingcatalog:6641"
         }
     ]
 }
