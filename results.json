@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-24T20:25:38.194843",
+    "timestamp": "2025-12-24T22:22:47.461738",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3426,6 +3426,36 @@
             "date": "2025-12-24T19:41:19+00:00",
             "message_id": 6647,
             "message_key": "@testingcatalog:6647"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-24T22:00:40+00:00",
+            "message_id": 6651,
+            "message_key": "@testingcatalog:6651"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Groq has entered into a non-exclusive licensing agreement with Nvidia for Groq\u2019s inference technology.\n\nAccording to CNBC, Nvidia acquired Groq for $20 billions.\n\nStakes are getting higher \ud83d\udd25",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Groq telah memeterai perjanjian pelesenan bukan eksklusif dengan Nvidia untuk teknologi inferens Groq.\n\nMenurut CNBC, Nvidia telah mengambil alih Groq dengan harga $20 bilion.\n\nTaruhannya makin besar \ud83d\udd25",
+            "date": "2025-12-24T22:00:40+00:00",
+            "message_id": 6650,
+            "message_key": "@testingcatalog:6650"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus launches Connectors for Projects**](https://www.testingcatalog.com/manus-launches-connectors-for-projects/)\n\nManus Projects getting Connectors, allowing users to integrate apps like Gmail, Notion, and GitHub into their workflows. The feature supports pre-built and custom connections, enabling precise automation.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus Memperkenalkan Penyambung untuk Projek**](https://www.testingcatalog.com/manus-launches-connectors-for-projects/)\n\nProjek Manus kini ada Penyambung, membolehkan pengguna mengintegrasikan aplikasi seperti Gmail, Notion, dan GitHub ke dalam aliran kerja mereka. Ciri ini menyokong sambungan pra-bina dan tersuai, membolehkan automasi yang tepat.\n\n\ud83d\uddde #manus",
+            "date": "2025-12-24T21:23:32+00:00",
+            "message_id": 6649,
+            "message_key": "@testingcatalog:6649"
         }
     ]
 }
