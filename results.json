@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-24T22:22:47.461738",
+    "timestamp": "2025-12-25T18:33:17.195798",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3456,6 +3456,26 @@
             "date": "2025-12-24T21:23:32+00:00",
             "message_id": 6649,
             "message_key": "@testingcatalog:6649"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Windsurf Wave 13 brings free SWE-1.5 and new upgrades**](https://www.testingcatalog.com/windsurf-wave-13-brings-free-swe-1-5-and-new-upgrades/)\n\nWindsurf's Wave 13 enables parallel Cascade agents using Git worktrees to reduce merge conflicts across branches. It adds multi-agent panes, a context window, automatable hooks, and a dedicated terminal. SWE-1.5 is now free and the default model.\n\n\ud83d\uddde #windsurf",
+            "translated_text": "[**Windsurf Wave 13 hadir dengan SWE-1.5 percuma dan penambahbaikan baharu**](https://www.testingcatalog.com/windsurf-wave-13-brings-free-swe-1-5-and-new-upgrades/)\n\nWindsurf Wave 13 membolehkan agen Cascade selari menggunakan Git worktrees untuk mengurangkan konflik gabungan merentasi cawangan. Ia turut dilengkapi dengan panel berbilang agen, tetingkap konteks, hooks yang boleh diautomasikan, dan terminal khusus. SWE-1.5 kini percuma dan menjadi model lalai.\n\n\ud83d\uddde #windsurf",
+            "date": "2025-12-25T18:30:40+00:00",
+            "message_id": 6652,
+            "message_key": "@testingcatalog:6652"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "L**ovable**\n\n\ud83c\udff7 : #AIWebsiteBuilder #NoCode #StartupTools #MVP\n\u2b50\ufe0f : 4.6\n\ud83d\udd17 : [Visit Website](https://ln-k.me/lovable)\n\n\ud83d\udcac : Lovable lets you build full-stack web apps and websites just by describing what you want in plain English. It generates the UI, backend logic, and integrations \u2014 perfect for quickly launching MVPs, landing pages, or internal tools without writing code.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "L**ovable**\n\nTag: #AIWebsiteBuilder #TanpaKod #AlatStartup #MVP\nBintang: 4.6\nPautan: [Lawati Laman Web](https://ln-k.me/lovable)\n\nPenerangan: Lovable ni membolehkan kita bina aplikasi web full-stack dan laman web hanya dengan terangkan apa yang kita nak dalam bahasa Inggeris biasa. Ia akan hasilkan UI, logik backend, dan integrasi \u2014 memang sesuai sangat untuk lancarkan MVP, landing page, atau alat dalaman dengan pantas tanpa perlu tulis kod.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2025-12-25T17:29:02+00:00",
+            "message_id": 341,
+            "message_key": "@AItoolboxdaily:341"
         }
     ]
 }
