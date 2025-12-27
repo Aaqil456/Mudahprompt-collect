@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-27T15:21:15.974667",
+    "timestamp": "2025-12-27T19:17:37.485302",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3566,6 +3566,26 @@
             "date": "2025-12-27T14:28:04+00:00",
             "message_id": 6660,
             "message_key": "@testingcatalog:6660"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-27T18:51:46+00:00",
+            "message_id": 6662,
+            "message_key": "@testingcatalog:6662"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "2025 recap newsletter tomorrow \ud83d\udc40\n\n- Top AI products from 2025\n- Some 2026 AI predictions \n- A weekly AI changelog as always \n\nOPT-IN below \ud83d\udc47 \nhttps://www.testingcatalog.com/weekly-newsletter/",
+            "translated_text": "Newsletter ringkasan 2025 esok \ud83d\udc40\n\n- Produk AI terbaik tahun 2025\n- Beberapa ramalan AI untuk 2026\n- Changelog AI mingguan macam biasa\n\nLanggan di bawah \ud83d\udc47\nhttps://www.testingcatalog.com/weekly-newsletter/",
+            "date": "2025-12-27T18:51:46+00:00",
+            "message_id": 6661,
+            "message_key": "@testingcatalog:6661"
         }
     ]
 }
