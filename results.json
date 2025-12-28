@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-28T10:23:16.662831",
+    "timestamp": "2025-12-28T16:28:24.358362",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3596,6 +3596,26 @@
             "date": "2025-12-28T09:48:57+00:00",
             "message_id": 344,
             "message_key": "@AItoolboxdaily:344"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-28T16:05:47+00:00",
+            "message_id": 6664,
+            "message_key": "@testingcatalog:6664"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: GLM-4.7 lands in 6th place on the Artificial Analysis Intelligence Index, surpassing Kimi K2.",
+            "translated_text": "Untuk makluman: GLM-4.7 dapat tempat ke-6 dalam Artificial Analysis Intelligence Index, mengatasi Kimi K2.",
+            "date": "2025-12-28T16:05:47+00:00",
+            "message_id": 6663,
+            "message_key": "@testingcatalog:6663"
         }
     ]
 }
