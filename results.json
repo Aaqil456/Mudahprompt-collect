@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-29T17:21:17.316626",
+    "timestamp": "2025-12-29T19:18:47.720913",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3636,6 +3636,36 @@
             "date": "2025-12-29T17:15:18+00:00",
             "message_id": 6665,
             "message_key": "@testingcatalog:6665"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Notion develops custom AI agents to power your AI-first organisation**](https://www.testingcatalog.com/notion-develops-custom-ai-agents-to-power-your-ai-first-organisation/)\n\nNotion is launching custom AI agents with options to manage triggers, permissions, and model selection. Integrated with tools like Slack, this feature supports complex workflows and positions Notion as a hub for AI-driven organizational tasks.\n\n\ud83d\uddde #notion",
+            "translated_text": "[**Notion membangunkan ejen AI tersuai untuk menggerakkan organisasi anda yang mengutamakan AI**](https://www.testingcatalog.com/notion-develops-custom-ai-agents-to-power-your-ai-first-organisation/)\n\nNotion melancarkan ejen AI tersuai dengan pilihan untuk mengurus pencetus, kebenaran, dan pemilihan model. Disepadukan dengan alatan seperti Slack, ciri ini menyokong aliran kerja yang kompleks dan meletakkan Notion sebagai hab untuk tugas organisasi yang dipacu AI.\n\n\ud83d\uddde #notion",
+            "date": "2025-12-29T19:16:30+00:00",
+            "message_id": 6668,
+            "message_key": "@testingcatalog:6668"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Notion is working on AI-first Workspaces to enable users to build AI-powered organisations. This feature is expected to arrive soon in Early Access. \n\nAI-first Workspaces may come along with the introduction of \"AI Credits\" as well. \n\nAnd new internal models, too?",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Notion sedang membangunkan AI-first Workspaces untuk membolehkan pengguna membina organisasi yang dikuasakan AI. Ciri ini dijangka akan tiba tidak lama lagi dalam Early Access.\n\nAI-first Workspaces mungkin akan datang bersama dengan pengenalan \"AI Credits\" juga.\n\nDan model dalaman baharu juga?",
+            "date": "2025-12-29T19:15:07+00:00",
+            "message_id": 6667,
+            "message_key": "@testingcatalog:6667"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Notion tests new internal models and AI-first Workspaces**](https://www.testingcatalog.com/notion-tests-new-internal-models-and-ai-first-workspaces/)\n\nNotion is testing AI-first workspace tools with selected users, including a new sidebar layout, centralized AI chat access, AI-powered page editing controls, and a credits system for tracking and managing AI usage across teams.\n\n\ud83d\uddde #notion",
+            "translated_text": "[**Notion sedang menguji model dalaman baharu dan Ruang Kerja Berasaskan AI**](https://www.testingcatalog.com/notion-tests-new-internal-models-and-ai-first-workspaces/)\n\nNotion sedang menguji alat ruang kerja berasaskan AI dengan pengguna terpilih, termasuklah susun atur bar sisi baharu, akses sembang AI berpusat, kawalan penyuntingan halaman berkuasa AI, dan sistem kredit untuk menjejak serta mengurus penggunaan AI dalam kalangan pasukan.\n\n\ud83d\uddde #notion",
+            "date": "2025-12-29T19:09:24+00:00",
+            "message_id": 6666,
+            "message_key": "@testingcatalog:6666"
         }
     ]
 }
