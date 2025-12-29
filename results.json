@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-29T21:21:29.706859",
+    "timestamp": "2025-12-29T23:22:24.723299",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3696,6 +3696,46 @@
             "date": "2025-12-29T21:04:08+00:00",
             "message_id": 6671,
             "message_key": "@testingcatalog:6671"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus AI, acquired by Meta, is a current SOTA with a 2.5% achievement on the \"Remote Labor Index\" benchmark (Introduced by Meta). \n \nThe Remote Labor Index measures AI automation of remote work. \n\nSoon to know how much 2.5% is worth \ud83d\udc40",
+            "translated_text": "Manus AI, yang dah diambil alih oleh Meta, sekarang ni adalah SOTA (State of the Art) dengan pencapaian 2.5% pada penanda aras \"Remote Labor Index\" (yang diperkenalkan oleh Meta).\n\n\"Remote Labor Index\" ni mengukur automasi AI untuk kerja jarak jauh.\n\nTak lama lagi kita akan tahu berapa nilai 2.5% tu \ud83d\udc40",
+            "date": "2025-12-29T23:18:18+00:00",
+            "message_id": 6675,
+            "message_key": "@testingcatalog:6675"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta acquires Manus to expand its AI Agents platform**](https://www.testingcatalog.com/meta-acquires-manus-to-expand-its-ai-agents-platform/)\n\nMeta has acquired Manus to integrate its AI agent technology, known for automating complex tasks and workflows. The move aims to scale automation across Meta\u2019s platforms, targeting enterprise and individual users with high-volume AI capabilities.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Meta dah ambil alih Manus untuk kembangkan platform Ejen AI mereka**](https://www.testingcatalog.com/meta-acquires-manus-to-expand-its-ai-agents-platform/)\n\nMeta dah ambil alih Manus untuk gabungkan teknologi ejen AI mereka, yang terkenal boleh automatikkan tugasan dan aliran kerja yang rumit. Langkah ni bertujuan untuk tingkatkan automasi di semua platform Meta, sasarkan pengguna korporat dan individu dengan keupayaan AI yang tinggi.\n\n\ud83d\uddde #manus",
+            "date": "2025-12-29T22:54:27+00:00",
+            "message_id": 6674,
+            "message_key": "@testingcatalog:6674"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-29T22:34:52+00:00",
+            "message_id": 6673,
+            "message_key": "@testingcatalog:6673"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Manus AI got acquired by Meta. \n\n\u201cWe\u2019re excited about what the future holds with Meta and Manus working together and we will continue to iterate the product and serve users that have defined Manus from the beginning.\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Meta dah beli Manus AI.\n\n\u201cKami teruja dengan masa depan yang menanti bila Meta dan Manus bekerjasama, dan kami akan terus membangunkan produk serta berkhidmat kepada pengguna yang telah bersama Manus sejak awal.\u201d",
+            "date": "2025-12-29T22:34:52+00:00",
+            "message_id": 6672,
+            "message_key": "@testingcatalog:6672"
         }
     ]
 }
