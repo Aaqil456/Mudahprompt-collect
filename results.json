@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-29T14:25:19.145134",
+    "timestamp": "2025-12-29T17:21:17.316626",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3626,6 +3626,16 @@
             "date": "2025-12-29T13:54:57+00:00",
             "message_id": 345,
             "message_key": "@AItoolboxdaily:345"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**UPDF 2.0 launches with AI, batch tools and cross-platform support**](https://www.testingcatalog.com/updf-2-0-launches-with-ai-batch-tools-and-cross-platform-support/)\n\nUPDF 2.0 introduces cross-platform PDF tools with AI-powered document summarization, batch processing functions, a customizable interface, and academic research aids, aiming to rival Adobe Acrobat with flexible licensing and multi-device support.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**UPDF 2.0 Dilancarkan dengan AI, Fungsi Pemprosesan Pukal dan Sokongan Pelbagai Platform**](https://www.testingcatalog.com/updf-2-0-launches-with-ai-batch-tools-and-cross-platform-support/)\n\nUPDF 2.0 memperkenalkan alat PDF pelbagai platform dengan ringkasan dokumen berkuasa AI, fungsi pemprosesan pukal, antara muka yang boleh disesuaikan, dan bantuan penyelidikan akademik. Ia bertujuan untuk menyaingi Adobe Acrobat dengan pelesenan yang fleksibel dan sokongan pelbagai peranti.\n\n\ud83d\uddde #ditaja",
+            "date": "2025-12-29T17:15:18+00:00",
+            "message_id": 6665,
+            "message_key": "@testingcatalog:6665"
         }
     ]
 }
