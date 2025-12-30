@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-30T14:24:09.573083",
+    "timestamp": "2025-12-30T20:28:02.699584",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3806,6 +3806,26 @@
             "date": "2025-12-30T14:10:43+00:00",
             "message_id": 6681,
             "message_key": "@testingcatalog:6681"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-30T19:23:06+00:00",
+            "message_id": 6683,
+            "message_key": "@testingcatalog:6683"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Adobe entered a multi-year strategic partnership with Runway.\n\n\u201cAdobe will be Runway\u2019s preferred API creativity partner, offering creators exclusive early access to Runway\u2019s new models \u2013 starting with Runway\u2019s Gen-4.5 which is now available in the Adobe Firefly app\u201d",
+            "translated_text": "BERITA PENTING \ud83d\udea8: Adobe dah buat kerjasama strategik selama beberapa tahun dengan Runway.\n\n\u201cAdobe akan jadi rakan kongsi kreativiti API pilihan Runway, bagi peluang akses awal eksklusif kepada para pencipta untuk model-model baharu Runway \u2013 bermula dengan Gen-4.5 Runway yang sekarang dah ada dalam aplikasi Adobe Firefly.\u201d",
+            "date": "2025-12-30T19:23:06+00:00",
+            "message_id": 6682,
+            "message_key": "@testingcatalog:6682"
         }
     ]
 }
