@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-29T23:22:24.723299",
+    "timestamp": "2025-12-30T01:53:19.439535",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3736,6 +3736,56 @@
             "date": "2025-12-29T22:34:52+00:00",
             "message_id": 6672,
             "message_key": "@testingcatalog:6672"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-30T01:30:58+00:00",
+            "message_id": 6680,
+            "message_key": "@testingcatalog:6680"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Z AI, a company behind GLM model family, is going for an IPO on Jan 8 and set to raise $560 million. \n\n\u201cChinese AI Firm Knowledge Atlas Seeks HK$4.35b in Hong Kong IPO\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Z AI, syarikat di sebalik keluarga model GLM, akan melancarkan IPO pada 8 Januari dan dijangka mengumpul $560 juta.\n\n\u201cFirma AI China Knowledge Atlas Menyasarkan HK$4.35 bilion dalam IPO di Hong Kong\u201d",
+            "date": "2025-12-30T01:30:57+00:00",
+            "message_id": 6679,
+            "message_key": "@testingcatalog:6679"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2025-12-30T00:54:06+00:00",
+            "message_id": 6678,
+            "message_key": "@testingcatalog:6678"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Minimax-M2.1 secures 6th spot on web dev arena, becoming a leading open source model in this category.",
+            "translated_text": "Minimax-M2.1 mendapat tempat ke-6 dalam arena pembangunan web, menjadikannya model sumber terbuka terkemuka dalam kategori ini.",
+            "date": "2025-12-30T00:54:06+00:00",
+            "message_id": 6677,
+            "message_key": "@testingcatalog:6677"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok Imagine on the web now supports 5 different aspect ratios for image and video generation.",
+            "translated_text": "Grok Imagine di web kini menyokong 5 nisbah aspek berbeza untuk menjana imej dan video.",
+            "date": "2025-12-30T00:51:48+00:00",
+            "message_id": 6676,
+            "message_key": "@testingcatalog:6676"
         }
     ]
 }
