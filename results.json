@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-31T20:26:27.750145",
+    "timestamp": "2026-01-02T01:56:10.379149",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3866,6 +3866,16 @@
             "date": "2025-12-31T20:08:27+00:00",
             "message_id": 6687,
             "message_key": "@testingcatalog:6687"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Pickle announced Pickle 1, new smart glasses with its own PickleOS and unique design. \n\nUS shipping is expected to start in Q2 2026 and international orders will be shipped closer to the end of the year. \n\nWant it or not, glasses are a very natural form factor for AI.",
+            "translated_text": "Pickle dah umumkan Pickle 1, cermin mata pintar baru dengan PickleOS sendiri dan rekaan unik. Penghantaran ke US dijangka bermula pada suku kedua 2026 dan pesanan antarabangsa pula akan dihantar menjelang hujung tahun. Suka atau tak, cermin mata memang bentuk yang sangat semula jadi untuk AI.",
+            "date": "2026-01-02T00:34:22+00:00",
+            "message_id": 6688,
+            "message_key": "@testingcatalog:6688"
         }
     ]
 }
