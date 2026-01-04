@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-04T18:32:41.236703",
+    "timestamp": "2026-01-04T22:22:40.168011",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -3986,6 +3986,16 @@
             "date": "2026-01-04T18:13:36+00:00",
             "message_id": 6695,
             "message_key": "@testingcatalog:6695"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "XREAL launched New AR glasses XREAL 1S at $449. \n\n\"The world\u2019s first on\u2011glasses 3D spatial technology that transforms all your 2D games, movies, and photos into an immersive 3D experience\" \n\nWe will likely see some demos from XREAL during CES 2026 as well.",
+            "translated_text": "XREAL melancarkan cermin mata AR baharu, XREAL 1S, pada harga $449.\n\n\"Teknologi spatial 3D atas cermin mata yang pertama di dunia yang mengubah semua permainan, filem, dan gambar 2D anda menjadi pengalaman 3D yang mendalam.\"\n\nKita mungkin akan melihat beberapa demo dari XREAL semasa CES 2026 juga.",
+            "date": "2026-01-04T21:21:20+00:00",
+            "message_id": 6696,
+            "message_key": "@testingcatalog:6696"
         }
     ]
 }
