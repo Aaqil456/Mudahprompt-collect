@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-06T20:27:44.093394",
+    "timestamp": "2026-01-06T22:24:32.272143",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4206,6 +4206,36 @@
             "date": "2026-01-06T20:07:03+00:00",
             "message_id": 6717,
             "message_key": "@testingcatalog:6717"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI raises $20 billion to expand Grok AI models and enterprise tools**](https://www.testingcatalog.com/xai-raises-20-billion-to-expand-grok-ai-models-and-enterprise-tools/)\n\nxAI closed a $20B Series E round, exceeding its $15B goal, to scale its compute infrastructure and expand its Grok model suite. The company also introduced new enterprise tools, targeting developers and business users.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI kumpul $20 bilion untuk kembangkan model AI Grok dan alatan perusahaan**](https://www.testingcatalog.com/xai-raises-20-billion-to-expand-grok-ai-models-and-enterprise-tools/)\n\nxAI telah menutup pusingan pembiayaan Siri E sebanyak $20 bilion, melebihi sasaran $15 bilion mereka, untuk meningkatkan infrastruktur pengkomputeran dan mengembangkan rangkaian model Grok mereka. Syarikat itu juga memperkenalkan alatan perusahaan baharu, yang menyasarkan pembangun dan pengguna perniagaan.\n\n\ud83d\uddde #grok",
+            "date": "2026-01-06T22:10:41+00:00",
+            "message_id": 6721,
+            "message_key": "@testingcatalog:6721"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor rolls out dynamic context discovery for coding agents**](https://www.testingcatalog.com/cursor-rolls-out-dynamic-context-discovery-for-coding-agents/)\n\nCursor introduces dynamic context discovery for its coding agent platform, reducing token usage by 46.9% in tests. By storing outputs as files and retrieving data on demand, the system addresses context bloat and improves workflow efficiency.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor perkenalkan penemuan konteks dinamik untuk ejen pengekodan**](https://www.testingcatalog.com/cursor-rolls-out-dynamic-context-discovery-for-coding-agents/)\n\nCursor memperkenalkan penemuan konteks dinamik untuk platform ejen pengekodannya, mengurangkan penggunaan token sebanyak 46.9% dalam ujian. Dengan menyimpan output sebagai fail dan mendapatkan semula data mengikut permintaan, sistem ini menangani masalah 'context bloat' dan meningkatkan kecekapan aliran kerja.\n\n\ud83d\uddde #cursor",
+            "date": "2026-01-06T21:32:14+00:00",
+            "message_id": 6720,
+            "message_key": "@testingcatalog:6720"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "AI Studio got a new UI component for Tools, directly in the prompt bar. In addition, the \"Automatic Function Response\" option is in the works. \n\n\"Gemini automatically generates a response for each function call\"",
+            "translated_text": "AI Studio dah ada komponen UI baru untuk Tools, terus dekat bar prompt. Selain tu, pilihan \"Automatic Function Response\" pun sedang diusahakan.\n\n\"Gemini akan menjana respons secara automatik untuk setiap panggilan fungsi.\"",
+            "date": "2026-01-06T21:23:38+00:00",
+            "message_id": 6719,
+            "message_key": "@testingcatalog:6719"
         }
     ]
 }
