@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-06T16:33:59.551950",
+    "timestamp": "2026-01-06T17:25:36.865732",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4166,6 +4166,26 @@
             "date": "2026-01-06T15:51:50+00:00",
             "message_id": 6711,
             "message_key": "@testingcatalog:6711"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta brings new hands-free tools to Ray-Ban Display in US rollout**](https://www.testingcatalog.com/meta-brings-new-hands-free-tools-to-ray-ban-display-in-us-rollout/)\n\nMeta introduces Teleprompter and EMG Handwriting for Ray-Ban Display glasses, enabling hands-free messaging and on-glasses navigation. U.S. rollout is prioritized, with international launches delayed due to limited inventory.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta memperkenalkan alatan bebas tangan baharu untuk Ray-Ban Display dalam pelancaran di AS**](https://www.testingcatalog.com/meta-brings-new-hands-free-tools-to-ray-ban-display-in-us-rollout/)\n\nMeta memperkenalkan Teleprompter dan EMG Handwriting untuk cermin mata Ray-Ban Display, membolehkan pengguna menghantar mesej dan navigasi terus pada cermin mata tanpa perlu guna tangan. Pelancaran di AS diberi keutamaan, manakala pelancaran antarabangsa ditangguhkan disebabkan stok terhad.\n\n\ud83d\uddde #meta",
+            "date": "2026-01-06T16:54:04+00:00",
+            "message_id": 6716,
+            "message_key": "@testingcatalog:6716"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is releasing a Teleprompter and EMG Handwriting features for Meta Display Glasses to early access users. \n\n\"Early Access program for Ray-Ban Meta glasses is available to a limited number of customers in the US and Canada.\"",
+            "translated_text": "Meta sedang melancarkan ciri Teleprompter dan EMG Handwriting untuk Meta Display Glasses kepada pengguna akses awal.\n\nProgram Akses Awal untuk cermin mata Ray-Ban Meta tersedia kepada sebilangan kecil pelanggan di AS dan Kanada.",
+            "date": "2026-01-06T16:41:42+00:00",
+            "message_id": 6715,
+            "message_key": "@testingcatalog:6715"
         }
     ]
 }
