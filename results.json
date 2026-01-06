@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-06T09:29:32.543006",
+    "timestamp": "2026-01-06T15:28:19.843184",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4076,6 +4076,56 @@
             "date": "2026-01-06T08:42:14+00:00",
             "message_id": 352,
             "message_key": "@AItoolboxdaily:352"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Runway launches Gen-4.5 and GWM-1 models on NVIDIA Rubin**](https://www.testingcatalog.com/runway-launches-gen-4-5-and-gwm-1-models-on-nvidia-rubin/)\n\nRunway deployed its Gen-4.5 video model and GWM-1 world model on NVIDIA\u2019s Rubin platform, demonstrating real-time, high-fidelity video generation and physics-aware simulations for enterprise and research use in demanding AI workloads.\n\n\ud83d\uddde #runway",
+            "translated_text": "[**Runway melancarkan model Gen-4.5 dan GWM-1 pada NVIDIA Rubin**](https://www.testingcatalog.com/runway-launches-gen-4-5-and-gwm-1-models-on-nvidia-rubin/)\n\nRunway telah menggunakan model video Gen-4.5 dan model dunia GWM-1 mereka pada platform Rubin NVIDIA, menunjukkan penjanaan video berkualiti tinggi secara masa nyata dan simulasi yang peka fizik untuk kegunaan perusahaan dan penyelidikan dalam beban kerja AI yang mencabar.\n\n\ud83d\uddde #runway",
+            "date": "2026-01-06T15:22:15+00:00",
+            "message_id": 6710,
+            "message_key": "@testingcatalog:6710"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI might be testing GPT-5.2-Codex-Max already with some users as there are multiple reports where Codex claims to be upgraded. \n\nMine is still 5.1, what did you get? \ud83d\udc40",
+            "translated_text": "OpenAI mungkin sedang menguji GPT-5.2-Codex-Max dengan beberapa pengguna dah, sebab ada banyak laporan yang mana Codex cakap dia dah di-upgrade.\n\nAku punya masih 5.1, kau dapat apa? \ud83d\udc40",
+            "date": "2026-01-06T15:15:06+00:00",
+            "message_id": 6709,
+            "message_key": "@testingcatalog:6709"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-06T15:04:34+00:00",
+            "message_id": 6708,
+            "message_key": "@testingcatalog:6708"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta delayed international rollout of its Display smart glasses according to Engadget due to a very high demand. \n\nGlasses market will probably be one of the hottest this year. Even non Display Meta glasses will make most people to feel the future tbh.",
+            "translated_text": "",
+            "date": "2026-01-06T15:04:34+00:00",
+            "message_id": 6707,
+            "message_key": "@testingcatalog:6707"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-06T14:44:33+00:00",
+            "message_id": 6706,
+            "message_key": "@testingcatalog:6706"
         }
     ]
 }
