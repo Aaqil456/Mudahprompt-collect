@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-08T21:24:48.425661",
+    "timestamp": "2026-01-08T23:20:44.344365",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4436,6 +4436,36 @@
             "date": "2026-01-08T20:51:53+00:00",
             "message_id": 6739,
             "message_key": "@testingcatalog:6739"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**PayPal and Microsoft bring in-chat shopping to Copilot in US**](https://www.testingcatalog.com/paypal-and-microsoft-bring-in-chat-shopping-to-copilot-in-us/)\n\nPayPal and Microsoft launched Copilot Checkout, letting U.S. shoppers complete purchases directly within Copilot. PayPal powers checkout, inventory sync, and payments, aiming to position itself as the default payment layer in AI commerce.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**PayPal dan Microsoft bawa beli-belah dalam sembang ke Copilot di AS**](https://www.testingcatalog.com/paypal-and-microsoft-bring-in-chat-shopping-to-copilot-in-us/)\n\nPayPal dan Microsoft dah lancarkan Copilot Checkout, yang membolehkan pembeli di AS selesaikan pembelian terus dalam Copilot. PayPal menguasakan proses pembayaran, penyegerakan inventori, dan pembayaran, dengan matlamat untuk meletakkan dirinya sebagai lapisan pembayaran utama dalam perdagangan AI.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-01-08T22:56:49+00:00",
+            "message_id": 6744,
+            "message_key": "@testingcatalog:6744"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-08T22:36:23+00:00",
+            "message_id": 6743,
+            "message_key": "@testingcatalog:6743"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PayPal and Microsoft are teaming up to launch Copilot Checkout, enabling shoppers to\u00a0discover, decide, and pay right inside the Copilot app.",
+            "translated_text": "PayPal dan Microsoft bekerjasama untuk melancarkan Copilot Checkout, membolehkan pembeli untuk mencari, membuat keputusan, dan membayar terus dalam aplikasi Copilot.",
+            "date": "2026-01-08T22:36:23+00:00",
+            "message_id": 6742,
+            "message_key": "@testingcatalog:6742"
         }
     ]
 }
