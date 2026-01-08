@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-08T18:32:59.930611",
+    "timestamp": "2026-01-08T21:24:48.425661",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4406,6 +4406,36 @@
             "date": "2026-01-08T18:14:56+00:00",
             "message_id": 6736,
             "message_key": "@testingcatalog:6736"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches ChatGPT for Healthcare with US hospitals**](https://www.testingcatalog.com/openai-launches-chatgpt-for-healthcare-with-us-hospitals/)\n\nOpenAI launched OpenAI for Healthcare, a suite of HIPAA-compliant AI tools centered on GPT-5.2, tailored for medical workflows, clinical documentation, and evidence-based content, now deployed across major healthcare institutions.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI Melancarkan ChatGPT untuk Penjagaan Kesihatan dengan Hospital-hospital AS**](https://www.testingcatalog.com/openai-launches-chatgpt-for-healthcare-with-us-hospitals/)\n\nOpenAI melancarkan OpenAI for Healthcare, satu set alatan AI yang patuh HIPAA dan berpusat pada GPT-5.2. Ia disesuaikan untuk aliran kerja perubatan, dokumentasi klinikal, dan kandungan berasaskan bukti, dan kini telah digunakan di institusi penjagaan kesihatan utama.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-01-08T21:18:30+00:00",
+            "message_id": 6741,
+            "message_key": "@testingcatalog:6741"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Early look at the upcoming Grok Build, a vibe coding solution from xAI. \n\nGrok Code will initially arrive in the form of a local agent with a CLI interface. \n\n\"Ask Grok to plan, search and build\"\n\nMore details above \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Tinjauan awal Grok Build yang bakal tiba, satu penyelesaian pengekodan 'vibe' dari xAI.\n\nGrok Code pada mulanya akan tiba dalam bentuk ejen tempatan dengan antaramuka CLI.\n\n\"Minta Grok untuk merancang, mencari dan membina\"\n\nMaklumat lanjut di atas \ud83d\udc40",
+            "date": "2026-01-08T21:05:19+00:00",
+            "message_id": 6740,
+            "message_key": "@testingcatalog:6740"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early look at Grok Build, upcoming vibe coding agent from xAI**](https://www.testingcatalog.com/early-look-at-grok-build-upcoming-vibe-coding-agent-from-xai/)\n\nGrok 4.2 is expected to introduce major updates including Grok Code CLI and web components, focusing on secure local agents via a modular interface with agent configuration tools and command-line support.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**Pandangan awal tentang Grok Build, ejen pengekodan vibe yang akan datang dari xAI**](https://www.testingcatalog.com/early-look-at-grok-build-upcoming-vibe-coding-agent-from-xai/)\n\nGrok 4.2 dijangka akan memperkenalkan kemas kini utama termasuk Grok Code CLI dan komponen web, dengan tumpuan kepada ejen tempatan yang selamat melalui antara muka modular dengan alatan konfigurasi ejen dan sokongan baris arahan.\n\n\ud83d\uddde #grok",
+            "date": "2026-01-08T20:51:53+00:00",
+            "message_id": 6739,
+            "message_key": "@testingcatalog:6739"
         }
     ]
 }
