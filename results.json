@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-08T14:28:26.788885",
+    "timestamp": "2026-01-08T15:29:42.943022",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4356,6 +4356,36 @@
             "date": "2026-01-08T14:17:05+00:00",
             "message_id": 6732,
             "message_key": "@testingcatalog:6732"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google brings AI Inbox to Gmail with Gemini-powered summaries**](https://www.testingcatalog.com/google-brings-ai-inbox-to-gmail-with-gemini-powered-summaries/)\n\nGoogle introduces AI Overviews in Gmail using Gemini to summarize email threads and answer user queries in natural language. Summaries are free for all, while advanced inbox querying is limited to paid AI Pro and Ultra subscribers.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google bawa AI Inbox ke Gmail dengan ringkasan dikuasakan Gemini**](https://www.testingcatalog.com/google-brings-ai-inbox-to-gmail-with-gemini-powered-summaries/)\n\nGoogle memperkenalkan AI Overviews dalam Gmail, menggunakan Gemini untuk meringkaskan perbualan e-mel dan menjawab soalan pengguna dalam bahasa semula jadi. Ringkasan ini percuma untuk semua, manakala pertanyaan peti masuk yang lebih canggih terhad kepada pelanggan berbayar AI Pro dan Ultra.\n\n\ud83d\uddde #gemini",
+            "date": "2026-01-08T14:53:40+00:00",
+            "message_id": 6735,
+            "message_key": "@testingcatalog:6735"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-08T14:48:44+00:00",
+            "message_id": 6734,
+            "message_key": "@testingcatalog:6734"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Major Grok Code upgrade is planned for next month. \n\nLikely in addition to: \n- Grok Code CLI\n- Grok Code web\n- Background Agents",
+            "translated_text": "Peningkatan besar Grok Code dirancang untuk bulan depan.\n\nMungkin juga termasuk:\n- Grok Code CLI\n- Grok Code web\n- Background Agents",
+            "date": "2026-01-08T14:48:44+00:00",
+            "message_id": 6733,
+            "message_key": "@testingcatalog:6733"
         }
     ]
 }
