@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-09T22:24:01.405956",
+    "timestamp": "2026-01-09T23:23:06.717650",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4536,6 +4536,26 @@
             "date": "2026-01-09T22:01:32+00:00",
             "message_id": 6751,
             "message_key": "@testingcatalog:6751"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-09T22:44:26+00:00",
+            "message_id": 6753,
+            "message_key": "@testingcatalog:6753"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Midjourney released Niji V7 \ud83d\udc40\n\n\u201cThis model features improved anime coherence, prompt understanding, text rendering, and sref performance\u201c\n\nNiji is a specialized image generation model focused on anime and illustrative styles",
+            "translated_text": "Midjourney dah keluarkan Niji V7 \ud83d\udc40\n\nModel ni ada peningkatan dari segi keselarasan anime, pemahaman prompt, paparan teks, dan prestasi sref.\n\nNiji ialah model penjanaan imej khusus yang fokus pada gaya anime dan ilustrasi.",
+            "date": "2026-01-09T22:44:26+00:00",
+            "message_id": 6752,
+            "message_key": "@testingcatalog:6752"
         }
     ]
 }
