@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-09T19:22:04.542682",
+    "timestamp": "2026-01-09T22:24:01.405956",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4526,6 +4526,16 @@
             "date": "2026-01-09T18:40:40+00:00",
             "message_id": 354,
             "message_key": "@AItoolboxdaily:354"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI test ChatGPT Jobs to help with your next career change**](https://www.testingcatalog.com/openai-developing-chatgpt-jobs-to-offer-ai-powered-jobs-search/)\n\nOpenAI is developing ChatGPT Jobs, a career-focused GPT agent designed to assist users with resume reviews, role matching, and career planning through a dedicated interface, aligning with its strategy to expand productivity tools.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI uji ChatGPT Jobs untuk bantu anda dalam perubahan kerjaya seterusnya**](https://www.testingcatalog.com/openai-developing-chatgpt-jobs-to-offer-ai-powered-jobs-search/)\n\nOpenAI sedang membangunkan ChatGPT Jobs, sebuah ejen GPT yang berfokuskan kerjaya, direka untuk bantu pengguna dengan semakan resume, padanan peranan, dan perancangan kerjaya melalui antara muka khas. Ini selaras dengan strategi mereka untuk meluaskan alatan produktiviti.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-01-09T22:01:32+00:00",
+            "message_id": 6751,
+            "message_key": "@testingcatalog:6751"
         }
     ]
 }
