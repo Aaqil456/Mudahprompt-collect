@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-08T23:20:44.344365",
+    "timestamp": "2026-01-09T09:31:04.409490",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4466,6 +4466,26 @@
             "date": "2026-01-08T22:36:23+00:00",
             "message_id": 6742,
             "message_key": "@testingcatalog:6742"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-09T09:29:51+00:00",
+            "message_id": 6747,
+            "message_key": "@testingcatalog:6747"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[Allianz partners with Anthropic to scale responsible AI in insurance](https://www.testingcatalog.com/allianz-partners-with-anthropic-to-scale-responsible-ai-in-insurance/)\n\nBREAKING \ud83d\udea8: Allianz SE and Anthropic today announced a global partnership to accelerate the adoption of responsible AI at Allianz.\n\nDario Amodei: \u201cInsurance is an industry where the stakes of using AI are particularly high: the decisions can affect millions of people\u201d\n\n\ud83d\uddde #claude",
+            "translated_text": "[Allianz bekerjasama dengan Anthropic untuk kembangkan AI bertanggungjawab dalam insurans](https://www.testingcatalog.com/allianz-partners-with-anthropic-to-scale-responsible-ai-in-insurance/)\n\nBERITA TERKINI \ud83d\udea8: Allianz SE dan Anthropic hari ini umumkan kerjasama global untuk percepatkan penggunaan AI bertanggungjawab di Allianz.\n\nDario Amodei: \u201cInsurans ni satu industri yang risiko guna AI dia sangat tinggi: keputusan yang dibuat boleh beri kesan pada jutaan orang.\u201d\n\n\ud83d\uddde #claude",
+            "date": "2026-01-09T09:29:51+00:00",
+            "message_id": 6746,
+            "message_key": "@testingcatalog:6746"
         }
     ]
 }
