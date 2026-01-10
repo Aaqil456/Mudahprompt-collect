@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-09T23:23:06.717650",
+    "timestamp": "2026-01-10T12:44:33.000245",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4556,6 +4556,16 @@
             "date": "2026-01-09T22:44:26+00:00",
             "message_id": 6752,
             "message_key": "@testingcatalog:6752"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft Copilot now supports native checkout inside the app, powered by Stripe. This follows an earlier announcement of PayPal support in Copilot Shopping. \n\nAI shopping is a big bet for Microsoft \ud83d\udc40",
+            "translated_text": "Sekarang, Microsoft Copilot dah boleh buat pembayaran terus dalam aplikasi, dengan sokongan dari Stripe. Ini adalah susulan dari pengumuman sebelum ni yang Copilot Shopping dah ada sokongan PayPal. Nampaknya, membeli-belah guna AI ni memang satu langkah besar untuk Microsoft \ud83d\udc40",
+            "date": "2026-01-10T12:27:50+00:00",
+            "message_id": 6754,
+            "message_key": "@testingcatalog:6754"
         }
     ]
 }
