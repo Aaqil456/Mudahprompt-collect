@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-12T09:35:50.269539",
+    "timestamp": "2026-01-12T17:27:12.175872",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4646,6 +4646,56 @@
             "date": "2026-01-12T09:23:45+00:00",
             "message_id": 357,
             "message_key": "@AItoolboxdaily:357"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: X1 announced 1XWM, a new World Model integrated into the NEO humanoid robot. A new system enables NEO to learn from its past activities. \n\n\"We are excited to build a future where NEO can teach itself to master any task in any home!\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: X1 mengumumkan 1XWM, sebuah Model Dunia baharu yang diintegrasikan ke dalam robot humanoid NEO. Sistem baharu ini membolehkan NEO belajar daripada aktiviti-aktiviti lalu.\n\n\"Kami teruja untuk membina masa depan di mana NEO boleh mengajar dirinya sendiri untuk menguasai apa-apa tugas di mana-mana rumah!\"",
+            "date": "2026-01-12T17:09:31+00:00",
+            "message_id": 6764,
+            "message_key": "@testingcatalog:6764"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-12T16:54:06+00:00",
+            "message_id": 6763,
+            "message_key": "@testingcatalog:6763"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Apple and Google entered into a multi year partnership on using Gemini models as a base for next Apple Foundation models and Siri.\n\n\u201cThese models will help power future Apple Intelligence features, including a more personalized Siri coming this year.\u201d\n\nIt happened \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Apple dan Google dah jalin kerjasama bertahun-tahun untuk guna model Gemini sebagai asas untuk model Apple Foundation dan Siri yang akan datang.\n\n\u201cModel-model ni akan bantu gerakkan ciri-ciri Apple Intelligence masa depan, termasuk Siri yang lebih peribadi yang akan datang tahun ni.\u201d\n\nDah jadi pun \ud83d\udc40",
+            "date": "2026-01-12T16:54:06+00:00",
+            "message_id": 6762,
+            "message_key": "@testingcatalog:6762"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-12T16:49:53+00:00",
+            "message_id": 6761,
+            "message_key": "@testingcatalog:6761"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic introduced Claude for Healthcare in response to OpenAI announcements. \n\n\u201cWe\u2019re introducing Claude for Healthcare, a complementary set of tools that allow healthcare providers, payers, and consumers to use Claude for medical purposes through HIPAA-ready products\u201d",
+            "translated_text": "Anthropic dah memperkenalkan Claude for Healthcare, ini sebagai respons kepada pengumuman dari OpenAI.\n\nMereka kata, \"Kami memperkenalkan Claude for Healthcare, satu set alatan pelengkap yang membolehkan penyedia penjagaan kesihatan, pembayar, dan pengguna untuk menggunakan Claude bagi tujuan perubatan melalui produk yang mematuhi HIPAA.\"",
+            "date": "2026-01-12T16:49:53+00:00",
+            "message_id": 6760,
+            "message_key": "@testingcatalog:6760"
         }
     ]
 }
