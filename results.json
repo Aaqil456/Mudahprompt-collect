@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-11T18:32:38.235316",
+    "timestamp": "2026-01-12T09:35:50.269539",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4636,6 +4636,16 @@
             "date": "2026-01-11T17:41:59+00:00",
             "message_id": 6759,
             "message_key": "@testingcatalog:6759"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**AI is rapidly taking over the internet, outpacing humans on the largest platforms:\n**\n\u25cf AI streamer Neuro-sama leads on Twitch with 307,000 subscribers, while the closest human competitor has only 77,000.\n\n\u25cf On the web, AI writes ~52% of all new articles, whereas its share back in 2020 was only 5%.\n\n\u25cf In music, algorithms create 34% of all new tracks, approximately 50,000 songs per day, and 97% of listeners cannot distinguish them from human-made ones.\n\n\u25cf On YouTube, every fifth video recommended to newcomers is AI-generated content.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**AI semakin pantas menguasai internet, meninggalkan manusia jauh di belakang di platform-platform terbesar:**\n\n\u25cf Streamer AI Neuro-sama mendahului di Twitch dengan 307,000 pelanggan, manakala pesaing manusia terdekat cuma ada 77,000.\n\n\u25cf Di web, AI menulis kira-kira 52% daripada semua artikel baru, sedangkan bahagiannya pada tahun 2020 cuma 5%.\n\n\u25cf Dalam muzik, algoritma menghasilkan 34% daripada semua lagu baru, kira-kira 50,000 lagu sehari, dan 97% pendengar tak dapat beza pun dengan yang dibuat manusia.\n\n\u25cf Di YouTube, setiap satu daripada lima video yang disyorkan kepada pengguna baru adalah kandungan yang dihasilkan oleh AI.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-12T09:23:45+00:00",
+            "message_id": 357,
+            "message_key": "@AItoolboxdaily:357"
         }
     ]
 }
