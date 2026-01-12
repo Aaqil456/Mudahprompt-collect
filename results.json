@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-12T21:24:31.365012",
+    "timestamp": "2026-01-12T22:21:53.343086",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4736,6 +4736,26 @@
             "date": "2026-01-12T20:46:36+00:00",
             "message_id": 6767,
             "message_key": "@testingcatalog:6767"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic debuts Cowork agent to automate your desktop work**](https://www.testingcatalog.com/anthropic-debuts-cowork-agent-to-automate-your-desktop-work/)\n\nAnthropic's Cowork feature in the Claude macOS app allows Claude Max users to automate file-based tasks by granting folder access, supporting real-time task delegation, data processing, and workflow control with user-defined permissions.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic memperkenalkan ejen Cowork untuk mengautomasikan kerja desktop anda**](https://www.testingcatalog.com/anthropic-debuts-cowork-agent-to-automate-your-desktop-work/)\n\nCiri Cowork dari Anthropic dalam aplikasi Claude macOS membolehkan pengguna Claude Max mengautomasikan tugasan berasaskan fail dengan memberikan akses folder, menyokong delegasi tugasan masa nyata, pemprosesan data, dan kawalan aliran kerja dengan kebenaran yang ditetapkan pengguna.\n\n\ud83d\uddde #claude",
+            "date": "2026-01-12T21:36:57+00:00",
+            "message_id": 6770,
+            "message_key": "@testingcatalog:6770"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**1X unveils 1XWM world model for NEO robot platform**](https://www.testingcatalog.com/1x-unveils-1xwm-world-model-for-neo-robot-platform/)\n\n1X Technologies has integrated its video-pretrained world model, 1XWM, into the NEO robot, enabling faster adaptation to tasks using internet-scale video data and egocentric inputs, with broader deployment expected after validation.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**1X memperkenalkan model dunia 1XWM untuk platform robot NEO**](https://www.testingcatalog.com/1x-unveils-1xwm-world-model-for-neo-robot-platform/)\n\n1X Technologies telah menyepadukan model dunia 1XWM yang dilatih menggunakan video ke dalam robot NEO. Ini membolehkan robot itu menyesuaikan diri dengan tugas dengan lebih pantas menggunakan data video berskala internet dan input egocentric, dan dijangka akan digunakan secara lebih meluas selepas disahkan.\n\n\ud83d\uddde #ai",
+            "date": "2026-01-12T21:28:50+00:00",
+            "message_id": 6769,
+            "message_key": "@testingcatalog:6769"
         }
     ]
 }
