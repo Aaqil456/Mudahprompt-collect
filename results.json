@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-12T17:27:12.175872",
+    "timestamp": "2026-01-12T20:28:38.331421",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4696,6 +4696,26 @@
             "date": "2026-01-12T16:49:53+00:00",
             "message_id": 6760,
             "message_key": "@testingcatalog:6760"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Claude Cowork is live! Claude Cowork is Claude Code for everything and uses Claude Desktop app to complete a wide range of different tasks. \n\nNow available for Max subscribers or via the waitlist for other plans. \n\nOPT-IN below \ud83d\udc40",
+            "translated_text": "Berita Terkini \ud83d\udea8: Claude Cowork dah boleh guna! Claude Cowork ni macam Claude Code untuk semua benda, dan dia guna aplikasi Claude Desktop untuk siapkan macam-macam kerja.\n\nBoleh guna sekarang untuk pelanggan Max, atau kena masuk senarai menunggu kalau guna pelan lain.\n\nDaftar sekarang kat bawah \ud83d\udc40",
+            "date": "2026-01-12T20:21:16+00:00",
+            "message_id": 6766,
+            "message_key": "@testingcatalog:6766"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus released a Meeting Minutes feature that allows users to automatically transform their conversations into action points. \n\nManus Minutes \ud83d\udc40",
+            "translated_text": "Manus melancarkan ciri Meeting Minutes yang membolehkan pengguna mengubah perbualan mereka secara automatik menjadi poin tindakan.\n\nManus Minutes \ud83d\udc40",
+            "date": "2026-01-12T19:35:13+00:00",
+            "message_id": 6765,
+            "message_key": "@testingcatalog:6765"
         }
     ]
 }
