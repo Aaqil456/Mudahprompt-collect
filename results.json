@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-12T20:28:38.331421",
+    "timestamp": "2026-01-12T21:24:31.365012",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4716,6 +4716,26 @@
             "date": "2026-01-12T19:35:13+00:00",
             "message_id": 6765,
             "message_key": "@testingcatalog:6765"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus unveils Meeting Minutes feature for meeting summaries**](https://www.testingcatalog.com/manus-unveils-meeting-minutes-feature-for-meeting-summaries/)\n\nManus introduces Meeting Minutes, a tool that converts in-person discussions into structured summaries and deliverables. It supports offline recording, speaker recognition, and integrates note analysis into one workflow using a credit-based model.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus perkenalkan ciri Meeting Minutes untuk ringkasan mesyuarat**](https://www.testingcatalog.com/manus-unveils-meeting-minutes-feature-for-meeting-summaries/)\n\nManus memperkenalkan Meeting Minutes, satu alat yang menukar perbincangan bersemuka kepada ringkasan berstruktur dan hasil kerja. Ia menyokong rakaman luar talian, pengecaman suara, dan menggabungkan analisis nota ke dalam satu aliran kerja menggunakan model berasaskan kredit.\n\n\ud83d\uddde #manus",
+            "date": "2026-01-12T21:15:36+00:00",
+            "message_id": 6768,
+            "message_key": "@testingcatalog:6768"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI acquired a healthcare startup Torch. A new team will be working on ChatGPT Health. \n\n\u201cWe\u2019ve acquired Torch, a healthcare startup that unifies lab results, medications, and visit recordings.\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI dah ambil alih syarikat startup penjagaan kesihatan, Torch. Satu pasukan baru akan fokus pada ChatGPT Health.\n\n\u201cKami dah ambil alih Torch, sebuah startup penjagaan kesihatan yang menyatukan keputusan makmal, ubat-ubatan, dan rekod lawatan.\u201d",
+            "date": "2026-01-12T20:46:36+00:00",
+            "message_id": 6767,
+            "message_key": "@testingcatalog:6767"
         }
     ]
 }
