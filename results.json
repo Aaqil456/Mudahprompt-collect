@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T22:25:23.907284",
+    "timestamp": "2026-01-13T23:22:13.199093",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4886,6 +4886,16 @@
             "date": "2026-01-13T21:36:09+00:00",
             "message_id": 6780,
             "message_key": "@testingcatalog:6780"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Slack launches AI-powered Slackbot for Business+ orgs**](https://www.testingcatalog.com/slack-launches-ai-powered-slackbot-for-business-orgs/)\n\nSlack has released a rebuilt Slackbot as an AI-driven personal assistant for Business+ and Enterprise+ users, offering context-aware support across functions while maintaining strict data access controls and enterprise-grade security standards.\n\n\ud83d\uddde #slack",
+            "translated_text": "[**Slack melancarkan Slackbot berkuasa AI untuk organisasi Business+**](https://www.testingcatalog.com/slack-launches-ai-powered-slackbot-for-business-orgs/)\n\nSlack dah keluarkan Slackbot yang dibina semula sebagai pembantu peribadi berkuasa AI untuk pengguna Business+ dan Enterprise+. Ia menawarkan sokongan yang peka konteks merentasi pelbagai fungsi, sambil mengekalkan kawalan akses data yang ketat dan piawaian keselamatan bertaraf perusahaan.\n\n\ud83d\uddde #slack",
+            "date": "2026-01-13T22:33:12+00:00",
+            "message_id": 6783,
+            "message_key": "@testingcatalog:6783"
         }
     ]
 }
