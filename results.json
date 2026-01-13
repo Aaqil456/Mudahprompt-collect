@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T17:29:03.465184",
+    "timestamp": "2026-01-13T18:35:57.544193",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4806,6 +4806,56 @@
             "date": "2026-01-13T17:25:58+00:00",
             "message_id": 6774,
             "message_key": "@testingcatalog:6774"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-13T18:30:12+00:00",
+            "message_id": 6778,
+            "message_key": "@testingcatalog:6778"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic invests $1.5 million in the Python Software Foundation and open source security.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Anthropic melabur AS$1.5 juta kepada Python Software Foundation dan keselamatan sumber terbuka.",
+            "date": "2026-01-13T18:30:12+00:00",
+            "message_id": 6777,
+            "message_key": "@testingcatalog:6777"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google upgrades Veo 3.1 with Ingredients and 4K upscaling**](https://www.testingcatalog.com/google-veo-3-1-update-brings-4k-upscaling-vertical-videos-and-better-ingridients/)\n\nGoogle's Veo 3.1 update introduces reference image-based video generation, native vertical format for mobile, 1080p and 4K upscaling, improved visual consistency, and SynthID watermarking across key Google platforms.\n\n\ud83d\uddde #flow",
+            "translated_text": "[**Google naik taraf Veo 3.1 dengan 'Ingredients' dan upscaling 4K**](https://www.testingcatalog.com/google-veo-3-1-update-brings-4k-upscaling-vertical-videos-and-better-ingridients/)\n\nKemas kini Veo 3.1 Google memperkenalkan penjanaan video berdasarkan imej rujukan, format menegak asli untuk peranti mudah alih, upscaling 1080p dan 4K, konsistensi visual yang lebih baik, dan penanda air SynthID merentasi platform utama Google.\n\n\ud83d\uddde #flow",
+            "date": "2026-01-13T17:54:35+00:00",
+            "message_id": 6776,
+            "message_key": "@testingcatalog:6776"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus partnered with Similarweb to bring access to global web traffic data directly to Manus users. \n\nManus will be able to access 12 months of web traffic history and use this data as a context for various tasks.",
+            "translated_text": "Manus bekerjasama dengan Similarweb untuk menyediakan akses kepada data trafik web global terus kepada pengguna Manus.\n\nManus akan dapat mengakses sejarah trafik web selama 12 bulan dan menggunakan data ini sebagai konteks untuk pelbagai tugasan.",
+            "date": "2026-01-13T17:40:56+00:00",
+            "message_id": 6775,
+            "message_key": "@testingcatalog:6775"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\ud83e\ude7a OpenAI acquires medical startup Torch for $60M\n**\nThe startup Torch was developing the concept of a \u201cunified medical memory\u201d for AI, a single system that brings together all of a patient\u2019s medical data stored across different formats and services.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83e\ude7a OpenAI membeli syarikat permulaan perubatan Torch dengan harga $60 juta.\n\nSyarikat permulaan Torch ni dulu sedang bangunkan satu konsep \"memori perubatan bersepadu\" untuk AI. Maksudnya, satu sistem yang boleh kumpul semua data perubatan pesakit, tak kira la disimpan dalam format atau perkhidmatan apa pun.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-13T18:28:01+00:00",
+            "message_id": 359,
+            "message_key": "@AItoolboxdaily:359"
         }
     ]
 }
