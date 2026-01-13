@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T01:52:03.232361",
+    "timestamp": "2026-01-13T14:28:49.907861",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4776,6 +4776,26 @@
             "date": "2026-01-12T23:54:53+00:00",
             "message_id": 6771,
             "message_key": "@testingcatalog:6771"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Gemini Auto Browse tool for Chrome users**](https://www.testingcatalog.com/google-tests-gemini-auto-browse-tool-for-chrome-users/)\n\nGoogle is developing an Auto Browse feature for Gemini, allowing it to autonomously manage browsing tasks within Chrome. Likely tied to the Gemini Ultra plan, it's positioned for professional use and currently undergoing internal testing.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google uji alat Auto Browse Gemini untuk pengguna Chrome**](https://www.testingcatalog.com/google-tests-gemini-auto-browse-tool-for-chrome-users/)\n\nGoogle sedang bangunkan satu ciri Auto Browse untuk Gemini. Dengan ciri ni, Gemini boleh uruskan sendiri tugas melayari internet dalam Chrome. Mungkin akan disertakan dengan pelan Gemini Ultra, ia disasarkan untuk kegunaan profesional dan sekarang ni sedang diuji secara dalaman.\n\n\ud83d\uddde #gemini",
+            "date": "2026-01-13T14:26:51+00:00",
+            "message_id": 6773,
+            "message_key": "@testingcatalog:6773"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Seedance 2**\n\n\ud83c\udff7 : #AIVideoGenerator #TextToVideo #ImageToVideo #AIShortVideo\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/seedance)\n\n\ud83d\udcac : Seedance 2 is a high-speed AI video generator powered by ByteDance, built for lightning-fast text-to-video and image-to-video creation. \n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Seedance 2**\n\n\ud83c\udff7 : #PenjanaVideoAI #TeksKeVideo #ImejKeVideo #VideoPendekAI\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Lawati Laman Web](https://ln-k.me/seedance)\n\n\ud83d\udcac : Seedance 2 ni penjana video AI berkelajuan tinggi yang dikuasakan oleh ByteDance, dibina khas untuk buat video dari teks dan imej dengan sepantas kilat.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElpZjdi)",
+            "date": "2026-01-13T14:15:35+00:00",
+            "message_id": 358,
+            "message_key": "@AItoolboxdaily:358"
         }
     ]
 }
