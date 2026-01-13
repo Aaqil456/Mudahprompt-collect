@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T18:35:57.544193",
+    "timestamp": "2026-01-13T21:24:42.743884",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4856,6 +4856,16 @@
             "date": "2026-01-13T18:28:01+00:00",
             "message_id": 359,
             "message_key": "@AItoolboxdaily:359"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Veo 3.1 and Veo 3.1 Fast video models are now available on AI Studio via an API key.",
+            "translated_text": "Untuk makluman: Model video Veo 3.1 dan Veo 3.1 Fast kini dah boleh didapati di AI Studio, menggunakan API key.",
+            "date": "2026-01-13T21:23:57+00:00",
+            "message_id": 6779,
+            "message_key": "@testingcatalog:6779"
         }
     ]
 }
