@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-13T14:28:49.907861",
+    "timestamp": "2026-01-13T17:29:03.465184",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4796,6 +4796,16 @@
             "date": "2026-01-13T14:15:35+00:00",
             "message_id": 358,
             "message_key": "@AItoolboxdaily:358"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling Veo 3.1 updates across Gemini, Flow, AI Studio and APIs. \n\n- Vertical formats support\n- Veo 3.1 Ingredients to Video\n- Improved ingredients to video consistency\n- Verification of AI-generated videos in Gemini\n- Upscaling to 1080p and 4K across all Veo models",
+            "translated_text": "Google sedang melancarkan kemas kini Veo 3.1 merentasi Gemini, Flow, AI Studio dan API.\n\n- Sokongan format menegak\n- Veo 3.1 Bahan kepada Video\n- Peningkatan konsistensi bahan kepada video\n- Pengesahan video yang dijana AI dalam Gemini\n- Peningkatan resolusi kepada 1080p dan 4K merentasi semua model Veo",
+            "date": "2026-01-13T17:25:58+00:00",
+            "message_id": 6774,
+            "message_key": "@testingcatalog:6774"
         }
     ]
 }
