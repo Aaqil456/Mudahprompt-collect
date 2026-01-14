@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-14T18:37:28.836689",
+    "timestamp": "2026-01-14T19:22:01.150402",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -4906,6 +4906,36 @@
             "date": "2026-01-14T17:54:38+00:00",
             "message_id": 360,
             "message_key": "@AItoolboxdaily:360"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-14T19:12:17+00:00",
+            "message_id": 6786,
+            "message_key": "@testingcatalog:6786"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google introduced Personal Intelligence which can allow Gemini to use your data from Google Photos, Gmail, YouTube and Google Search as a context. \n\nSeems like we will see Google Photos attachment option in Gemini pretty soon!",
+            "translated_text": "Google dah perkenalkan Personal Intelligence yang boleh bagi Gemini guna data korang dari Google Photos, Gmail, YouTube, dan Google Search sebagai konteks.\n\nNampaknya, kita akan nampak pilihan untuk lampirkan Google Photos dalam Gemini tak lama lagi!",
+            "date": "2026-01-14T19:12:17+00:00",
+            "message_id": 6785,
+            "message_key": "@testingcatalog:6785"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity partners with BlueMatrix data provider to bring equity research to Perplexity Enterprise. \n\n\"AI-assisted discovery to investors and researchers, alongside Perplexity\u2019s suite of accuracy-driven research tools\"",
+            "translated_text": "Perplexity jalin kerjasama dengan penyedia data BlueMatrix untuk menyediakan penyelidikan ekuiti kepada Perplexity Enterprise.\n\n\"Penemuan dibantu AI kepada pelabur dan penyelidik, bersama dengan rangkaian alat penyelidikan Perplexity yang mementingkan ketepatan.\"",
+            "date": "2026-01-14T18:42:22+00:00",
+            "message_id": 6784,
+            "message_key": "@testingcatalog:6784"
         }
     ]
 }
