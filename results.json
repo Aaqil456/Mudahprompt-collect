@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-15T16:38:40.753892",
+    "timestamp": "2026-01-15T17:35:03.389520",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5056,6 +5056,26 @@
             "date": "2026-01-15T15:52:05+00:00",
             "message_id": 6796,
             "message_key": "@testingcatalog:6796"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Black Forest Labs released FLUX.2 [klein] models in 4B and 9B sizes. \n\n- Klein 4B under Apache 2.0\n- Klein 9B as open weights\n- Very fast \ud83d\udc40\n- Available on BFL Playground for testing",
+            "translated_text": "Black Forest Labs dah lancarkan model FLUX.2 [klein] dalam saiz 4B dan 9B.\n\n*   Klein 4B ni di bawah Apache 2.0.\n*   Klein 9B pula sebagai open weights.\n*   Memang laju! \ud83d\udc40\n*   Boleh cuba dekat BFL Playground untuk testing.",
+            "date": "2026-01-15T17:30:59+00:00",
+            "message_id": 6798,
+            "message_key": "@testingcatalog:6798"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released a set of TranslateGemma models in 4B, 12B, and 27B parameter sizes, with support for 55 languages and a lower error rate.",
+            "translated_text": "Google dah keluarkan satu set model TranslateGemma dalam saiz parameter 4B, 12B, dan 27B, yang menyokong 55 bahasa dan kadar ralat yang lebih rendah.",
+            "date": "2026-01-15T17:23:23+00:00",
+            "message_id": 6797,
+            "message_key": "@testingcatalog:6797"
         }
     ]
 }
