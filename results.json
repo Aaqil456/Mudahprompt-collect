@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-15T08:35:04.683906",
+    "timestamp": "2026-01-15T12:51:56.492174",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5026,6 +5026,16 @@
             "date": "2026-01-15T07:28:18+00:00",
             "message_id": 361,
             "message_key": "@AItoolboxdaily:361"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is testing a new compact attachment UI for Comet that combines mode selectors, attachment options, and connectors into a single selector.",
+            "translated_text": "Perplexity sedang menguji antara muka pengguna (UI) lampiran yang ringkas dan baharu untuk Comet, yang menggabungkan pemilih mod, pilihan lampiran, dan penyambung menjadi satu pemilih.",
+            "date": "2026-01-15T12:47:49+00:00",
+            "message_id": 6795,
+            "message_key": "@testingcatalog:6795"
         }
     ]
 }
