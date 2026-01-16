@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-16T11:22:06.547031",
+    "timestamp": "2026-01-16T18:37:37.676966",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5126,6 +5126,66 @@
             "date": "2026-01-16T11:14:01+00:00",
             "message_id": 363,
             "message_key": "@AItoolboxdaily:363"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-16T18:27:52+00:00",
+            "message_id": 6807,
+            "message_key": "@testingcatalog:6807"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is expanding ChatGPT Go plan globally at $8 a month with increased usage limits and unlimited access to GPT-5.2 Instant. \n\nWould you get it? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI sedang meluaskan pelan ChatGPT Go mereka ke seluruh dunia pada harga $8 sebulan, dengan had penggunaan yang ditingkatkan dan akses tanpa had kepada GPT-5.2 Instant.\n\nNak langgan tak? \ud83d\udc40",
+            "date": "2026-01-16T18:27:52+00:00",
+            "message_id": 6806,
+            "message_key": "@testingcatalog:6806"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is planning to start testing Ads inside ChatGPT soon in the US. \n\n\u201cResponses won\u2019t be influenced by Ads\u201d according to \u201cAd Principles\u201d shared by the company ahead of public testing.\n\nADGI achieved internally \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI akan mula menguji Iklan dalam ChatGPT tidak lama lagi di AS.\n\n\u201cRespons tidak akan dipengaruhi oleh Iklan\u201d mengikut \u201cPrinsip Iklan\u201d yang dikongsi oleh syarikat itu sebelum ujian awam.\n\nADGI dicapai secara dalaman \ud83d\udc40",
+            "date": "2026-01-16T18:17:04+00:00",
+            "message_id": 6805,
+            "message_key": "@testingcatalog:6805"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-16T17:33:00+00:00",
+            "message_id": 6804,
+            "message_key": "@testingcatalog:6804"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Cowork is now available to Claude Pro subscribers.\n\n\u201cSince Cowork handles more complex work, Pro users may hit their usage limit sooner.\u201d\n\nTesting time \ud83d\udc40",
+            "translated_text": "Claude Cowork kini tersedia untuk pelanggan Claude Pro.\n\n\u201cMemandangkan Cowork mengendalikan kerja yang lebih kompleks, pengguna Pro mungkin akan capai had penggunaan mereka lebih cepat.\u201d\n\nJom cuba \ud83d\udc40",
+            "date": "2026-01-16T17:33:00+00:00",
+            "message_id": 6803,
+            "message_key": "@testingcatalog:6803"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Work & Decision-Making**\n\n\u201cTurn complex information into a confident decision.\u201d\nUse this command:\n\n```Analyze the information below and help me make a clear, confident decision.\nExplain the trade-offs, risks, and opportunities in simple language, highlight what matters most, and recommend the best course of action with reasoning.\nKeep the output practical and grounded in real-world constraints.\nHere is the information: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Kerja & Membuat Keputusan**\n\n\u201cTukarkan maklumat kompleks kepada keputusan yang yakin.\u201d\nGunakan arahan ini:\n\n```Analisis maklumat di bawah dan bantu saya buat keputusan yang jelas dan yakin.\nTerangkan pertukaran, risiko, dan peluang dalam bahasa mudah, serlahkan apa yang paling penting, dan cadangkan tindakan terbaik dengan alasan.\nPastikan hasilnya praktikal dan berdasarkan kekangan dunia sebenar.\nIni maklumatnya: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-16T17:42:11+00:00",
+            "message_id": 364,
+            "message_key": "@AItoolboxdaily:364"
         }
     ]
 }
