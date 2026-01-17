@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-17T10:24:14.404693",
+    "timestamp": "2026-01-17T16:26:42.069866",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5276,6 +5276,16 @@
             "date": "2026-01-17T10:18:00+00:00",
             "message_id": 367,
             "message_key": "@AItoolboxdaily:367"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google AI Studio to get Design Mode for direct UI editing**](https://www.testingcatalog.com/google-ai-studio-to-get-design-mode-for-direct-ui-editing/)\n\nGoogle is set to launch a Design Mode in AI Studio, allowing users to modify UI elements directly through a visual toolbox or text prompts, streamlining custom app design without coding and reducing gaps between intent and outcome.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google AI Studio Bakal Ada Mod Reka Bentuk Untuk Edit UI Terus**](https://www.testingcatalog.com/google-ai-studio-to-get-design-mode-for-direct-ui-editing/)\n\nGoogle bakal perkenalkan Mod Reka Bentuk dalam AI Studio. Ini akan membolehkan pengguna ubah suai elemen UI terus melalui kotak alatan visual atau arahan teks. Jadi, ia akan memudahkan reka bentuk aplikasi sendiri tanpa coding dan kurangkan beza antara apa yang kita nak buat dengan hasilnya.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-01-17T16:01:32+00:00",
+            "message_id": 6816,
+            "message_key": "@testingcatalog:6816"
         }
     ]
 }
