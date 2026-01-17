@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-17T16:26:42.069866",
+    "timestamp": "2026-01-17T20:25:06.408481",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5286,6 +5286,16 @@
             "date": "2026-01-17T16:01:32+00:00",
             "message_id": 6816,
             "message_key": "@testingcatalog:6816"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\ud83d\udd13Meeting the new ETSI standard for AI security**\n\nThe ETSI EN 304 223 standard introduces baseline security requirements for AI that enterprises must integrate into governance frameworks.\n\nAs organisations embed machine learning into their core operations, this European Standard (EN) establishes concrete provisions for securing AI models and systems. It stands as the first globally applicable European Standard for AI cybersecurity, having secured formal approval from National Standards Organisations to strengthen its authority across international markets.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**\ud83d\udd13Memenuhi standard ETSI baharu untuk keselamatan AI**\n\nStandard ETSI EN 304 223 ini memperkenalkan keperluan keselamatan asas untuk AI yang perlu disepadukan oleh syarikat ke dalam rangka kerja tadbir urus mereka.\n\nApabila organisasi menyepadukan pembelajaran mesin (machine learning) ke dalam operasi teras mereka, Standard Eropah (EN) ini menetapkan peruntukan konkrit untuk menjamin model dan sistem AI. Ia merupakan Standard Eropah pertama yang boleh diguna pakai secara global untuk keselamatan siber AI, setelah mendapat kelulusan rasmi daripada Organisasi Standard Kebangsaan untuk mengukuhkan kuasanya di pasaran antarabangsa.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElZjdi)",
+            "date": "2026-01-17T19:24:01+00:00",
+            "message_id": 368,
+            "message_key": "@AItoolboxdaily:368"
         }
     ]
 }
