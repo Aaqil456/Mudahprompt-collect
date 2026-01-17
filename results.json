@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-16T23:23:03.198572",
+    "timestamp": "2026-01-17T01:50:40.163987",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5196,6 +5196,66 @@
             "date": "2026-01-16T23:06:31+00:00",
             "message_id": 6808,
             "message_key": "@testingcatalog:6808"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches ChatGPT Go globally as $8 subscription tier**](https://www.testingcatalog.com/openai-launches-chatgpt-go-globally-as-8-subscription-tier/)\n\nChatGPT Go, OpenAI\u2019s $8/month subscription, is now available globally. It offers higher usage limits, GPT-5.2 Instant, longer memory, and advanced tools, but lacks GPT-5.2 Pro, legacy models, and remains ad-supported unlike higher tiers.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI dah lancarkan ChatGPT Go di seluruh dunia, dengan langganan berharga $8**](https://www.testingcatalog.com/openai-launches-chatgpt-go-globally-as-8-subscription-tier/)\n\nChatGPT Go, langganan OpenAI berharga $8 sebulan, kini dah boleh didapati di seluruh dunia. Ia menawarkan had penggunaan yang lebih tinggi, GPT-5.2 Instant, memori yang lebih panjang, dan alatan canggih. Tapi, ia tak ada GPT-5.2 Pro, model-model lama, dan masih disokong iklan, tak macam langganan peringkat lebih tinggi.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-01-16T23:55:06+00:00",
+            "message_id": 6813,
+            "message_key": "@testingcatalog:6813"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI considers Ads to support free ChatGPT amid growth**](https://www.testingcatalog.com/openai-considers-ads-to-support-free-chatgpt-amid-growth/)\n\nOpenAI plans to test ads in ChatGPT free and Go tiers to support infrastructure costs and global demand while maintaining a free option. Ads will not influence model responses or use sensitive chat data for personalization.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI sedang mempertimbangkan iklan untuk sokong ChatGPT percuma di tengah pertumbuhan**](https://www.testingcatalog.com/openai-considers-ads-to-support-free-chatgpt-amid-growth/)\n\nOpenAI bercadang nak uji iklan dalam versi ChatGPT percuma dan Go untuk tampung kos infrastruktur dan permintaan global, sambil kekalkan pilihan percuma. Iklan takkan pengaruhi respons model atau guna data sembang sensitif untuk personalisasi.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-01-16T23:52:19+00:00",
+            "message_id": 6812,
+            "message_key": "@testingcatalog:6812"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Black Forest Labs launches FLUX.2 klein AI models**](https://www.testingcatalog.com/black-forest-labs-launches-flux-2-klein-ai-models/)\n\nBlack Forest Labs released FLUX.2 [klein], a model family for fast, high-quality image generation and editing. The 4B model is open under Apache 2.0, while the 9B is under a non-commercial license and supports low-VRAM, sub-second performance.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Black Forest Labs melancarkan model AI FLUX.2 klein**](https://www.testingcatalog.com/black-forest-labs-launches-flux-2-klein-ai-models/)\n\nBlack Forest Labs telah memperkenalkan FLUX.2 [klein], satu siri model untuk penjanaan dan penyuntingan imej yang pantas dan berkualiti tinggi. Model 4B boleh diakses secara terbuka di bawah lesen Apache 2.0, manakala model 9B pula menggunakan lesen bukan komersial dan menyokong prestasi sub-saat dengan penggunaan VRAM yang rendah.\n\n\ud83d\uddde #ai",
+            "date": "2026-01-16T23:45:34+00:00",
+            "message_id": 6811,
+            "message_key": "@testingcatalog:6811"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google unveils TranslateGemma AI models for 55 languages**](https://www.testingcatalog.com/google-unveils-translategemma-ai-models-for-55-languages/)\n\nGoogle has released TranslateGemma, a suite of open-source translation models derived from Gemma 3, supporting 55 languages. These models offer high translation quality with fewer parameters, optimizing performance across varied hardware.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Google Perkenalkan Model AI TranslateGemma untuk 55 Bahasa**](https://www.testingcatalog.com/google-unveils-translategemma-ai-models-for-55-languages/)\n\nGoogle dah keluarkan TranslateGemma, satu set model terjemahan sumber terbuka yang berasaskan Gemma 3, dan ia menyokong 55 bahasa. Model-model ni tawarkan kualiti terjemahan yang tinggi dengan parameter yang lebih sikit, sekali gus mengoptimumkan prestasi pada pelbagai jenis perkakasan.\n\n\ud83d\uddde #ai",
+            "date": "2026-01-16T23:39:07+00:00",
+            "message_id": 6810,
+            "message_key": "@testingcatalog:6810"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google rolls out Personal Intelligence in Gemini**](https://www.testingcatalog.com/google-rolls-out-personal-intelligence-in-gemini/)\n\nGoogle introduces Personal Intelligence in Gemini, offering tailored support using user data from Gmail, Photos, and apps. The feature prioritizes privacy, granting users control over data use and personalization settings across Google services.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google memperkenalkan Kecerdasan Peribadi dalam Gemini**](https://www.testingcatalog.com/google-rolls-out-personal-intelligence-in-gemini/)\n\nGoogle memperkenalkan Kecerdasan Peribadi dalam Gemini, menawarkan sokongan yang disesuaikan menggunakan data pengguna dari Gmail, Photos, dan aplikasi. Ciri ini mengutamakan privasi, memberikan pengguna kawalan ke atas penggunaan data dan tetapan pemperibadian merentasi perkhidmatan Google.\n\n\ud83d\uddde #gemini",
+            "date": "2026-01-16T23:35:05+00:00",
+            "message_id": 6809,
+            "message_key": "@testingcatalog:6809"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83e\udd29Whatever you imagine, **AI Moment** can create. Upload your photo and watch it turn into a mesmerizing, seductive clip in seconds. Your fantasy, your rules.\n\n[\ud83d\udd25Click!!! Make Any Photo Sizzle\ud83d\udcf8](https://tglink.io/0229f97056d2)",
+            "translated_text": "\ud83e\udd29Apa-apa saja yang awak bayangkan, **AI Moment** boleh hasilkan. Muat naik gambar awak dan tengok ia bertukar jadi klip yang memukau dan memikat dalam beberapa saat. Fantasi awak, awak yang tentukan.\n\n[\ud83d\udd25Klik!!! Jadikan Gambar Apa Saja Nampak Menarik!\ud83d\udcf8](https://tglink.io/0229f97056d2)",
+            "date": "2026-01-17T01:00:07+00:00",
+            "message_id": 365,
+            "message_key": "@AItoolboxdaily:365"
         }
     ]
 }
