@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-18T12:44:20.202841",
+    "timestamp": "2026-01-18T15:22:24.589344",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5366,6 +5366,16 @@
             "date": "2026-01-18T11:55:17+00:00",
             "message_id": 6821,
             "message_key": "@testingcatalog:6821"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic is working on \"Knowledge Bases\" for Claude Cowork. KBs seem to be a new concept of topic-specific memories, which Claude will automatically manage! And a bunch of other new things. \n\nInternal Instruction \ud83d\udc40\n\n\"These are persistent knowledge repositories. Proactively check them for relevant context when answering questions. When you learn new information about a KB's topic (preferences, decisions, facts, lessons learned), add it to the appropriate KB incrementally.\"",
+            "translated_text": "BREAKING \ud83d\udea8: Anthropic sedang usahakan \"Pangkalan Pengetahuan\" untuk Claude Cowork. Pangkalan Pengetahuan (KB) ni nampak macam konsep baru untuk memori khusus topik, yang Claude akan uruskan secara automatik! Dan macam-macam lagi benda baru.\n\nArahan Dalaman \ud83d\udc40\n\nIni adalah repositori pengetahuan yang kekal. Semak secara proaktif untuk konteks yang relevan bila jawab soalan. Bila dapat maklumat baru pasal topik KB (pilihan, keputusan, fakta, pengajaran yang dipelajari), tambahkan ia ke KB yang sesuai secara berperingkat.",
+            "date": "2026-01-18T14:37:06+00:00",
+            "message_id": 6822,
+            "message_key": "@testingcatalog:6822"
         }
     ]
 }
