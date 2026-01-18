@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-18T15:22:24.589344",
+    "timestamp": "2026-01-18T18:31:32.524192",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5376,6 +5376,16 @@
             "date": "2026-01-18T14:37:06+00:00",
             "message_id": 6822,
             "message_key": "@testingcatalog:6822"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Coders & Technical Thinkers**\n\n\u201cExplain the system, not just the code.\u201d\nUse this command:\n\n```Review the code or technical concept below and explain how the system works as a whole.\nDescribe the core logic, data flow, and design decisions in clear language.\nPoint out potential bottlenecks or future issues and suggest thoughtful improvements.\nHere is the code or concept: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Pengaturcara & Pemikir Teknikal**\n\n\u201cTerangkan sistemnya, bukan sekadar kodnya.\u201d\nGuna arahan ni:\n\n```Semak kod atau konsep teknikal di bawah dan terangkan bagaimana sistem itu berfungsi secara keseluruhan.\nHuraikan logik utama, aliran data, dan keputusan reka bentuk dalam bahasa yang jelas.\nTunjukkan potensi masalah atau isu masa depan dan cadangkan penambahbaikan yang bernas.\nIni kod atau konsepnya: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-18T17:42:21+00:00",
+            "message_id": 371,
+            "message_key": "@AItoolboxdaily:371"
         }
     ]
 }
