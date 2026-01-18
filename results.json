@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-18T10:24:28.940760",
+    "timestamp": "2026-01-18T12:44:20.202841",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5356,6 +5356,16 @@
             "date": "2026-01-18T09:28:14+00:00",
             "message_id": 6819,
             "message_key": "@testingcatalog:6819"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on the Voice Mode support! Operating Claude Cowork agents with voice would be a huge improvement. \n\nIt feels like it will work as a toggle in a similar way to how it has been done on ChatGPT. \n\nWould you use it? \ud83d\udc40",
+            "translated_text": "Anthropic sedang bangunkan sokongan untuk Voice Mode! Mengendalikan ejen Claude Cowork dengan suara memang akan jadi satu peningkatan besar.\n\nNampak gayanya, ia akan berfungsi sebagai suis (toggle) sama macam yang dah ada kat ChatGPT.\n\nAwak akan guna tak? \ud83d\udc40",
+            "date": "2026-01-18T11:55:17+00:00",
+            "message_id": 6821,
+            "message_key": "@testingcatalog:6821"
         }
     ]
 }
