@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-18T05:26:10.686492",
+    "timestamp": "2026-01-18T10:24:28.940760",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5336,6 +5336,26 @@
             "date": "2026-01-18T05:04:12+00:00",
             "message_id": 370,
             "message_key": "@AItoolboxdaily:370"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic works on Knowledge Bases for Claude Cowork**](https://www.testingcatalog.com/anthropic-works-on-knowledge-bases-for-claude-cowork/)\n\nAnthropic is repositioning Claude as a core productivity tool by merging chat into Cowork, introducing modular knowledge bases, expanding automation with connectors, and adding multimodal features like voice input, widgets, and image-to-avatar tools.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic sedang membangunkan Pangkalan Pengetahuan untuk Claude Cowork**](https://www.testingcatalog.com/anthropic-works-on-knowledge-bases-for-claude-cowork/)\n\nAnthropic sedang meletakkan semula Claude sebagai alat produktiviti utama dengan menggabungkan ciri sembang ke dalam Cowork, memperkenalkan pangkalan pengetahuan modular, meluaskan automasi dengan penyambung, dan menambah ciri-ciri multimodal seperti input suara, widget, serta alatan imej-ke-avatar.\n\n\ud83d\uddde #claude",
+            "date": "2026-01-18T09:30:23+00:00",
+            "message_id": 6820,
+            "message_key": "@testingcatalog:6820"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic works on customizable Commands for Claude Code**](https://www.testingcatalog.com/anthropic-works-on-customizable-commands-for-claude-code/)\n\nAnthropic is developing a Customize section for Claude, consolidating tools like Skills, Connectors, and a new Commands feature to support tailored workflows and modular use, aiming to serve professional and technical users.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic Sedang Usahakan Arahan Boleh Disesuaikan untuk Claude Code**](https://www.testingcatalog.com/anthropic-works-on-customizable-commands-for-claude-code/)\n\nAnthropic sedang membangunkan bahagian Penyesuaian untuk Claude, menggabungkan alatan seperti Kemahiran, Penyambung, dan ciri Arahan yang baru untuk menyokong aliran kerja yang disesuaikan dan penggunaan secara modular, bertujuan untuk membantu pengguna profesional dan teknikal.\n\n\ud83d\uddde #claude",
+            "date": "2026-01-18T09:28:14+00:00",
+            "message_id": 6819,
+            "message_key": "@testingcatalog:6819"
         }
     ]
 }
