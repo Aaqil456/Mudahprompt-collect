@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-19T14:31:01.857604",
+    "timestamp": "2026-01-19T15:29:44.637252",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5426,6 +5426,36 @@
             "date": "2026-01-19T13:55:03+00:00",
             "message_id": 6825,
             "message_key": "@testingcatalog:6825"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-19T14:56:22+00:00",
+            "message_id": 6829,
+            "message_key": "@testingcatalog:6829"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Z AI released GLM-4.7-Flash, a new 30B open source model with a 59.2% achievement on SWE Bench Verified. \n\n\u26a1\ufe0f AI",
+            "translated_text": "Z AI melancarkan GLM-4.7-Flash, model sumber terbuka 30B baharu dengan pencapaian 59.2% pada SWE Bench Verified.\n\n\u26a1\ufe0f AI",
+            "date": "2026-01-19T14:56:22+00:00",
+            "message_id": 6828,
+            "message_key": "@testingcatalog:6828"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google Stitch to add API keys and PRD generation for PMs**](https://www.testingcatalog.com/google-stitch-to-add-api-keys-and-prd-generation-for-pms/)\n\nGoogle\u2019s Stitch design agent now supports API key management and plans to integrate PRD generation, aligning with Google\u2019s strategy to connect design and development workflows across its AI-driven product ecosystem.\n\n\ud83d\uddde #stitch",
+            "translated_text": "[**Google Stitch akan tambah kunci API dan penjanaan PRD untuk PM**](https://www.testingcatalog.com/google-stitch-to-add-api-keys-and-prd-generation-for-pms/)\n\nEjen reka bentuk Google Stitch sekarang dah sokong pengurusan kunci API dan rancang nak gabungkan penjanaan PRD. Ini selari dengan strategi Google untuk sambungkan aliran kerja reka bentuk dan pembangunan dalam ekosistem produk dipacu AI mereka.\n\n\ud83d\uddde #stitch",
+            "date": "2026-01-19T14:33:15+00:00",
+            "message_id": 6827,
+            "message_key": "@testingcatalog:6827"
         }
     ]
 }
