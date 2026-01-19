@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-19T13:49:18.773344",
+    "timestamp": "2026-01-19T14:31:01.857604",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5406,6 +5406,26 @@
             "date": "2026-01-19T13:23:01+00:00",
             "message_id": 372,
             "message_key": "@AItoolboxdaily:372"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Notion is working on a big set of new AI features for Notion Agents. \n\n- Custom MCP support\n- New agent integrations with Linear and Ramp \n- Notion Mail and Notion Calendar triggers for custom agents\n- Custom workers (tools) for agents\n- Custom Connectors\n- New Library and Feed tabs\n- AI Co-editor\n- And Computer Use for AI agents! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Notion sedang membangunkan banyak ciri AI baharu untuk Notion Agents.\n\n- Sokongan MCP tersuai\n- Integrasi ejen baharu dengan Linear dan Ramp\n- Pencetus Notion Mail dan Notion Calendar untuk ejen tersuai\n- Pekerja (alat) tersuai untuk ejen\n- Penyambung Tersuai\n- Tab Perpustakaan dan Suapan baharu\n- Penyunting Bersama AI\n- Dan Penggunaan Komputer untuk ejen AI! \ud83d\udc40",
+            "date": "2026-01-19T14:19:17+00:00",
+            "message_id": 6826,
+            "message_key": "@testingcatalog:6826"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Notion testing custom MCPs, Workers, and Computer Use agents**](https://www.testingcatalog.com/notion-testing-custom-mcps-workers-and-computer-use-agent/)\n\nNotion is expanding its Custom Agent platform with upcoming connectors for Slack, Notion Calendar, and Mail, plus plans for third-party integrations and user-managed endpoints, signaling broader AI-driven automation capabilities.\n\n\ud83d\uddde #notion",
+            "translated_text": "[**Notion sedang menguji MCP tersuai, Workers, dan ejen Penggunaan Komputer**](https://www.testingcatalog.com/notion-testing-custom-mcps-workers-and-computer-use-agent/)\n\nNotion sedang mengembangkan platform Ejen Tersuainya dengan penyambung yang akan datang untuk Slack, Notion Calendar, dan Mail. Ada juga rancangan untuk integrasi pihak ketiga dan titik akhir yang diurus pengguna, menandakan keupayaan automasi dipacu AI yang lebih luas.\n\n\ud83d\uddde #notion",
+            "date": "2026-01-19T13:55:03+00:00",
+            "message_id": 6825,
+            "message_key": "@testingcatalog:6825"
         }
     ]
 }
