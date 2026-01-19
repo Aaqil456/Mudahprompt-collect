@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-19T16:33:55.337057",
+    "timestamp": "2026-01-19T19:21:34.699047",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5466,6 +5466,36 @@
             "date": "2026-01-19T16:21:12+00:00",
             "message_id": 6830,
             "message_key": "@testingcatalog:6830"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-19T19:06:34+00:00",
+            "message_id": 6832,
+            "message_key": "@testingcatalog:6832"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NotebookLM app for iOS is about to get. Video Overview generation as well as customisation options for Slides and Infographics. \n\nGradually \ud83d\udc40",
+            "translated_text": "Aplikasi NotebookLM untuk iOS tak lama lagi akan dapat penjanaan Video Overview, serta pilihan penyesuaian untuk Slides dan Infographics. Secara berperingkat \ud83d\udc40",
+            "date": "2026-01-19T19:06:34+00:00",
+            "message_id": 6831,
+            "message_key": "@testingcatalog:6831"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\ud83e\udd1d Why Apple chose Google over OpenAI: What enterprise AI buyers can learn from the Gemini deal**\n\nApple\u2019s multi-year agreement to integrate Google\u2019s Gemini models into its revamped Siri offers a rare window into how one of the world\u2019s most selective technology companies evaluates foundation models \u2013 and the criteria should matter to any enterprise weighing similar decisions.\n\nThe stakes were considerable. Apple had been publicly integrating ChatGPT into its devices since late 2024, giving OpenAI prominent positioning in the Apple Intelligence ecosystem.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**\ud83e\udd1d Kenapa Apple pilih Google berbanding OpenAI: Apa yang pembeli AI untuk syarikat boleh belajar dari perjanjian Gemini ni**\n\nPerjanjian bertahun-tahun Apple untuk integrasikan model Gemini Google ke dalam Siri yang dah dirombak baru tu, memberi gambaran jarang-jarang dapat tentang bagaimana salah satu syarikat teknologi paling memilih di dunia menilai model asas. Kriteria ni patut jadi perhatian mana-mana syarikat yang sedang timbang keputusan serupa.\n\nRisikonya memang besar. Apple dah pun integrasikan ChatGPT secara terbuka ke dalam peranti-peranti dia sejak hujung 2024, memberi OpenAI kedudukan penting dalam ekosistem Apple Intelligence.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-19T18:47:16+00:00",
+            "message_id": 373,
+            "message_key": "@AItoolboxdaily:373"
         }
     ]
 }
