@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-20T09:35:56.470142",
+    "timestamp": "2026-01-20T12:57:20.422873",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5506,6 +5506,46 @@
             "date": "2026-01-20T08:52:55+00:00",
             "message_id": 6833,
             "message_key": "@testingcatalog:6833"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-20T12:25:08+00:00",
+            "message_id": 6836,
+            "message_key": "@testingcatalog:6836"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "One of the DeepSeek repositories got updated with a reference to a new \u201cmodel1\u201d model. \n\n\u201cFlashMLA is DeepSeek's library of optimized attention kernels, powering the DeepSeek-V3 and DeepSeek-V3.2-Exp models.\u201d\n\nSoon? \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "translated_text": "Salah satu repositori DeepSeek telah dikemas kini dengan sebutan tentang model baharu bernama \u201cmodel1\u201d.\n\n\u201cFlashMLA adalah pustaka DeepSeek yang mengandungi kernel perhatian yang dioptimumkan, yang menggerakkan model DeepSeek-V3 dan DeepSeek-V3.2-Exp.\u201d\n\nTak lama lagi ke? \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "date": "2026-01-20T12:25:08+00:00",
+            "message_id": 6835,
+            "message_key": "@testingcatalog:6835"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**MemOS 2.0 brings open-source memory OS to AI agents**](https://www.testingcatalog.com/memos-2-0-brings-open-source-memory-os-to-ai-agents/)\n\nMemOS is an open-source memory system for LLM-based agents, enabling long-term recall, persona stability, and unified handling of text, visual content, and tool usage across sessions to support complex, multi-session agent behavior.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**MemOS 2.0 bawa OS memori sumber terbuka kepada ejen AI**](https://www.testingcatalog.com/memos-2-0-brings-open-source-memory-os-to-ai-agents/)\n\nMemOS ni adalah sistem memori sumber terbuka untuk ejen berasaskan LLM. Ia membolehkan ejen-ejen ni ingat maklumat jangka panjang, kekalkan personaliti yang stabil, dan uruskan teks, kandungan visual, serta penggunaan alatan secara seragam merentasi pelbagai sesi. Semua ni untuk sokong tingkah laku ejen yang lebih kompleks dan melibatkan banyak sesi.\n\n\ud83d\uddde #ditaja",
+            "date": "2026-01-20T11:43:09+00:00",
+            "message_id": 6834,
+            "message_key": "@testingcatalog:6834"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**EmailVerify**\n\n\ud83c\udff7 : #EmailVerification #EmailMarketing #AIProductivity #Deliverability\n\u2b50\ufe0f : 4.0\n\ud83d\udd17 : [Visit Website](https://emailverify.ai/)\n\n\ud83d\udcac : EmailVerify is an enterprise-grade email verification service with 99.9% accuracy, designed to improve deliverability and protect sender reputation.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**EmailVerify**\n\nTag : #PengesahanEmel #PemasaranEmel #ProduktivitiAI #Kebolehhantaran\nRating : 4.0\nPautan : [Lawati Laman Web](https://emailverify.ai/)\n\nInfo : EmailVerify adalah perkhidmatan pengesahan emel bertaraf perusahaan dengan ketepatan 99.9%, direka untuk meningkatkan kebolehhantaran dan melindungi reputasi penghantar.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-20T11:26:57+00:00",
+            "message_id": 374,
+            "message_key": "@AItoolboxdaily:374"
         }
     ]
 }
