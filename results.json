@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-20T17:33:03.530634",
+    "timestamp": "2026-01-20T20:14:56.223040",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5596,6 +5596,46 @@
             "date": "2026-01-20T16:46:36+00:00",
             "message_id": 6837,
             "message_key": "@testingcatalog:6837"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Code is now generally available as a VSCode extension with support for @-mentions, slash commands, and more.\n\nClaude Code is everywhere \ud83d\udc40",
+            "translated_text": "Claude Code kini dah tersedia secara umum sebagai extension VSCode, dengan sokongan untuk @-mentions, slash commands, dan macam-macam lagi.\n\nClaude Code ada di mana-mana \ud83d\udc40",
+            "date": "2026-01-20T20:11:02+00:00",
+            "message_id": 6844,
+            "message_key": "@testingcatalog:6844"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-20T19:36:01+00:00",
+            "message_id": 6843,
+            "message_key": "@testingcatalog:6843"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is rolling out age prediction system for ChatGPT \n\n\u201cWhen the age prediction model estimates that an account may belong to someone under 18, ChatGPT automatically applies additional protections\u2060 designed to reduce exposure to sensitive content\u201d",
+            "translated_text": "OpenAI sedang memperkenalkan sistem ramalan umur untuk ChatGPT.\n\nBila model ramalan umur menganggarkan bahawa akaun mungkin milik seseorang bawah 18 tahun, ChatGPT secara automatik mengaplikasikan perlindungan tambahan yang direka untuk mengurangkan pendedahan kepada kandungan sensitif.",
+            "date": "2026-01-20T19:36:01+00:00",
+            "message_id": 6842,
+            "message_key": "@testingcatalog:6842"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udcd2 **Research shows UK young adults would use AI for financial guidance**\n\nResearch from Cleo AI indicates that young adults are turning to artificial intelligence for financial advice to help them manage their money and develop more sustainable financial habits.\n\nThe study surveyed 5,000 UK adults aged 28 to 40 and found that the majority are saving significantly less than they would like. In this context, interest in AI-driven money management tools is rising.\n\nOne in five respondents describe themselves as curious about using AI to manage their finances, while a further 12% say they are excited by the prospect.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udcd2 **Kajian menunjukkan dewasa muda UK akan guna AI untuk panduan kewangan**\n\nKajian dari Cleo AI menunjukkan yang golongan dewasa muda kini beralih kepada kecerdasan buatan (AI) untuk nasihat kewangan, bagi bantu mereka urus duit dan bina tabiat kewangan yang lebih mampan.\n\nKajian ini meninjau 5,000 dewasa di UK berumur 28 hingga 40 tahun dan mendapati majoriti mereka menyimpan jauh lebih sedikit dari yang mereka mahukan. Dalam konteks ini, minat terhadap alat pengurusan wang berasaskan AI semakin meningkat.\n\nSeorang dari lima responden menyatakan mereka ingin tahu tentang penggunaan AI untuk urus kewangan mereka, manakala 12% lagi pula kata mereka teruja dengan prospek ini.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-20T19:48:01+00:00",
+            "message_id": 375,
+            "message_key": "@AItoolboxdaily:375"
         }
     ]
 }
