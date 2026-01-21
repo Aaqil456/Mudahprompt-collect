@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-21T17:57:12.607405",
+    "timestamp": "2026-01-21T20:34:56.358311",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5736,6 +5736,56 @@
             "date": "2026-01-21T17:52:09+00:00",
             "message_id": 377,
             "message_key": "@AItoolboxdaily:377"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-21T20:05:21+00:00",
+            "message_id": 6858,
+            "message_key": "@testingcatalog:6858"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Apple plans to turn Siri into a full featured Campos AI app according to Bloomberg. \n\n\u201cThe new Siri experience is an AI chatbot code-named \u201cCampos\u201d that will be embedded deeply into iPhone, iPad, and Mac operating systems and will replace the current Siri interface.\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Apple merancang untuk menjadikan Siri sebagai aplikasi AI Campos berciri penuh, menurut Bloomberg.\n\n\u201cPengalaman Siri yang baharu ini adalah chatbot AI dengan nama kod \u201cCampos\u201d yang akan disepadukan secara mendalam ke dalam sistem operasi iPhone, iPad, dan Mac, serta akan menggantikan antaramuka Siri yang sedia ada.\u201d",
+            "date": "2026-01-21T20:05:20+00:00",
+            "message_id": 6857,
+            "message_key": "@testingcatalog:6857"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-21T19:55:51+00:00",
+            "message_id": 6856,
+            "message_key": "@testingcatalog:6856"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Comet browser agent is now powered by Opus 4.5 on Perplexity Max plans.",
+            "translated_text": "Comet browser agent kini dikuasakan oleh Opus 4.5 pada pelan Perplexity Max.",
+            "date": "2026-01-21T19:55:51+00:00",
+            "message_id": 6855,
+            "message_key": "@testingcatalog:6855"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling out a custom SAT quiz experience to help users prepare for the exam. \n\nTake a test \ud83d\udc40",
+            "translated_text": "Google sedang melancarkan pengalaman kuiz SAT khas untuk bantu pengguna bersedia untuk peperiksaan tu. Jom cuba kuiz \ud83d\udc40",
+            "date": "2026-01-21T19:43:28+00:00",
+            "message_id": 6854,
+            "message_key": "@testingcatalog:6854"
         }
     ]
 }
