@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-21T12:55:54.805102",
+    "timestamp": "2026-01-21T16:54:18.967307",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5676,6 +5676,36 @@
             "date": "2026-01-21T12:31:51+00:00",
             "message_id": 376,
             "message_key": "@AItoolboxdaily:376"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic working on MCP Apps with interactive UI components**](https://www.testingcatalog.com/anthropic-working-on-mcp-apps-with-interactive-ui-components/)\n\nClaude Cowork is testing \u201c@\u201d mentions to trigger callable actions and app-style widgets within chat, signaling a shift toward integrated tooling and UI rendering. Updates also hint at project-based memory and improved conversation search.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic sedang bangunkan Aplikasi MCP dengan komponen UI interaktif**](https://www.testingcatalog.com/anthropic-working-on-mcp-apps-with-interactive-ui-components/)\n\nClaude Cowork sedang uji sebutan \u201c@\u201d untuk picu tindakan yang boleh dipanggil dan widget gaya aplikasi dalam chat, menandakan peralihan ke arah alat yang bersepadu dan paparan UI. Kemaskini juga membayangkan memori berasaskan projek dan carian perbualan yang lebih baik.\n\n\ud83d\uddde #claude",
+            "date": "2026-01-21T16:51:22+00:00",
+            "message_id": 6850,
+            "message_key": "@testingcatalog:6850"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-21T16:09:17+00:00",
+            "message_id": 6849,
+            "message_key": "@testingcatalog:6849"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A new \u201cMini Companion\u201d model option appears on Grok for iOS. It feels like an older Grok model and likely a mistake rollout. \n\nSuper fast though \ud83d\udc40",
+            "translated_text": "Grok untuk iOS ada pilihan model baru \"Mini Companion\" ni. Rasa macam model Grok yang lama, dan mungkin tersilap keluarkan. Tapi laju gila dia \ud83d\udc40",
+            "date": "2026-01-21T16:09:17+00:00",
+            "message_id": 6848,
+            "message_key": "@testingcatalog:6848"
         }
     ]
 }
