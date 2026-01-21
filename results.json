@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-21T16:54:18.967307",
+    "timestamp": "2026-01-21T17:57:12.607405",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5706,6 +5706,36 @@
             "date": "2026-01-21T16:09:17+00:00",
             "message_id": 6848,
             "message_key": "@testingcatalog:6848"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on a new search menu for Claude, where you will be able to quickly search through the past chats and trigger quick actions.\n\n\"Ask your org\", \"New task\", and many more actions will enable power users to operate Claude much faster.",
+            "translated_text": "Anthropic tengah usahakan menu carian baru untuk Claude. Nanti, anda boleh cari balik sembang-sembang lama dengan cepat, dan terus buat tindakan pantas.\n\nMacam \"Tanya organisasi anda\", \"Tugas baru\", dan banyak lagi tindakan lain akan bantu pengguna tegar guna Claude dengan lebih pantas.",
+            "date": "2026-01-21T17:13:26+00:00",
+            "message_id": 6852,
+            "message_key": "@testingcatalog:6852"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on @ mention support for Claude Cowork, where you will be able to trigger certain MCP capabilities. \n\nHowever, some placeholders are named as \"MCP Apps\" and \"Imagine\" widgets for SVGs and HTML components. \n\nThis may be a reference to a solution which would allow MCP Apps to render UI components in Claude's response. This concept mirrors recently launched ChatGPT Apps that are also based on remote MCPs and rely on ChatKit for widget rendering. \n\nClaude Apps Store soon? \ud83d\udc40",
+            "translated_text": "Anthropic sedang usahakan sokongan @ mention untuk Claude Cowork, di mana nanti kita boleh aktifkan beberapa fungsi MCP. Tapi, ada beberapa placeholder yang dinamakan sebagai \"MCP Apps\" dan widget \"Imagine\" untuk komponen SVG dan HTML. Ini mungkin merujuk kepada satu penyelesaian yang akan membolehkan MCP Apps memaparkan komponen UI dalam respons Claude. Konsep ini sama macam ChatGPT Apps yang baru dilancarkan, yang juga berasaskan MCP jauh dan bergantung pada ChatKit untuk paparan widget. Claude Apps Store tak lama lagi? \ud83d\udc40",
+            "date": "2026-01-21T17:06:04+00:00",
+            "message_id": 6851,
+            "message_key": "@testingcatalog:6851"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udc8a **AstraZeneca bets on in-house AI to speed up oncology research**\n\nDrug development is producing more data than ever, and large pharmaceutical companies like AstraZeneca are turning to AI to make sense of it. The challenge is no longer whether AI can help, but how tightly it needs to be built into research and clinical work to improve decisions around trials and treatment.\n\nThat question helps explain why AstraZeneca is bringing Modella AI in-house. The company has agreed to acquire the Boston-based AI firm as it looks to deepen its use of AI across oncology research and clinical development. Financial terms were not disclosed.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udc8a **AstraZeneca gunakan AI sendiri untuk percepat penyelidikan onkologi**\n\nPembangunan ubat sekarang ni hasilkan lebih banyak data dari biasa, dan syarikat farmaseutikal besar macam AstraZeneca dah mula guna AI untuk fahamkan data tu. Cabaran sekarang bukan lagi sama ada AI boleh bantu, tapi sejauh mana AI ni perlu disepadukan dalam kerja penyelidikan dan klinikal untuk tingkatkan keputusan berkaitan ujian dan rawatan.\n\nPersoalan tu bantu jelaskan kenapa AstraZeneca bawa masuk Modella AI ke dalam syarikat. Syarikat tu dah setuju nak ambil alih firma AI dari Boston ni sebab nak dalamkan lagi penggunaan AI dalam penyelidikan onkologi dan pembangunan klinikal. Syarat-syarat kewangan tak didedahkan.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-21T17:52:09+00:00",
+            "message_id": 377,
+            "message_key": "@AItoolboxdaily:377"
         }
     ]
 }
