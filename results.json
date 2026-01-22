@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-22T17:32:16.076505",
+    "timestamp": "2026-01-22T20:31:28.270518",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5906,6 +5906,26 @@
             "date": "2026-01-22T16:41:54+00:00",
             "message_id": 6867,
             "message_key": "@testingcatalog:6867"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Vercel opened a new waitlist for the upcoming launch of a new AI product for v0.\n\n\"v0 is coming to take your job...to the next level. Sign up for early access.\"",
+            "translated_text": "Vercel dah buka senarai menunggu baru untuk pelancaran produk AI baru mereka untuk v0.\n\n\"v0 akan datang untuk bawa kerja anda...ke tahap seterusnya. Jom daftar untuk akses awal.\"",
+            "date": "2026-01-22T19:33:23+00:00",
+            "message_id": 6871,
+            "message_key": "@testingcatalog:6871"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Creators & Marketing\n**\n\u201cRefine my idea into a compelling value proposition.\u201d\nUse this command:\n\n```Take the idea below and refine it into a strong value proposition.\nClarify who it\u2019s for, what problem it solves, why it\u2019s different, and why someone should care right now.\nImprove clarity, positioning, and emotional impact without making it sound salesy.\nHere is the idea: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Pencipta Kandungan & Pemasaran**\n\n\u201cPerhalusi idea saya menjadi proposisi nilai yang menarik.\u201d\nGunakan arahan ini:\n\n```Ambil idea di bawah dan perhalusikannya menjadi proposisi nilai yang kukuh.\nJelaskan untuk siapa ia, masalah apa yang diselesaikannya, mengapa ia berbeza, dan mengapa seseorang perlu mengambil berat sekarang.\nTingkatkan kejelasan, kedudukan, dan impak emosi tanpa menjadikannya kedengaran seperti jualan.\nIni adalah ideanya: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 Kotak Peralatan AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-22T18:43:01+00:00",
+            "message_id": 379,
+            "message_key": "@AItoolboxdaily:379"
         }
     ]
 }
