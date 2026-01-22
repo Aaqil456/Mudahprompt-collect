@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-22T22:26:44.526456",
+    "timestamp": "2026-01-22T23:24:36.189497",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5936,6 +5936,16 @@
             "date": "2026-01-22T21:42:13+00:00",
             "message_id": 6872,
             "message_key": "@testingcatalog:6872"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor 2.4 adds autonomous subagents and image generation**](https://www.testingcatalog.com/cursor-2-4-adds-autonomous-subagents-and-image-generation/)\n\nCursor 2.4 introduces Subagents for parallel task execution, image generation within workflows, and AI-powered git blame attribution. It supports extensive codebase tasks via agent-driven planning in-editor and through the Cursor CLI.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor 2.4 menambah subagen autonomi dan penjanaan imej**](https://www.testingcatalog.com/cursor-2-4-adds-autonomous-subagents-and-image-generation/)\n\nCursor 2.4 memperkenalkan Subagen untuk pelaksanaan tugas secara selari, penjanaan imej dalam aliran kerja, dan atribusi git blame yang dikuasakan AI. Ia menyokong tugas-tugas pangkalan kod yang meluas melalui perancangan yang dipacu agen dalam editor dan melalui CLI Cursor.\n\n\ud83d\uddde #cursor",
+            "date": "2026-01-22T22:41:00+00:00",
+            "message_id": 6873,
+            "message_key": "@testingcatalog:6873"
         }
     ]
 }
