@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-22T16:39:12.881248",
+    "timestamp": "2026-01-22T17:32:16.076505",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5866,6 +5866,46 @@
             "date": "2026-01-22T16:31:57+00:00",
             "message_id": 6866,
             "message_key": "@testingcatalog:6866"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is rolling out a new Google Drive search! \n\n\"Select up to 5,000 of your most important files for us to catalog and keep in sync, enabling even more comprehensive answers. Available with Enterprise Pro and all Max tiers.\"",
+            "translated_text": "Perplexity sedang melancarkan carian Google Drive yang baru!\n\n\"Pilih sehingga 5,000 fail paling penting anda untuk kami katalog dan sentiasa selaraskan, membolehkan jawapan yang lebih menyeluruh. Tersedia untuk Enterprise Pro dan semua peringkat Max.\"",
+            "date": "2026-01-22T17:11:19+00:00",
+            "message_id": 6870,
+            "message_key": "@testingcatalog:6870"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google adds Personal Intelligence to AI Mode for AI Pro, Ultra users**](https://www.testingcatalog.com/google-adds-personal-intelligence-to-ai-mode-for-ai-pro-ultra-users/)\n\nGoogle's AI Mode in Search now includes Personal Intelligence for Pro and Ultra subscribers, using Gmail and Google Photos data to deliver context-aware, personalized search results based on each user's real-life habits and preferences.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google tambah Personal Intelligence dalam AI Mode untuk pengguna AI Pro, Ultra**](https://www.testingcatalog.com/google-adds-personal-intelligence-to-ai-mode-for-ai-pro-ultra-users/)\n\nMod AI Google dalam Carian kini ada Personal Intelligence untuk pelanggan Pro dan Ultra. Ia guna data dari Gmail dan Google Photos untuk bagi hasil carian yang lebih peka konteks dan peribadi, ikut tabiat dan pilihan sebenar setiap pengguna.\n\n\ud83d\uddde #gemini",
+            "date": "2026-01-22T16:54:57+00:00",
+            "message_id": 6869,
+            "message_key": "@testingcatalog:6869"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Devin launches AI-powered code review tool for GitHub projects**](https://www.testingcatalog.com/devin-launches-ai-powered-code-review-tool-for-github-projects/)\n\nDevin Review supports developers with an AI-based system that organizes code changes, flags bugs by severity, and offers contextual insights, addressing challenges from rising PR volumes. It integrates with GitHub and is free in early release.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Devin lancarkan alat semakan kod berkuasa AI untuk projek GitHub**](https://www.testingcatalog.com/devin-launches-ai-powered-code-review-tool-for-github-projects/)\n\nDevin Review bantu pembangun dengan sistem berasaskan AI yang susun perubahan kod, kenal pasti pepijat ikut tahap serius, dan bagi pandangan ikut konteks, selesaikan cabaran dari jumlah PR yang makin banyak. Ia boleh disepadukan dengan GitHub dan percuma dalam keluaran awal.\n\n\ud83d\uddde #ai",
+            "date": "2026-01-22T16:44:28+00:00",
+            "message_id": 6868,
+            "message_key": "@testingcatalog:6868"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Inworld launches TTS-1.5 for real-time voice with 16 languages**](https://www.testingcatalog.com/inworld-launches-tts-1-5-for-real-time-voice-with-16-languages/)\n\nInworld launched TTS-1.5 with two models offering low latency and multilingual support for real-time voice use. Available free through 2025, the models include voice cloning, flexible deployment, and top-rated naturalness based on user feedback.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Inworld memperkenalkan TTS-1.5 untuk suara masa nyata dengan 16 bahasa**](https://www.testingcatalog.com/inworld-launches-tts-1-5-for-real-time-voice-with-16-languages/)\n\nInworld dah lancarkan TTS-1.5 dengan dua model yang menawarkan kependaman rendah dan sokongan pelbagai bahasa untuk kegunaan suara masa nyata. Model-model ni boleh didapati secara percuma sampai tahun 2025, dan ia termasuk ciri pengklonan suara, penempatan yang fleksibel, serta keaslian bunyi yang sangat bagus berdasarkan maklum balas pengguna.\n\n\ud83d\uddde #ai",
+            "date": "2026-01-22T16:41:54+00:00",
+            "message_id": 6867,
+            "message_key": "@testingcatalog:6867"
         }
     ]
 }
