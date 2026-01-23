@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-23T16:35:30.348423",
+    "timestamp": "2026-01-23T19:26:36.576124",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -5976,6 +5976,16 @@
             "date": "2026-01-23T16:01:21+00:00",
             "message_id": 380,
             "message_key": "@AItoolboxdaily:380"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83e\uddd1\u200d\ud83d\udcbb Remotion has [introduced](https://www.remotion.dev/docs/ai/skills?utm_source=perplexity) Agent Skills,  a set of tools that allow AI agents (including Anthropic\u2019s Claude Code) to directly control the video creation process.\n\nDevelopers can now generate complex animations, adjust timing, and render MP4 files using only text commands in the terminal.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83e\uddd1\u200d\ud83d\udcbb Remotion telah [memperkenalkan](https://www.remotion.dev/docs/ai/skills?utm_source=perplexity) Agent Skills, satu set alatan yang membolehkan agen AI (termasuk Claude Code dari Anthropic) mengawal secara terus proses penciptaan video.\n\nPembangun kini boleh menjana animasi yang kompleks, melaraskan masa, dan menghasilkan fail MP4 hanya menggunakan arahan teks dalam terminal.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-23T19:16:51+00:00",
+            "message_id": 381,
+            "message_key": "@AItoolboxdaily:381"
         }
     ]
 }
