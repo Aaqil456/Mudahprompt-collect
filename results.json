@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-24T14:22:12.329529",
+    "timestamp": "2026-01-24T18:33:44.622266",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6056,6 +6056,26 @@
             "date": "2026-01-24T13:33:05+00:00",
             "message_id": 382,
             "message_key": "@AItoolboxdaily:382"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The Dev Models selector will be available in the models list. Besides that, there will be a model search feature as well as a possibility to favourite them. \n\n\"Edit model overrides\" \ud83e\udd16",
+            "translated_text": "Pemilih Dev Models akan ada dalam senarai model. Selain itu, akan ada juga ciri carian model dan juga boleh jadikan ia kegemaran.\n\n\"Edit model overrides\" \ud83e\udd16",
+            "date": "2026-01-24T17:54:28+00:00",
+            "message_id": 6883,
+            "message_key": "@testingcatalog:6883"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI is implementing a new \"Dev Models\" section on Grok, which allows users to override the base model system prompt, tool calls and more.\n\nIt could be an enterprise-specific feature \ud83d\udc40",
+            "translated_text": "xAI sedang memperkenalkan satu bahagian baru, \"Dev Models\", di Grok. Bahagian ni membolehkan pengguna untuk ubah arahan sistem model asas, panggilan alatan, dan macam-macam lagi.\n\nNampak gayanya, ini mungkin ciri khas untuk kegunaan syarikat \ud83d\udc40",
+            "date": "2026-01-24T17:54:07+00:00",
+            "message_id": 6882,
+            "message_key": "@testingcatalog:6882"
         }
     ]
 }
