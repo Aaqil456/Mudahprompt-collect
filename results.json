@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-23T23:24:28.884040",
+    "timestamp": "2026-01-24T13:32:56.823922",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6026,6 +6026,26 @@
             "date": "2026-01-23T22:39:04+00:00",
             "message_id": 6877,
             "message_key": "@testingcatalog:6877"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI to add shopping cart and merchant tools to ChatGPT**](https://www.testingcatalog.com/openai-to-add-shopping-cart-and-merchant-tools-to-chatgpt/)\n\nOpenAI is developing commerce-oriented features for ChatGPT, including a shopping cart, temporary chat personalization using stored data, and merchant submission tools, signaling a shift toward transactional capabilities within the platform.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI nak masukkan fungsi troli beli-belah dengan alatan untuk peniaga dalam ChatGPT**](https://www.testingcatalog.com/openai-to-add-shopping-cart-and-merchant-tools-to-chatgpt/)\n\nOpenAI tengah bangunkan ciri-ciri yang fokus pada perniagaan untuk ChatGPT. Antaranya, ada troli beli-belah, fungsi peribadi sementara untuk sembang guna data yang disimpan, dan alatan untuk peniaga hantar maklumat. Nampak gayanya, platform ni akan mula ada kemampuan untuk transaksi jual beli.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-01-24T13:15:42+00:00",
+            "message_id": 6881,
+            "message_key": "@testingcatalog:6881"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Veograms and music creation tools on Gemini**](https://www.testingcatalog.com/google-prepares-veograms-and-music-creation-tools-on-gemini/)\n\nGoogle plans to expand Gemini with Veograms for template-based video creation and a music generation tool supporting various genres, signaling its push to develop a comprehensive creative platform, though release timelines remain unclear.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google Sediakan Veograms dan Alat Cipta Muzik di Gemini**](https://www.testingcatalog.com/google-prepares-veograms-and-music-creation-tools-on-gemini/)\n\nGoogle bercadang untuk kembangkan Gemini dengan Veograms untuk penciptaan video berasaskan templat dan alat penjanaan muzik yang menyokong pelbagai genre. Ini menunjukkan usaha Google untuk bangunkan platform kreatif yang menyeluruh, walaupun tarikh pelancarannya masih belum jelas.\n\n\ud83d\uddde #gemini",
+            "date": "2026-01-24T12:59:06+00:00",
+            "message_id": 6880,
+            "message_key": "@testingcatalog:6880"
         }
     ]
 }
