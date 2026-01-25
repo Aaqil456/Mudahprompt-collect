@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-25T07:24:07.554315",
+    "timestamp": "2026-01-25T08:31:17.796557",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6096,6 +6096,26 @@
             "date": "2026-01-25T06:44:03+00:00",
             "message_id": 383,
             "message_key": "@AItoolboxdaily:383"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Firebase integration for AI Studio Build**](https://www.testingcatalog.com/google-tests-firebase-integration-for-ai-studio-build/)\n\nGoogle is integrating AI Studio with Firebase, adding native support for databases and OAuth to simplify setup for authentication and data storage, allowing faster prototyping and deployment of full-stack, data-driven applications.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google sedang uji integrasi Firebase untuk AI Studio Build**](https://www.testingcatalog.com/google-tests-firebase-integration-for-ai-studio-build/)\n\nGoogle sedang menyepadukan AI Studio dengan Firebase, menambah sokongan asli untuk pangkalan data dan OAuth. Ini akan memudahkan persediaan bagi pengesahan dan penyimpanan data, membolehkan prototaip yang lebih pantas dan penggunaan aplikasi full-stack, berasaskan data.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-01-25T08:23:31+00:00",
+            "message_id": 6886,
+            "message_key": "@testingcatalog:6886"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI leaks internal Dev Models override section on Grok**](https://www.testingcatalog.com/xai-leaks-internal-dev-models-override-section-on-grok/)\n\nxAI is testing a \u201cDev Models\u201d feature in Grok\u2019s UI, offering detailed model configuration and override options, though it's unclear if it will be public-facing or remain internal. It signals ongoing development focused on customization.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI bocorkan bahagian override 'Dev Models' dalaman untuk Grok**](https://www.testingcatalog.com/xai-leaks-internal-dev-models-override-section-on-grok/)\n\nxAI sedang menguji ciri \u201cDev Models\u201d dalam UI Grok. Ciri ini menawarkan konfigurasi model yang terperinci dan pilihan untuk override. Walaupun begitu, belum jelas sama ada ia akan dibuka kepada umum atau kekal untuk kegunaan dalaman sahaja. Ini menandakan pembangunan berterusan yang fokus pada penyesuaian.\n\n\ud83d\uddde #grok",
+            "date": "2026-01-25T08:22:40+00:00",
+            "message_id": 6885,
+            "message_key": "@testingcatalog:6885"
         }
     ]
 }
