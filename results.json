@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-25T12:48:21.138588",
+    "timestamp": "2026-01-25T14:21:51.298847",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6126,6 +6126,26 @@
             "date": "2026-01-25T11:30:52+00:00",
             "message_id": 384,
             "message_key": "@AItoolboxdaily:384"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft tests new personality selector for Copilot**](https://www.testingcatalog.com/microsoft-tests-new-personality-selector-for-copilot/)\n\nMicrosoft is gradually introducing customization in Copilot, including a basic personality selector and updates to memory settings. However, limited access to GPT 5.2 and key features leaves it trailing behind other AI platforms.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft sedang uji pemilih personaliti baharu untuk Copilot**](https://www.testingcatalog.com/microsoft-tests-new-personality-selector-for-copilot/)\n\nMicrosoft perlahan-lahan memperkenalkan penyesuaian dalam Copilot, termasuk pemilih personaliti asas dan kemas kini pada tetapan memori. Namun begitu, akses terhad kepada GPT 5.2 dan ciri-ciri utama menyebabkan ia ketinggalan di belakang platform AI lain.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-01-25T13:48:10+00:00",
+            "message_id": 6888,
+            "message_key": "@testingcatalog:6888"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares to release Security Center for Claude Code**](https://www.testingcatalog.com/anthropic-prepares-to-release-security-center-for-claude-code/)\n\nAnthropic is introducing a Security Center in Claude Code to centralize code security tasks, offering manual scan options and issue tracking across repositories, aligning with industry shifts toward integrated, AI-driven security solutions.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic bersedia melancarkan Security Center untuk Claude Code**](https://www.testingcatalog.com/anthropic-prepares-to-release-security-center-for-claude-code/)\n\nAnthropic memperkenalkan Security Center dalam Claude Code untuk memusatkan tugas keselamatan kod, menawarkan pilihan imbasan manual dan penjejakan isu merentasi repositori. Ini selaras dengan perubahan industri ke arah penyelesaian keselamatan bersepadu yang dipacu AI.\n\n\ud83d\uddde #claude",
+            "date": "2026-01-25T13:46:36+00:00",
+            "message_id": 6887,
+            "message_key": "@testingcatalog:6887"
         }
     ]
 }
