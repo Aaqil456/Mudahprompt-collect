@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-26T11:23:20.924360",
+    "timestamp": "2026-01-26T17:33:22.083051",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6186,6 +6186,56 @@
             "date": "2026-01-26T10:31:36+00:00",
             "message_id": 385,
             "message_key": "@AItoolboxdaily:385"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-26T17:16:04+00:00",
+            "message_id": 6897,
+            "message_key": "@testingcatalog:6897"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Dario Amodei explicitly argues there is \u201ca strong chance\u201d that \u201cpowerful AI\u201d, smarter than Nobel laureates across domains and able to operate as a \u201ccountry of geniuses in a datacenter\u201d with millions of instances, arrives within the next few years, possibly as soon as 2027.\n\nHe notes that Claude Sonnet 4.5 could recognise when it was being evaluated and adjust behaviour, and that when researchers altered a model\u2019s \u201cbeliefs\u201d to make it think it was not being evaluated.",
+            "translated_text": "Dario Amodei secara jelas cakap ada \"peluang besar\" yang \"AI yang sangat berkuasa\" \u2014 yang lebih pintar dari pemenang Nobel dalam pelbagai bidang dan boleh berfungsi macam \"negara genius dalam pusat data\" dengan berjuta-juta instans \u2014 akan muncul dalam beberapa tahun lagi, mungkin seawal 2027.\n\nDia juga ada sebut yang Claude Sonnet 4.5 boleh kenal bila ia sedang dinilai dan boleh ubah tingkah laku dia. Dan menariknya, bila penyelidik ubah \"kepercayaan\" model tu, ia akan fikir ia tak sedang dinilai.",
+            "date": "2026-01-26T17:16:04+00:00",
+            "message_id": 6896,
+            "message_key": "@testingcatalog:6896"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Azure Maia 200 vs AWS Titanium3 and Google TPUv7",
+            "translated_text": "Azure Maia 200 lawan AWS Titanium3 dan Google TPUv7",
+            "date": "2026-01-26T16:55:47+00:00",
+            "message_id": 6895,
+            "message_key": "@testingcatalog:6895"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft announced that new Maia 200 AI accelerators are becoming available on Azure for advanced AI workloads.\n\n\"10+ PFLOPS FP4 throughput, ~5 PFLOPS FP8, and 216GB HBM3e with 7TB/s of memory bandwidth\"",
+            "translated_text": "Microsoft mengumumkan bahawa pemecut AI Maia 200 yang baharu akan mula tersedia di Azure untuk beban kerja AI yang lebih canggih. Ia menawarkan daya pemprosesan FP4 lebih 10 PFLOPS, kira-kira 5 PFLOPS FP8, dan 216GB HBM3e dengan lebar jalur memori 7TB/s.",
+            "date": "2026-01-26T16:54:58+00:00",
+            "message_id": 6894,
+            "message_key": "@testingcatalog:6894"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Qwen released Qwen3-MAX-Thinking on APIs and Qwen Chat. \n\nThe new model scores a high achievement on SWE Bench Verified and HLE benchmarks, competing with leading AI Labs.",
+            "translated_text": "Qwen telah melancarkan Qwen3-MAX-Thinking di API dan Qwen Chat. Model baru ini menunjukkan pencapaian yang tinggi dalam penanda aras SWE Bench Verified dan HLE, setanding dengan makmal AI terkemuka.",
+            "date": "2026-01-26T16:46:06+00:00",
+            "message_id": 6893,
+            "message_key": "@testingcatalog:6893"
         }
     ]
 }
