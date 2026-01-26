@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-26T17:33:22.083051",
+    "timestamp": "2026-01-26T18:40:10.382441",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6236,6 +6236,16 @@
             "date": "2026-01-26T16:46:06+00:00",
             "message_id": 6893,
             "message_key": "@testingcatalog:6893"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Work & Problem Solving\n**\n\u201cBreak down a complex problem and guide me to a clear solution.\u201d\nUse this command:\n\n```Take the problem described below and analyze it thoroughly.\nExplain what is really causing the issue, separate symptoms from root causes, and explore realistic solution paths.\nCompare possible approaches, explain their trade-offs, and recommend the most practical solution with clear reasoning.\nHere is the problem: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Kerja & Penyelesaian Masalah**\n\n\u201cBantu pecahkan masalah yang rumit dan bimbing saya ke penyelesaian yang jelas.\u201d\nGuna arahan ini:\n\n```Ambil masalah yang diterangkan di bawah dan analisis dengan teliti.\nTerangkan apa punca sebenar isu itu, asingkan simptom daripada punca utama, dan teroka laluan penyelesaian yang realistik.\nBandingkan pendekatan yang mungkin, terangkan kelebihan dan kekurangannya, dan cadangkan penyelesaian paling praktikal dengan alasan yang jelas.\nIni masalahnya: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-26T17:42:23+00:00",
+            "message_id": 386,
+            "message_key": "@AItoolboxdaily:386"
         }
     ]
 }
