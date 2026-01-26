@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-26T19:26:05.411657",
+    "timestamp": "2026-01-26T20:30:45.925598",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6256,6 +6256,26 @@
             "date": "2026-01-26T18:40:52+00:00",
             "message_id": 6898,
             "message_key": "@testingcatalog:6898"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic integrates interactive MCP apps into Claude**](https://www.testingcatalog.com/anthropic-integrates-interactive-mcp-apps-into-claude/)\n\nAnthropic updates Claude to support direct use of tools like Asana, Slack, Figma, and Box within its interface. Users on paid plans can now collaborate on projects without switching apps, using real-time UIs powered by the open-source MCP protocol.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic menyepadukan aplikasi MCP interaktif ke dalam Claude**](https://www.testingcatalog.com/anthropic-integrates-interactive-mcp-apps-into-claude/)\n\nAnthropic dah kemaskini Claude supaya boleh guna terus alatan macam Asana, Slack, Figma, dan Box dalam antara mukanya. Pengguna yang langgan pelan berbayar sekarang boleh bekerjasama dalam projek tanpa perlu tukar-tukar aplikasi, guna UI masa nyata yang dikuasakan oleh protokol MCP sumber terbuka.\n\n\ud83d\uddde #claude",
+            "date": "2026-01-26T20:01:33+00:00",
+            "message_id": 6900,
+            "message_key": "@testingcatalog:6900"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Qwen3-Max-Thinking debuts with focus on hard math, code**](https://www.testingcatalog.com/qwen3-max-thinking-debuts-with-focus-on-hard-math-code/)\n\nQwen3-Max-Thinking is Alibaba Cloud\u2019s advanced reasoning model for math, coding, and agent workflows, now accessible via Qwen Chat and Model Studio. It supports long-context tasks, tool use, and selective compute for accuracy-critical prompts.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Qwen3-Max-Thinking Membuat Kemunculan Sulung, Fokus Pada Matematik Kompleks dan Pengekodan**](https://www.testingcatalog.com/qwen3-max-thinking-debuts-with-focus-on-hard-math-code/)\n\nQwen3-Max-Thinking ini adalah model penaakulan canggih dari Alibaba Cloud. Ia direka untuk matematik, pengekodan, dan aliran kerja ejen. Kini, ia boleh diakses melalui Qwen Chat dan Model Studio. Model ini menyokong tugas dengan konteks yang panjang, penggunaan alatan, dan pengiraan terpilih untuk arahan yang memerlukan ketepatan tinggi.\n\n\ud83d\uddde #ai",
+            "date": "2026-01-26T20:01:06+00:00",
+            "message_id": 6899,
+            "message_key": "@testingcatalog:6899"
         }
     ]
 }
