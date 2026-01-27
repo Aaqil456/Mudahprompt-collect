@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-27T18:43:28.631433",
+    "timestamp": "2026-01-27T20:27:14.079178",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6486,6 +6486,26 @@
             "date": "2026-01-27T17:52:01+00:00",
             "message_id": 388,
             "message_key": "@AItoolboxdaily:388"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI Prism intro \ud83d\udc40\n\nA new AI research agent and LaTeX native workspace. Available for free on Personal accounts.",
+            "translated_text": "Pengenalan OpenAI Prism \ud83d\udc40\n\nEjen penyelidik AI baharu dan ruang kerja asli LaTeX. Tersedia secara percuma untuk akaun Personal.",
+            "date": "2026-01-27T19:34:16+00:00",
+            "message_id": 6924,
+            "message_key": "@testingcatalog:6924"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Gemini 3 Flash can now use code execution and reasoning on vision tasks to get an additional 5-10% quality improvement. \n\nAvailable on Vertex AI and AI Studio",
+            "translated_text": "Gemini 3 Flash sekarang dah boleh guna pelaksanaan kod dan penaakulan untuk tugasan visual. Dengan cara ni, kualiti dia boleh meningkat lagi 5-10%.\n\nBoleh didapati di Vertex AI dan AI Studio.",
+            "date": "2026-01-27T19:29:57+00:00",
+            "message_id": 6923,
+            "message_key": "@testingcatalog:6923"
         }
     ]
 }
