@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-27T16:34:04.841281",
+    "timestamp": "2026-01-27T17:30:59.484617",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6386,6 +6386,56 @@
             "date": "2026-01-27T16:00:19+00:00",
             "message_id": 6911,
             "message_key": "@testingcatalog:6911"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Now you can connect Moltbot AI agent (formerly Clawdbot) to your local models via ollama. All your data stays on your device, no API calls required. \n\nThe best combo \ud83d\udc40",
+            "translated_text": "Sekarang anda boleh sambungkan Moltbot AI agent (dahulunya Clawdbot) ke model tempatan anda melalui ollama. Semua data anda kekal dalam peranti anda, tak perlu panggilan API.\n\nKombo terbaik \ud83d\udc40",
+            "date": "2026-01-27T17:20:00+00:00",
+            "message_id": 6918,
+            "message_key": "@testingcatalog:6918"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus AI launches Agent Skills open standard for AI workflows**](https://www.testingcatalog.com/manus-ai-launches-agent-skills-open-standard-for-ai-workflows/)\n\nManus AI launches full support for Agent Skills, an open standard enabling modular workflows and reusable expertise across platforms. The update supports Python and Bash, reduces context cost, and promotes AI system interoperability.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus AI melancarkan piawaian terbuka Agent Skills untuk aliran kerja AI**](https://www.testingcatalog.com/manus-ai-launches-agent-skills-open-standard-for-ai-workflows/)\n\nManus AI melancarkan sokongan penuh untuk Agent Skills, satu piawaian terbuka yang membolehkan aliran kerja modular dan kepakaran yang boleh diguna semula merentasi pelbagai platform. Kemas kini ini menyokong Python dan Bash, mengurangkan kos konteks, dan mempromosikan kebolehoperasian sistem AI.\n\n\ud83d\uddde #manus",
+            "date": "2026-01-27T17:15:13+00:00",
+            "message_id": 6917,
+            "message_key": "@testingcatalog:6917"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Moonshot AI launches Kimi K2.5 with swarm of 100 parallel agents**](https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-5-with-swarm-of-100-parallel-agents/)\n\nMoonshot AI's Kimi K2.5 introduces a multimodal open-source model with parallel-agent capabilities, achieving faster task execution, advanced code generation, and visual debugging for developers, enterprises, and researchers via API and apps.\n\n\ud83d\uddde #kimi",
+            "translated_text": "[**Moonshot AI Lancarkan Kimi K2.5 Dengan 100 Agen Selari**](https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-5-with-swarm-of-100-parallel-agents/)\n\nKimi K2.5 dari Moonshot AI memperkenalkan model sumber terbuka multimodal dengan keupayaan agen selari. Ini membolehkan pelaksanaan tugas yang lebih pantas, penjanaan kod yang lebih canggih, dan penyahpepijatan visual untuk pembangun, syarikat, dan penyelidik, semuanya boleh diakses melalui API dan aplikasi.\n\n\ud83d\uddde #kimi",
+            "date": "2026-01-27T17:12:02+00:00",
+            "message_id": 6916,
+            "message_key": "@testingcatalog:6916"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Seems like Anthropic is preparing to release a dedicated Plugins section for Connectors and Skills, as it now appears on Claude Desktop. However, it is not clickable yet. \n \nThis feature was named \"Customize\" earlier, during the development phase.\n\nThe customizable commands option was removed after this publication, and yet unclear if those will be discontinued (very likely).",
+            "translated_text": "Nampaknya Anthropic sedang bersiap sedia untuk melancarkan satu bahagian Plugins yang khusus untuk Connectors dan Skills, sebab ia dah muncul dekat Claude Desktop. Tapi, ia belum boleh diklik lagi.\n\nCiri ni dulu dinamakan \"Customize\", masa fasa pembangunan.\n\nPilihan arahan yang boleh disesuaikan tu dah dibuang lepas penerbitan ni, dan masih tak jelas lagi sama ada ia akan dihentikan terus (kemungkinan besar).",
+            "date": "2026-01-27T16:59:54+00:00",
+            "message_id": 6915,
+            "message_key": "@testingcatalog:6915"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus AI now supports Skills, a common standard introduced by Anthropic, so now you can reuse them in Manus as well. \n\nSkill is not an issue anymore \ud83d\udc40",
+            "translated_text": "Manus AI kini menyokong Skills, satu standard biasa yang diperkenalkan oleh Anthropic, jadi sekarang anda boleh guna semula dalam Manus juga.\n\nSkill tak jadi masalah lagi \ud83d\udc40",
+            "date": "2026-01-27T16:51:30+00:00",
+            "message_id": 6914,
+            "message_key": "@testingcatalog:6914"
         }
     ]
 }
