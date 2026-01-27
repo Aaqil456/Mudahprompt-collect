@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-27T02:02:02.897685",
+    "timestamp": "2026-01-27T08:37:30.963185",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6336,6 +6336,26 @@
             "date": "2026-01-26T23:42:43+00:00",
             "message_id": 6908,
             "message_key": "@testingcatalog:6908"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Benchmarks \ud83d\udc40",
+            "translated_text": "Penanda Aras \ud83d\udc40",
+            "date": "2026-01-27T07:53:55+00:00",
+            "message_id": 6910,
+            "message_key": "@testingcatalog:6910"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Kimi K2.5 open-source model is now live on Kimi Chat and APIs with a leading 50% score on HLE benchmark!\n\nIt comes along with an Agentic Swarm feature, where up to 100 sub-agents would be working on a problem in parallel (Available in beta for some customers)",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Model sumber terbuka Kimi K2.5 dah pun dilancarkan di Kimi Chat dan API, dengan skor 50% yang tertinggi dalam penanda aras HLE!\n\nIa datang sekali dengan ciri Agentic Swarm, di mana sehingga 100 sub-ejen akan bekerja menyelesaikan satu masalah secara serentak (Tersedia dalam beta untuk sesetengah pelanggan).",
+            "date": "2026-01-27T07:53:31+00:00",
+            "message_id": 6909,
+            "message_key": "@testingcatalog:6909"
         }
     ]
 }
