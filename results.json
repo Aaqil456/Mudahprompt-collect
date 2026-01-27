@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-27T17:30:59.484617",
+    "timestamp": "2026-01-27T18:43:28.631433",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6436,6 +6436,56 @@
             "date": "2026-01-27T16:51:30+00:00",
             "message_id": 6914,
             "message_key": "@testingcatalog:6914"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI Prism supports Zotero integration \ud83d\udc40\n\n\"With the Zotero integration, you can import your references into your project.\"\n\nZotero is a free tool to help youcollect, organise, annotate, cite, and share research.",
+            "translated_text": "OpenAI Prism menyokong integrasi Zotero \ud83d\udc40\n\nDengan integrasi Zotero ini, anda boleh import rujukan anda ke dalam projek anda.\n\nZotero adalah alat percuma untuk bantu anda kumpul, susun, buat anotasi, sitasi, dan kongsi penyelidikan.",
+            "date": "2026-01-27T18:05:38+00:00",
+            "message_id": 6922,
+            "message_key": "@testingcatalog:6922"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Prism capabilities \ud83d\udc40",
+            "translated_text": "Kemampuan Prism \ud83d\udc40",
+            "date": "2026-01-27T18:00:41+00:00",
+            "message_id": 6921,
+            "message_key": "@testingcatalog:6921"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI is releasing Prism, a new LaTeX native workspace for researchers where GPT-5.2 can work alongside you to help draft papers, revise citations and more. Available to Personal accounts. \n\nA preparation for the \"Innovators\" level \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI akan melancarkan Prism, ruang kerja baharu yang menyokong LaTeX untuk penyelidik. Di sini, GPT-5.2 boleh bekerja bersama anda untuk membantu draf kertas kerja, menyemak semula rujukan, dan banyak lagi. Ia tersedia untuk akaun Personal.\n\nIni adalah persediaan untuk tahap \"Innovators\" \ud83d\udc40",
+            "date": "2026-01-27T17:58:25+00:00",
+            "message_id": 6920,
+            "message_key": "@testingcatalog:6920"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Gemini now supports reasoning effort selection via @ commands (Pro, Thinking, Fast). It seems like tool call shortcuts are in the works as well, based on these hidden prompt suggestions. \n\nPreviously, GEM shortcuts were tested internally too, but it seems like not anymore.",
+            "translated_text": "Gemini sekarang dah sokong pilihan tahap pemikiran guna arahan @ (Pro, Thinking, Fast). Nampaknya, shortcut untuk panggil alat pun sedang diusahakan juga, berdasarkan cadangan prompt tersembunyi ni.\n\nDulu, GEM shortcuts pun pernah diuji secara dalaman juga, tapi nampaknya macam dah tak lagi.",
+            "date": "2026-01-27T17:36:24+00:00",
+            "message_id": 6919,
+            "message_key": "@testingcatalog:6919"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udcb8 **Balancing AI cost efficiency with data sovereignty**\n\nAI cost efficiency and data sovereignty are at odds, forcing a rethink of enterprise risk frameworks for global organisations.\n\nFor over a year, the generative AI narrative focused on a race for capability, often measuring success by parameter counts and flawed [benchmark scores](https://www.artificialintelligence-news.com/news/flawed-ai-benchmarks-enterprise-budgets-at-risk/). Boardroom conversations, however, are undergoing a necessary correction.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udcb8 **Mengimbangi kecekapan kos AI dengan kedaulatan data**\n\nKecekapan kos AI dan kedaulatan data ni bertentangan, mendesak kita untuk menilai semula rangka kerja risiko perniagaan untuk organisasi global.\n\nSelama lebih setahun, naratif AI generatif tertumpu pada persaingan keupayaan, selalunya mengukur kejayaan berdasarkan kiraan parameter dan [skor penanda aras](https://www.artificialintelligence-news.com/news/flawed-ai-benchmarks-enterprise-budgets-at-risk/) yang tidak tepat. Tapi, perbincangan di bilik mesyuarat sekarang ni sedang diperbetulkan.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-27T17:52:01+00:00",
+            "message_id": 388,
+            "message_key": "@AItoolboxdaily:388"
         }
     ]
 }
