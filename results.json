@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-28T17:34:20.771735",
+    "timestamp": "2026-01-28T18:41:33.894027",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6606,6 +6606,26 @@
             "date": "2026-01-28T17:09:38+00:00",
             "message_id": 6932,
             "message_key": "@testingcatalog:6932"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google is launching Gemini in Chrome sidebar broadly to Pro and Ultra Chrome users in the US with Auto Browse and Personal Intelligence features.\n\n\"The new Gemini in Chrome is like having an assistant that helps you find information and get things done\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google akan melancarkan Gemini di bar sisi Chrome secara meluas kepada pengguna Chrome Pro dan Ultra di AS, lengkap dengan ciri-ciri Auto Browse dan Personal Intelligence.\n\n\"Gemini baharu dalam Chrome ini ibarat ada pembantu yang tolong awak cari maklumat dan siapkan macam-macam benda.\"",
+            "date": "2026-01-28T18:25:18+00:00",
+            "message_id": 6934,
+            "message_key": "@testingcatalog:6934"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Creators & Strategic Thinking**\n\n\u201cImprove my idea by making it clearer, stronger, and more original.\u201d\nUse this command:\n\n```Review the idea below and help me strengthen it.\nClarify the core message, remove weak or redundant parts, and suggest ways to make the idea more distinctive and impactful.\nExplain your thinking and provide an improved version that stays true to the original intent.\nHere is the idea: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Pencipta Kandungan & Pemikiran Strategik**\n\n\u201cMantapkan idea saya dengan menjadikannya lebih jelas, lebih mantap, dan lebih asli.\u201d\nGunakan arahan ini:\n\n```Semak idea di bawah dan bantu saya mantapkannya.\nJelaskan mesej utama, buang bahagian yang lemah atau berlebihan, dan cadangkan cara untuk menjadikan idea itu lebih unik dan berkesan.\nTerangkan pemikiran anda dan berikan versi yang diperbaiki yang kekal setia kepada niat asal.\nIni ideanya: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-28T17:44:01+00:00",
+            "message_id": 390,
+            "message_key": "@AItoolboxdaily:390"
         }
     ]
 }
