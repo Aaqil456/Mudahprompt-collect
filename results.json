@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-28T18:41:33.894027",
+    "timestamp": "2026-01-29T02:12:33.845421",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6626,6 +6626,26 @@
             "date": "2026-01-28T17:44:01+00:00",
             "message_id": 390,
             "message_key": "@AItoolboxdaily:390"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Sora now allows generating 1-3 videos simultaneously.",
+            "translated_text": "Tahukah anda? Sora sekarang dah boleh hasilkan 1 hingga 3 video serentak.",
+            "date": "2026-01-29T01:08:03+00:00",
+            "message_id": 6936,
+            "message_key": "@testingcatalog:6936"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released MCP integrations and a new \"CI Fixer\" feature in Beta for Jules SWE Agent. \n\nCI Fixer \"When enabled, Jules will automatically attempt to fix failing CI checks on pull requests it creates and push updates.\"\n\nNew MCPs include Linear, New Relic, Supabase, Neon, Tinybird, Context7 and Stitch! \n\nDid you get them, too? \ud83d\udc40",
+            "translated_text": "Google dah keluarkan integrasi MCP dan ciri baru \"CI Fixer\" dalam versi Beta untuk Jules SWE Agent.\n\nCI Fixer: \"Bila diaktifkan, Jules akan cuba baiki secara automatik semakan CI yang gagal pada pull request yang dia buat dan hantar kemas kini.\"\n\nMCP-MCP baru ni termasuklah Linear, New Relic, Supabase, Neon, Tinybird, Context7 dan Stitch!\n\nAwak pun dah dapat ke? \ud83d\udc40",
+            "date": "2026-01-29T00:08:39+00:00",
+            "message_id": 6935,
+            "message_key": "@testingcatalog:6935"
         }
     ]
 }
