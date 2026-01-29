@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29T13:03:41.604268",
+    "timestamp": "2026-01-29T17:41:24.292630",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6696,6 +6696,46 @@
             "date": "2026-01-29T12:56:43+00:00",
             "message_id": 391,
             "message_key": "@AItoolboxdaily:391"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Jules to become always-on AI SWE Agent**](https://www.testingcatalog.com/google-prepares-jules-to-become-always-on-ai-swe-agent/)\n\nGoogle expands Jules with a CI fixer to resolve build failures automatically and adds MCP integrations including Linear, New Relic, and Stitch. The updates support autonomous operations and deeper integration across development workflows.\n\n\ud83d\uddde #jules",
+            "translated_text": "[**Google sedang menyiapkan Jules untuk menjadi Ejen AI SWE yang sentiasa aktif**](https://www.testingcatalog.com/google-prepares-jules-to-become-always-on-ai-swe-agent/)\n\nGoogle memperluaskan Jules dengan pembaik CI untuk menyelesaikan kegagalan binaan secara automatik dan menambah integrasi MCP termasuk Linear, New Relic, dan Stitch. Kemas kini ini menyokong operasi autonomi dan integrasi yang lebih mendalam merentasi aliran kerja pembangunan.\n\n\ud83d\uddde #jules",
+            "date": "2026-01-29T17:19:23+00:00",
+            "message_id": 6943,
+            "message_key": "@testingcatalog:6943"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google releases Chrome auto browse for AI Pro and Ultra users**](https://www.testingcatalog.com/google-releases-chrome-auto-browse-for-ai-pro-and-ultra-users/)\n\nGoogle is introducing Chrome auto browse, using Gemini 3 to handle complex online tasks like planning and financial management. The opt-in tool processes text and images, saves context, and prioritizes user control and privacy.\n\n\ud83d\uddde #chrome",
+            "translated_text": "[**Google memperkenalkan Chrome auto browse untuk pengguna AI Pro dan Ultra**](https://www.testingcatalog.com/google-releases-chrome-auto-browse-for-ai-pro-and-ultra-users/)\n\nGoogle sedang memperkenalkan Chrome auto browse, menggunakan Gemini 3 untuk mengendalikan tugasan dalam talian yang kompleks seperti perancangan dan pengurusan kewangan. Alat yang boleh dipilih ini memproses teks dan imej, menyimpan konteks, serta mengutamakan kawalan pengguna dan privasi.\n\n\ud83d\uddde #chrome",
+            "date": "2026-01-29T17:15:19+00:00",
+            "message_id": 6942,
+            "message_key": "@testingcatalog:6942"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google has launched Genie 3 experimental research prototype on Labs available to Ultra subscribers in the US. \n\nUltra, US, \ud83d\udc80",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google dah lancarkan prototaip penyelidikan eksperimen Genie 3 di Labs, yang boleh didapati untuk pelanggan Ultra di US.\n\nUltra, US, \ud83d\udc80",
+            "date": "2026-01-29T17:09:31+00:00",
+            "message_id": 6941,
+            "message_key": "@testingcatalog:6941"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udca5 **OpenAI has decided that simple token-based pricing is no longer enough and now wants a share of your business.**\n\nUnder a new \u201ccapability expansion fee\u201d model, the company would take a percentage of commercial profits if you create a product or obtain a patent using their AI.\n\nIn effect, OpenAI becomes a full stakeholder in your scientific or business breakthroughs. For example, Shopify sellers are already preparing to give OpenAI 4% of every transaction made through ChatGPT.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udca5 **OpenAI dah putuskan yang harga berasaskan token biasa tu dah tak cukup lagi, dan sekarang nak sebahagian daripada keuntungan bisnes awak.**\n\nDi bawah model \"yuran pengembangan keupayaan\" yang baru, syarikat tu akan ambil peratusan daripada keuntungan komersial kalau awak cipta produk atau dapatkan paten guna AI mereka.\n\nMaknanya, OpenAI akan jadi pemegang taruh penuh dalam penemuan saintifik atau kejayaan bisnes awak. Contohnya, penjual Shopify dah bersedia nak bagi OpenAI 4% daripada setiap transaksi yang dibuat melalui ChatGPT.\n\n[\ud83e\udde0 Kotak Peralatan AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-29T17:27:31+00:00",
+            "message_id": 392,
+            "message_key": "@AItoolboxdaily:392"
         }
     ]
 }
