@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29T17:41:24.292630",
+    "timestamp": "2026-01-29T18:53:07.810413",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6736,6 +6736,36 @@
             "date": "2026-01-29T17:27:31+00:00",
             "message_id": 392,
             "message_key": "@AItoolboxdaily:392"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Kimi K2.5 is being prepared for the rollout on Perplexity \ud83d\udc40",
+            "translated_text": "Kimi K2.5 sedang disiapkan untuk pelancaran di Perplexity \ud83d\udc40",
+            "date": "2026-01-29T18:50:14+00:00",
+            "message_id": 6946,
+            "message_key": "@testingcatalog:6946"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google is working on \"Deep Design\" mode for Stitch, along with a potential \"Agent Manager\" and voice input. \n\nThese features are a part of the upcoming UI overhaul and are in the very early stages.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google sedang usahakan mod \"Deep Design\" untuk Stitch, bersama dengan potensi \"Agent Manager\" dan input suara.\n\nFungsi-fungsi ini adalah sebahagian daripada rombakan UI yang akan datang dan masih di peringkat awal lagi.",
+            "date": "2026-01-29T17:50:52+00:00",
+            "message_id": 6945,
+            "message_key": "@testingcatalog:6945"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Deep Design for Stitch, Figma export and more**](https://www.testingcatalog.com/google-tests-deep-design-for-stitch-figma-export-and-more/)\n\nGoogle is expanding Stitch with API key access, design systems support, Figma export, and UI updates, aligning it with professional design workflows and positioning it for broader integration into team-based and automated design pipelines.\n\n\ud83d\uddde #stitch",
+            "translated_text": "[**Google sedang uji Deep Design untuk Stitch, eksport Figma dan banyak lagi**](https://www.testingcatalog.com/google-tests-deep-design-for-stitch-figma-export-and-more/)\n\nGoogle sedang kembangkan Stitch dengan akses kunci API, sokongan sistem reka bentuk, eksport Figma, dan kemas kini UI. Ini bertujuan untuk menyelaraskannya dengan aliran kerja reka bentuk profesional dan meletakkannya untuk integrasi yang lebih luas ke dalam saluran reka bentuk berasaskan pasukan dan automatik.\n\n\ud83d\uddde #stitch",
+            "date": "2026-01-29T17:46:24+00:00",
+            "message_id": 6944,
+            "message_key": "@testingcatalog:6944"
         }
     ]
 }
