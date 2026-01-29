@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29T02:12:33.845421",
+    "timestamp": "2026-01-29T06:52:59.914593",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6646,6 +6646,26 @@
             "date": "2026-01-29T00:08:39+00:00",
             "message_id": 6935,
             "message_key": "@testingcatalog:6935"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-29T06:50:04+00:00",
+            "message_id": 6938,
+            "message_key": "@testingcatalog:6938"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google is planning to release Genie 3 to the public soon! \n\nGenie 3 is a world model from Google DeepMind which lets users generate and explore AI-generated 3d experiences. \n\nIt is likely to arrive as a labs experiment.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google merancang untuk melancarkan Genie 3 kepada umum tak lama lagi!\n\nGenie 3 adalah model dunia dari Google DeepMind yang membolehkan pengguna menjana dan meneroka pengalaman 3D yang dijana AI.\n\nKemungkinan besar ia akan diperkenalkan sebagai eksperimen makmal.",
+            "date": "2026-01-29T06:50:04+00:00",
+            "message_id": 6937,
+            "message_key": "@testingcatalog:6937"
         }
     ]
 }
