@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29T23:29:28.809267",
+    "timestamp": "2026-01-30T08:43:03.507883",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6816,6 +6816,46 @@
             "date": "2026-01-29T23:13:38+00:00",
             "message_id": 6948,
             "message_key": "@testingcatalog:6948"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-30T08:40:07+00:00",
+            "message_id": 6955,
+            "message_key": "@testingcatalog:6955"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: YouTube removed top 16 \u201cAI Slop\u201d channels with billions of views according to Kapwing\u2019s \u201cAI Slop Report\u201d. \n\nIndustry is shaping \ud83d\udc40",
+            "translated_text": "Untuk pengetahuan korang: YouTube dah padam 16 saluran teratas \u201cAI Slop\u201d dengan berbilion tontonan, mengikut \u201cAI Slop Report\u201d dari Kapwing.\n\nIndustri sedang membentuk \ud83d\udc40",
+            "date": "2026-01-30T08:40:07+00:00",
+            "message_id": 6954,
+            "message_key": "@testingcatalog:6954"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-01-30T08:23:23+00:00",
+            "message_id": 6953,
+            "message_key": "@testingcatalog:6953"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT apps directory is about to get over 60+ new apps. The link to Apps has been added to the nav bar as well. \n\nMobile users now also can select thinking effort in a similar way as on the web.",
+            "translated_text": "Direktori aplikasi ChatGPT bakal menerima lebih 60 aplikasi baru. Pautan ke Aplikasi pun dah ditambah ke bar navigasi.\n\nPengguna mudah alih sekarang pun boleh pilih tahap pemikiran, sama macam di web.",
+            "date": "2026-01-30T08:23:23+00:00",
+            "message_id": 6952,
+            "message_key": "@testingcatalog:6952"
         }
     ]
 }
