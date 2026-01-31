@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-31T10:28:18.475122",
+    "timestamp": "2026-01-31T13:43:41.823332",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6936,6 +6936,46 @@
             "date": "2026-01-31T09:49:01+00:00",
             "message_id": 6960,
             "message_key": "@testingcatalog:6960"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Did you know that Claude desktop app has a voice dictation? \n\nCAPS LOCK \ud83d\udc40",
+            "translated_text": "Tahu tak yang aplikasi desktop Claude ada fungsi imlak suara?\n\nCAPS LOCK \ud83d\udc40",
+            "date": "2026-01-31T13:38:22+00:00",
+            "message_id": 6964,
+            "message_key": "@testingcatalog:6964"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google will make it easier to import ChatGPT conversations to Gemini**](https://www.testingcatalog.com/google-will-make-it-easier-to-import-chatgpt-conversations-to-gemini/)\n\nGoogle is adding features to Gemini, including AI chat imports for continuity, potential video verification for media authenticity, and higher-resolution image downloads up to 4K, supporting broader use cases and aiding platform migration.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google akan memudahkan import perbualan ChatGPT ke Gemini**](https://www.testingcatalog.com/google-will-make-it-easier-to-import-chatgpt-conversations-to-gemini/)\n\nGoogle sedang menambah beberapa ciri baru untuk Gemini. Antaranya, ia akan membolehkan kita import perbualan AI untuk kesinambungan, ada potensi untuk pengesahan video bagi memastikan ketulenan media, dan kita boleh muat turun imej resolusi tinggi sehingga 4K. Semua ini untuk menyokong lebih banyak kegunaan dan memudahkan orang ramai berpindah platform.\n\n\ud83d\uddde #gemini",
+            "date": "2026-01-31T13:26:54+00:00",
+            "message_id": 6963,
+            "message_key": "@testingcatalog:6963"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares ads for a broader rollout on ChatGPT**](https://www.testingcatalog.com/openai-prepares-ads-for-a-broader-rollout-on-chatgpt/)\n\nOpenAI is preparing to display clearly labeled ads in ChatGPT for web and mobile users, starting with U.S. free-tier users. Users will have full control over ad preferences, including personalization, reporting, and opting out via ChatGPT Plus.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI sedang siapkan iklan untuk pelancaran lebih meluas di ChatGPT**](https://www.testingcatalog.com/openai-prepares-ads-for-a-broader-rollout-on-chatgpt/)\n\nOpenAI sedang bersedia untuk memaparkan iklan yang dilabel dengan jelas dalam ChatGPT untuk pengguna web dan mudah alih, bermula dengan pengguna percuma di A.S. Pengguna akan dapat kawal sepenuhnya pilihan iklan mereka, termasuk personalisasi, melaporkan, dan memilih untuk tidak menerima iklan melalui ChatGPT Plus.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-01-31T13:23:35+00:00",
+            "message_id": 6962,
+            "message_key": "@testingcatalog:6962"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**My Talking Pet**\n\n\ud83c\udff7 : #AIVideoGenerator #TalkingAvatar #PetVideos #AIEntertainment #ShortVideo\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/mytalkingpet-ai)\n\n\ud83d\udcac : My Talking Pet lets you create viral talking pet videos using AI. Just upload a photo of your pet, add text, and the tool generates a short video with natural lip-sync and lifelike expressions, perfect for fun, shareable content.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**My Talking Pet**\n\n\ud83c\udff7 : #AIVideoGenerator #TalkingAvatar #PetVideos #AIEntertainment #ShortVideo\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Lawati Laman Web](https://ln-k.me/mytalkingpet-ai)\n\n\ud83d\udcac : My Talking Pet membolehkan anda buat video haiwan peliharaan bercakap yang viral guna AI. Anda cuma perlu muat naik gambar haiwan kesayangan anda, tambah teks, dan alat ni akan hasilkan video pendek dengan gerak bibir semula jadi dan ekspresi yang hidup, memang sesuai untuk kandungan yang seronok dan boleh dikongsi.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-01-31T13:07:01+00:00",
+            "message_id": 395,
+            "message_key": "@AItoolboxdaily:395"
         }
     ]
 }
