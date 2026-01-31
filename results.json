@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-31T13:43:41.823332",
+    "timestamp": "2026-01-31T15:26:29.107199",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -6976,6 +6976,16 @@
             "date": "2026-01-31T13:07:01+00:00",
             "message_id": 395,
             "message_key": "@AItoolboxdaily:395"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Kling AI prepares to release Kling 3.0 video generation model**](https://www.testingcatalog.com/kling-ai-prepares-to-release-kling-3-0-video-generation-model/)\n\nKling AI introduces VIDEO 3.0, merging prior versions into a unified model supporting text-to-video, storyboarding, reference reuse, and native audio. Early access is live, with a focus on longer, cohesive sequences and structured creative control.\n\n\ud83d\uddde #kling",
+            "translated_text": "[**Kling AI bersedia untuk melancarkan model penjanaan video Kling 3.0**](https://www.testingcatalog.com/kling-ai-prepares-to-release-kling-3-0-video-generation-model/)\n\nKling AI memperkenalkan VIDEO 3.0, yang menggabungkan versi-versi sebelumnya menjadi satu model bersepadu yang menyokong teks-ke-video, storyboarding, penggunaan semula rujukan, dan audio asli. Akses awal sudah tersedia, dengan tumpuan pada jujukan yang lebih panjang dan padu, serta kawalan kreatif yang berstruktur.\n\n\ud83d\uddde #kling",
+            "date": "2026-01-31T14:52:16+00:00",
+            "message_id": 6965,
+            "message_key": "@testingcatalog:6965"
         }
     ]
 }
