@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-01T13:46:01.137498",
+    "timestamp": "2026-02-01T18:38:44.612349",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7066,6 +7066,16 @@
             "date": "2026-02-01T12:59:02+00:00",
             "message_id": 6972,
             "message_key": "@testingcatalog:6972"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Business & Strategy**\n\n\u201cTurn my business idea into a clear, market-ready concept.\u201d\nUse this command:\n\n```Take the business idea below and develop it into a clear, market-ready concept.\nDefine the target audience, the core problem being solved, and the unique value proposition.\nExplain how this idea could realistically generate revenue, what assumptions it depends on, and what risks should be considered.\nFinish with practical next steps for validation and execution.\nHere is the idea: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Perniagaan & Strategi**\n\n\u201cJadikan idea perniagaan saya konsep yang jelas dan sedia untuk pasaran.\u201d\nGuna arahan ini:\n\n```Ambil idea perniagaan di bawah dan kembangkannya menjadi konsep yang jelas, sedia untuk pasaran.\nKenal pasti sasaran audiens, masalah utama yang diselesaikan, dan cadangan nilai unik.\nTerangkan bagaimana idea ini boleh menjana pendapatan secara realistik, apa andaian yang menjadi sandarannya, dan risiko apa yang perlu dipertimbangkan.\nAkhiri dengan langkah-langkah praktikal seterusnya untuk pengesahan dan pelaksanaan.\nIni adalah ideanya: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-01T17:34:01+00:00",
+            "message_id": 398,
+            "message_key": "@AItoolboxdaily:398"
         }
     ]
 }
