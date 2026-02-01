@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-31T20:29:15.137886",
+    "timestamp": "2026-02-01T10:29:05.611908",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7026,6 +7026,26 @@
             "date": "2026-01-31T19:56:58+00:00",
             "message_id": 6966,
             "message_key": "@testingcatalog:6966"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic adds Plugins support for Claude Cowork on paid plans**](https://www.testingcatalog.com/anthropic-adds-plugins-support-for-claude-cowork-on-paid-plans/)\n\nAnthropic introduces plugin support for Claude's Cowork mode, allowing users to add specialized capabilities via customizable packages. \n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic memperkenalkan sokongan Plugin untuk Claude Cowork pada pelan berbayar**](https://www.testingcatalog.com/anthropic-adds-plugins-support-for-claude-cowork-on-paid-plans/)\n\nAnthropic memperkenalkan sokongan plugin untuk mod Cowork Claude, membolehkan pengguna menambah keupayaan khusus melalui pakej yang boleh disesuaikan.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-01T10:03:39+00:00",
+            "message_id": 6971,
+            "message_key": "@testingcatalog:6971"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI launches Grok Imagine API for text-to-video and editing tools**](https://www.testingcatalog.com/xai-launches-grok-imagine-api-for-text-to-video-and-editing-tools/)\n\nxAI's Grok Imagine API supports text-to-video, image-to-video, and prompt-based edits with configurable resolution, aspect ratios, and durations. It's integrated across third-party tools and ranks highly in quality and user preference benchmarks.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI melancarkan Grok Imagine API untuk alat teks-ke-video dan penyuntingan**](https://www.testingcatalog.com/xai-lunches-grok-imagine-api-for-text-to-video-and-editing-tools/)\n\nGrok Imagine API dari xAI menyokong fungsi teks-ke-video, imej-ke-video, dan penyuntingan berasaskan arahan (prompt) dengan resolusi, nisbah aspek, dan tempoh yang boleh diubah suai. Ia telah disepadukan merentasi pelbagai alat pihak ketiga dan mendapat kedudukan tinggi dalam penanda aras kualiti serta pilihan pengguna.\n\n\ud83d\uddde #grok",
+            "date": "2026-02-01T09:56:50+00:00",
+            "message_id": 6970,
+            "message_key": "@testingcatalog:6970"
         }
     ]
 }
