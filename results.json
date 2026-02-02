@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-02T11:37:30.524565",
+    "timestamp": "2026-02-02T13:05:44.212348",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7116,6 +7116,16 @@
             "date": "2026-02-02T11:33:32+00:00",
             "message_id": 6976,
             "message_key": "@testingcatalog:6976"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**MovArt\n**\n\ud83c\udff7 : #AIVideoGenerator #TextToVideo #ImageToVideo #AIImageGenerator #AICreatorTools\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/movart-ai)\n\n\ud83d\udcac : **MovArt** is an AI platform designed for creating viral videos and high-converting images using text-to-video and image-to-video workflows.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**MovArt**\n\n\ud83c\udff7 : #AIVideoGenerator #TextToVideo #ImageToVideo #AIImageGenerator #AICreatorTools\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Lawati Laman Web](https://ln-k.me/movart-ai)\n\n\ud83d\udcac : **MovArt** adalah platform AI yang direka untuk menghasilkan video viral dan imej yang berkesan, menggunakan kaedah teks-ke-video dan imej-ke-video.\n\n[\ud83e\udde0 Kotak Peralatan AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-02T12:14:01+00:00",
+            "message_id": 399,
+            "message_key": "@AItoolboxdaily:399"
         }
     ]
 }
