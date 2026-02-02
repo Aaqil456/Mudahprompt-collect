@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-02T10:50:31.069480",
+    "timestamp": "2026-02-02T11:37:30.524565",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7106,6 +7106,16 @@
             "date": "2026-02-02T10:47:38+00:00",
             "message_id": 6974,
             "message_key": "@testingcatalog:6974"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**StepFun launched Step 3.5 Flash open-source model**](https://www.testingcatalog.com/stepfun-launched-step-3-5-flash-open-source-model/)\n\nStep 3.5 Flash is a high-speed, cost-efficient language model built for private local use, deploying only 11B of 196B parameters per token. It supports 256K token contexts, runs on consumer hardware, and minimizes cloud reliance.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**StepFun telah melancarkan model sumber terbuka Step 3.5 Flash**](https://www.testingcatalog.com/stepfun-launched-step-3-5-flash-open-source-model/)\n\nStep 3.5 Flash adalah model bahasa yang pantas dan cekap kos, dibina untuk kegunaan tempatan persendirian. Ia hanya menggunakan 11 bilion daripada 196 bilion parameter bagi setiap token. Model ini juga menyokong konteks token 256K, boleh dijalankan pada perkakasan pengguna, dan mengurangkan kebergantungan pada awan.\n\n\ud83d\uddde #ai",
+            "date": "2026-02-02T11:33:32+00:00",
+            "message_id": 6976,
+            "message_key": "@testingcatalog:6976"
         }
     ]
 }
