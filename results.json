@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-02T23:32:19.660508",
+    "timestamp": "2026-02-03T02:26:39.434210",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7236,6 +7236,26 @@
             "date": "2026-02-02T19:56:18+00:00",
             "message_id": 6982,
             "message_key": "@testingcatalog:6982"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches Codex app for Mac to manage coding agents**](https://www.testingcatalog.com/openai-launches-codex-app-for-mac-to-manage-coding-agents/)\n\nOpenAI released the Codex app for macOS, allowing users to manage multiple coding agents for long tasks with isolated workspaces, reusable workflows, and automation. It includes secure sandboxing and supports Git worktrees.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI lancarkan aplikasi Codex untuk Mac bagi mengurus ejen pengekodan**](https://www.testingcatalog.com/openai-launches-codex-app-for-mac-to-manage-coding-agents/)\n\nOpenAI dah lancarkan aplikasi Codex untuk macOS. Aplikasi ni membolehkan pengguna uruskan pelbagai ejen pengekodan untuk tugasan yang panjang, siap dengan ruang kerja yang terasing, aliran kerja yang boleh diguna semula, dan automasi. Ia juga disertakan dengan ciri sandboxing yang selamat dan menyokong Git worktrees.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-02-03T01:49:30+00:00",
+            "message_id": 6988,
+            "message_key": "@testingcatalog:6988"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Now it is possible to specify the model used in scheduled tasks for Manus AI. \n\nNow I need more tasks to schedule \ud83d\udc40",
+            "translated_text": "Sekarang dah boleh tentukan model yang digunakan dalam tugasan berjadual untuk Manus AI.\n\nSekarang saya perlukan lagi banyak tugasan untuk dijadualkan \ud83d\udc40",
+            "date": "2026-02-03T01:14:51+00:00",
+            "message_id": 6987,
+            "message_key": "@testingcatalog:6987"
         }
     ]
 }
