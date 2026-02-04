@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-04T14:42:36.418290",
+    "timestamp": "2026-02-04T15:46:27.293722",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7426,6 +7426,16 @@
             "date": "2026-02-04T13:07:36+00:00",
             "message_id": 7001,
             "message_key": "@testingcatalog:7001"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Kimi AI adds website generation from images, new annotation tools**](https://www.testingcatalog.com/kimi-ai-adds-website-generation-from-images-new-annotation-tools/)\n\nKimi AI expands its toolset with a feature that converts images or videos into websites using its K2.5 model, which leads open source benchmarks. A new edit mode also allows visual annotations and review within the chat interface.\n\n\ud83d\uddde #kimi",
+            "translated_text": "[**Kimi AI kini boleh jana laman web dari imej, ada alat anotasi baharu**](https://www.testingcatalog.com/kimi-ai-adds-website-generation-from-images-new-annotation-tools/)\n\nKimi AI mengembangkan lagi set alatnya dengan satu ciri baharu yang boleh tukar imej atau video jadi laman web, guna model K2.5 mereka yang memang top dalam penanda aras sumber terbuka. Ada juga mod suntingan baharu yang membolehkan kita buat anotasi visual dan semakan terus dalam antara muka sembang tu.\n\n\ud83d\uddde #kimi",
+            "date": "2026-02-04T15:02:11+00:00",
+            "message_id": 7006,
+            "message_key": "@testingcatalog:7006"
         }
     ]
 }
