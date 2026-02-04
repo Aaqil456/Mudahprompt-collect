@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-04T20:37:47.292676",
+    "timestamp": "2026-02-04T23:31:42.655801",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7536,6 +7536,46 @@
             "date": "2026-02-04T20:26:16+00:00",
             "message_id": 7016,
             "message_key": "@testingcatalog:7016"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GitHub Copilot Pro+ and Copilot Enterprise subscribers can now use Codex and Claude agents on GitHub.\n\nGithub Codex Pilot or Github Claude Pilot? \ud83d\udc40",
+            "translated_text": "Pelanggan GitHub Copilot Pro+ dan Copilot Enterprise sekarang dah boleh guna agen Codex dan Claude di GitHub.\n\nGithub Codex Pilot atau Github Claude Pilot? \ud83d\udc40",
+            "date": "2026-02-04T23:26:47+00:00",
+            "message_id": 7020,
+            "message_key": "@testingcatalog:7020"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity launches Advanced Deep Research for Max users**](https://www.testingcatalog.com/perplexity-launches-advanced-deep-research-for-max-users/)\n\nPerplexity launched the DRACO Benchmark to publicly assess AI research tools on real-world tasks across ten domains. It measures accuracy, depth, presentation, and sourcing, with initial results showing Perplexity leads in both precision and speed.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity Melancarkan Penyelidikan Mendalam Lanjutan untuk Pengguna Max**](https://www.testingcatalog.com/perplexity-launches-advanced-deep-research-for-max-users/)\n\nPerplexity telah melancarkan DRACO Benchmark untuk menilai alat penyelidikan AI secara terbuka dalam tugasan dunia sebenar merentasi sepuluh domain. Ia mengukur ketepatan, kedalaman, persembahan, dan sumber rujukan, dengan keputusan awal menunjukkan Perplexity mendahului dalam ketepatan dan kelajuan.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-02-04T22:52:02+00:00",
+            "message_id": 7019,
+            "message_key": "@testingcatalog:7019"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Perplexity is working on a new Model Council multi-model system, combining outputs from GPT-5.2, Opus 4.5 and Gemini 3 Pro into one response. \n\nIn addition, a new mode named Gemma is in the works, labelled as \"ASI\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Perplexity sedang membangunkan sistem multi-model Model Council yang baru, menggabungkan output dari GPT-5.2, Opus 4.5 dan Gemini 3 Pro menjadi satu jawapan.\n\nSelain itu, mod baru bernama Gemma sedang dibangunkan, dilabelkan sebagai \"ASI\".",
+            "date": "2026-02-04T22:38:28+00:00",
+            "message_id": 7018,
+            "message_key": "@testingcatalog:7018"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity working on Model Concil, combining 3 AI models**](https://www.testingcatalog.com/perplexity-working-on-model-consil-combining-3-ai-models/)\n\nPerplexity is developing Model Council, a Max-tier feature enabling users to compare outputs from top AI models like GPT-5.2, Gemini 3 Pro, and Claude Opus 4.5. A separate mode, Gamma, hints at experimental high-tier capabilities.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity sedang usahakan Model Council, gabungkan 3 model AI**](https://www.testingcatalog.com/perplexity-working-on-model-consil-combining-3-ai-models/)\n\nPerplexity sedang bangunkan Model Council, satu ciri Max-tier yang membolehkan pengguna bandingkan hasil dari model AI terkemuka macam GPT-5.2, Gemini 3 Pro, dan Claude Opus 4.5. Ada juga mod berasingan, Gamma, yang beri bayangan tentang keupayaan high-tier eksperimen.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-02-04T22:31:19+00:00",
+            "message_id": 7017,
+            "message_key": "@testingcatalog:7017"
         }
     ]
 }
