@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-04T16:54:05.528967",
+    "timestamp": "2026-02-04T17:49:25.294901",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7476,6 +7476,46 @@
             "date": "2026-02-04T15:50:34+00:00",
             "message_id": 7007,
             "message_key": "@testingcatalog:7007"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Apple adds Claude Agent SDK and Codex into Xcode 26.3**](https://www.testingcatalog.com/apple-adds-claude-agent-sdk-and-codex-into-xcode-26-3/)\n\nApple\u2019s Xcode 26.3 introduces built-in Claude Agent SDK support, enabling subagents, background tasks, plugins, and full project reasoning within the IDE. This update targets productivity for solo developers and small teams.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Apple Tambah Claude Agent SDK dan Codex dalam Xcode 26.3**](https://www.testingcatalog.com/apple-adds-claude-agent-sdk-and-codex-into-xcode-26-3/)\n\nXcode 26.3 dari Apple kini ada sokongan terbina untuk Claude Agent SDK, yang membolehkan subagen, tugas latar belakang, pemalam, dan pemikiran projek penuh dalam IDE. Kemaskini ini bertujuan untuk tingkatkan produktiviti bagi pembangun solo dan pasukan kecil.\n\n\ud83d\uddde #ai",
+            "date": "2026-02-04T17:12:09+00:00",
+            "message_id": 7014,
+            "message_key": "@testingcatalog:7014"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Cowork now supports G Suite connectors - Google Drive, Google Calendar and Gmail.",
+            "translated_text": "Claude Cowork kini menyokong penyambung G Suite - Google Drive, Google Calendar dan Gmail.",
+            "date": "2026-02-04T17:01:59+00:00",
+            "message_id": 7013,
+            "message_key": "@testingcatalog:7013"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI released Voxtral Transcribe 2 speech-to-text models and a new Audio Playground on La Platforme.\n\nTesting time! \ud83d\udc40",
+            "translated_text": "Mistral AI dah keluarkan model suara ke teks Voxtral Transcribe 2 dan Audio Playground baru di La Platforme.\n\nMasa untuk uji! \ud83d\udc40",
+            "date": "2026-02-04T16:55:31+00:00",
+            "message_id": 7012,
+            "message_key": "@testingcatalog:7012"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Bulk Image Generator**\n\n\ud83c\udff7 : #AIImageGenerator #AIArtGenerator #TextToImage #AIProductivity\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/aibulkimagegenerator)\n\n\ud83d\udcac : Bulk Image Generator is an AI tool designed to create hundreds of high-quality images instantly from prompts or CSV files.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Bulk Image Generator**\n\n\ud83c\udff7 : #AIImageGenerator #AIArtGenerator #TextToImage #AIProductivity\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Lawati Laman Web](https://ln-k.me/aibulkimagegenerator)\n\n\ud83d\udcac : Bulk Image Generator adalah alat AI yang direka untuk menghasilkan ratusan imej berkualiti tinggi serta-merta daripada arahan (prompts) atau fail CSV.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-04T16:55:47+00:00",
+            "message_id": 403,
+            "message_key": "@AItoolboxdaily:403"
         }
     ]
 }
