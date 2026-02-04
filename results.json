@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-04T18:55:10.859720",
+    "timestamp": "2026-02-04T20:37:47.292676",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7526,6 +7526,16 @@
             "date": "2026-02-04T18:05:54+00:00",
             "message_id": 7015,
             "message_key": "@testingcatalog:7015"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity released a new Advanced Deep Research upgrade with SOTA performance. \n\nIt scores 79% at Google DeepMind Deep Research QA and tops the newly introduced DRACO Benchmark. Currently available to Max users and expected to arrive for Pro users soon.",
+            "translated_text": "Perplexity dah keluarkan peningkatan baru untuk Advanced Deep Research dia, dengan prestasi SOTA. Ia dapat skor 79% dalam Google DeepMind Deep Research QA dan mendahului DRACO Benchmark yang baru diperkenalkan. Buat masa ni, ia boleh guna untuk pengguna Max dan dijangka akan sampai untuk pengguna Pro tak lama lagi.",
+            "date": "2026-02-04T20:26:16+00:00",
+            "message_id": 7016,
+            "message_key": "@testingcatalog:7016"
         }
     ]
 }
