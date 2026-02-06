@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-06T08:46:03.905425",
+    "timestamp": "2026-02-06T09:46:34.825232",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7856,6 +7856,16 @@
             "date": "2026-02-06T08:29:37+00:00",
             "message_id": 7047,
             "message_key": "@testingcatalog:7047"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**GitHub lets Copilot subscribers run multiple AI coding agents**](https://www.testingcatalog.com/github-lets-copilot-subscribers-run-multiple-ai-coding-agents/)\n\nGitHub's Agent HQ update allows Copilot Pro+ and Enterprise users to run multiple AI coding agents within GitHub platforms, supporting task-specific agent selection, audit logging, and centralized workflow collaboration.\n\n\ud83d\uddde #github",
+            "translated_text": "[**GitHub membolehkan pelanggan Copilot menjalankan pelbagai ejen pengekodan AI**](https://www.testingcatalog.com/github-lets-copilot-subscribers-run-multiple-ai-coding-agents/)\n\nKemaskini Agent HQ GitHub membolehkan pengguna Copilot Pro+ dan Enterprise menjalankan pelbagai ejen pengekodan AI dalam platform GitHub. Ia menyokong pemilihan ejen mengikut tugas tertentu, pencatatan audit, dan kolaborasi aliran kerja yang berpusat.\n\n\ud83d\uddde #github",
+            "date": "2026-02-06T09:04:35+00:00",
+            "message_id": 7050,
+            "message_key": "@testingcatalog:7050"
         }
     ]
 }
