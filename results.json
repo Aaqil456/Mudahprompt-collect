@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-06T20:37:24.459427",
+    "timestamp": "2026-02-06T22:27:45.357162",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7926,6 +7926,16 @@
             "date": "2026-02-06T19:57:21+00:00",
             "message_id": 7053,
             "message_key": "@testingcatalog:7053"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ai-dot-com domain has been reportedly purchased for $70M by crypto-dot-com.\n\nai-dot-com will be launched during the Super Bowl as a decentralised platform for AI agents that can perform actions on behalf of users. \n\nDuring the launch phase, users will be able to claim their usernames. \n\n\"ai-com let's you create an agent with its own computer, so it can use any application and do any task that you might do. it's not a chat bot, but a fully functioning digital being.\"",
+            "translated_text": "Domain ai-dot-com dilaporkan telah dibeli oleh crypto-dot-com pada harga $70 juta.\n\nai-dot-com akan dilancarkan semasa Super Bowl sebagai platform terdesentralisasi untuk ejen AI yang boleh melakukan tindakan bagi pihak pengguna.\n\nSemasa fasa pelancaran, pengguna akan dapat menuntut nama pengguna mereka.\n\n\"ai-com membolehkan anda mencipta ejen dengan komputernya sendiri, jadi ia boleh menggunakan mana-mana aplikasi dan melakukan apa-apa tugas yang mungkin anda lakukan. Ia bukan chatbot, tetapi makhluk digital yang berfungsi sepenuhnya.\"",
+            "date": "2026-02-06T22:21:04+00:00",
+            "message_id": 7055,
+            "message_key": "@testingcatalog:7055"
         }
     ]
 }
