@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-06T06:58:57.852176",
+    "timestamp": "2026-02-06T08:46:03.905425",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7826,6 +7826,36 @@
             "date": "2026-02-06T06:32:03+00:00",
             "message_id": 406,
             "message_key": "@AItoolboxdaily:406"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.3-Codex for software tasks on paid plans**](https://www.testingcatalog.com/openai-launches-gpt-5-3-codex-for-software-tasks-on-paid-plans/)\n\nOpenAI's GPT-5.3-Codex targets end-to-end software tasks beyond code generation, showing improved performance on benchmarks and lower token usage. It is faster, supports cybersecurity use, and is available via paid ChatGPT platforms.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI melancarkan GPT-5.3-Codex untuk tugasan perisian pada pelan berbayar**](https://www.testingcatalog.com/openai-launches-gpt-5-3-codex-for-software-tasks-on-paid-plans/)\n\nGPT-5.3-Codex dari OpenAI menyasarkan tugasan perisian hujung-ke-hujung, bukan sekadar penjanaan kod, dengan menunjukkan prestasi yang lebih baik dalam penanda aras dan penggunaan token yang lebih rendah. Ia lebih pantas, menyokong penggunaan keselamatan siber, dan boleh didapati melalui platform ChatGPT berbayar.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-02-06T08:32:44+00:00",
+            "message_id": 7049,
+            "message_key": "@testingcatalog:7049"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Opus 4.6 with tools for finance**](https://www.testingcatalog.com/anthropic-launches-claude-opus-4-6-with-tools-for-finance/)\n\nClaude Opus 4.6 delivers upgraded task handling for finance professionals, adds PowerPoint and Excel tools, and introduces Cowork for workflow automation. Available to paid users, it shows marked gains in speed, accuracy, and model planning.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic melancarkan Claude Opus 4.6 dengan alatan untuk kewangan**](https://www.testingcatalog.com/anthropic-launches-claude-opus-4-6-with-tools-for-finance/)\n\nClaude Opus 4.6 menawarkan pengendalian tugas yang dipertingkatkan untuk profesional kewangan, menambah alatan PowerPoint dan Excel, serta memperkenalkan Cowork untuk automasi aliran kerja. Tersedia untuk pengguna berbayar, ia menunjukkan peningkatan ketara dalam kelajuan, ketepatan, dan perancangan model.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-06T08:29:52+00:00",
+            "message_id": 7048,
+            "message_key": "@testingcatalog:7048"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI debuts Frontier to deploy AI agents for enterprise users**](https://www.testingcatalog.com/openai-debuts-frontier-to-deploy-ai-agents-for-enterprise-users/)\n\nOpenAI launched Frontier, an enterprise platform to build and manage AI agents as coworkers across business systems. It integrates existing tools and data sources and supports feedback-driven learning.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI perkenalkan Frontier untuk guna ejen AI bagi pengguna korporat**](https://www.testingcatalog.com/openai-debuts-frontier-to-deploy-ai-agents-for-enterprise-users/)\n\nOpenAI dah lancarkan Frontier, satu platform khas untuk syarikat bina dan urus ejen AI sebagai 'rakan sekerja' dalam sistem perniagaan mereka. Platform ni boleh gabungkan alatan dan sumber data yang sedia ada, dan ia juga sokong pembelajaran yang berasaskan maklum balas.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-02-06T08:29:37+00:00",
+            "message_id": 7047,
+            "message_key": "@testingcatalog:7047"
         }
     ]
 }
