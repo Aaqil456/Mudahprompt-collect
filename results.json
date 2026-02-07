@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-07T15:28:25.402878",
+    "timestamp": "2026-02-07T16:34:04.350489",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7996,6 +7996,26 @@
             "date": "2026-02-07T14:57:13+00:00",
             "message_id": 409,
             "message_key": "@AItoolboxdaily:409"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Personal Intelligence for NotebookLM conversations**](https://www.testingcatalog.com/google-tests-personal-intelligence-for-notebooklm-conversations/)\n\nGoogle is testing a \u201cPersonal intelligence\u201d layer in NotebookLM, allowing it to learn from chat history.\n\n\ud83d\uddde #notebooklm",
+            "translated_text": "[**Google sedang uji Kepintaran Peribadi untuk perbualan NotebookLM**](https://www.testingcatalog.com/google-tests-personal-intelligence-for-notebooklm-conversations/)\n\nGoogle sedang menguji lapisan \"Kepintaran Peribadi\" dalam NotebookLM, supaya ia boleh belajar daripada sejarah sembang.\n\n\ud83d\uddde #notebooklm",
+            "date": "2026-02-07T16:17:37+00:00",
+            "message_id": 7065,
+            "message_key": "@testingcatalog:7065"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: A new Gemini 3 Pro checkpoint spotted in A/B testing**](https://www.testingcatalog.com/exclusive-a-new-gemini-3-pro-checkpoint-spotted-in-a-b-testing/)\n\nGoogle is testing a new Gemini checkpoint in AI Studio showing strong performance in UI generation and SVG rendering. Though release details are unclear, the model draws developer interest and may influence upcoming AI product capabilities.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Eksklusif: Checkpoint Gemini 3 Pro baharu dikesan dalam ujian A/B**](https://www.testingcatalog.com/exclusive-a-new-gemini-3-pro-checkpoint-spotted-in-a-b-testing/)\n\nGoogle sedang menguji checkpoint Gemini baharu di AI Studio, dengan prestasi yang mantap dalam penjanaan UI dan rendering SVG. Walaupun butiran pelancaran belum jelas, model ini menarik minat pembangun dan mungkin mempengaruhi keupayaan produk AI yang akan datang.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-02-07T15:46:19+00:00",
+            "message_id": 7064,
+            "message_key": "@testingcatalog:7064"
         }
     ]
 }
