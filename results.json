@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-06T22:27:45.357162",
+    "timestamp": "2026-02-07T02:11:36.068254",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -7936,6 +7936,56 @@
             "date": "2026-02-06T22:21:04+00:00",
             "message_id": 7055,
             "message_key": "@testingcatalog:7055"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Arena launches Max router to boost AI prompt accuracy**](https://www.testingcatalog.com/icymi-arena-launches-max-router-to-boost-ai-prompt-accuracy/)\n\nArena has launched Max, a model router that uses over five million community votes to select the best language model for each prompt. Max leads in key benchmarks and supports reliable outputs in coding, math, creative writing, and expert tasks.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Untuk Makluman: Arena lancarkan router Max untuk tingkatkan ketepatan arahan AI**](https://www.testingcatalog.com/icymi-arena-launches-max-router-to-boost-ai-prompt-accuracy/)\n\nArena dah lancarkan Max, sebuah router model yang guna lebih lima juta undian komuniti untuk pilih model bahasa terbaik bagi setiap arahan. Max unggul dalam penanda aras utama dan menyokong hasil yang boleh dipercayai dalam pengekodan, matematik, penulisan kreatif, dan tugasan pakar.\n\n\ud83d\uddde #ai",
+            "date": "2026-02-07T00:18:41+00:00",
+            "message_id": 7063,
+            "message_key": "@testingcatalog:7063"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-07T00:02:02+00:00",
+            "message_id": 7061,
+            "message_key": "@testingcatalog:7061"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Recently released Model Council feature on Perplexity is expected to become available to Pro users eventually, with some rate limits.",
+            "translated_text": "Ciri Model Council yang baru saja dilancarkan di Perplexity dijangka akan mula boleh digunakan oleh pengguna Pro nanti, dengan had penggunaan tertentu.",
+            "date": "2026-02-07T00:02:02+00:00",
+            "message_id": 7060,
+            "message_key": "@testingcatalog:7060"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex app for Windows is in the works \ud83d\udc40\n\nh/t x@ajambrosino",
+            "translated_text": "Codex app untuk Windows sedang dibangunkan \ud83d\udc40\n\nSUMBER: x@ajambrosino",
+            "date": "2026-02-06T23:52:58+00:00",
+            "message_id": 7059,
+            "message_key": "@testingcatalog:7059"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sora now allows generating videos and characters from images of people with stricter moderation.\n\n\"Starting today, eligible users can upload images with people to make videos in Sora, after attesting that they have consent from people featured and rights to upload the media.\"",
+            "translated_text": "Sora kini dah boleh hasilkan video dan watak daripada gambar orang, tapi dengan kawalan yang lebih ketat.\n\nMulai hari ini, pengguna yang layak boleh muat naik gambar yang ada orang untuk buat video dalam Sora. Tapi, mereka kena sahkan dulu yang dah dapat kebenaran daripada orang dalam gambar tu dan ada hak untuk muat naik media tersebut.",
+            "date": "2026-02-06T23:42:03+00:00",
+            "message_id": 7058,
+            "message_key": "@testingcatalog:7058"
         }
     ]
 }
