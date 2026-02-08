@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-08T14:31:02.102904",
+    "timestamp": "2026-02-08T15:30:04.108173",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8066,6 +8066,26 @@
             "date": "2026-02-08T13:57:04+00:00",
             "message_id": 411,
             "message_key": "@AItoolboxdaily:411"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: META AI IS PREPARING TO GET NEW AVACADO MODELS, MANUS BROWSER AGENT AND INTEGRATION WITH OPENCLAW!\n\n**What\u2019s new? **\n- Meta AI website got migrated to the new stack while retaining the same user experience. \n- New effort selector, email, and calendar connectors are already available to users.\n- Memory and Projects are in the works. \n- **Avacado** and **Avacado Thinking** models have been spotted in testing. The router still redirects tothe Llama model. \n- Meta is testing different models from other providers underneath, including Gemini 3 Pro preview, Claude Sonnet 4.5 and GPT-5.2. This part was likely inherited from Manus AI but used only internally. \n- Scheduled tasks feature is under development. \n- A new model named **Sierra** is being tested to power the upcoming browser agent. This likely will be the same agent used in Manus AI currently.\n- **Big Brain** mode is in the works, where multiple model responses will be combined into a final answer. \n- OpenClaw integration has been spotted to let Meta AI connect to your OpenClaw gateway. \n\nIn short, Meta is on the path to slowly transform into Manus. OpenClaw integration might be big, but something that other Labs may easily adapt as well. We are yet to know if Avacado's performance will surpass recently released models, where Avacado is expected to be released around this spring.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: META AI SEDANG BERSIAP SEDIA UNTUK DAPATKAN MODEL AVACADO BARU, EJEN PELAYAR MANUS, DAN INTEGRASI DENGAN OPENCLAW!\n\n**Apa yang baru?**\n*   Laman web Meta AI dah dipindahkan ke infrastruktur baru, tapi pengalaman pengguna masih sama.\n*   Pemilih usaha baru, penyambung emel, dan kalendar dah boleh digunakan oleh pengguna.\n*   Memori dan Projek sedang diusahakan.\n*   Model **Avacado** dan **Avacado Thinking** dah mula diuji. Router masih lagi mengalihkan ke model Llama.\n*   Meta sedang menguji pelbagai model dari penyedia lain, termasuk Gemini 3 Pro preview, Claude Sonnet 4.5, dan GPT-5.2. Bahagian ini mungkin diwarisi dari Manus AI tapi hanya digunakan secara dalaman.\n*   Ciri tugas berjadual sedang dalam pembangunan.\n*   Model baru bernama **Sierra** sedang diuji untuk menggerakkan ejen pelayar yang akan datang. Ini mungkin ejen yang sama digunakan dalam Manus AI sekarang.\n*   Mod **Big Brain** sedang diusahakan, di mana pelbagai respons model akan digabungkan menjadi jawapan akhir.\n*   Integrasi OpenClaw dah dikesan untuk membolehkan Meta AI berhubung dengan gateway OpenClaw anda.\n\nPendek kata, Meta sedang dalam perjalanan untuk perlahan-lahan bertukar menjadi Manus. Integrasi OpenClaw mungkin sesuatu yang besar, tapi ia juga sesuatu yang makmal lain boleh adaptasi dengan mudah. Kita masih belum tahu sama ada prestasi Avacado akan mengatasi model-model yang baru dikeluarkan, di mana Avacado dijangka akan dikeluarkan sekitar musim bunga ini.",
+            "date": "2026-02-08T14:43:08+00:00",
+            "message_id": 7073,
+            "message_key": "@testingcatalog:7073"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta AI redies Avacado, Manus Agent and OpenClaw integration**](https://www.testingcatalog.com/meta-ai-redies-avacado-manus-agent-and-openclaw-integration/)\n\nMeta AI is preparing new features and models, including Avocado, browser and voice agents, app integrations, scheduled tasks, and a Memory section. Testing includes top models like ChatGPT, with broader expansion planned to rival competitors.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta AI mempersiapkan integrasi Avacado, Manus Agent dan OpenClaw**](https://www.testingcatalog.com/meta-ai-redies-avacado-manus-agent-and-openclaw-integration/)\n\nMeta AI sedang menyediakan ciri-ciri dan model baharu, termasuklah Avocado, ejen pelayar dan suara, integrasi aplikasi, tugas berjadual, serta bahagian Memori. Pengujian yang dilakukan merangkumi model-model utama seperti ChatGPT, dengan perancangan untuk meluaskan lagi bagi menyaingi pesaing lain.\n\n\ud83d\uddde #meta",
+            "date": "2026-02-08T14:40:12+00:00",
+            "message_id": 7072,
+            "message_key": "@testingcatalog:7072"
         }
     ]
 }
