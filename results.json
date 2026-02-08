@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-07T23:33:18.655549",
+    "timestamp": "2026-02-08T11:25:50.503600",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8046,6 +8046,16 @@
             "date": "2026-02-07T23:09:46+00:00",
             "message_id": 7066,
             "message_key": "@testingcatalog:7066"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Notion tests Agents 2.0 with scripting tools and Workers**](https://www.testingcatalog.com/notion-tests-agents-2-0-with-scripting-tools-and-workers/)\n\nNotion's AI agents are seeing updates including a new UI layout, experimental Agents 2.0 toggles, expanded trigger options like Slack messages, scripting capabilities, and deeper automation through external service integrations.\n\n\ud83d\uddde #notion",
+            "translated_text": "[**Notion sedang uji Agents 2.0 dengan alatan skrip dan Workers**](https://www.testingcatalog.com/notion-tests-agents-2-0-with-scripting-tools-and-workers/)\n\nEjen AI Notion sedang dapat kemas kini, termasuk susun atur UI baharu, fungsi Agents 2.0 eksperimen, pilihan pencetus yang diperluas seperti mesej Slack, keupayaan skrip, dan automasi yang lebih mendalam melalui integrasi perkhidmatan luaran.\n\n\ud83d\uddde #notion",
+            "date": "2026-02-08T10:39:54+00:00",
+            "message_id": 7071,
+            "message_key": "@testingcatalog:7071"
         }
     ]
 }
