@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-09T11:48:31.167612",
+    "timestamp": "2026-02-09T14:56:00.354513",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8146,6 +8146,46 @@
             "date": "2026-02-09T10:24:09+00:00",
             "message_id": 7077,
             "message_key": "@testingcatalog:7077"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI reportedly leaked its second Super Bowl ad featuring its rumoured hardware device called Dime. \n\nYet, OpenAI employees have been claiming that this ad is a fake. We likely won't know for sure if this has been a part of the marketing plan, but the teased device looks like a headphones case, which aligns with earlier leaks.",
+            "translated_text": "OpenAI dilaporkan dah bocorkan iklan Super Bowl kedua mereka, yang memaparkan peranti perkakasan yang dikhabarkan bernama Dime. Tapi, pekerja OpenAI pula mendakwa yang iklan ni palsu. Kita mungkin takkan tahu betul ke tidak ini sebahagian daripada strategi pemasaran mereka, tapi peranti yang diusik-usik tu nampak macam bekas fon kepala, dan ini sepadan dengan maklumat bocor sebelum ni.",
+            "date": "2026-02-09T13:43:17+00:00",
+            "message_id": 7081,
+            "message_key": "@testingcatalog:7081"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-09T13:25:49+00:00",
+            "message_id": 7080,
+            "message_key": "@testingcatalog:7080"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Seedream 5.0 image generation model is now available on CapCut, including a free trail use for testing.",
+            "translated_text": "Model penjanaan imej Seedream 5.0 dah boleh guna dekat CapCut, siap ada percubaan percuma untuk cuba.",
+            "date": "2026-02-09T13:25:49+00:00",
+            "message_id": 7079,
+            "message_key": "@testingcatalog:7079"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Hugging Face**\n\n\ud83c\udff7 : #OpenSourceAI #AIModels #LLMs #Datasets #AIDeveloperTools\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/huggingface)\n\n\ud83d\udcac : Hugging Face is a leading AI community platform for open-source ML models, datasets, and applications.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Hugging Face**\n\n\ud83c\udff7 : #AITerbukasumber #ModelAI #LLM #SetData #AlatPembangunAI\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Lawati Laman Web](https://ln-k.me/huggingface)\n\n\ud83d\udcac : Hugging Face ni platform komuniti AI yang utama untuk model ML sumber terbuka, set data, dan aplikasi.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-09T14:02:33+00:00",
+            "message_id": 413,
+            "message_key": "@AItoolboxdaily:413"
         }
     ]
 }
