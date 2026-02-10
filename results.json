@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-10T22:46:25.046637",
+    "timestamp": "2026-02-10T23:41:26.515242",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8426,6 +8426,46 @@
             "date": "2026-02-10T22:36:42+00:00",
             "message_id": 7102,
             "message_key": "@testingcatalog:7102"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on a new \"AI coding\" section for Gemini Enterprise. It opens a new tab with a prompt bar and additional filters for connectors and recency. \n\nPotentially, in this mode, Gemini will be tailored to use code execution to extract and manage data from your sources.",
+            "translated_text": "Google sedang membangunkan bahagian 'AI coding' baru untuk Gemini Enterprise. Ia akan membuka tab baru dengan bar prompt dan penapis tambahan untuk penyambung dan maklumat terkini.\n\nBerkemungkinan, dalam mod ini, Gemini akan disesuaikan untuk jalankan kod bagi mengambil dan mengurus data dari sumber anda.",
+            "date": "2026-02-10T23:17:15+00:00",
+            "message_id": 7107,
+            "message_key": "@testingcatalog:7107"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-10T22:59:53+00:00",
+            "message_id": 7106,
+            "message_key": "@testingcatalog:7106"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok can now display images from the Internet in the voice mode!",
+            "translated_text": "Grok sekarang dah boleh tunjuk gambar dari Internet dalam mod suara!",
+            "date": "2026-02-10T22:59:53+00:00",
+            "message_id": 7105,
+            "message_key": "@testingcatalog:7105"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling out \"Premium Content\" personalisation for Gemini. \n\n\"Gemini prioritizes your paid subscriptions to generate better answers for you. Here you can control which sources are included in the related responses.\"\n\nWe need Gemini to connect to more apps \ud83d\udc40",
+            "translated_text": "Google sedang memperkenalkan ciri pemperibadian \"Kandungan Premium\" untuk Gemini.\n\n\"Gemini akan utamakan langganan berbayar anda untuk bagi jawapan yang lebih bagus. Dekat sini, anda boleh kawal sumber mana yang nak disertakan dalam jawapan-jawapan tu.\"\n\nKita perlukan Gemini untuk disambungkan dengan lebih banyak aplikasi \ud83d\udc40",
+            "date": "2026-02-10T22:52:29+00:00",
+            "message_id": 7104,
+            "message_key": "@testingcatalog:7104"
         }
     ]
 }
