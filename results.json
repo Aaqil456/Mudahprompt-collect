@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-10T02:37:44.947084",
+    "timestamp": "2026-02-10T13:20:12.369698",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8286,6 +8286,36 @@
             "date": "2026-02-10T00:24:26+00:00",
             "message_id": 7090,
             "message_key": "@testingcatalog:7090"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI tests sponsored ads in ChatGPT for free US users**](https://www.testingcatalog.com/openai-tests-sponsored-ads-in-chatgpt-for-free-us-users/)\n\nOpenAI is testing sponsored ads in ChatGPT for Free and Go users in the U.S., keeping Pro and higher tiers ad-free. Ads are labeled, separate from answers, and privacy is maintained through strict data handling and content safeguards.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI sedang menguji iklan tajaan dalam ChatGPT untuk pengguna percuma di AS**](https://www.testingcatalog.com/openai-tests-sponsored-ads-in-chatgpt-for-free-us-users/)\n\nOpenAI sedang menguji iklan tajaan dalam ChatGPT untuk pengguna Free dan Go di A.S., dengan langganan Pro dan peringkat lebih tinggi kekal tanpa iklan. Iklan-iklan ini dilabelkan, berasingan daripada jawapan, dan privasi pengguna dijaga melalui pengendalian data yang ketat serta perlindungan kandungan.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-02-10T12:54:25+00:00",
+            "message_id": 7093,
+            "message_key": "@testingcatalog:7093"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "I am stunned by Seedance 2.0 \ud83d\udc40\n\nThis is much bigger than what DeepSeek brought to the table, and this model is at a level of what you would expect from Veo 4 or Sora 3 for example. \n\n\"Cyberpunk hacker robot working in front of many monitors\" benchmark",
+            "translated_text": "Saya terpegun dengan Seedance 2.0 \ud83d\udc40\n\nIni jauh lebih besar daripada apa yang DeepSeek bawa, dan model ni berada di tahap yang anda jangkakan daripada Veo 4 atau Sora 3 contohnya.\n\nPenanda aras: Robot penggodam cyberpunk bekerja di hadapan banyak monitor.",
+            "date": "2026-02-10T12:30:48+00:00",
+            "message_id": 7092,
+            "message_key": "@testingcatalog:7092"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**AudioPod AI**\n\n\ud83c\udff7 : #AIAudioTools #AIVoiceCloning #NoiseReduction #AudioTranslation #AIProductivity\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/audiopod-ai)\n\n\ud83d\udcac : AudioPod AI is an AI-powered audio processing platform built for voice cloning, noise reduction, and audio translation.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**AudioPod AI**\n\n\ud83c\udff7 : #AIAudioTools #AIVoiceCloning #NoiseReduction #AudioTranslation #AIProductivity\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Lawati Laman Web](https://ln-k.me/audiopod-ai)\n\n\ud83d\udcac : AudioPod AI adalah platform pemprosesan audio berkuasa AI yang dibina untuk klon suara, pengurangan hingar, dan terjemahan audio.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-10T13:09:04+00:00",
+            "message_id": 415,
+            "message_key": "@AItoolboxdaily:415"
         }
     ]
 }
