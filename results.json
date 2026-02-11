@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-11T14:55:47.527731",
+    "timestamp": "2026-02-11T16:05:33.384881",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8536,6 +8536,36 @@
             "date": "2026-02-11T14:10:19+00:00",
             "message_id": 7114,
             "message_key": "@testingcatalog:7114"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares Claude Tasks on mobile for browser automation**](https://www.testingcatalog.com/anthropic-prepares-claude-tasks-on-mobile-for-browser-automation/)\n\nAnthropic is testing a Tasks feature for Claude\u2019s mobile apps, extending Cowork-style automation to phones. It supports structured, repeatable workflows and browser execution, targeting professional users and cross-platform utility.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic sedang menyediakan Claude Tasks di peranti mudah alih untuk automasi pelayar**](https://www.testingcatalog.com/anthropic-prepares-claude-tasks-on-mobile-for-browser-automation/)\n\nAnthropic sedang menguji ciri Tasks untuk aplikasi mudah alih Claude, meluaskan automasi gaya Cowork ke telefon. Ia menyokong aliran kerja yang berstruktur dan boleh diulang, serta pelaksanaan pelayar, menyasar pengguna profesional dan kegunaan merentas platform.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-11T16:00:25+00:00",
+            "message_id": 7117,
+            "message_key": "@testingcatalog:7117"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI works on ChatGPT Skills, upgrades Deep Research**](https://www.testingcatalog.com/openai-works-on-chatgpt-skills-upgrades-deep-research/)\n\nOpenAI upgrades ChatGPT\u2019s Deep Research with GPT-5.2, allowing users to guide research, limit sources, integrate app context, and interrupt tasks. A Skills layer may also be coming to standardize workflows with reusable task instructions.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI Usahakan 'Skills' untuk ChatGPT, Tingkatkan 'Deep Research'**](https://www.testingcatalog.com/openai-works-on-chatgpt-skills-upgrades-deep-research/)\n\nOpenAI dah tingkatkan fungsi 'Deep Research' ChatGPT dengan GPT-5.2. Ini membolehkan pengguna untuk pandu penyelidikan, hadkan sumber, gabungkan konteks aplikasi, dan hentikan tugasan bila-bila masa. Selain tu, lapisan 'Skills' pun mungkin akan datang untuk seragamkan aliran kerja dengan arahan tugasan yang boleh diguna semula.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-02-11T15:50:32+00:00",
+            "message_id": 7116,
+            "message_key": "@testingcatalog:7116"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity tests Health page with Apple Health integration**](https://www.testingcatalog.com/perplexity-tests-health-page-with-apple-health-integration/)\n\nPerplexity is launching a Health module to let users manage health goals and data via profiles, integrate sources like Apple Health, and view insights through a dedicated dashboard, starting with a U.S. release due to health data regulations.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity uji halaman Kesihatan dengan integrasi Apple Health**](https://www.testingcatalog.com/perplexity-tests-health-page-with-apple-health-integration/)\n\nPerplexity akan melancarkan modul Kesihatan untuk membolehkan pengguna menguruskan matlamat dan data kesihatan melalui profil, mengintegrasikan sumber seperti Apple Health, dan melihat pandangan melalui papan pemuka khusus. Pelancaran ini akan bermula di A.S. disebabkan oleh peraturan data kesihatan.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-02-11T14:58:56+00:00",
+            "message_id": 7115,
+            "message_key": "@testingcatalog:7115"
         }
     ]
 }
