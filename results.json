@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12T19:07:23.568469",
+    "timestamp": "2026-02-12T20:38:17.343310",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8766,6 +8766,16 @@
             "date": "2026-02-12T18:26:21+00:00",
             "message_id": 7134,
             "message_key": "@testingcatalog:7134"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udcf1 Apple has [acquired](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/) the startup **Q.ai** for $2 billion to implement \"silent\" control in AirPods and Vision Pro. The technology reads facial skin micro-movements, allowing Siri to understand silent commands even in dense crowds or strong winds.\n\nThis will solve the problem of awkwardness when talking to AI in public. The head of the startup, Aviad Maizels, previously created PrimeSense, the foundation of Face ID. \n\nNow, his algorithms will replace voice with facial expressions, ensuring communication privacy and providing new opportunities for people with speech impairments.",
+            "translated_text": "\ud83d\udcf1 Apple dah [beli](https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/) startup **Q.ai** dengan harga $2 bilion untuk masukkan kawalan \"senyap\" dalam AirPods dan Vision Pro. Teknologi ni boleh baca pergerakan mikro kulit muka, jadi Siri boleh faham arahan senyap walaupun dalam tempat ramai orang atau masa angin kuat.\n\nIni akan selesaikan masalah rasa janggal bila bercakap dengan AI kat tempat awam. Ketua startup tu, Aviad Maizels, sebelum ni pernah cipta PrimeSense, yang jadi asas kepada Face ID.\n\nSekarang, algoritma dia akan ganti suara dengan ekspresi muka, untuk pastikan privasi komunikasi dan buka peluang baru untuk orang yang ada masalah pertuturan.",
+            "date": "2026-02-12T19:51:35+00:00",
+            "message_id": 420,
+            "message_key": "@AItoolboxdaily:420"
         }
     ]
 }
