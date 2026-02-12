@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12T20:38:17.343310",
+    "timestamp": "2026-02-12T22:35:43.373959",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8776,6 +8776,36 @@
             "date": "2026-02-12T19:51:35+00:00",
             "message_id": 420,
             "message_key": "@AItoolboxdaily:420"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-12T22:20:34+00:00",
+            "message_id": 7139,
+            "message_key": "@testingcatalog:7139"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek vs OpenAI \ud83d\udc40\n\nOpenAI has detected new distillation activity via new sophisticated methods from China according to Bloomberg.",
+            "translated_text": "DeepSeek vs OpenAI \ud83d\udc40\n\nOpenAI dah kesan aktiviti penyulingan baru guna kaedah canggih dari China, menurut Bloomberg.",
+            "date": "2026-02-12T22:20:34+00:00",
+            "message_id": 7138,
+            "message_key": "@testingcatalog:7138"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google rolled out Design System support for Stitch, where users can create a set of design tokens to be consistently applied across generations.",
+            "translated_text": "Google telah melancarkan sokongan Sistem Reka Bentuk untuk Stitch, yang membolehkan pengguna mencipta satu set token reka bentuk untuk digunakan secara konsisten merentasi generasi.",
+            "date": "2026-02-12T22:10:25+00:00",
+            "message_id": 7137,
+            "message_key": "@testingcatalog:7137"
         }
     ]
 }
