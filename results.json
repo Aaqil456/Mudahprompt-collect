@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12T14:50:51.014014",
+    "timestamp": "2026-02-12T17:04:46.003850",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8696,6 +8696,46 @@
             "date": "2026-02-12T14:27:21+00:00",
             "message_id": 419,
             "message_key": "@AItoolboxdaily:419"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Upgraded Gemini 3 Deep Think performs at a gold medal level in Physics and Chemistry. \n\nIt is now available to Google AI Ultra Subscribers and the Gemini API via the Early Access Program opt-in.",
+            "translated_text": "Gemini 3 Deep Think yang dah dinaik taraf menunjukkan prestasi setaraf pingat emas dalam Fizik dan Kimia.\n\nSekarang ni, ia dah boleh digunakan oleh Pelanggan Google AI Ultra dan Gemini API, melalui program Early Access Program (dengan memilih untuk menyertai).",
+            "date": "2026-02-12T16:28:08+00:00",
+            "message_id": 7133,
+            "message_key": "@testingcatalog:7133"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: GOOGLE UPGRADED GEMINI 3 DEEP THINK! IT ACHIEVED SOTA SCORE OF 84.6% ON ARC-AGI-2 BENCHMARK.\n\nGEMINI IS BACK! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: GOOGLE dah upgrade GEMINI 3 DEEP THINK! Ia berjaya capai skor SOTA 84.6% dalam penanda aras ARC-AGI-2.\n\nGEMINI dah kembali! \ud83d\udc40",
+            "date": "2026-02-12T16:22:08+00:00",
+            "message_id": 7132,
+            "message_key": "@testingcatalog:7132"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-12T16:11:58+00:00",
+            "message_id": 7131,
+            "message_key": "@testingcatalog:7131"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Mentions of Codex for iOS and Android have been spotted in the Codex repository. \n\nCodex release today? \u2728",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Dah nampak sebut-sebut tentang Codex untuk iOS dan Android dalam repositori Codex.\n\nCodex keluar hari ni ke? \u2728",
+            "date": "2026-02-12T16:11:58+00:00",
+            "message_id": 7130,
+            "message_key": "@testingcatalog:7130"
         }
     ]
 }
