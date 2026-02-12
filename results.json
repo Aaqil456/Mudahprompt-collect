@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12T02:30:35.659553",
+    "timestamp": "2026-02-12T14:50:51.014014",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8676,6 +8676,26 @@
             "date": "2026-02-11T23:48:26+00:00",
             "message_id": 7124,
             "message_key": "@testingcatalog:7124"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**MemOS OpenClaw Plugin to cut agent memory costs by 70%**](https://www.testingcatalog.com/memos-openclaw-plugin-to-cut-agent-memory-costs-by-70/)\n\nMemOS has launched its OpenClaw Plugin, offering a shared memory layer for AI agents to reduce token usage by up to 70% and improve context retention across tasks, avoiding duplicated work and manual data transfer between agents.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Plugin OpenClaw MemOS untuk kurangkan kos memori ejen sebanyak 70%**](https://www.testingcatalog.com/memos-openclaw-plugin-to-cut-agent-memory-costs-by-70/)\n\nMemOS dah lancarkan OpenClaw Plugin dia. Plugin ni tawarkan lapisan memori kongsi untuk ejen AI, yang boleh kurangkan penggunaan token sehingga 70% dan tingkatkan pengekalan konteks merentasi pelbagai tugas. Ini bantu elakkan kerja berulang dan pemindahan data manual antara ejen.\n\n\ud83d\uddde #ditaja",
+            "date": "2026-02-12T14:02:21+00:00",
+            "message_id": 7128,
+            "message_key": "@testingcatalog:7128"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**SuperTravel**\n\n\ud83c\udff7 : #AITravel #AITripPlanner #AIAssistant #ItineraryPlanner #AIScheduleMaker\n\u2b50\ufe0f : 5.0\n\ud83d\udd17 : [Visit Website](https://ln-k.me/https:-suptravel-ai)\n\n\ud83d\udcac : SuperTravel is an AI assistant for instant trip planning, itinerary generation, and validation.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**SuperTravel**\n\nTag: #AITravel #AITripPlanner #AIAssistant #ItineraryPlanner #AIScheduleMaker\nRating: 5.0\nPautan: [Lawati Laman Web](https://ln-k.me/https:-suptravel-ai)\n\nTentang: SuperTravel adalah pembantu AI untuk perancangan perjalanan segera, penjanaan jadual perjalanan, dan pengesahan.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-12T14:27:21+00:00",
+            "message_id": 419,
+            "message_key": "@AItoolboxdaily:419"
         }
     ]
 }
