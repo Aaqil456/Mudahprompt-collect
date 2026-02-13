@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-13T14:42:39.389649",
+    "timestamp": "2026-02-13T16:52:26.330512",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8816,6 +8816,26 @@
             "date": "2026-02-13T13:32:19+00:00",
             "message_id": 421,
             "message_key": "@AItoolboxdaily:421"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cline released Cline CLI 2.0, an open-source AI coding agent powered by Kimi K2.5 and MiniMax M2.5, available for free!\n\n`npm install -g cline` on Windows, Mac, and Linux.\n\nOpen-source strikes back \ud83d\udc40",
+            "translated_text": "Cline dah lancarkan Cline CLI 2.0, ejen pengekodan AI sumber terbuka yang dikuasakan oleh Kimi K2.5 dan MiniMax M2.5, dan boleh didapati secara percuma.\n\nUntuk pasang, cuma taip `npm install -g cline` di Windows, Mac, dan Linux.\n\nSumber terbuka kembali menyerlah \ud83d\udc40",
+            "date": "2026-02-13T16:51:31+00:00",
+            "message_id": 7141,
+            "message_key": "@testingcatalog:7141"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cline drops CLI 2.0 coding agent, powered by K2.5 and M2.5 for free**](https://www.testingcatalog.com/cline-drops-cli-2-0-coding-agent-powered-by-k2-5-and-m2-5-for-free/)\n\nCline CLI 2.0 brings its AI coding agent to the terminal with both interactive and autonomous modes, ACP editor support, pipeline-ready automation features, and a limited-time trial using Kimi K2.5 and MiniMax 2.5 via Moonshot AI.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Cline keluarkan ejen pengekodan CLI 2.0, dikuasakan oleh K2.5 dan M2.5 secara percuma**](https://www.testingcatalog.com/cline-drops-cli-2-0-coding-agent-powered-by-k2-5-and-m2-5-for-free/)\n\nCline CLI 2.0 bawa ejen pengekodan AI-nya ke terminal dengan mod interaktif dan autonomi, sokongan editor ACP, ciri-ciri automasi yang sedia untuk pipeline, dan percubaan masa terhad menggunakan Kimi K2.5 dan MiniMax 2.5 melalui Moonshot AI.\n\n\ud83d\uddde #ai",
+            "date": "2026-02-13T16:50:02+00:00",
+            "message_id": 7140,
+            "message_key": "@testingcatalog:7140"
         }
     ]
 }
