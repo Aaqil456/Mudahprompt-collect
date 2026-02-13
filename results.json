@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-13T17:41:19.325655",
+    "timestamp": "2026-02-13T19:43:50.842471",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8846,6 +8846,16 @@
             "date": "2026-02-13T17:04:18+00:00",
             "message_id": 7142,
             "message_key": "@testingcatalog:7142"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Business**\n\n\u201cCreate a complete pitch and offer from my product idea.\u201d\nUse this command:\n\n```Take the idea below and turn it into a clear business offer and pitch.\nWrite a short positioning statement, a compelling value proposition, and a simple explanation of how it works.\nSuggest the best target audience, key benefits, and the strongest proof points I should use.\nThen create a landing-page style message with a strong headline, a persuasive short body, and a clear call to action.\nIdea: [paste it]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n[\n\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Perniagaan**\n\n\u201cHasilkan pitch dan tawaran lengkap daripada idea produk saya.\u201d\nGunakan arahan ini:\n\n```Ambil idea di bawah dan ubahkannya menjadi tawaran perniagaan serta pitch yang jelas.\nTulis kenyataan posisi yang ringkas, cadangan nilai yang menarik, dan penerangan mudah tentang cara ia berfungsi.\nCadangkan audiens sasaran terbaik, faedah utama, dan bukti kukuh yang patut saya gunakan.\nKemudian, cipta mesej gaya laman pendaratan (landing page) dengan tajuk utama yang mantap, isi ringkas yang meyakinkan, dan seruan tindakan yang jelas.\nIdea: [tampal di sini]```\n\n#AIPrompts #BekerjaLebihCekap #AIWorkflow\n[\n\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElpZjdi)",
+            "date": "2026-02-13T19:43:04+00:00",
+            "message_id": 422,
+            "message_key": "@AItoolboxdaily:422"
         }
     ]
 }
