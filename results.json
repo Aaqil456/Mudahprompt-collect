@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-14T12:54:52.275037",
+    "timestamp": "2026-02-14T13:47:24.476457",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8926,6 +8926,16 @@
             "date": "2026-02-14T11:53:01+00:00",
             "message_id": 7146,
             "message_key": "@testingcatalog:7146"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus AI launched 24/7 Agent via Telegram and got suspended**](https://www.testingcatalog.com/manus-ai-launched-24-7-agent-via-telegram-and-got-suspended/)\n\nManus AI launched Agents with persistent memory and custom skills, integrated via messengers like Telegram. Telegram support was suspended post-launch, limiting expansion. Pricing and broader platform access remain key challenges.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus AI Melancarkan Ejen 24/7 Melalui Telegram dan Digantung**](https://www.testingcatalog.com/manus-ai-launched-24-7-agent-via-telegram-and-got-suspended/)\n\nManus AI melancarkan Ejen dengan memori berterusan dan kemahiran tersuai, yang diintegrasikan melalui aplikasi pemesejan seperti Telegram. Sokongan Telegram digantung selepas pelancaran, menghadkan pengembangan mereka. Harga dan akses platform yang lebih luas masih menjadi cabaran utama.\n\n\ud83d\uddde #manus",
+            "date": "2026-02-14T13:38:02+00:00",
+            "message_id": 7150,
+            "message_key": "@testingcatalog:7150"
         }
     ]
 }
