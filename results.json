@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-13T19:43:50.842471",
+    "timestamp": "2026-02-14T02:13:03.984285",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8856,6 +8856,36 @@
             "date": "2026-02-13T19:43:04+00:00",
             "message_id": 422,
             "message_key": "@AItoolboxdaily:422"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: [**Z.AI launched GLM-5, new open-source model on chat and APIs**](https://www.testingcatalog.com/z-ai-launched-glm-5-new-open-source-model-on-chat-and-apis/)\n\nZ ai released GLM-5, an open-weight LLM for complex engineering and long-horizon tasks, featuring 744B parameters, DeepSeek Sparse Attention, and top-tier coding benchmarks, aimed at full-project execution and sustained context handling.\n\n\ud83d\uddde #ai",
+            "translated_text": "Kalau korang terlepas pandang: [**Z.AI dah lancarkan GLM-5, model sumber terbuka baharu untuk sembang dan API**](https://www.testingcatalog.com/z-ai-launched-glm-5-new-open-source-model-on-chat-and-apis/)\n\nZ ai telah mengeluarkan GLM-5, sebuah LLM dengan berat terbuka untuk tugas kejuruteraan kompleks dan tugasan jangka panjang. Ia dilengkapi dengan 744 bilion parameter, DeepSeek Sparse Attention, dan penanda aras pengekodan bertaraf tinggi, bertujuan untuk pelaksanaan projek penuh dan pengendalian konteks yang berterusan.\n\n\ud83d\uddde #ai",
+            "date": "2026-02-13T23:44:39+00:00",
+            "message_id": 7145,
+            "message_key": "@testingcatalog:7145"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: [**OpenAI debuts Codex-Spark powered by Cerebras infra**](https://www.testingcatalog.com/openai-debuts-codex-spark-powered-by-cerebras-infra/)\n\nOpenAI released GPT-5.3-Codex-Spark, a model focused on real-time coding with near-instant feedback, optimized for rapid iteration on low-latency hardware. It's available to ChatGPT Pro users, with limited API access during early rollout.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "Bagi yang terlepas pandang: [**OpenAI perkenalkan Codex-Spark yang dikuasakan oleh infrastruktur Cerebras**](https://www.testingcatalog.com/openai-debuts-codex-spark-powered-by-cerebras-infra/)\n\nOpenAI telah melancarkan GPT-5.3-Codex-Spark, sebuah model yang fokus pada pengekodan masa nyata dengan maklum balas yang hampir serta-merta, dioptimumkan untuk lelaran pantas pada perkakasan dengan kependaman rendah. Ia tersedia untuk pengguna ChatGPT Pro, dengan akses API terhad semasa pelancaran awal.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-02-13T23:39:18+00:00",
+            "message_id": 7144,
+            "message_key": "@testingcatalog:7144"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: [**Google opens Gemini 3 Deep Think API in Early Access**](https://www.testingcatalog.com/google-opens-gemini-3-deep-think-api-in-early-access/)\n\nGoogle has updated Gemini 3 Deep Think, a reasoning tool in its Gemini app and API, aimed at researchers and engineers solving complex problems in science and engineering. It now covers more disciplines and supports new workflows via API integration.\n\n\ud83d\uddde #gemini",
+            "translated_text": "Kalau korang terlepas pandang: [**Google dah buka Gemini 3 Deep Think API untuk akses awal**](https://www.testingcatalog.com/google-opens-gemini-3-deep-think-api-in-early-access/)\n\nGoogle dah kemas kini Gemini 3 Deep Think, satu alat untuk berfikir dalam aplikasi Gemini dan API mereka, yang ditujukan khas untuk penyelidik dan jurutera yang nak selesaikan masalah rumit dalam bidang sains dan kejuruteraan. Sekarang, ia dah merangkumi lebih banyak bidang dan menyokong aliran kerja baharu melalui integrasi API.\n\n\ud83d\uddde #gemini",
+            "date": "2026-02-13T23:35:41+00:00",
+            "message_id": 7143,
+            "message_key": "@testingcatalog:7143"
         }
     ]
 }
