@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-14T18:38:47.669582",
+    "timestamp": "2026-02-15T10:30:05.166205",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -8946,6 +8946,16 @@
             "date": "2026-02-14T18:13:41+00:00",
             "message_id": 423,
             "message_key": "@AItoolboxdaily:423"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: MiniMax debuts MiniMax-M2.5 model on web and APIs**](https://www.testingcatalog.com/minimax-debuts-m2-5-on-web-and-apis-sota-on-swe-bench-2/)\n\nMiniMax has launched its M2.5 language model for developers and enterprises, focusing on coding, automation, and office tasks. It supports multiple languages, delivers top benchmark results, and offers lower operational costs via API access.\n\n\ud83d\uddde #minimax",
+            "translated_text": "[**Sebagai makluman: MiniMax perkenalkan model MiniMax-M2.5 di web dan API**](https://www.testingcatalog.com/minimax-debuts-m2-5-on-web-and-apis-sota-on-swe-bench-2/)\n\nMiniMax dah lancarkan model bahasa M2.5 mereka untuk pembangun dan syarikat, fokus pada pengekodan, automasi, dan tugasan pejabat. Ia menyokong pelbagai bahasa, mencapai keputusan penanda aras yang cemerlang, dan menawarkan kos operasi yang lebih rendah melalui akses API.\n\n\ud83d\uddde #minimax",
+            "date": "2026-02-15T09:50:39+00:00",
+            "message_id": 7151,
+            "message_key": "@testingcatalog:7151"
         }
     ]
 }
