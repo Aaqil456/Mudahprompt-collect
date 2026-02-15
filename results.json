@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-15T13:49:58.282546",
+    "timestamp": "2026-02-15T14:30:30.273970",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9016,6 +9016,16 @@
             "date": "2026-02-15T13:45:13+00:00",
             "message_id": 7156,
             "message_key": "@testingcatalog:7156"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic brings slash commands and SSH support to Claude Code**](https://www.testingcatalog.com/anthropic-brings-slash-commands-and-ssh-support-to-claude-code/)\n\nAnthropic is expanding Claude with new tools like slash commands in Claude Code and Cowork, SSH tunnel support, tool access settings, and voice-driven features. A new Sonnet model with advanced coding and math performance is nearing release.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic bawakan arahan slash dan sokongan SSH kepada Claude Code**](https://www.testingcatalog.com/anthropic-brings-slash-commands-and-ssh-support-to-claude-code/)\n\nAnthropic sedang kembangkan Claude dengan alatan baru macam arahan slash dalam Claude Code dan Cowork, sokongan terowong SSH, tetapan akses alatan, dan ciri-ciri kawalan suara. Model Sonnet baru dengan prestasi pengekodan dan matematik yang lebih canggih hampir dilancarkan.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-15T14:04:27+00:00",
+            "message_id": 7158,
+            "message_key": "@testingcatalog:7158"
         }
     ]
 }
