@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-16T19:33:45.701589",
+    "timestamp": "2026-02-16T21:32:58.226748",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9196,6 +9196,26 @@
             "date": "2026-02-16T19:11:53+00:00",
             "message_id": 427,
             "message_key": "@AItoolboxdaily:427"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Microsoft is working on new Researcher and Analyst agents for Copilot. \n\nBoth will be available in the upcoming Tasks feature, where users can schedule and execute complex agentic prompts.",
+            "translated_text": "BREAKING \ud83d\udea8: Microsoft sedang siapkan ejen Penganalisis dan Penyelidik baru untuk Copilot.\n\nKedua-duanya akan tersedia dalam ciri Tasks yang akan datang, di mana pengguna boleh menjadualkan dan melaksanakan arahan ejen yang kompleks.",
+            "date": "2026-02-16T20:48:09+00:00",
+            "message_id": 7173,
+            "message_key": "@testingcatalog:7173"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft tests Researcher and Analyst agents in Copilot Tasks**](https://www.testingcatalog.com/microsoft-tests-researcher-and-analyst-agents-in-copilot-tasks/)\n\nMicrosoft is developing a unified \u201cTasks\u201d feature for Copilot, combining Researcher, Analyst, and a new Auto mode into one interface with scheduling options. It could enable complex, automated workflows across Microsoft 365, Windows, and Edge, though no release date is set.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft sedang menguji agen Penyelidik dan Penganalisis dalam fungsi Tugas Copilot**](https://www.testingcatalog.com/microsoft-tests-researcher-and-analyst-agents-in-copilot-tasks/)\n\nMicrosoft sedang membangunkan ciri \"Tugas\" yang disatukan untuk Copilot, menggabungkan mod Penyelidik, Penganalisis, dan mod Auto baharu ke dalam satu antara muka dengan pilihan penjadualan. Ini boleh membolehkan aliran kerja yang kompleks dan automatik merentasi Microsoft 365, Windows, dan Edge, walaupun tiada tarikh pelancaran ditetapkan lagi.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-02-16T20:44:20+00:00",
+            "message_id": 7172,
+            "message_key": "@testingcatalog:7172"
         }
     ]
 }
