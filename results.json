@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-16T18:49:54.408482",
+    "timestamp": "2026-02-16T19:33:45.701589",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9186,6 +9186,16 @@
             "date": "2026-02-16T17:42:05+00:00",
             "message_id": 7170,
             "message_key": "@testingcatalog:7170"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83c\udfe6 **Banking AI in multiple business functions at NatWest**\n\nNatWest Group has expanded the use of artificial intelligence in several areas of its operations, citing customer service, document management in its wealth management division, and software development.\n\nAccording to a blog post by its chief information officer, Scott Marcar, 2025 was the first year in which these systems were deployed at scale. The aim is to improve productivity and customer engagement.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83c\udfe6 AI dalam Pelbagai Fungsi Perniagaan di NatWest\n\nNatWest Group telah meluaskan penggunaan kecerdasan buatan (AI) dalam beberapa bidang operasinya, termasuk perkhidmatan pelanggan, pengurusan dokumen dalam bahagian pengurusan kekayaannya, dan pembangunan perisian.\n\nMenurut catatan blog oleh ketua pegawai maklumatnya, Scott Marcar, tahun 2025 adalah tahun pertama sistem-sistem ini digunakan secara besar-besaran. Tujuannya adalah untuk meningkatkan produktiviti dan penglibatan pelanggan.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-16T19:11:53+00:00",
+            "message_id": 427,
+            "message_key": "@AItoolboxdaily:427"
         }
     ]
 }
