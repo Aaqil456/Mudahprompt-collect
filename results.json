@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-15T22:28:01.920501",
+    "timestamp": "2026-02-16T10:56:31.300148",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9116,6 +9116,16 @@
             "date": "2026-02-15T21:47:45+00:00",
             "message_id": 7164,
             "message_key": "@testingcatalog:7164"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is testing a new Gamma (ASI) mode, powered by Grok. It is ultra-fast and claims to use Grok 4.1. \n\nSpeculation 1 - Perplexity might be preparing for the Grok 4.20 launch during the upcoming week\n\nSpeculation 2 - Considering a deeper integration with Grok and the fact that their colour theme shifted towards Black and Gray colors, may it happen that Perplexity goes to xAI?",
+            "translated_text": "Perplexity tengah uji mod Gamma (ASI) baru, yang dikuasakan oleh Grok. Dikatakan ia sangat pantas dan guna Grok 4.1.\n\nSpekulasi 1 - Perplexity mungkin tengah bersiap sedia untuk pelancaran Grok 4.20 minggu depan ni.\n\nSpekulasi 2 - Kalau tengok integrasi dia dengan Grok makin mendalam, dan tema warna dia pun dah tukar ke hitam dan kelabu, adakah Perplexity akan bergabung dengan xAI?",
+            "date": "2026-02-16T10:24:34+00:00",
+            "message_id": 7166,
+            "message_key": "@testingcatalog:7166"
         }
     ]
 }
