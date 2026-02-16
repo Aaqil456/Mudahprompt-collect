@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-16T15:43:31.014276",
+    "timestamp": "2026-02-16T18:49:54.408482",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9166,6 +9166,26 @@
             "date": "2026-02-16T14:44:53+00:00",
             "message_id": 7168,
             "message_key": "@testingcatalog:7168"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is testing a new Hatter agent on Stitch, along with a new tool to generate App Store assets and a simpler way to setup MCP connector for coding tools like Gemini CLI, Claude Code, Antigravity, Cursor and others. \n\n\"Create high-quality designs with Hatter agent\"",
+            "translated_text": "Google sedang menguji ejen Hatter baharu di Stitch, bersama alat baharu untuk menjana aset App Store dan cara yang lebih mudah untuk menyediakan penyambung MCP bagi alatan pengekodan seperti Gemini CLI, Claude Code, Antigravity, Cursor dan lain-lain.\n\n\"Cipta reka bentuk berkualiti tinggi dengan ejen Hatter\"",
+            "date": "2026-02-16T17:50:46+00:00",
+            "message_id": 7171,
+            "message_key": "@testingcatalog:7171"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Hatter agent and App Store tools in Stitch update**](https://www.testingcatalog.com/google-tests-hatter-agent-and-app-store-tools-in-stitch-update/)\n\nGoogle\u2019s Stitch design platform is testing a new \u201cHatter\u201d agent aimed at advanced, multi-step UI creation, alongside features for automatic app store asset generation and native MCP export, signaling deeper AI-driven design workflows for developers and product teams.\n\n\ud83d\uddde #stitch",
+            "translated_text": "[**Google uji ejen Hatter dan alatan App Store dalam kemas kini Stitch**](https://www.testingcatalog.com/google-tests-hatter-agent-and-app-store-tools-in-stitch-update/)\n\nPlatform reka bentuk Stitch milik Google sedang menguji ejen baharu, \u201cHatter\u201d, yang direka untuk penciptaan UI (User Interface) yang lebih canggih dan pelbagai langkah. Selain itu, ia juga hadir dengan ciri-ciri untuk penjanaan aset App Store secara automatik dan eksport MCP asli. Ini menunjukkan aliran kerja reka bentuk yang lebih mendalam dan dipacu AI untuk para pembangun serta pasukan produk.\n\n\ud83d\uddde #stitch",
+            "date": "2026-02-16T17:42:05+00:00",
+            "message_id": 7170,
+            "message_key": "@testingcatalog:7170"
         }
     ]
 }
