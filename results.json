@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-16T14:43:49.744760",
+    "timestamp": "2026-02-16T15:43:31.014276",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9146,6 +9146,26 @@
             "date": "2026-02-16T14:14:06+00:00",
             "message_id": 426,
             "message_key": "@AItoolboxdaily:426"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus AI has officially announced its new always-on Agent with long-term memory, connectors and access to Manus capabilities. \n\nOnly telegram for now \ud83d\udc40",
+            "translated_text": "Manus AI dah umumkan secara rasmi Agent baru mereka yang sentiasa aktif, lengkap dengan memori jangka panjang, penyambung, dan akses kepada keupayaan Manus.\n\nBuat masa ni, dekat Telegram je \ud83d\udc40",
+            "date": "2026-02-16T15:13:53+00:00",
+            "message_id": 7169,
+            "message_key": "@testingcatalog:7169"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft is testing a Health tab in Copilot with connectors for Fitbit, Garmin, Oura, Apple Health and Health Records.",
+            "translated_text": "Microsoft sedang menguji tab Kesihatan dalam Copilot yang boleh disambungkan dengan Fitbit, Garmin, Oura, Apple Health dan Health Records.",
+            "date": "2026-02-16T14:44:53+00:00",
+            "message_id": 7168,
+            "message_key": "@testingcatalog:7168"
         }
     ]
 }
