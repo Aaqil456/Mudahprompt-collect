@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-17T21:38:46.582695",
+    "timestamp": "2026-02-17T22:34:50.874119",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9356,6 +9356,26 @@
             "date": "2026-02-17T21:38:11+00:00",
             "message_id": 7185,
             "message_key": "@testingcatalog:7185"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor launches long-running agents for Ultra+ users**](https://www.testingcatalog.com/cursor-launches-long-running-agents-for-ultra-users/)\n\nCursor has released its long-running agents to Ultra, Teams, and Enterprise users, enabling autonomous execution of complex, multi-day software tasks. Powered by a custom harness and multi-model validation, the system delivers production-ready code with minimal oversight.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor melancarkan agen beroperasi jangka panjang untuk pengguna Ultra+**](https://www.testingcatalog.com/cursor-launches-long-running-agents-for-ultra-users/)\n\nCursor telah memperkenalkan agen beroperasi jangka panjangnya kepada pengguna Ultra, Teams, dan Enterprise, membolehkan pelaksanaan secara autonomi tugas perisian yang kompleks dan mengambil masa beberapa hari. Dikuasakan oleh rangka kerja tersuai dan pengesahan berbilang model, sistem ini menghasilkan kod yang sedia untuk produksi dengan pengawasan yang minimum.\n\n\ud83d\uddde #cursor",
+            "date": "2026-02-17T22:03:03+00:00",
+            "message_id": 7187,
+            "message_key": "@testingcatalog:7187"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic releases Claude Sonnet 4.6 with 1M context for all users**](https://www.testingcatalog.com/anthropic-releases-claude-sonnet-4-6-with-1m-context-for-all-users/)\n\nAnthropic has released Claude Sonnet 4.6, offering near\u2011Opus\u2011level performance with a 1M token context window in beta, stronger coding and reasoning, improved reliability, and broad availability across all Claude plans at unchanged pricing.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic melancarkan Claude Sonnet 4.6 dengan konteks 1M untuk semua pengguna**](https://www.testingcatalog.com/anthropic-releases-claude-sonnet-4-6-with-1m-context-for-all-users/)\n\nAnthropic dah pun keluarkan Claude Sonnet 4.6. Ia menawarkan prestasi yang hampir sama dengan Opus, siap dengan tetingkap konteks 1M token dalam versi beta. Apa yang best, ia ada kemampuan pengekodan dan penaakulan yang lebih mantap, lebih boleh dipercayai, dan boleh didapati untuk semua pelan Claude tanpa perubahan harga.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-17T21:55:04+00:00",
+            "message_id": 7186,
+            "message_key": "@testingcatalog:7186"
         }
     ]
 }
