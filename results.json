@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-18T19:52:38.183380",
+    "timestamp": "2026-02-18T21:37:45.307175",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9496,6 +9496,36 @@
             "date": "2026-02-18T19:11:55+00:00",
             "message_id": 7196,
             "message_key": "@testingcatalog:7196"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Amical launches open-source, privacy-focused AI dictation app**](https://www.testingcatalog.com/amical-launches-open-source-privacy-focused-ai-dictation-app/)\n\nAmical is an open-source, local-first dictation app for Mac and Windows that runs Whisper and open LLMs on-device. It offers context-aware formatting by app, custom prompts, and privacy by default, positioning itself as a free alternative to paid tools like Wispr Flow.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Amical Lancarkan Aplikasi Imlak AI Sumber Terbuka yang Fokus Privasi**](https://www.testingcatalog.com/amical-launches-open-source-privacy-focused-ai-dictation-app/)\n\nAmical ni adalah aplikasi imlak sumber terbuka, yang utamakan penggunaan secara tempatan (local-first), untuk Mac dan Windows. Ia boleh jalankan Whisper dan LLM terbuka terus pada peranti. Aplikasi ni tawarkan format yang peka konteks mengikut aplikasi, 'prompt' tersuai, dan privasi secara lalai. Ia letakkan diri sebagai alternatif percuma kepada alatan berbayar macam Wispr Flow.\n\n\ud83d\uddde #ditaja",
+            "date": "2026-02-18T21:16:12+00:00",
+            "message_id": 7200,
+            "message_key": "@testingcatalog:7200"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-18T20:45:04+00:00",
+            "message_id": 7199,
+            "message_key": "@testingcatalog:7199"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Comet browser for iOS is set to be launched on March 11! \n\nSoon \ud83d\udc40",
+            "translated_text": "Pelayar Perplexity Comet untuk iOS bakal dilancarkan pada 11 Mac! Tak lama lagi \ud83d\udc40",
+            "date": "2026-02-18T20:45:04+00:00",
+            "message_id": 7198,
+            "message_key": "@testingcatalog:7198"
         }
     ]
 }
