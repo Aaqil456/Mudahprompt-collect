@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-19T14:51:17.360181",
+    "timestamp": "2026-02-19T15:52:49.164075",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9576,6 +9576,26 @@
             "date": "2026-02-19T14:32:55+00:00",
             "message_id": 7205,
             "message_key": "@testingcatalog:7205"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Gemini 3.1 Pro Preview is now available on Google AI Studio! \n\n\"Our latest SOTA reasoning model with unprecedented depth and nuance, and powerful multimodal understanding and coding capabilities\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Gemini 3.1 Pro Preview dah boleh guna dekat Google AI Studio!\n\n\"Model penaakulan SOTA terbaru kami ini ada kedalaman dan nuansa yang luar biasa, dan keupayaan pemahaman multimodal serta pengekodan yang sangat hebat.\"",
+            "date": "2026-02-19T15:46:39+00:00",
+            "message_id": 7207,
+            "message_key": "@testingcatalog:7207"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: GOOGLE STARTED ROLLING OUT GEMINI-3.1-PRO-PREVIEW ON VERTEX AI!\n\n\"Gemini 3.1 Pro Preview is our most powerful agentic and coding model. It features a 1M token context window with the complex multimodal understanding capabilities.\"\n\nKey changes compared to Gemini 3 Pro Preview\n\nGemini 3.1 Pro Preview adds support for the MEDIUM thinking level, similar to support in Gemini 3 Flash Preview:\n\n- Low: Minimizes latency and cost. Best for simple instruction following or chat.\n- Medium: Balances reasoning depth and latency and cost.\n- High: Maximizes reasoning depth. Default. Dynamic thinking. The model may take significantly longer to reach a first token, but the output will be more thoroughly vetted.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: GOOGLE DAH MULA KELUARKAN GEMINI-3.1-PRO-PREVIEW DI VERTEX AI!\n\n\"Gemini 3.1 Pro Preview adalah model ejen dan pengekodan kami yang paling berkuasa. Ia dilengkapi dengan tetingkap konteks 1 juta token dengan keupayaan pemahaman multimodal yang kompleks.\"\n\nPerubahan utama berbanding Gemini 3 Pro Preview\n\nGemini 3.1 Pro Preview kini menyokong tahap pemikiran MEDIUM, sama seperti sokongan dalam Gemini 3 Flash Preview:\n\n- Rendah: Kurangkan kependaman dan kos. Sesuai untuk arahan ringkas atau sembang.\n- Sederhana: Seimbangkan kedalaman penaakulan, kependaman, dan kos.\n- Tinggi: Maksimakan kedalaman penaakulan. Tetapan asal. Pemikiran dinamik. Model mungkin ambil masa lebih lama untuk keluarkan token pertama, tapi hasilnya akan disemak lebih teliti.",
+            "date": "2026-02-19T15:18:59+00:00",
+            "message_id": 7206,
+            "message_key": "@testingcatalog:7206"
         }
     ]
 }
