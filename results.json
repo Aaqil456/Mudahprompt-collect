@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-19T21:35:40.899052",
+    "timestamp": "2026-02-19T22:35:03.068717",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9676,6 +9676,16 @@
             "date": "2026-02-19T21:08:33+00:00",
             "message_id": 7213,
             "message_key": "@testingcatalog:7213"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google test NotebookLM integration for Opal workflows**](https://www.testingcatalog.com/google-test-notebooklm-integration-for-opal-workflows/)\n\nGoogle is testing NotebookLM integration within Opal, allowing notebooks to function as native workflow assets. Users could reference notebook data in Generate blocks, turning research into a persistent source for automated pipelines, alongside a forthcoming multi-model Agent feature.\n\n\ud83d\uddde #opal",
+            "translated_text": "[**Google sedang menguji integrasi NotebookLM untuk aliran kerja Opal**](https://www.testingcatalog.com/google-test-notebooklm-integration-for-opal-workflows/)\n\nGoogle sedang menguji integrasi NotebookLM dalam Opal, membolehkan notebook berfungsi sebagai aset aliran kerja asli. Pengguna boleh merujuk data notebook dalam blok Generate, menjadikan penyelidikan sebagai sumber berterusan untuk saluran paip automatik, bersama ciri Ejen multi-model yang akan datang.\n\n\ud83d\uddde #opal",
+            "date": "2026-02-19T21:46:04+00:00",
+            "message_id": 7215,
+            "message_key": "@testingcatalog:7215"
         }
     ]
 }
