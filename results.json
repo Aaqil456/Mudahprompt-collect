@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-20T19:38:04.011697",
+    "timestamp": "2026-02-20T20:36:51.171012",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9746,6 +9746,26 @@
             "date": "2026-02-20T19:32:58+00:00",
             "message_id": 434,
             "message_key": "@AItoolboxdaily:434"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Pika Labs introduced Pika AI Selves, multi-faceted beings with persistent memory, who act as a living extension of you. \n\nAvailable in early access \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Pika Labs memperkenalkan Pika AI Selves, entiti serba boleh dengan memori yang kekal, yang bertindak sebagai lanjutan diri anda.\n\nTersedia untuk akses awal \ud83d\udc40",
+            "date": "2026-02-20T20:18:57+00:00",
+            "message_id": 7221,
+            "message_key": "@testingcatalog:7221"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Code on desktop can now start dev servers to preview the code and fix CI issues on their own. \n\nThis is what would let users drastically reduce back-and-forth follow-ups during vibe coding.",
+            "translated_text": "Claude Code di desktop kini boleh mula jalankan server dev untuk pratonton kod dan baiki isu CI sendiri. Ini akan bantu pengguna kurangkan sangat follow-up berulang-alik masa coding.",
+            "date": "2026-02-20T20:13:34+00:00",
+            "message_id": 7220,
+            "message_key": "@testingcatalog:7220"
         }
     ]
 }
