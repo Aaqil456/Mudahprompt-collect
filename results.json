@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-20T20:36:51.171012",
+    "timestamp": "2026-02-20T21:28:06.534922",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9766,6 +9766,26 @@
             "date": "2026-02-20T20:13:34+00:00",
             "message_id": 7220,
             "message_key": "@testingcatalog:7220"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-20T20:42:04+00:00",
+            "message_id": 7223,
+            "message_key": "@testingcatalog:7223"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Seedance 2.0 API launch might get delayed due to copyright restrictions. \n\nInitially, the target launch date was planned for February 24. Seedance 2.0 is the best video generation model available today.",
+            "translated_text": "Pelancaran API Seedance 2.0 mungkin akan tertangguh sebab ada sekatan hak cipta. Asalnya, tarikh pelancaran yang disasarkan adalah pada 24 Februari. Seedance 2.0 ni model penjanaan video terbaik yang ada sekarang.",
+            "date": "2026-02-20T20:42:04+00:00",
+            "message_id": 7222,
+            "message_key": "@testingcatalog:7222"
         }
     ]
 }
