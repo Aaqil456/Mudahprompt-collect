@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-19T23:32:51.386070",
+    "timestamp": "2026-02-20T14:40:53.782664",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9696,6 +9696,26 @@
             "date": "2026-02-19T23:15:35+00:00",
             "message_id": 7216,
             "message_key": "@testingcatalog:7216"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft develops Copilot Advisors to debate on any topic**](https://www.testingcatalog.com/microsoft-develops-copilot-advisors-to-debate-on-any-topic/)\n\nMicrosoft is developing Copilot Advisors, a feature that stages structured debates between two AI personas on user-defined topics. Users select domain-specific agents and positions, creating an audio-driven exchange designed to test ideas and support deeper analysis.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft bangunkan Copilot Advisors untuk berdebat tentang apa-apa topik**](https://www.testingcatalog.com/microsoft-develops-copilot-advisors-to-debate-on-any-topic/)\n\nMicrosoft sedang membangunkan Copilot Advisors, satu ciri yang mengadakan perdebatan berstruktur antara dua persona AI berdasarkan topik yang ditentukan pengguna. Pengguna boleh pilih ejen dan posisi khusus domain, seterusnya mewujudkan perbincangan berbentuk audio yang direka untuk menguji idea dan menyokong analisis yang lebih mendalam.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-02-20T13:41:38+00:00",
+            "message_id": 7218,
+            "message_key": "@testingcatalog:7218"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google will soon integrate NotebookLM into the Opal workflow builder. This also means that users will be able to rely on the context from their notebooks within their Super Gems on Gemini.",
+            "translated_text": "Google tak lama lagi akan mengintegrasikan NotebookLM ke dalam pembina aliran kerja Opal. Ini juga bermakna pengguna akan dapat menggunakan konteks dari buku nota mereka dalam Super Gems mereka di Gemini.",
+            "date": "2026-02-20T13:38:39+00:00",
+            "message_id": 7217,
+            "message_key": "@testingcatalog:7217"
         }
     ]
 }
