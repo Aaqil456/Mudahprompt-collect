@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-21T19:26:25.953244",
+    "timestamp": "2026-02-21T21:26:38.778925",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9826,6 +9826,16 @@
             "date": "2026-02-21T18:57:01+00:00",
             "message_id": 436,
             "message_key": "@AItoolboxdaily:436"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic released Claude Code Security as research preview**](https://www.testingcatalog.com/anthropic-released-claude-code-security-as-research-preview/)\n\nAnthropic has launched Claude Code Security in limited preview, offering AI-driven code analysis to detect complex vulnerabilities and suggest patches for human review. Built on Claude Opus 4.6, it helps teams and open-source maintainers address critical security risks.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic memperkenalkan Claude Code Security sebagai pratonton penyelidikan**](https://www.testingcatalog.com/anthropic-released-claude-code-security-as-research-preview/)\n\nAnthropic telah melancarkan Claude Code Security dalam pratonton terhad, menawarkan analisis kod yang dipacu AI untuk mengesan kelemahan kompleks dan mencadangkan penambahbaikan untuk semakan manusia. Dibina berasaskan Claude Opus 4.6, ia membantu pasukan dan penyelenggara sumber terbuka menangani risiko keselamatan kritikal.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-21T21:01:38+00:00",
+            "message_id": 7226,
+            "message_key": "@testingcatalog:7226"
         }
     ]
 }
