@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-22T02:27:04.288902",
+    "timestamp": "2026-02-22T11:23:56.572610",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9856,6 +9856,16 @@
             "date": "2026-02-21T23:36:19+00:00",
             "message_id": 7228,
             "message_key": "@testingcatalog:7228"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Notion tests custom agents with Computer Use and Claude Code**](https://www.testingcatalog.com/notion-tests-custom-agents-with-computer-use-and-claude-code/)\n\nNotion\u2019s latest builds reveal custom agents with direct computer control and a Claude Code connector, enabling autonomous coding, dependency installation, and browser operation. \n\n\ud83d\uddde #notion",
+            "translated_text": "[**Notion uji ejen tersuai dengan Penggunaan Komputer dan Claude Code**](https://www.testingcatalog.com/notion-tests-custom-agents-with-computer-use-and-claude-code/)\n\nPembangunan terbaru Notion menunjukkan ejen tersuai dengan kawalan komputer secara langsung dan penyambung Claude Code, membolehkan pengekodan autonomi, pemasangan dependensi, dan operasi pelayar web.\n\n\ud83d\uddde #notion",
+            "date": "2026-02-22T11:14:14+00:00",
+            "message_id": 7229,
+            "message_key": "@testingcatalog:7229"
         }
     ]
 }
