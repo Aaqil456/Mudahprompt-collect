@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-22T20:31:06.699335",
+    "timestamp": "2026-02-22T22:27:38.639858",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9906,6 +9906,16 @@
             "date": "2026-02-22T19:58:58+00:00",
             "message_id": 438,
             "message_key": "@AItoolboxdaily:438"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google AI Studio will be able to generate full-stack applications**](https://www.testingcatalog.com/google-ai-studio-will-be-able-to-generate-full-stack-applications/)\n\nGoogle plans a major AI Studio Build update, adding authentication, Firebase ties, OAuth integrations, secrets management, and broader framework support like Next.js. The overhaul shifts it from basic prototyping to full-stack, multiplayer app development.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google AI Studio akan dapat menjana aplikasi full-stack**](https://www.testingcatalog.com/google-ai-studio-will-be-able-to-generate-full-stack-applications/)\n\nGoogle merancang kemas kini besar untuk AI Studio Build, dengan penambahan pengesahan (authentication), integrasi Firebase, integrasi OAuth, pengurusan rahsia (secrets management), dan sokongan rangka kerja yang lebih luas seperti Next.js. Pembaharuan ini akan mengubahnya daripada prototaip asas kepada pembangunan aplikasi full-stack dan berbilang pengguna (multiplayer).\n\n\ud83d\uddde #aistudio",
+            "date": "2026-02-22T22:27:25+00:00",
+            "message_id": 7232,
+            "message_key": "@testingcatalog:7232"
         }
     ]
 }
