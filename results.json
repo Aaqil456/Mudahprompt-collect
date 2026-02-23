@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-23T13:11:00.849683",
+    "timestamp": "2026-02-23T19:58:54.693116",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9966,6 +9966,46 @@
             "date": "2026-02-23T12:47:58+00:00",
             "message_id": 441,
             "message_key": "@AItoolboxdaily:441"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI released gpt-realtime-1.5 in the Realtime APIs for voice agents. \n\n\"The OpenAI Realtime API enables low-latency communication with models that natively support speech-to-speech interactions as well as multimodal inputs (audio, images, and text) and outputs (audio and text).\"",
+            "translated_text": "OpenAI dah lancarkan gpt-realtime-1.5 dalam Realtime APIs untuk kegunaan ejen suara.\n\n\"OpenAI Realtime API ni membolehkan komunikasi pantas dengan model-model yang memang menyokong interaksi suara ke suara. Ia juga boleh terima input pelbagai mod (audio, imej, dan teks) dan keluarkan output (audio dan teks).\"",
+            "date": "2026-02-23T19:44:47+00:00",
+            "message_id": 7237,
+            "message_key": "@testingcatalog:7237"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-23T19:04:49+00:00",
+            "message_id": 7236,
+            "message_key": "@testingcatalog:7236"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic vs China!\n\nAnthropic has reported on the industry scale distillation from Chinese AI labs via  24000 accounts. \n\n\u201cWe\u2019ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Anthropic lawan China!\n\nAnthropic dah laporkan tentang serangan peniruan berskala industri dari makmal AI China melalui 24,000 akaun.\n\n\u201cKami dah kenal pasti serangan peniruan berskala industri ke atas model kami oleh DeepSeek, Moonshot AI, dan MiniMax.\u201d",
+            "date": "2026-02-23T19:04:49+00:00",
+            "message_id": 7235,
+            "message_key": "@testingcatalog:7235"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Strategic Clarity\n**\n\u201cTurn my confusion into a clear direction.\u201d\nUse this command:\n\n```I feel uncertain about the situation described below.\nAnalyze it objectively and help me gain clarity.\nSeparate emotions from facts, identify what is within my control, and outline realistic paths forward.\nExplain the potential consequences of each direction and recommend the most rational next move.\nKeep the reasoning structured but natural, and focus on actionable insight.\nSituation: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Kejelasan Strategik**\n\n\u201cTukarkan kekeliruan saya kepada hala tuju yang jelas.\u201d\nGunakan arahan ini:\n\n```Saya rasa tak pasti tentang situasi yang diterangkan di bawah.\nAnalisis secara objektif dan bantu saya dapatkan kejelasan.\nAsingkan emosi daripada fakta, kenal pasti apa yang dalam kawalan saya, dan gariskan langkah ke hadapan yang realistik.\nTerangkan potensi akibat setiap hala tuju dan cadangkan langkah seterusnya yang paling rasional.\nPastikan alasan tersusun tapi semula jadi, dan fokus pada pandangan yang boleh diambil tindakan.\nSituasi: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-23T19:04:20+00:00",
+            "message_id": 442,
+            "message_key": "@AItoolboxdaily:442"
         }
     ]
 }
