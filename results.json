@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-23T19:58:54.693116",
+    "timestamp": "2026-02-23T20:55:50.574203",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10006,6 +10006,16 @@
             "date": "2026-02-23T19:04:20+00:00",
             "message_id": 442,
             "message_key": "@AItoolboxdaily:442"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity tests Messages integration and usage credits**](https://www.testingcatalog.com/perplexity-tests-messages-integration-and-usage-credits/)\n\nPerplexity\u2019s Comet browser is testing a Mac-only Messages connector that would let its assistant draw on local chat history, marking its first native \u201cLocal\u201d integration. Development builds also reveal a Usage and Credits section to offset recent Pro limit cuts.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity menguji integrasi Messages dan kredit penggunaan**](https://www.testingcatalog.com/perplexity-tests-messages-integration-and-usage-credits/)\n\nPelayar Comet Perplexity sedang menguji penyambung Messages khas untuk Mac yang akan membolehkan pembantunya menggunakan sejarah sembang tempatan, menandakan ini adalah integrasi 'Local' asli yang pertama. Build pembangunan juga menunjukkan bahagian Penggunaan dan Kredit untuk mengimbangi pemotongan had Pro yang baru-baru ini.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-02-23T20:12:56+00:00",
+            "message_id": 7238,
+            "message_key": "@testingcatalog:7238"
         }
     ]
 }
