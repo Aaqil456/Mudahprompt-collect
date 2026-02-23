@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-22T22:27:38.639858",
+    "timestamp": "2026-02-23T08:57:42.160236",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -9916,6 +9916,46 @@
             "date": "2026-02-22T22:27:25+00:00",
             "message_id": 7232,
             "message_key": "@testingcatalog:7232"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-23T08:33:00+00:00",
+            "message_id": 7234,
+            "message_key": "@testingcatalog:7234"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Antigravity vs OpenClaw?\n\nA series of events: \n- Antigravity users faced degraded performance \n- Google discovered malicious usage of Antigravity backend services\n- Google banned user accounts relying on these methods \n- It turned out that many affected users connected Gemini models via OpenClaw OAuth. \n- Peter Steinberger plans to remove Gemini OAuth support from OpenClaw\n\nAI week has begun \ud83c\udf7f",
+            "translated_text": "Antigravity lawan OpenClaw?\n\nAda beberapa kejadian:\n- Pengguna Antigravity alami prestasi yang merosot\n- Google kesan ada penggunaan berniat jahat pada servis backend Antigravity\n- Google sekat akaun pengguna yang guna kaedah-kaedah ni\n- Rupanya, ramai pengguna terjejas sambungkan model Gemini melalui OpenClaw OAuth.\n- Peter Steinberger bercadang nak buang sokongan Gemini OAuth dari OpenClaw\n\nMinggu AI dah bermula \ud83c\udf7f",
+            "date": "2026-02-23T08:33:00+00:00",
+            "message_id": 7233,
+            "message_key": "@testingcatalog:7233"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-23T08:27:33+00:00",
+            "message_id": 440,
+            "message_key": "@AItoolboxdaily:440"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "New models. Hidden features. Quiet rollouts.\n\nWe track it all so you don\u2019t have to.\nJoin @TestingCatalog on Telegram.\n\nIt\u2019s free.",
+            "translated_text": "Model baru. Ciri tersembunyi. Pelancaran senyap.\n\nKami jejak semua ni supaya awak tak perlu.\nSertai @TestingCatalog di Telegram.\n\nPercuma je.",
+            "date": "2026-02-23T08:27:31+00:00",
+            "message_id": 439,
+            "message_key": "@AItoolboxdaily:439"
         }
     ]
 }
