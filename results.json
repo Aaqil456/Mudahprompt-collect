@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-24T16:03:20.462183",
+    "timestamp": "2026-02-24T17:57:41.253410",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10106,6 +10106,46 @@
             "date": "2026-02-24T14:54:12+00:00",
             "message_id": 7241,
             "message_key": "@testingcatalog:7241"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-24T17:15:00+00:00",
+            "message_id": 7249,
+            "message_key": "@testingcatalog:7249"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic and Intuit partner on building new solutions around \u201cfinancial intelligence\u201d and custom AI agents. \n\n\u201cWhether data resides within Intuit or elsewhere, Intuit will connect and interpret it so Claude users in Cowork, Claude for Enterprise, and Claude can execute critical money, tax, and accounting tasks with the gold standard of financial expertise and accuracy.\u201d",
+            "translated_text": "Anthropic dan Intuit bekerjasama untuk membina penyelesaian baharu berkaitan \"kepintaran kewangan\" dan ejen AI tersuai.\n\n\"Sama ada data berada dalam Intuit atau di tempat lain, Intuit akan menyambung dan mentafsirkannya supaya pengguna Claude dalam Cowork, Claude for Enterprise, dan Claude boleh melaksanakan tugas-tugas penting berkaitan wang, cukai, dan perakaunan dengan standard emas kepakaran dan ketepatan kewangan.\"",
+            "date": "2026-02-24T17:15:00+00:00",
+            "message_id": 7248,
+            "message_key": "@testingcatalog:7248"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Notion officially announced custom AI agents! These agents are powered by different connectors and the latest models from OpenAI and Anthropic.  \n\n\"They\u2019re autonomous, built for teams, and easy for anyone to build. Give them a job, set a trigger or schedule, and they'll get it done 'round the clock.\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Notion dah umumkan secara rasmi agen AI tersuai! Agen-agen ni dikuasakan oleh pelbagai penyambung dan model terkini dari OpenAI dan Anthropic.\n\n\"Ia beroperasi secara autonomi, dibina untuk pasukan, dan senang je sesiapa nak bina. Bagi je dia kerja, tetapkan pencetus atau jadual, dan dia akan siapkan kerja tu sepanjang masa.\"",
+            "date": "2026-02-24T17:06:42+00:00",
+            "message_id": 7247,
+            "message_key": "@testingcatalog:7247"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic reports distillation from DeepSeek, Moonshot, MiniMax**](https://www.testingcatalog.com/anthropic-reports-distillation-from-deepseek-moonshot-minimax/)\n\nAnthropic uncovered large-scale distillation attacks by DeepSeek, Moonshot, and MiniMax, which used 24,000 fake accounts and 16 million exchanges to extract Claude\u2019s reasoning and coding capabilities, raising security, export control, and misuse concerns.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic dedahkan pengekstrakan daripada DeepSeek, Moonshot, MiniMax**](https://www.testingcatalog.com/anthropic-reports-distillation-from-deepseek-moonshot-minimax/)\n\nAnthropic mendedahkan serangan pengekstrakan berskala besar oleh DeepSeek, Moonshot, dan MiniMax, yang menggunakan 24,000 akaun palsu dan 16 juta pertukaran untuk mengekstrak keupayaan penaakulan dan pengekodan Claude, menimbulkan kebimbangan keselamatan, kawalan eksport, dan penyalahgunaan.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-24T16:39:24+00:00",
+            "message_id": 7246,
+            "message_key": "@testingcatalog:7246"
         }
     ]
 }
