@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-24T14:53:26.376527",
+    "timestamp": "2026-02-24T16:03:20.462183",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10056,6 +10056,56 @@
             "date": "2026-02-24T13:42:01+00:00",
             "message_id": 444,
             "message_key": "@AItoolboxdaily:444"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PREVIEW \ud83d\udd25: Google is preparing Gemini 3.1 Flash Image Preview for the upcoming release.\n\nNano Banana 2 (Flash) model was tested in December based on the Gemini 3 Flash, but it was postponed. \n\nSoon? \ud83d\udc40",
+            "translated_text": "PREVIEW \ud83d\udd25: Google sedang siapkan Gemini 3.1 Flash Image Preview untuk keluaran akan datang.\n\nModel Nano Banana 2 (Flash) diuji pada Disember berdasarkan Gemini 3 Flash, tapi ia ditangguhkan.\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-02-24T16:00:53+00:00",
+            "message_id": 7245,
+            "message_key": "@testingcatalog:7245"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Notion started rolling out custom AI agents in beta to more users. \n\nNotion AI agents can operate Notion, Emails, and Calendars, and can also work with you on Slack. Loads of other capabilities are coming soon! \n\nAnyone can build an AI org now \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Notion dah mula melancarkan agen AI tersuai dalam fasa beta kepada lebih ramai pengguna.\n\nAgen AI Notion boleh mengendalikan Notion, Emel, dan Kalendar, dan juga boleh bekerjasama dengan anda di Slack. Banyak lagi keupayaan lain akan datang tak lama lagi!\n\nSesiapa sahaja boleh membina organisasi AI sekarang \ud83d\udc40",
+            "date": "2026-02-24T15:37:40+00:00",
+            "message_id": 7244,
+            "message_key": "@testingcatalog:7244"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-24T15:08:49+00:00",
+            "message_id": 7243,
+            "message_key": "@testingcatalog:7243"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta has signed a deal with AMD to add 6GW of data center capacity to Meta\u2019s global infrastructure. \n\n\u201cWe\u2019re scaling our compute capacity to accelerate the development of cutting-edge AI models and deliver personal superintelligence to billions around the world.\u201d",
+            "translated_text": "Meta dah tandatangan perjanjian dengan AMD untuk tambah 6GW kapasiti pusat data kepada infrastruktur global Meta.\n\n\u201cKami sedang tingkatkan kapasiti pengkomputeran kami untuk percepatkan pembangunan model AI canggih dan sampaikan superinteligensi peribadi kepada berbilion orang di seluruh dunia.\u201d",
+            "date": "2026-02-24T15:08:49+00:00",
+            "message_id": 7242,
+            "message_key": "@testingcatalog:7242"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic introduced Cowork and plugin updates for enterprises.\n\n\u201cPlugins turn Claude into specialized agents for every role and department. Now, you can build private marketplaces to distribute them across your organization.\u201d\n\nA new Agents tab \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Anthropic dah perkenalkan kemas kini Cowork dan plugin untuk syarikat-syarikat besar.\n\n\u201cPlugin ni boleh jadikan Claude ejen khusus untuk setiap peranan dan jabatan. Sekarang, anda boleh bina pasaran persendirian untuk edarkan di seluruh organisasi anda.\u201d\n\nAda tab Ejen baru \ud83d\udc40",
+            "date": "2026-02-24T14:54:12+00:00",
+            "message_id": 7241,
+            "message_key": "@testingcatalog:7241"
         }
     ]
 }
