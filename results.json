@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-24T22:36:26.183769",
+    "timestamp": "2026-02-25T08:54:12.992774",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10206,6 +10206,36 @@
             "date": "2026-02-24T22:13:19+00:00",
             "message_id": 7255,
             "message_key": "@testingcatalog:7255"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Inception Labs unveils Mercury 2 diffusion LLM with reasoning**](https://www.testingcatalog.com/inception-labs-unveils-mercury-2-diffusion-llm-with-reasoning/)\n\nInception Labs has launched Mercury 2, a reasoning-focused diffusion LLM designed for production workloads where latency compounds across multi-step pipelines. It delivers up to 1,009 tokens per second, 128K context, tunable reasoning, and OpenAI API compatibility.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Inception Labs memperkenalkan Mercury 2 diffusion LLM dengan keupayaan penaakulan**](https://www.testingcatalog.com/inception-labs-unveils-mercury-2-diffusion-llm-with-reasoning/)\n\nInception Labs dah lancarkan Mercury 2, sebuah diffusion LLM yang fokus pada keupayaan penaakulan. Ia direka khas untuk kerja-kerja produksi di mana kelewatan (latency) boleh terkumpul dalam proses kerja yang ada banyak langkah. Model ni boleh hasilkan sehingga 1,009 token sesaat, ada konteks 128K, keupayaan penaakulan yang boleh dilaras, dan serasi dengan OpenAI API.\n\n\ud83d\uddde #ai",
+            "date": "2026-02-25T08:21:38+00:00",
+            "message_id": 7259,
+            "message_key": "@testingcatalog:7259"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google adds ProducerAI for music creation to its Labs platform**](https://www.testingcatalog.com/google-adds-producerai-for-music-creation-to-its-labs-platform/)\n\nGoogle Labs has added ProducerAI, an AI music platform powered by Gemini and Lyria 3, available in 250+ countries. It supports lyric writing, melody development, remixing, video creation, and shareable audio tools, with tiered pricing and SynthID watermarking.\n\n\ud83d\uddde #aitestkitchen",
+            "translated_text": "[**Google Tambah ProducerAI untuk Penciptaan Muzik ke Platform Labs Mereka**](https://www.testingcatalog.com/google-adds-producerai-for-music-creation-to-its-labs-platform/)\n\nGoogle Labs dah tambah ProducerAI, sebuah platform muzik AI yang dikuasakan oleh Gemini dan Lyria 3, dan boleh didapati di lebih 250 negara. Ia menyokong penulisan lirik, pembangunan melodi, remixing, penciptaan video, dan alatan audio yang boleh dikongsi. Platform ini juga datang dengan harga berperingkat dan penanda air SynthID.\n\n\ud83d\uddde #aitestkitchen",
+            "date": "2026-02-25T08:21:24+00:00",
+            "message_id": 7258,
+            "message_key": "@testingcatalog:7258"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic upgrades Cowork and plugins on Claude for Enterprise**](https://www.testingcatalog.com/anthropic-upgrades-cowork-and-plugins-on-claude-for-enterprise/)\n\nAnthropic is expanding Claude Enterprise with a unified plugin system that lets organizations build private marketplaces, manage connectors, and deploy role-specific agents. New cross-app capabilities, finance integrations, and admin controls support governed, department-level adoption.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic tingkatkan Cowork dan plugin pada Claude untuk Enterprise**](https://www.testingcatalog.com/anthropic-upgrades-cowork-and-plugins-on-claude-for-enterprise/)\n\nAnthropic sedang mengembangkan Claude Enterprise dengan sistem plugin bersepadu yang membolehkan organisasi membina pasaran persendirian, menguruskan penyambung, dan menempatkan ejen khusus peranan. Keupayaan rentas aplikasi baharu, integrasi kewangan, dan kawalan pentadbir menyokong penggunaan yang terkawal di peringkat jabatan.\n\n\ud83d\uddde #claude",
+            "date": "2026-02-25T08:20:57+00:00",
+            "message_id": 7257,
+            "message_key": "@testingcatalog:7257"
         }
     ]
 }
