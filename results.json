@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-25T16:06:30.674199",
+    "timestamp": "2026-02-25T18:00:35.052096",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10256,6 +10256,46 @@
             "date": "2026-02-25T15:20:40+00:00",
             "message_id": 7260,
             "message_key": "@testingcatalog:7260"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-25T17:20:01+00:00",
+            "message_id": 7264,
+            "message_key": "@testingcatalog:7264"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic acquired Vercept AI to work on computer use features for Claude.\n\n\u201cVercept was built around a clear thesis: making AI genuinely useful for completing complex tasks requires solving hard perception and interaction problems.\u201d",
+            "translated_text": "Anthropic mengambil alih Vercept AI untuk membangunkan ciri-ciri penggunaan komputer untuk Claude.\n\n\u201cVercept dibina dengan satu matlamat yang jelas: menjadikan AI benar-benar berguna untuk menyelesaikan tugasan yang kompleks memerlukan penyelesaian cabaran persepsi dan interaksi yang sukar.\u201d",
+            "date": "2026-02-25T17:20:01+00:00",
+            "message_id": 7263,
+            "message_key": "@testingcatalog:7263"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google is transforming Flow into a full-featured AI Creative Studio. Whisk and ImageFX experiments are moving directly into Flow!\n\n- New editing tools, styles\n- Flexible asset management\n- Natural editing and precision controls",
+            "translated_text": "BREAKING \ud83d\udea8: Google sedang mengubah Flow menjadi sebuah Studio Kreatif AI yang serba lengkap. Eksperimen Whisk dan ImageFX kini akan terus masuk ke Flow!\n\n- Alat penyuntingan baru, gaya-gaya\n- Pengurusan aset yang fleksibel\n- Penyuntingan semula jadi dan kawalan ketepatan",
+            "date": "2026-02-25T17:08:53+00:00",
+            "message_id": 7262,
+            "message_key": "@testingcatalog:7262"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: PERPLEXITY LAUNCHES PERPLEXITY COMPUTER, A NEW MULTI-MODEL SYSTEM THAT CAN SOLVE TASKS END-TO-END!\n\n\"In total, Computer can route work across 19 different models.\"\n\n\"Perplexity Computer uses usage\u2011based pricing with optional sub\u2011agent model selection and spending caps.\"\n\nTESTING TIME \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: PERPLEXITY MELANCARKAN PERPLEXITY COMPUTER, SATU SISTEM MULTI-MODEL BAHARU YANG BOLEH MENYELESAIKAN TUGASAN SECARA MENYELURUH!\n\nSecara keseluruhan, Computer boleh menyalurkan kerja merentasi 19 model yang berbeza.\n\nPerplexity Computer menggunakan penetapan harga berdasarkan penggunaan, dengan pilihan pemilihan model sub-agen dan had perbelanjaan.\n\nMasa untuk menguji \ud83d\udc40",
+            "date": "2026-02-25T16:51:14+00:00",
+            "message_id": 7261,
+            "message_key": "@testingcatalog:7261"
         }
     ]
 }
