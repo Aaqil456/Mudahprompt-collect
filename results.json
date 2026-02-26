@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-26T07:12:32.714260",
+    "timestamp": "2026-02-26T14:50:49.533064",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10366,6 +10366,36 @@
             "date": "2026-02-26T07:03:10+00:00",
             "message_id": 7269,
             "message_key": "@testingcatalog:7269"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-26T13:36:24+00:00",
+            "message_id": 7272,
+            "message_key": "@testingcatalog:7272"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google is gradually rolling out Nano Banana 2 across Gemini apps! NB2 is based on Gemini 3.1 Flash and is set for the today\u2019s release. \n\nDid you get it already? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google sedang melancarkan Nano Banana 2 secara berperingkat di semua aplikasi Gemini! NB2 berasaskan Gemini 3.1 Flash dan dijadualkan untuk keluaran hari ini.\n\nDah dapat ke belum? \ud83d\udc40",
+            "date": "2026-02-26T13:36:24+00:00",
+            "message_id": 7271,
+            "message_key": "@testingcatalog:7271"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Leonardo AI**\n\n\ud83c\udff7 : #LeonardoAI #ImageGeneration #VideoGeneration #TextToImage #TextToVideo #StyleConsistency #CreativeTools\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Visit Website](https://bestaitools.ai/tools/leonardo-ai/?utm_source=tg)\n\n\ud83d\udcac : Leonardo AI is a generative creative platform for producing images and videos from prompts, with built-in tools to refine results and keep a consistent style across multiple assets.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Leonardo AI**\n\n\ud83c\udff7 : #LeonardoAI #JanaImej #JanaVideo #TeksKeImej #TeksKeVideo #KonsistensiGaya #AlatKreatif\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Lawati Laman Web](https://bestaitools.ai/tools/leonardo-ai/?utm_source=tg)\n\n\ud83d\udcac : Leonardo AI adalah platform kreatif generatif untuk menghasilkan imej dan video daripada prompts, dengan alatan terbina dalam untuk memperhalusi hasil dan mengekalkan gaya yang konsisten merentasi pelbagai aset.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-02-26T13:34:01+00:00",
+            "message_id": 447,
+            "message_key": "@AItoolboxdaily:447"
         }
     ]
 }
