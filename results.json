@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-26T14:50:49.533064",
+    "timestamp": "2026-02-26T17:03:07.366013",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10396,6 +10396,56 @@
             "date": "2026-02-26T13:34:01+00:00",
             "message_id": 447,
             "message_key": "@AItoolboxdaily:447"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-26T16:57:45+00:00",
+            "message_id": 7277,
+            "message_key": "@testingcatalog:7277"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is rolling out a new Library feature for ChatGPT to help users reuse files uploaded earlier. \n\n\u201cLibrary automatically saves files you upload to ChatGPT so you can find and reuse them later.\u201d",
+            "translated_text": "OpenAI sedang melancarkan ciri Library baharu untuk ChatGPT bagi membantu pengguna guna semula fail yang dimuat naik sebelum ini.\n\nMenurut OpenAI, \u201cLibrary akan simpan fail yang anda muat naik ke ChatGPT secara automatik, jadi anda boleh cari dan guna semula nanti.\u201d",
+            "date": "2026-02-26T16:57:45+00:00",
+            "message_id": 7276,
+            "message_key": "@testingcatalog:7276"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: QuiverAI released a new SVG generation model, Arrow 1.0, in beta. You can try it for free. \n\nSVGKING \ud83d\udc40",
+            "translated_text": "Untuk makluman: QuiverAI dah perkenalkan model penjanaan SVG baharu, Arrow 1.0, dalam fasa beta. Anda boleh cuba secara percuma.\n\nSVGKING \ud83d\udc40",
+            "date": "2026-02-26T16:53:25+00:00",
+            "message_id": 7275,
+            "message_key": "@testingcatalog:7275"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Nano Banana 2 AI image model in 141 countries**](https://www.testingcatalog.com/google-launches-nano-banana-2-ai-image-model-in-141-countries/)\n\nGoogle has launched Nano Banana 2, powered by Gemini 3.1 Flash Image, delivering fast, high-fidelity image generation with advanced world knowledge and precise text rendering. Now available across Google products in 141 countries, it supports 4K output, multilingual use, and verified AI provenance.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google melancarkan model imej AI Nano Banana 2 di 141 negara**](https://www.testingcatalog.com/google-launches-nano-banana-2-ai-image-model-in-141-countries/)\n\nGoogle telah melancarkan Nano Banana 2, yang dikuasakan oleh Gemini 3.1 Flash Image. Ia menawarkan penjanaan imej yang pantas dan berkualiti tinggi, dengan pengetahuan dunia yang canggih serta paparan teks yang tepat. Kini, ia boleh didapati di seluruh produk Google di 141 negara, menyokong output 4K, penggunaan pelbagai bahasa, dan asal usul AI yang disahkan.\n\n\ud83d\uddde #gemini",
+            "date": "2026-02-26T16:40:29+00:00",
+            "message_id": 7274,
+            "message_key": "@testingcatalog:7274"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Nano Banana 2 is now available on Google AI Studio, along with a new \"Image Search\" tool!\n\n\"The model pulls from Gemini\u2019s real-world knowledge base, and is powered by real-time information and images from web search to more accurately render specific subjects.\"",
+            "translated_text": "Nano Banana 2 dah boleh guna di Google AI Studio, sekali dengan alat \"Image Search\" yang baru!\n\n\"Model ni ambil maklumat dari pangkalan pengetahuan dunia sebenar Gemini, dan menggunakan maklumat serta imej masa nyata dari carian web untuk hasilkan gambaran subjek-subjek tertentu dengan lebih tepat.\"",
+            "date": "2026-02-26T16:23:28+00:00",
+            "message_id": 7273,
+            "message_key": "@testingcatalog:7273"
         }
     ]
 }
