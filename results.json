@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-26T20:41:01.102642",
+    "timestamp": "2026-02-26T23:33:14.376650",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10486,6 +10486,16 @@
             "date": "2026-02-26T20:14:25+00:00",
             "message_id": 7280,
             "message_key": "@testingcatalog:7280"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity released two embedding models, pplx-embed-v1 and pplx-embed-context-v1, for real-world, web-scale retrieval.\n\nBoth models are available in 0.6B and 4B parameter variants via the HuggingFace and Perplexity APIs.",
+            "translated_text": "Perplexity telah melancarkan dua model embedding, iaitu pplx-embed-v1 dan pplx-embed-context-v1, untuk kegunaan pencarian data berskala web dan dunia sebenar.\n\nKedua-dua model ini tersedia dalam varian parameter 0.6B dan 4B, dan boleh diakses melalui API HuggingFace serta Perplexity.",
+            "date": "2026-02-26T23:27:39+00:00",
+            "message_id": 7281,
+            "message_key": "@testingcatalog:7281"
         }
     ]
 }
