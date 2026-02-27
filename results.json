@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-27T14:41:21.954733",
+    "timestamp": "2026-02-27T17:38:20.958138",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10576,6 +10576,56 @@
             "date": "2026-02-27T14:37:07+00:00",
             "message_id": 449,
             "message_key": "@AItoolboxdaily:449"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-27T17:20:38+00:00",
+            "message_id": 7293,
+            "message_key": "@testingcatalog:7293"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is rolling out an update to Google connectors on mobile allowing Claude to manage emails and calendar events. \n\n\u201cSign back in to your Google Calendar and Gmail connectors to unlock new capabilities.\u201d",
+            "translated_text": "Anthropic sedang melancarkan kemas kini untuk penyambung Google di telefon bimbit, membolehkan Claude menguruskan e-mel dan acara kalendar.\n\n\u201cLog masuk semula ke penyambung Google Calendar dan Gmail anda untuk membuka kunci keupayaan baharu.\u201d",
+            "date": "2026-02-27T17:20:38+00:00",
+            "message_id": 7292,
+            "message_key": "@testingcatalog:7292"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI plans to introduce an AD Manager platform to a broader audience. \n\nThis platform likely should enable any advertiser to run their campaign on ChatGPT, as it is now limited to a small set of organisations.",
+            "translated_text": "OpenAI bercadang untuk memperkenalkan platform AD Manager kepada khalayak yang lebih luas.\n\nPlatform ini dijangka akan membolehkan mana-mana pengiklan menjalankan kempen mereka di ChatGPT, memandangkan ia kini terhad kepada sebilangan kecil organisasi.",
+            "date": "2026-02-27T17:07:47+00:00",
+            "message_id": 7291,
+            "message_key": "@testingcatalog:7291"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity launches high-performance embedding models**](https://www.testingcatalog.com/perplexity-launches-high-performance-embedding-models/)\n\nPerplexity has released pplx-embed-v1 and pplx-embed-context-v1, high-performance embedding models for web-scale retrieval. Available in 0.6B and 4B sizes, they support INT8 and binary quantization, cut storage costs, and outperform rivals in multilingual benchmarks.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity melancarkan model embedding berprestasi tinggi**](https://www.testingcatalog.com/perplexity-launches-high-performance-embedding-models/)\n\nPerplexity dah keluarkan pplx-embed-v1 dan pplx-embed-context-v1, iaitu model embedding berprestasi tinggi untuk carian berskala web. Model ni ada dalam saiz 0.6B dan 4B, dan ia menyokong INT8 serta binary quantization. Ini boleh kurangkan kos penyimpanan dan prestasi dia pun lebih baik dari pesaing dalam ujian pelbagai bahasa.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-02-27T17:03:06+00:00",
+            "message_id": 7290,
+            "message_key": "@testingcatalog:7290"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: [**Google merges ImageFX and Whisk into Flow on Labs**](https://www.testingcatalog.com/google-merges-imagefx-and-whisk-into-flow-on-labs/)\n\nGoogle has upgraded Flow into a unified AI creative studio with a redesigned interface for image and video generation. Integrating Whisk, ImageFX, and the Nano Banana model, Flow now enables seamless project transfer, advanced editing control, and cross\u2011modal creation in one workspace.\n\n\ud83d\uddde #flow",
+            "translated_text": "Kalau korang terlepas pandang: [**Google gabungkan ImageFX dan Whisk ke dalam Flow di Labs**](https://www.testingcatalog.com/google-merges-imagefx-and-whisk-into-flow-on-labs/)\n\nGoogle dah tingkatkan Flow jadi studio kreatif AI yang bersepadu, dengan antaramuka yang direka semula untuk penjanaan imej dan video. Dengan integrasi Whisk, ImageFX, dan model Nano Banana, Flow kini membolehkan pemindahan projek yang lancar, kawalan penyuntingan yang lebih canggih, dan penciptaan rentas-mod dalam satu ruang kerja.\n\n\ud83d\uddde #flow",
+            "date": "2026-02-27T16:59:21+00:00",
+            "message_id": 7289,
+            "message_key": "@testingcatalog:7289"
         }
     ]
 }
