@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-26T23:33:14.376650",
+    "timestamp": "2026-02-27T02:15:02.656086",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10496,6 +10496,56 @@
             "date": "2026-02-26T23:27:39+00:00",
             "message_id": 7281,
             "message_key": "@testingcatalog:7281"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-02-27T00:11:10+00:00",
+            "message_id": 7286,
+            "message_key": "@testingcatalog:7286"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Adult mode on ChatGPT is slowly getting shape as new strings has been spotted in the Android build. \n\n\"This setting lets ChatGPT use spicier, adult-themed language, when you ask. Available to users 18+ only.\"\n\nNaughty chats \ud83d\udc40",
+            "translated_text": "Mod dewasa untuk ChatGPT ni nampaknya dah mula terbentuk, sebab ada kod baru ditemui dalam versi Android.\n\nTetapan ni membolehkan ChatGPT guna bahasa yang lebih 'berani' dan bertemakan dewasa, bila awak minta. Tapi, ia hanya untuk pengguna 18 tahun ke atas je.\n\nSembang nakal \ud83d\udc40",
+            "date": "2026-02-27T00:11:10+00:00",
+            "message_id": 7285,
+            "message_key": "@testingcatalog:7285"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "New Image Styles are now available on Gemini, along with the recently released Nano Banana 2.",
+            "translated_text": "Gaya Imej baru dah boleh guna dekat Gemini sekarang, sekali dengan Nano Banana 2 yang baru je keluar tu.",
+            "date": "2026-02-26T23:46:41+00:00",
+            "message_id": 7284,
+            "message_key": "@testingcatalog:7284"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A huge list of Connectors is now available to free users on Claude.",
+            "translated_text": "Senarai Connectors yang banyak kini dah ada untuk pengguna percuma di Claude.",
+            "date": "2026-02-26T23:43:36+00:00",
+            "message_id": 7283,
+            "message_key": "@testingcatalog:7283"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google Stitch now has an option to edit generated designs directly. \n\nUsers can modify the text themselves or select a component and prompt Gemini to generate an updated version.",
+            "translated_text": "Google Stitch sekarang dah ada pilihan untuk edit terus rekaan yang dihasilkan. Pengguna boleh ubah teks tu sendiri, atau pilih je mana-mana komponen dan minta Gemini untuk buat versi yang lebih baru.",
+            "date": "2026-02-26T23:38:45+00:00",
+            "message_id": 7282,
+            "message_key": "@testingcatalog:7282"
         }
     ]
 }
