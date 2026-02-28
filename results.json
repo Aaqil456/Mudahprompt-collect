@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-28T14:25:09.738355",
+    "timestamp": "2026-02-28T16:30:03.656214",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10666,6 +10666,36 @@
             "date": "2026-02-28T13:43:39+00:00",
             "message_id": 7295,
             "message_key": "@testingcatalog:7295"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google recently made a new \"Goal Scheduled Actions\" option visible to some users (it is now gone). \n\nThis option likely refers to the new \"Learning Hub\" and \"Learning Goals\" features, currently under development. \n\nGoogle's bets on younger users \ud83d\udc40",
+            "translated_text": "Google baru-baru ni ada tunjuk satu pilihan baru, \"Goal Scheduled Actions,\" dekat beberapa pengguna (tapi sekarang dah tak ada dah).\n\nPilihan ni rasanya berkaitan dengan ciri-ciri baru \"Learning Hub\" dan \"Learning Goals\" yang masih dalam pembangunan.\n\nNampaknya Google tengah fokus pada pengguna muda \ud83d\udc40",
+            "date": "2026-02-28T16:10:44+00:00",
+            "message_id": 7298,
+            "message_key": "@testingcatalog:7298"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests new Learning Hub powered by goal-based actions**](https://www.testingcatalog.com/google-tests-new-learning-hub-powered-by-goal-based-actions/)\n\nGoogle briefly exposed a \u201cGoal Scheduled Actions\u201d mode in Gemini, hinting at adaptive, objective-driven tasks instead of fixed prompts. Tied to learning goals, it signals a shift toward autonomous, long-term guidance as part of Gemini\u2019s evolution into a persistent AI agent.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google sedang uji Learning Hub baharu yang dikuasakan oleh tindakan berasaskan matlamat**](https://www.testingcatalog.com/google-tests-new-learning-hub-powered-by-goal-based-actions/)\n\nGoogle secara ringkas mendedahkan mod \u201cGoal Scheduled Actions\u201d dalam Gemini, membayangkan tugas yang adaptif dan didorong objektif, bukannya arahan tetap. Berkait rapat dengan matlamat pembelajaran, ia menandakan peralihan ke arah panduan autonomi dan jangka panjang sebagai sebahagian daripada evolusi Gemini menjadi ejen AI yang berterusan.\n\n\ud83d\uddde #gemini",
+            "date": "2026-02-28T16:05:09+00:00",
+            "message_id": 7297,
+            "message_key": "@testingcatalog:7297"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests custom banners and Remix feature for NotebookLM**](https://www.testingcatalog.com/google-tests-custom-banners-and-remix-feature-for-notebooklm/)\n\nGoogle is testing visual customization and a \u201cRemix\u201d feature for NotebookLM, enabling users to add banner images and clone public notebooks. The updates signal a shift toward curated, shareable research spaces and broader collaborative knowledge-building.\n\n\ud83d\uddde #notebooklm",
+            "translated_text": "[**Google sedang uji banner kustom dan ciri Remix untuk NotebookLM**](https://www.testingcatalog.com/google-tests-custom-banners-and-remix-feature-for-notebooklm/)\n\nGoogle sedang menguji penyesuaian visual dan ciri \u201cRemix\u201d untuk NotebookLM. Ini membolehkan pengguna menambah imej banner dan menyalin notebook awam. Pembaharuan ini menunjukkan peralihan ke arah ruang penyelidikan yang tersusun rapi, boleh dikongsi, dan pembinaan pengetahuan kolaboratif yang lebih luas.\n\n\ud83d\uddde #notebooklm",
+            "date": "2026-02-28T15:53:04+00:00",
+            "message_id": 7296,
+            "message_key": "@testingcatalog:7296"
         }
     ]
 }
