@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-28T12:51:30.804901",
+    "timestamp": "2026-02-28T14:25:09.738355",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10656,6 +10656,16 @@
             "date": "2026-02-28T12:16:53+00:00",
             "message_id": 451,
             "message_key": "@AItoolboxdaily:451"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**MiniMax launches managed always-on MaxClaw AI Agent**](https://www.testingcatalog.com/minimax-launches-managed-always-on-maxclaw-ai-agent/)\n\nMiniMax launched MaxClaw, a managed OpenClaw agent running on its M2.5 model, deployable in under 10 seconds with no APIs or extra fees. It delivers fast, low-cost agent tasks, 10,000+ prebuilt Experts, and cross-platform desktop support for teams and individuals.\n\n\ud83d\uddde #minimax #sponsored",
+            "translated_text": "[**MiniMax Lancarkan Ejen AI MaxClaw yang Diuruskan dan Sentiasa Aktif**](https://www.testingcatalog.com/minimax-launches-managed-always-on-maxclaw-ai-agent/)\n\nMiniMax dah lancarkan MaxClaw, ejen OpenClaw yang diuruskan dan beroperasi guna model M2.5 mereka. Ia boleh digunakan dalam masa kurang 10 saat tanpa perlu API atau bayaran tambahan. Ejen ini menawarkan tugasan yang pantas, kos rendah, lebih 10,000 Pakar yang dah siap sedia, serta sokongan desktop merentas platform untuk pasukan dan individu.\n\n\ud83d\uddde #minimax #sponsored",
+            "date": "2026-02-28T13:43:39+00:00",
+            "message_id": 7295,
+            "message_key": "@testingcatalog:7295"
         }
     ]
 }
