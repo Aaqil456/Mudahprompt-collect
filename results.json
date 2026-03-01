@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-28T22:25:23.090660",
+    "timestamp": "2026-03-01T02:34:22.620917",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10716,6 +10716,46 @@
             "date": "2026-02-28T21:46:46+00:00",
             "message_id": 7299,
             "message_key": "@testingcatalog:7299"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-01T01:08:41+00:00",
+            "message_id": 7303,
+            "message_key": "@testingcatalog:7303"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic took the top spot on the AppStore in US after recent events with DOW.",
+            "translated_text": "Anthropic menduduki tempat teratas di AppStore di US selepas kejadian baru-baru ini dengan DOW.",
+            "date": "2026-03-01T01:08:41+00:00",
+            "message_id": 7302,
+            "message_key": "@testingcatalog:7302"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: xAI is working on the Voice Cloning feature for Grok on iOS! \n\nUsers will be able to record their own voices and share them as links with others. These voices can be later used in Grok Voice mode.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: xAI sedang usahakan ciri Voice Cloning untuk Grok di iOS!\n\nPengguna nanti boleh rakam suara sendiri dan kongsi sebagai pautan dengan orang lain. Suara-suara ni nanti boleh digunakan dalam mod Grok Voice.",
+            "date": "2026-03-01T00:56:04+00:00",
+            "message_id": 7301,
+            "message_key": "@testingcatalog:7301"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI tests Voice Cloning on Grok for iOS with shareable voices**](https://www.testingcatalog.com/xai-tests-voice-cloning-on-grok-for-ios-with-sharable-voices/)\n\nxAI is developing a Voice Cloning feature for Grok\u2019s iOS app, allowing users to record a prompt to create a personal voice profile that can be used or shared via link. The move expands Grok\u2019s audio strategy and could pave the way for a creator-driven voice marketplace.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI sedang uji Klon Suara pada Grok untuk iOS dengan suara yang boleh dikongsi**](https://www.testingcatalog.com/xai-tests-voice-cloning-on-grok-for-ios-with-sharable-voices/)\n\nxAI sedang membangunkan ciri Klon Suara untuk aplikasi Grok di iOS, membolehkan pengguna merakam arahan untuk mencipta profil suara peribadi yang boleh digunakan atau dikongsi melalui pautan. Langkah ini meluaskan strategi audio Grok dan boleh membuka jalan kepada pasaran suara yang dipacu oleh pencipta.\n\n\ud83d\uddde #grok",
+            "date": "2026-03-01T00:47:40+00:00",
+            "message_id": 7300,
+            "message_key": "@testingcatalog:7300"
         }
     ]
 }
