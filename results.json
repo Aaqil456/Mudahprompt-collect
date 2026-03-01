@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-01T19:24:28.951015",
+    "timestamp": "2026-03-01T21:26:05.733303",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10776,6 +10776,16 @@
             "date": "2026-03-01T19:21:49+00:00",
             "message_id": 454,
             "message_key": "@AItoolboxdaily:454"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta tests standalone Vibes web app, new AI video creation tool**](https://www.testingcatalog.com/meta-tests-standalone-vibes-web-app-new-ai-video-creation-tool/)\n\nMeta\u2019s Vibes is expanding from a simple AI feed into a full creative studio with a project-based web platform, multi-track timeline editing, and character consistency tools. Ongoing Midjourney ties and a standalone app signal a direct challenge to Runway, Pika, and Sora.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta uji aplikasi web Vibes kendiri, alat cipta video AI baharu**](https://www.testingcatalog.com/meta-tests-standalone-vibes-web-app-new-ai-video-creation-tool/)\n\nVibes dari Meta ni sedang berkembang, bukan lagi sekadar suapan AI biasa. Sekarang dah jadi studio kreatif lengkap dengan platform web berasaskan projek, boleh edit garis masa berbilang trek, dan ada alatan untuk pastikan watak konsisten. Kerjasama berterusan dengan Midjourney dan aplikasi kendiri ni menunjukkan yang Meta sedang mencabar secara langsung Runway, Pika, dan Sora.\n\n\ud83d\uddde #meta",
+            "date": "2026-03-01T21:09:34+00:00",
+            "message_id": 7304,
+            "message_key": "@testingcatalog:7304"
         }
     ]
 }
