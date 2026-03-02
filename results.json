@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-02T09:53:59.276642",
+    "timestamp": "2026-03-02T11:33:28.284122",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10796,6 +10796,16 @@
             "date": "2026-03-02T09:27:10+00:00",
             "message_id": 7305,
             "message_key": "@testingcatalog:7305"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Projects feature for Gemini Enterprise**](https://www.testingcatalog.com/google-tests-projects-feature-for-gemini-enterprise/)\n\nGoogle is preparing a Projects feature for Gemini Enterprise, enabling chat organization, file uploads, and goal-based guidance. The update adds starter prompts, Gemini 3.1 Pro, task notifications, and centralized agent tracking as it narrows the gap with rivals.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google sedang uji ciri Projek untuk Gemini Enterprise**](https://www.testingcatalog.com/google-tests-projects-feature-for-gemini-enterprise/)\n\nGoogle sedang siapkan ciri Projek untuk Gemini Enterprise, yang membolehkan pengurusan sembang, muat naik fail, dan panduan berasaskan matlamat. Kemaskini ini turut sertakan prompt permulaan, Gemini 3.1 Pro, pemberitahuan tugasan, dan penjejakan ejen secara berpusat, sambil ia rapatkan jurang dengan pesaing.\n\n\ud83d\uddde #gemini",
+            "date": "2026-03-02T11:28:14+00:00",
+            "message_id": 7306,
+            "message_key": "@testingcatalog:7306"
         }
     ]
 }
