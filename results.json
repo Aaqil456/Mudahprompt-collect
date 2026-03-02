@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-01T21:26:05.733303",
+    "timestamp": "2026-03-02T09:53:59.276642",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10786,6 +10786,16 @@
             "date": "2026-03-01T21:09:34+00:00",
             "message_id": 7304,
             "message_key": "@testingcatalog:7304"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta starts testing AI Shopping features in Meta AI assistant**](https://www.testingcatalog.com/meta-starts-testing-ai-shopping-features-in-meta-ai-assistant/)\n\nMeta is testing a built-in shopping feature in its Meta AI web assistant for US users, showing product carousels and quick-buy options. The move aligns with its commerce push, Gemini 3 testing, and the upcoming Avocado model launch.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta mula uji ciri beli-belah AI dalam pembantu Meta AI**](https://www.testingcatalog.com/meta-starts-testing-ai-shopping-features-in-meta-ai-assistant/)\n\nMeta sedang menguji ciri beli-belah terbina dalam pembantu web Meta AI mereka untuk pengguna di AS, memaparkan karusel produk dan pilihan beli cepat. Langkah ini selari dengan usaha niaga mereka, ujian Gemini 3, dan pelancaran model Avocado yang akan datang.\n\n\ud83d\uddde #meta",
+            "date": "2026-03-02T09:27:10+00:00",
+            "message_id": 7305,
+            "message_key": "@testingcatalog:7305"
         }
     ]
 }
