@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-03T15:50:20.145776",
+    "timestamp": "2026-03-03T16:53:31.280389",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -10996,6 +10996,26 @@
             "date": "2026-03-03T15:33:28+00:00",
             "message_id": 7320,
             "message_key": "@testingcatalog:7320"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Gemini 3.1 Flash Lite Preview is now available on Vertex AI!\n\n\"Designed for high-volume, cost-sensitive traffic, Gemini 3.1 Flash Lite delivers a massive quality leap over previous Lite generations while matching the core performance of Gemini 2.5 Flash.\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Pratonton Gemini 3.1 Flash Lite kini boleh didapati di Vertex AI!\n\n\"Direka untuk trafik volum tinggi yang sensitif kos, Gemini 3.1 Flash Lite memberikan lonjakan kualiti yang ketara berbanding generasi Lite sebelumnya, sambil menyamai prestasi teras Gemini 2.5 Flash.\"",
+            "date": "2026-03-03T16:07:27+00:00",
+            "message_id": 7324,
+            "message_key": "@testingcatalog:7324"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Claude Code has a \"Bypass permissions\" mode on desktop. \n\nClaude Yolo Code \ud83d\udc40\n\n\"Bypass all permission checks and let Claude work uninterrupted. This works well for workflows like fixing lint errors or generating boilerplate code. Letting Claude run arbitrary commands is risky and can result in data loss, system corruption, or data exfiltration (e.g., via prompt injection attacks).\"",
+            "translated_text": "Korang tahu tak: Claude Code ada mod \"Bypass permissions\" di desktop.\n\nClaude Yolo Code \ud83d\udc40\n\n\"Pintas semua semakan kebenaran dan biarkan Claude bekerja tanpa gangguan. Ini sesuai sangat untuk aliran kerja macam betulkan ralat lint atau menjana kod boilerplate. Membiarkan Claude menjalankan arahan sewenang-wenangnya adalah berisiko dan boleh menyebabkan kehilangan data, kerosakan sistem, atau pengekstrakan data (contohnya, melalui serangan suntikan prompt).\"",
+            "date": "2026-03-03T15:54:39+00:00",
+            "message_id": 7323,
+            "message_key": "@testingcatalog:7323"
         }
     ]
 }
