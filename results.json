@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-03T16:53:31.280389",
+    "timestamp": "2026-03-03T17:45:55.308193",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11016,6 +11016,26 @@
             "date": "2026-03-03T15:54:39+00:00",
             "message_id": 7323,
             "message_key": "@testingcatalog:7323"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google officially announced Gemini 3.1 Flash Lite Preview, featuring a 45% increase in output speed. Now available on Google AI Studio and Vertex AI.",
+            "translated_text": "Google baru je umumkan secara rasmi Gemini 3.1 Flash Lite Preview. Ia datang dengan peningkatan kelajuan output sebanyak 45%. Sekarang ni, dah boleh guna dekat Google AI Studio dengan Vertex AI.",
+            "date": "2026-03-03T17:16:35+00:00",
+            "message_id": 7325,
+            "message_key": "@testingcatalog:7325"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\u26a0\ufe0f Anthropic has [entered](https://www.anthropic.com/news/statement-department-of-war) into a conflict with the Pentagon and found itself on a White House blacklist after CEO Dario Amodei refused to grant the military unrestricted access to Claude. He defined two fundamental \"red lines\": a ban on mass surveillance of American citizens and the development of fully autonomous weapons.\n\nAuthorities have consequently deemed the company a threat to national security. In parallel, OpenAI signed a contract with the Pentagon, formally establishing similar restrictions. \n\nMeanwhile, employees from both OpenAI and Google have voiced their support for Anthropic.",
+            "translated_text": "\u26a0\ufe0f Anthropic telah [terlibat](https://www.anthropic.com/news/statement-department-of-war) dalam konflik dengan Pentagon dan kini disenaraihitamkan oleh White House selepas CEO Dario Amodei menolak permintaan tentera untuk akses tanpa had kepada Claude. Beliau menetapkan dua 'garis merah' utama: larangan pengawasan besar-besaran terhadap rakyat Amerika dan pembangunan senjata autonomi sepenuhnya.\n\nAkibatnya, pihak berkuasa menganggap syarikat itu sebagai ancaman kepada keselamatan negara. Pada masa yang sama, OpenAI telah menandatangani kontrak dengan Pentagon, dengan secara rasmi menetapkan batasan yang sama.\n\nSementara itu, pekerja dari OpenAI dan Google telah menyatakan sokongan mereka kepada Anthropic.",
+            "date": "2026-03-03T17:02:37+00:00",
+            "message_id": 458,
+            "message_key": "@AItoolboxdaily:458"
         }
     ]
 }
