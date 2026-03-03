@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-03T21:36:49.810200",
+    "timestamp": "2026-03-03T23:30:09.843201",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11106,6 +11106,16 @@
             "date": "2026-03-03T20:59:25+00:00",
             "message_id": 7331,
             "message_key": "@testingcatalog:7331"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is rolling out Skills support for Perplexity Computer. \n\nSKILLs will allow users to reuse their existing workflows from Codex and Claude Code with Perplexity Computer. \n\nSKILLs are new Computer programs \ud83d\udc40",
+            "translated_text": "Perplexity sedang melancarkan sokongan SKILLs untuk Perplexity Computer.\n\nSKILLs akan membolehkan pengguna menggunakan semula aliran kerja sedia ada mereka dari Codex dan Claude Code dengan Perplexity Computer.\n\nSKILLs adalah program Komputer baharu \ud83d\udc40",
+            "date": "2026-03-03T22:48:41+00:00",
+            "message_id": 7333,
+            "message_key": "@testingcatalog:7333"
         }
     ]
 }
