@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-04T16:51:51.561087",
+    "timestamp": "2026-03-04T17:41:36.457475",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11186,6 +11186,56 @@
             "date": "2026-03-04T16:01:14+00:00",
             "message_id": 7338,
             "message_key": "@testingcatalog:7338"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-04T17:34:30+00:00",
+            "message_id": 7343,
+            "message_key": "@testingcatalog:7343"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on custom voices support for Flow editor. These are the same voices that you can find available in AI Studio. \n\nThis means that users will be able to use selected voices to achieve better character consistency.",
+            "translated_text": "Google sedang mengusahakan sokongan suara tersuai untuk editor Flow. Suara-suara ini adalah suara yang sama yang boleh didapati dalam AI Studio.\n\nIni bermakna pengguna boleh menggunakan suara terpilih untuk mendapatkan konsistensi karakter yang lebih baik.",
+            "date": "2026-03-04T17:34:30+00:00",
+            "message_id": 7342,
+            "message_key": "@testingcatalog:7342"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling out new Cinematic Video Overviews on NotebookLM, powered by \"a novel combination of Google's most advanced models,\" to Ultra subscribers. \n\nThe next level \ud83d\udc40",
+            "translated_text": "Google sedang melancarkan ringkasan video sinematik baharu di NotebookLM, yang dikuasakan oleh 'gabungan baharu model-model Google yang paling canggih,' kepada pelanggan Ultra.\n\nTahap seterusnya \ud83d\udc40",
+            "date": "2026-03-04T17:09:27+00:00",
+            "message_id": 7341,
+            "message_key": "@testingcatalog:7341"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Codex for Windows is now available on the Microsoft Store! \n\nBuilding time \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Codex untuk Windows kini tersedia di Microsoft Store!\n\nMasa untuk berkarya \ud83d\udc40",
+            "date": "2026-03-04T16:56:28+00:00",
+            "message_id": 7340,
+            "message_key": "@testingcatalog:7340"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83e\udd16 **Santander and Mastercard run Europe\u2019s first AI-executed payment pilot**\n\nAn artificial intelligence system has, for the first time in Europe, completed a payment inside a live banking network without a human entering the final command.\n\nBanco Santander and Mastercard confirmed that they had executed a live end-to-end payment initiated and completed by an AI agent, a software system operating within the bank\u2019s own regulated payments infrastructure.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83e\udd16 **Santander dan Mastercard jalankan projek rintis pembayaran pertama di Eropah yang dikendalikan AI**\n\nSistem kecerdasan buatan (AI), buat pertama kalinya di Eropah, berjaya menyelesaikan pembayaran dalam rangkaian perbankan sebenar tanpa manusia perlu masukkan arahan terakhir.\n\nBanco Santander dan Mastercard mengesahkan bahawa mereka telah melaksanakan pembayaran hujung-ke-hujung secara langsung yang dimulakan dan diselesaikan oleh ejen AI, iaitu sistem perisian yang beroperasi dalam infrastruktur pembayaran bank yang terkawal.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-04T17:11:57+00:00",
+            "message_id": 460,
+            "message_key": "@AItoolboxdaily:460"
         }
     ]
 }
