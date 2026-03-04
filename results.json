@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-04T17:41:36.457475",
+    "timestamp": "2026-03-04T22:35:09.728393",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11236,6 +11236,36 @@
             "date": "2026-03-04T17:11:57+00:00",
             "message_id": 460,
             "message_key": "@AItoolboxdaily:460"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Raycast launches Glaze in beta to build native desktop apps with AI**](https://www.testingcatalog.com/raycast-launches-glaze-in-beta-to-build-native-desktop-apps-with-ai/)\n\nGlaze enters private beta for Mac, letting users build fully native desktop apps by chatting with AI. Apps run offline, support system features, and allow real-time customization. Backed by Raycast, it targets teams and individuals seeking tailored tools without coding.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Raycast lancarkan Glaze dalam versi beta untuk bina aplikasi desktop natif dengan AI**](https://www.testingcatalog.com/raycast-launches-glaze-in-beta-to-build-native-desktop-apps-with-ai/)\n\nGlaze kini dalam fasa beta persendirian untuk Mac, membolehkan pengguna bina aplikasi desktop natif sepenuhnya hanya dengan berbual bersama AI. Aplikasi-aplikasi ini boleh dijalankan secara luar talian, menyokong ciri-ciri sistem, dan membenarkan penyesuaian masa nyata. Disokong oleh Raycast, ia menyasarkan pasukan dan individu yang mencari alatan khusus tanpa perlu coding.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-04T22:12:19+00:00",
+            "message_id": 7346,
+            "message_key": "@testingcatalog:7346"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity released voice mode for Perplexity Computer, along with an Extended Speaking option to avoid interruptions. \n\n\"Speak freely \u2014 Computer will listen without replying until you\u2019re done\".",
+            "translated_text": "Perplexity melancarkan mod suara untuk Perplexity Computer, bersama dengan pilihan 'Extended Speaking' untuk mengelakkan gangguan.\n\n\"Cakaplah apa saja \u2014 Komputer akan mendengar tanpa membalas sehingga anda selesai.\"",
+            "date": "2026-03-04T22:06:33+00:00",
+            "message_id": 7345,
+            "message_key": "@testingcatalog:7345"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches Codex app for Windows on Microsoft Store**](https://www.testingcatalog.com/openai-launches-codex-app-for-windows-on-microsoft-store/)\n\nOpenAI has launched a native Codex app for Windows via the Microsoft Store, featuring PowerShell-based agent execution and Windows Sandbox isolation. Available to all ChatGPT tiers, it supports parallel agents, automations, and rapid growth to 1.6M weekly users.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI melancarkan aplikasi Codex untuk Windows di Microsoft Store**](https://www.testingcatalog.com/openai-launches-codex-app-for-windows-on-microsoft-store/)\n\nOpenAI telah melancarkan aplikasi Codex asli untuk Windows melalui Microsoft Store, yang dilengkapi dengan pelaksanaan ejen berasaskan PowerShell dan pengasingan Windows Sandbox. Tersedia untuk semua peringkat ChatGPT, ia menyokong ejen selari, automasi, dan pertumbuhan pesat kepada 1.6 juta pengguna mingguan.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-03-04T21:58:19+00:00",
+            "message_id": 7344,
+            "message_key": "@testingcatalog:7344"
         }
     ]
 }
