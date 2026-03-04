@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-04T08:42:31.594664",
+    "timestamp": "2026-03-04T14:39:45.071706",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11136,6 +11136,36 @@
             "date": "2026-03-04T07:57:57+00:00",
             "message_id": 7334,
             "message_key": "@testingcatalog:7334"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on a new feature called \"Final Pass,\" designed to perform comprehensive document analysis and fact-checking.",
+            "translated_text": "Perplexity tengah bangunkan satu ciri baru yang dinamakan \"Final Pass,\" yang direka untuk buat analisis dokumen secara menyeluruh dan semakan fakta.",
+            "date": "2026-03-04T13:51:56+00:00",
+            "message_id": 7337,
+            "message_key": "@testingcatalog:7337"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity rolling out Skills support for Perplexity Computer**](https://www.testingcatalog.com/perplexity-rolling-out-skills-support-for-perplexity-computer/)\n\nPerplexity is expanding its Computer platform with Skills, reusable markdown-based workflows for consistent task execution, and developing a \u201cFinal Pass\u201d review mode for structured document analysis, signaling a push toward a comprehensive professional work platform.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity memperkenalkan sokongan Skills untuk Perplexity Computer**](https://www.testingcatalog.com/perplexity-rolling-out-skills-support-for-perplexity-computer/)\n\nPerplexity sedang mengembangkan platform Computer mereka dengan Skills, iaitu aliran kerja berasaskan markdown yang boleh diguna semula untuk pelaksanaan tugas yang konsisten, dan sedang membangunkan mod semakan \u201cFinal Pass\u201d untuk analisis dokumen berstruktur. Ini menandakan langkah ke arah platform kerja profesional yang menyeluruh.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-03-04T13:47:12+00:00",
+            "message_id": 7336,
+            "message_key": "@testingcatalog:7336"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**HeyGen**\n\n\ud83c\udff7 : #HeyGen #AIVideoGenerator #AIAvatar #TalkingAvatar #TextToVideo #VideoLocalization #AIAutomation #VoiceAndSpeech\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Visit Website](https://bestaitools.ai/tools/heygen/?utm_source=tg)\n\n\ud83d\udcac : HeyGen is an AI video platform for creating talking avatar videos from text and quickly localizing content for different audiences.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**HeyGen**\n\n\ud83c\udff7 : #HeyGen #PenjanaVideoAI #AvatarAI #AvatarBercakap #TeksKeVideo #PenyetempatanVideo #AutomasiAI #SuaraDanPertuturan\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Lawati Laman Web](https://bestaitools.ai/tools/heygen/?utm_source=tg)\n\n\ud83d\udcac : HeyGen adalah platform video AI untuk hasilkan video avatar bercakap dari teks dan cepat setempatkan kandungan untuk pelbagai audiens.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElpZjdi)",
+            "date": "2026-03-04T13:21:40+00:00",
+            "message_id": 459,
+            "message_key": "@AItoolboxdaily:459"
         }
     ]
 }
