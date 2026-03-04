@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-03T23:30:09.843201",
+    "timestamp": "2026-03-04T08:42:31.594664",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11116,6 +11116,26 @@
             "date": "2026-03-03T22:48:41+00:00",
             "message_id": 7333,
             "message_key": "@testingcatalog:7333"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 3.1 Flash-Lite on AI Studio and Vertex AI**](https://www.testingcatalog.com/google-launches-gemini-3-1-flash-lite-on-ai-studio-and-vertex-ai/)\n\nGoogle has introduced Gemini 3.1 Flash-Lite, a cost-efficient AI model for developers and enterprises handling large-scale workloads. It delivers faster response times, strong benchmark performance, multimodal capabilities, and competitive pricing via Gemini API and Vertex AI.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google memperkenalkan Gemini 3.1 Flash-Lite di AI Studio dan Vertex AI**](https://www.testingcatalog.com/google-launches-gemini-3-1-flash-lite-on-ai-studio-and-vertex-ai/)\n\nGoogle telah memperkenalkan Gemini 3.1 Flash-Lite, sebuah model AI yang menjimatkan kos untuk pembangun dan syarikat yang mengendalikan beban kerja berskala besar. Ia menawarkan masa tindak balas yang lebih pantas, prestasi penanda aras yang kukuh, keupayaan multimodal, dan harga yang kompetitif melalui Gemini API dan Vertex AI.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-03-04T08:02:50+00:00",
+            "message_id": 7335,
+            "message_key": "@testingcatalog:7335"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.3 Instant for ChatGPT and API users**](https://www.testingcatalog.com/openai-launches-gpt-5-3-instant-for-chatgpt-and-api-users/)\n\nOpenAI is rolling out GPT-5.3 Instant as ChatGPT\u2019s new default model, focused on sharper, more direct replies and fewer unnecessary refusals. It also reduces hallucinations, improves web-based synthesis, and is now available to all users and via API.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI melancarkan GPT-5.3 Instant untuk pengguna ChatGPT dan API**](https://www.testingcatalog.com/openai-launches-gpt-5-3-instant-for-chatgpt-and-api-users/)\n\nOpenAI sedang memperkenalkan GPT-5.3 Instant sebagai model lalai baharu ChatGPT, yang fokus pada jawapan yang lebih tajam, lebih terus, dan kurang penolakan yang tidak perlu. Ia juga mengurangkan halusinasi, memperbaiki sintesis berasaskan web, dan kini tersedia untuk semua pengguna serta melalui API.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-03-04T07:57:57+00:00",
+            "message_id": 7334,
+            "message_key": "@testingcatalog:7334"
         }
     ]
 }
