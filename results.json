@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-05T02:23:00.284069",
+    "timestamp": "2026-03-05T14:49:22.196328",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11296,6 +11296,26 @@
             "date": "2026-03-04T23:36:46+00:00",
             "message_id": 7347,
             "message_key": "@testingcatalog:7347"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Utopai Studios opens access to PAI long-form AI video model**](https://www.testingcatalog.com/utopai-studios-opens-access-to-pai-long-form-ai-video-model-2/)\n\nUtopai Studios has opened public access to PAI, a cinematic AI video model built for multi-scene storytelling. It supports up to 16 shots, 4K output, iterative editing, and continuity control, while blocking copyrighted IP to reduce infringement risk in production workflows.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Utopai Studios buka akses kepada model video AI PAI berdurasi panjang**](https://www.testingcatalog.com/utopai-studios-opens-access-to-pai-long-form-ai-video-model-2/)\n\nUtopai Studios dah buka akses awam untuk PAI, satu model video AI sinematik yang dibina khas untuk penceritaan yang ada banyak babak. Ia boleh sokong sehingga 16 shot, output 4K, penyuntingan berulang, dan kawalan kesinambungan. Pada masa yang sama, ia sekat IP berhak cipta untuk kurangkan risiko pelanggaran hak cipta dalam aliran kerja produksi.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-05T14:02:22+00:00",
+            "message_id": 7350,
+            "message_key": "@testingcatalog:7350"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Synthesia**\n\n\ud83c\udff7 : #Synthesia #AIVideoGenerator #AIAvatars #TextToVideo #DocumentToVideo #AIVoiceover #TrainingVideos #BusinessCommunication\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Visit Website](https://bestaitools.ai/tools/synthesia/?utm_source=tg)\n\n\ud83d\udcac : Synthesia is an AI video platform that turns text and documents into professional videos using AI avatars and voiceovers.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Synthesia**\n\n\ud83c\udff7 : #Synthesia #PenjanaVideoAI #AvatarAI #TeksKeVideo #DokumenKeVideo #AlihSuaraAI #VideoLatihan #KomunikasiPerniagaan\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Layari Laman Web](https://bestaitools.ai/tools/synthesia/?utm_source=tg)\n\n\ud83d\udcac : Synthesia adalah platform video AI yang menukar teks dan dokumen menjadi video profesional menggunakan avatar AI dan alih suara AI.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElpZjdi)",
+            "date": "2026-03-05T14:27:03+00:00",
+            "message_id": 461,
+            "message_key": "@AItoolboxdaily:461"
         }
     ]
 }
