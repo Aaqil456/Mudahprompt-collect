@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-06T17:37:18.824706",
+    "timestamp": "2026-03-06T19:35:59.287139",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11556,6 +11556,16 @@
             "date": "2026-03-06T17:11:44+00:00",
             "message_id": 7371,
             "message_key": "@testingcatalog:7371"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udcb8 **AI adoption in financial services has hit a point of no return**\n\nAI adoption in financial services has effectively become universal\u2013and the institutions still treating it as an experiment are now the outliers.\n\nAccording to Finastra\u2019s Financial Services State of the Nation 2026 report, which surveyed 1,509 senior executives across 11 markets, only 2% of financial institutions globally report no use of AI whatsoever. \n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udcb8 **Penggunaan AI dalam perkhidmatan kewangan dah tak boleh undur lagi**\n\nPenggunaan AI dalam perkhidmatan kewangan dah jadi kebiasaan \u2013 dan institusi yang masih anggap ia sebagai eksperimen, sekarang ni dah jadi minoriti.\n\nMenurut laporan Finastra, Financial Services State of the Nation 2026, yang meninjau 1,509 eksekutif kanan dari 11 pasaran, cuma 2% je institusi kewangan di seluruh dunia yang cakap tak guna AI langsung.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-06T19:16:49+00:00",
+            "message_id": 467,
+            "message_key": "@AItoolboxdaily:467"
         }
     ]
 }
