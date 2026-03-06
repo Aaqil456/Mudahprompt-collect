@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-06T19:35:59.287139",
+    "timestamp": "2026-03-06T20:35:41.744826",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11566,6 +11566,26 @@
             "date": "2026-03-06T19:16:49+00:00",
             "message_id": 467,
             "message_key": "@AItoolboxdaily:467"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI launched Codex Security, a new application security agent that can find and fix security vulnerabilities. \n\n\"Codex Security leverages OpenAI\u2019s frontier models and the Codex agent\"",
+            "translated_text": "OpenAI dah lancarkan Codex Security, satu ejen keselamatan aplikasi baharu yang boleh cari dan baiki kelemahan keselamatan.\n\n\"Codex Security ni guna model-model canggih OpenAI dan ejen Codex.\"",
+            "date": "2026-03-06T20:08:22+00:00",
+            "message_id": 7373,
+            "message_key": "@testingcatalog:7373"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Vellum Labs launches waitlist for private on-device AI assistant**](https://www.testingcatalog.com/vellum-labs-launches-waitlist-for-private-on-device-ai-assistant/)\n\nVellum Labs has launched a public waitlist for Vellum, a personal AI assistant that runs entirely on a user\u2019s Mac with no cloud processing or data collection. It handles tasks like email drafting, scheduling, calls, and shopping while keeping all data on-device.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Vellum Labs melancarkan senarai menunggu untuk pembantu AI peribadi yang beroperasi pada peranti**](https://www.testingcatalog.com/vellum-labs-launches-waitlist-for-private-on-device-ai-assistant/)\n\nVellum Labs dah buka senarai menunggu awam untuk Vellum, pembantu AI peribadi yang berfungsi sepenuhnya pada Mac pengguna tanpa pemprosesan awan atau pengumpulan data. Ia boleh uruskan tugas-tugas macam draf e-mel, penjadualan, panggilan, dan membeli-belah, sambil simpan semua data dalam peranti.\n\n\ud83d\uddde #sponsored",
+            "date": "2026-03-06T19:52:49+00:00",
+            "message_id": 7372,
+            "message_key": "@testingcatalog:7372"
         }
     ]
 }
