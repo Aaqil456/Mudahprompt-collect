@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-06T14:42:01.344156",
+    "timestamp": "2026-03-06T15:40:30.940132",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11476,6 +11476,36 @@
             "date": "2026-03-06T13:42:01+00:00",
             "message_id": 466,
             "message_key": "@AItoolboxdaily:466"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft tests AI-generated Discover feed on Copilot web**](https://www.testingcatalog.com/microsoft-tests-ai-generated-discover-feed-on-copilot-web/)\n\nMicrosoft is testing an AI-generated Discover page in Copilot that builds a personalized feed from user history and memories. Updated daily, it replaces curated news with tailored text and images, signaling a shift toward generative UI despite limited customization options.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft uji suapan Discover yang dijana AI di web Copilot**](https://www.testingcatalog.com/microsoft-tests-ai-generated-discover-feed-on-copilot-web/)\n\nMicrosoft sedang menguji halaman Discover yang dijana AI dalam Copilot. Halaman ni akan bina suapan peribadi berdasarkan sejarah dan memori pengguna. Ia dikemas kini setiap hari, menggantikan berita yang dipilih khas dengan teks dan imej yang disesuaikan. Ini menunjukkan peralihan ke arah UI generatif walaupun pilihan penyesuaiannya terhad.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-03-06T15:14:39+00:00",
+            "message_id": 7366,
+            "message_key": "@testingcatalog:7366"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Luma unveils UNI-1, unified reasoning image model**](https://www.testingcatalog.com/luma-unveils-uni-1-unified-reasoning-image-model/)\n\nLuma has launched UNI-1, a unified model that combines visual understanding and image generation in one system. It performs structured reasoning during synthesis and supports advanced editing and control.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Luma memperkenalkan UNI-1, model imej penaakulan bersepadu**](https://www.testingcatalog.com/luma-unveils-uni-1-unified-reasoning-image-model/)\n\nLuma dah lancarkan UNI-1, satu model bersepadu yang gabungkan pemahaman visual dengan penjanaan imej dalam satu sistem. Ia buat penaakulan berstruktur masa sintesis dan sokong penyuntingan serta kawalan yang canggih.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-06T15:08:17+00:00",
+            "message_id": 7365,
+            "message_key": "@testingcatalog:7365"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor debuts Automations for scheduled coding agents**](https://www.testingcatalog.com/cursor-debuts-automations-for-scheduled-coding-agents/)\n\nCursor has launched Automations, enabling always-on coding agents that run on schedules or external triggers like Slack, GitHub, and PagerDuty. Built on cloud sandboxes, it targets review, incident response, and maintenance, expanding Cursor into a workflow layer for engineering teams.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor memperkenalkan Automations untuk ejen pengekodan berjadual**](https://www.testingcatalog.com/cursor-debuts-automations-for-scheduled-coding-agents/)\n\nCursor telah melancarkan Automations, membolehkan ejen pengekodan sentiasa aktif yang beroperasi mengikut jadual atau pencetus luaran seperti Slack, GitHub, dan PagerDuty. Dibina di atas cloud sandboxes, ia menyasarkan semakan, tindak balas insiden, dan penyelenggaraan, mengembangkan Cursor menjadi lapisan aliran kerja untuk pasukan kejuruteraan.\n\n\ud83d\uddde #cursor",
+            "date": "2026-03-06T14:57:05+00:00",
+            "message_id": 7364,
+            "message_key": "@testingcatalog:7364"
         }
     ]
 }
