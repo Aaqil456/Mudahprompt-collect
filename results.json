@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-06T13:01:54.687954",
+    "timestamp": "2026-03-06T14:42:01.344156",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11446,6 +11446,36 @@
             "date": "2026-03-06T11:35:02+00:00",
             "message_id": 464,
             "message_key": "@AItoolboxdaily:464"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google is working on Live Voice Mode for Stitch! Users will be able to trigger design changes, discuss potential improvements, or have a live design critique. \n\nBesides that, loads of new generations will be available soon as a part of a new design \"Studio\" feature.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Google sedang membangunkan Live Voice Mode untuk Stitch! Nanti, pengguna boleh buat perubahan reka bentuk, bincang penambahbaikan yang mungkin, atau dapatkan kritikan reka bentuk secara langsung.\n\nSelain itu, banyak generasi baru akan tersedia tak lama lagi sebagai sebahagian daripada ciri reka bentuk baru yang dipanggil \"Studio\".",
+            "date": "2026-03-06T14:28:47+00:00",
+            "message_id": 7363,
+            "message_key": "@testingcatalog:7363"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Live Voice Mode and Design Studio on Stitch**](https://www.testingcatalog.com/google-tests-live-voice-mode-and-design-studio-on-stitch/)\n\nGoogle\u2019s Stitch is set to expand with voice-driven UI generation, design system imports from URLs, advanced prototyping controls, and a new Studio tab for audits, marketing kits, and developer specs, positioning it as a comprehensive end-to-end product design platform.\n\n\ud83d\uddde #stitch",
+            "translated_text": "[**Google sedang menguji Mod Suara Langsung dan Studio Reka Bentuk pada Stitch**](https://www.testingcatalog.com/google-tests-live-voice-mode-and-design-studio-on-stitch/)\n\nStitch dari Google bakal diperluaskan dengan penjanaan UI berasaskan suara, import sistem reka bentuk dari URL, kawalan prototaip lanjutan, dan tab Studio baharu untuk audit, kit pemasaran, serta spesifikasi pembangun. Ini akan meletakkannya sebagai platform reka bentuk produk hujung-ke-hujung yang menyeluruh.\n\n\ud83d\uddde #stitch",
+            "date": "2026-03-06T14:21:07+00:00",
+            "message_id": 7362,
+            "message_key": "@testingcatalog:7362"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Descript**\n\n\ud83c\udff7 : #Descript #AIAudioEditor #AIVideoEditor #VoiceAndSpeechTools #PodcastEditing #TextBasedEditing #SocialClips #Transcription\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Visit Website](https://bestaitools.ai/tools/descript/?utm_source=tg)\n\n\ud83d\udcac : Descript is an AI-powered audio and video editor that lets you edit recordings like text\u2014cut, move, and clean up content by editing the transcript.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Descript**\n\n\ud83c\udff7 : #Descript #EditorAudioAI #EditorVideoAI #AlatSuaraDanUcapan #SuntinganPodcast #SuntinganBerasaskanTeks #KlipSosial #Transkripsi\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Lawati Laman Web](https://bestaitools.ai/tools/descript/?utm_source=tg)\n\n\ud83d\udcac : Descript ni editor audio dan video berkuasa AI yang membolehkan kita sunting rakaman macam teks\u2014potong, alih, dan bersihkan kandungan dengan menyunting transkripnya.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-06T13:42:01+00:00",
+            "message_id": 466,
+            "message_key": "@AItoolboxdaily:466"
         }
     ]
 }
