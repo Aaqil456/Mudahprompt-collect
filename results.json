@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-06T15:40:30.940132",
+    "timestamp": "2026-03-06T16:45:02.190310",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11506,6 +11506,46 @@
             "date": "2026-03-06T14:57:05+00:00",
             "message_id": 7364,
             "message_key": "@testingcatalog:7364"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-06T16:20:03+00:00",
+            "message_id": 7370,
+            "message_key": "@testingcatalog:7370"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic may introduce Tool Access selector for Claude mobile app soon. \n\nThe icon also overlaps with a Customize option from Claude desktop and likely is a part of a preparation for Claude Cowork release on mobile.",
+            "translated_text": "Anthropic mungkin akan memperkenalkan pemilih 'Tool Access' untuk aplikasi mudah alih Claude tak lama lagi. Ikon itu juga bertindih dengan pilihan 'Customize' dari Claude desktop dan kemungkinan besar adalah sebahagian daripada persediaan untuk pelancaran Claude Cowork di mudah alih.",
+            "date": "2026-03-06T16:20:03+00:00",
+            "message_id": 7369,
+            "message_key": "@testingcatalog:7369"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Scheduled tasks are now fully available on the desktop app.\n\nUsers can now also prevent computer from sleeping when the Claude app is open, so scheduled tasks can run. \n\nOpen Clawd \ud83d\udc40",
+            "translated_text": "Untuk makluman: Tugasan berjadual kini dah tersedia sepenuhnya di aplikasi desktop.\n\nAnda kini juga boleh elakkan komputer daripada tidur bila aplikasi Claude dibuka, supaya tugasan berjadual boleh berjalan.\n\nBuka Clawd \ud83d\udc40",
+            "date": "2026-03-06T16:04:30+00:00",
+            "message_id": 7368,
+            "message_key": "@testingcatalog:7368"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Updated Clawd animation \ud83e\udd80",
+            "translated_text": "Animasi Clawd dah update \ud83e\udd80",
+            "date": "2026-03-06T16:03:59+00:00",
+            "message_id": 7367,
+            "message_key": "@testingcatalog:7367"
         }
     ]
 }
