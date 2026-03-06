@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-06T16:45:02.190310",
+    "timestamp": "2026-03-06T17:37:18.824706",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11546,6 +11546,16 @@
             "date": "2026-03-06T16:03:59+00:00",
             "message_id": 7367,
             "message_key": "@testingcatalog:7367"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is officially rolling out \"Skills\" for Perplexity Computer to let users create and execute more complex and reusable workflows!\n\nSkills are new Programs \ud83d\udc40",
+            "translated_text": "Perplexity dah rasmi lancarkan \"Skills\" untuk Perplexity Computer. Ini untuk bagi pengguna boleh cipta dan jalankan aliran kerja yang lebih kompleks dan boleh guna semula!\n\nSkills ni adalah Program baharu \ud83d\udc40",
+            "date": "2026-03-06T17:11:44+00:00",
+            "message_id": 7371,
+            "message_key": "@testingcatalog:7371"
         }
     ]
 }
