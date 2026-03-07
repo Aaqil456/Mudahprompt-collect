@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-07T13:40:26.735912",
+    "timestamp": "2026-03-07T18:37:24.115944",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11596,6 +11596,16 @@
             "date": "2026-03-07T13:34:01+00:00",
             "message_id": 468,
             "message_key": "@AItoolboxdaily:468"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Idea Validation**\n\n\u201cStress-test my idea before I invest time or money.\u201d\nUse this command:\n\n```Act as a skeptical but fair advisor.\nEvaluate the idea below as if real money and reputation were at stake.\nIdentify hidden risks, unrealistic assumptions, competitive pressure, and execution challenges.\nExplain what evidence would validate or invalidate this idea in the real world.\nSuggest small, low-risk experiments I can run to test demand quickly.\nEnd with an honest assessment of whether the idea is promising, risky, or needs refinement.\nIdea: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Pengesahan Idea**\n\n\"Uji idea saya betul-betul sebelum saya laburkan masa atau duit.\"\nGunakan arahan ini:\n\n```Bertindak sebagai penasihat yang skeptikal tapi adil.\nNilaikan idea di bawah seolah-olah duit sebenar dan reputasi anda dipertaruhkan.\nKenal pasti risiko tersembunyi, andaian yang tidak realistik, tekanan persaingan, dan cabaran pelaksanaan.\nTerangkan bukti apa yang akan mengesahkan atau membatalkan idea ini dalam dunia sebenar.\nCadangkan eksperimen kecil berisiko rendah yang boleh saya jalankan untuk menguji permintaan dengan cepat.\nAkhiri dengan penilaian jujur sama ada idea ini menjanjikan, berisiko, atau perlu diperhalusi.\nIdea: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-07T18:17:11+00:00",
+            "message_id": 469,
+            "message_key": "@AItoolboxdaily:469"
         }
     ]
 }
