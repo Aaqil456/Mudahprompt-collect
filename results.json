@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-10T18:54:05.057552",
+    "timestamp": "2026-03-10T21:31:15.751911",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11916,6 +11916,16 @@
             "date": "2026-03-10T18:22:10+00:00",
             "message_id": 475,
             "message_key": "@AItoolboxdaily:475"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Multi-agent planning mode on Gemini Business**](https://www.testingcatalog.com/google-tests-multi-agent-planning-mode-on-gemini-business/)\n\nGoogle is testing a Gemini Enterprise feature in Workspace to identify task specialists and create delegation plans.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[Google sedang menguji mod perancangan berbilang ejen pada Gemini Business](https://www.testingcatalog.com/google-tests-multi-agent-planning-mode-on-gemini-business/)\n\nGoogle sedang menguji ciri Gemini Enterprise dalam Workspace untuk mengenal pasti pakar tugas dan membuat pelan delegasi.\n\n\ud83d\uddde #gemini",
+            "date": "2026-03-10T21:14:42+00:00",
+            "message_id": 7399,
+            "message_key": "@testingcatalog:7399"
         }
     ]
 }
