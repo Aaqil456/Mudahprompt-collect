@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-10T16:02:10.328585",
+    "timestamp": "2026-03-10T17:49:22.604660",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11886,6 +11886,26 @@
             "date": "2026-03-10T15:27:58+00:00",
             "message_id": 7395,
             "message_key": "@testingcatalog:7395"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released a new embedding multimodal model, Gemini Embedding 2, with SOTA performance!\n\nUnimodal and multimodal \ud83d\udc40",
+            "translated_text": "Google dah keluarkan model multimodal embedding baru, Gemini Embedding 2, dengan prestasi SOTA!\n\nUnimodal dan multimodal \ud83d\udc40",
+            "date": "2026-03-10T17:17:54+00:00",
+            "message_id": 7398,
+            "message_key": "@testingcatalog:7398"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling out a new Gemini experience in Docs, Sheets, and Slides, allowing users to offload more tasks to AI. \n\nGemini will be able to pull context from relevant sources and generate or modify the document's content. \n\nI have big hopes on this feature \ud83d\udc40",
+            "translated_text": "Google sedang memperkenalkan pengalaman Gemini baharu dalam Docs, Sheets, dan Slides, membolehkan pengguna serahkan lebih banyak tugas kepada AI. Gemini akan dapat ambil konteks dari sumber yang relevan dan menjana atau mengubah suai kandungan dokumen. Saya sangat berharap pada ciri ni \ud83d\udc40",
+            "date": "2026-03-10T17:12:17+00:00",
+            "message_id": 7397,
+            "message_key": "@testingcatalog:7397"
         }
     ]
 }
