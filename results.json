@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-10T21:31:15.751911",
+    "timestamp": "2026-03-10T22:31:39.660618",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11926,6 +11926,26 @@
             "date": "2026-03-10T21:14:42+00:00",
             "message_id": 7399,
             "message_key": "@testingcatalog:7399"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches new multimodal Gemini Embedding 2 model**](https://www.testingcatalog.com/google-launches-new-multimodal-gemini-embedding-2-model/)\n\nGoogle has launched Gemini Embedding 2 in Public Preview via the Gemini API and Vertex AI, delivering a unified multimodal embedding model for text, images, video, audio, and PDFs. It supports 100+ languages and flexible dimensions for search, RAG, and clustering use cases.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google lancarkan model Gemini Embedding 2 multimodal baharu**](https://www.testingcatalog.com/google-launches-new-multimodal-gemini-embedding-2-model/)\n\nGoogle dah lancarkan Gemini Embedding 2 dalam Pratonton Awam. Ia boleh diakses melalui Gemini API dan Vertex AI. Model ni berfungsi sebagai model embedding multimodal yang seragam untuk teks, imej, video, audio, dan PDF. Ia juga menyokong lebih 100 bahasa dan dimensi yang fleksibel untuk kes penggunaan carian, RAG, dan pengelompokan.\n\n\ud83d\uddde #gemini",
+            "date": "2026-03-10T21:57:32+00:00",
+            "message_id": 7401,
+            "message_key": "@testingcatalog:7401"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches AI code review tool for Claude Teams & Enterprise**](https://www.testingcatalog.com/anthropic-launches-ai-code-review-tool-for-claude-teams-enterprise/)\n\nAnthropic has introduced Code Review, an automated PR evaluation tool in research preview for Team and Enterprise users. It deploys multiple AI agents to detect, verify, and prioritize bugs, delivering detailed feedback. Pricing ranges from $15\u201325 per review.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic memperkenalkan alat semakan kod AI untuk Claude Teams & Enterprise**](https://www.testingcatalog.com/anthropic-launches-ai-code-review-tool-for-claude-teams-enterprise/)\n\nAnthropic dah perkenalkan Code Review, satu alat penilaian PR automatik dalam fasa pratonton penyelidikan untuk pengguna Team dan Enterprise. Ia menggunakan beberapa ejen AI untuk mengesan, mengesahkan, dan mengutamakan pepijat, serta memberikan maklum balas yang terperinci. Harga antara $15\u201325 untuk setiap semakan.\n\n\ud83d\uddde #claude",
+            "date": "2026-03-10T21:47:29+00:00",
+            "message_id": 7400,
+            "message_key": "@testingcatalog:7400"
         }
     ]
 }
