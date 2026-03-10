@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-09T20:38:06.347011",
+    "timestamp": "2026-03-10T08:48:56.678752",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11826,6 +11826,36 @@
             "date": "2026-03-09T19:56:00+00:00",
             "message_id": 7391,
             "message_key": "@testingcatalog:7391"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT is way far ahead from competitors in terms of paid subscribers, according to the report from a16z \n\n\u201cThis is especially impressive given growth is difficult to maintain at scale \u2014 over 10% of the global population now utilizes ChatGPT every week.\u201d",
+            "translated_text": "ChatGPT jauh mendahului pesaing dari segi pelanggan berbayar, menurut laporan dari a16z.\n\n\u201cIni memang hebat, memandangkan pertumbuhan sukar dikekalkan pada skala besar \u2014 lebih 10% populasi global kini menggunakan ChatGPT setiap minggu.\u201d",
+            "date": "2026-03-10T08:15:59+00:00",
+            "message_id": 7394,
+            "message_key": "@testingcatalog:7394"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-10T08:07:21+00:00",
+            "message_id": 7393,
+            "message_key": "@testingcatalog:7393"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Advanced Machine Intelligence (AMI), founded by Yann LeCun raised $1.03B in a seed round.  \n\n\u201cAMI is building a new breed of AI systems that understand the world, have persistent memory, can reason and plan, and are controllable and safe.\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Advanced Machine Intelligence (AMI), yang diasaskan oleh Yann LeCun, baru saja berjaya kumpul dana $1.03 bilion dalam pusingan awal pelaburan (seed round).\n\n\u201cAMI sedang membina sistem AI jenis baharu yang memahami dunia, ada memori yang kekal, boleh berfikir dan merancang, serta boleh dikawal dan selamat.\u201d",
+            "date": "2026-03-10T08:07:21+00:00",
+            "message_id": 7392,
+            "message_key": "@testingcatalog:7392"
         }
     ]
 }
