@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-10T22:31:39.660618",
+    "timestamp": "2026-03-11T02:11:18.602604",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -11946,6 +11946,56 @@
             "date": "2026-03-10T21:47:29+00:00",
             "message_id": 7400,
             "message_key": "@testingcatalog:7400"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is rolling out a new interactive learning experience on ChatGPT with dynamic visual explanations. \n\n\"Interactive learning is rolling out starting today to all logged-in ChatGPT users. \n\nToday, the list of math and science topics is most relevant to high school and college age learners, and includes topics like binomial square, Charles\u2019 law, circle area, circle equation, compound interest, cone surface area, cone volume, Coulomb\u2019s law, cylinder volume, degrees of freedom and more\u201d",
+            "translated_text": "OpenAI sedang memperkenalkan pengalaman pembelajaran interaktif baharu di ChatGPT yang disertakan dengan penjelasan visual dinamik.\n\nPembelajaran interaktif ini dilancarkan bermula hari ini untuk semua pengguna ChatGPT yang log masuk.\n\nBuat masa ini, senarai topik matematik dan sains yang tersedia paling sesuai untuk pelajar sekolah menengah dan kolej, dan ia merangkumi topik seperti kuasa dua binomial, hukum Charles, luas bulatan, persamaan bulatan, faedah kompaun, luas permukaan kon, isipadu kon, hukum Coulomb, isipadu silinder, darjah kebebasan dan banyak lagi.",
+            "date": "2026-03-11T01:09:11+00:00",
+            "message_id": 7411,
+            "message_key": "@testingcatalog:7411"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Hume AI releases its first open-source TTS model, TADA**](https://www.testingcatalog.com/hume-ai-releases-its-first-open-source-tts-model-tada/)\n\nHume AI has released TADA, an open-source text-to-speech model using Text-Acoustic Dual Alignment to synchronize text and audio generation. It delivers real-time speech over five times faster than comparable systems, supports up to 700 seconds of audio, and reduces content errors.\n\n\ud83d\uddde #hume",
+            "translated_text": "[**Hume AI lancarkan model TTS sumber terbuka pertama mereka, TADA**](https://www.testingcatalog.com/hume-ai-releases-its-first-open-source-tts-model-tada/)\n\nHume AI dah lancarkan TADA, satu model teks-ke-ucapan sumber terbuka yang guna Text-Acoustic Dual Alignment untuk selaraskan penjanaan teks dengan audio. Ia boleh hasilkan ucapan masa nyata lebih lima kali ganda pantas dari sistem lain yang setanding, sokong sehingga 700 saat audio, dan kurangkan kesilapan kandungan.\n\n\ud83d\uddde #hume",
+            "date": "2026-03-11T00:54:48+00:00",
+            "message_id": 7410,
+            "message_key": "@testingcatalog:7410"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-11T00:34:47+00:00",
+            "message_id": 7409,
+            "message_key": "@testingcatalog:7409"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenClaw is recruiting beta testers for a new stealth project that may let companies to better scale OpenClaw agents across the organisation.",
+            "translated_text": "OpenClaw sedang mencari penguji beta untuk projek rahsia baru yang mungkin boleh bantu syarikat-syikat mengembangkan ejen OpenClaw dengan lebih baik di seluruh organisasi.",
+            "date": "2026-03-11T00:34:47+00:00",
+            "message_id": 7408,
+            "message_key": "@testingcatalog:7408"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-11T00:22:39+00:00",
+            "message_id": 7407,
+            "message_key": "@testingcatalog:7407"
         }
     ]
 }
