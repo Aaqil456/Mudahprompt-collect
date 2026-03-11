@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-11T13:06:23.083331",
+    "timestamp": "2026-03-11T14:50:42.630607",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12016,6 +12016,26 @@
             "date": "2026-03-11T11:38:31+00:00",
             "message_id": 7412,
             "message_key": "@testingcatalog:7412"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sora has rolled out a new References feature in Beta to allow users to generate more consistent videos. \n\n\"References are reusable images or descriptions for anything you want in a video. Use references to keep videos consistent and help Sora see your vision.\"",
+            "translated_text": "Sora dah perkenalkan ciri Rujukan baru dalam versi Beta untuk bagi pengguna hasilkan video yang lebih konsisten.\n\n\"Rujukan ni adalah imej atau penerangan yang boleh diguna semula untuk apa-apa saja yang anda nak ada dalam video. Guna rujukan ni untuk pastikan video konsisten dan bantu Sora faham apa yang anda bayangkan.\"",
+            "date": "2026-03-11T13:27:11+00:00",
+            "message_id": 7414,
+            "message_key": "@testingcatalog:7414"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**ElevenLabs**\n\n\ud83c\udff7 : #VoiceAI #TextToSpeech #VoiceCloning\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Visit Website](https://bestaitools.ai/tools/elevenlabs/?utm_source=tg)\n\n\ud83d\udcac : ElevenLabs is an AI audio platform that generates lifelike speech, creates custom voices, transcribes audio, and localizes content with dubbing.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**ElevenLabs**\n\n\ud83c\udff7 : #VoiceAI #TextToSpeech #VoiceCloning\n\u2b50\ufe0f : \u2014\n\ud83d\udd17 : [Layari Laman Web](https://bestaitools.ai/tools/elevenlabs/?utm_source=tg)\n\n\ud83d\udcac : ElevenLabs adalah platform audio AI yang menjana pertuturan yang sangat realistik, mencipta suara tersuai, mentranskripsi audio, dan menyetempatkan kandungan dengan alih suara.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-11T14:42:03+00:00",
+            "message_id": 476,
+            "message_key": "@AItoolboxdaily:476"
         }
     ]
 }
