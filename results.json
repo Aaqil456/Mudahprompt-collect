@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-11T19:43:19.082870",
+    "timestamp": "2026-03-11T21:37:05.505309",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12106,6 +12106,26 @@
             "date": "2026-03-11T19:07:57+00:00",
             "message_id": 7420,
             "message_key": "@testingcatalog:7420"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Base44 launched its own managed, always-on Superagents. \n\n\"Forget Docker, SSH keys, and server management. Base44 Superagents connect to your tools in one click, run 24/7, and act proactively. Fully secured and managed.\"",
+            "translated_text": "Base44 dah lancarkan Superagents dia sendiri yang diuruskan dan sentiasa aktif.\n\n\"Lupakan je pasal Docker, kunci SSH, dengan pengurusan server. Superagents Base44 ni boleh sambung ke alatan awak dengan sekali klik, jalan 24/7, dan bertindak secara proaktif. Memang selamat dan diuruskan sepenuhnya.\"",
+            "date": "2026-03-11T21:16:20+00:00",
+            "message_id": 7422,
+            "message_key": "@testingcatalog:7422"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic upgraded Claude for Excel and Claude for PowerPoint to enable context sharing between solutions.",
+            "translated_text": "Anthropic dah naik taraf Claude untuk Excel dan Claude untuk PowerPoint. Ini membolehkan perkongsian konteks antara kedua-dua solusi tu.",
+            "date": "2026-03-11T20:30:33+00:00",
+            "message_id": 7421,
+            "message_key": "@testingcatalog:7421"
         }
     ]
 }
