@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-11T17:52:08.863974",
+    "timestamp": "2026-03-11T18:57:06.808099",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12076,6 +12076,26 @@
             "date": "2026-03-11T17:04:42+00:00",
             "message_id": 7415,
             "message_key": "@testingcatalog:7415"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: PERPLEXITY ANNOUNCED PERSONAL COMPUTER, A NEW ALWAYS-ON AGENT CONTINUOUSLY RUNNING ON A MAC MINI!\n\nWaitlis is now open \ud83e\udd16",
+            "translated_text": "BERITA PENTING \ud83d\udea8: PERPLEXITY dah umumkan Personal Computer, iaitu agen sentiasa aktif yang baru, dan ia berjalan tanpa henti dekat Mac Mini!\n\nSenarai menunggu kini dibuka \ud83e\udd16",
+            "date": "2026-03-11T18:38:03+00:00",
+            "message_id": 7419,
+            "message_key": "@testingcatalog:7419"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\ud83d\udcb8 Manulife moves AI agents into core financial workflows**\n\nLarge financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows. \n\nCanadian insurer Manulife is moving in that direction as it works to deploy agent-based AI systems inside its internal operations.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**\ud83d\udcb8 Manulife menempatkan ejen AI dalam operasi kewangan utama**\n\nFirma kewangan besar dah bertahun-tahun uji kecerdasan buatan (AI) dalam projek kecil-kecilan, selalunya terhad untuk analisis data atau alat sokongan pelanggan je. Fasa seterusnya nampak gayanya akan melibatkan sesuatu yang lebih operasi: sistem yang boleh bertindak dalam aliran kerja perniagaan.\n\nSyarikat insurans Kanada, Manulife, sedang bergerak ke arah itu sambil berusaha untuk menempatkan sistem AI berasaskan ejen dalam operasi dalamannya.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-11T18:22:03+00:00",
+            "message_id": 477,
+            "message_key": "@AItoolboxdaily:477"
         }
     ]
 }
