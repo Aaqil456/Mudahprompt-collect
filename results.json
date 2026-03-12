@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-12T02:24:10.135347",
+    "timestamp": "2026-03-12T14:52:36.568384",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12166,6 +12166,16 @@
             "date": "2026-03-12T00:30:22+00:00",
             "message_id": 7425,
             "message_key": "@testingcatalog:7425"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Murf**\n\n\ud83c\udff7 : #VoiceAI #TextToSpeech #Dubbing\n\u2b50\ufe0f : 4.7\n\ud83d\udd17 : [Visit Website](https://bestaitools.ai/tools/murf/?utm_source=tg)\n\n\ud83d\udcac : Murf is an AI voice platform for creating realistic voiceovers, converting text to speech, and localizing audio with dubbing and translation.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Murf**\n\n\ud83c\udff7 : #AISuara #TeksKeSuara #AlihSuara\n\u2b50\ufe0f : 4.7\n\ud83d\udd17 : [Lawati Laman Web](https://bestaitools.ai/tools/murf/?utm_source=tg)\n\n\ud83d\udcac : Murf adalah platform suara AI untuk mencipta alih suara yang realistik, menukar teks kepada suara, dan menyetempatkan audio dengan alih suara dan terjemahan.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-12T13:38:01+00:00",
+            "message_id": 478,
+            "message_key": "@AItoolboxdaily:478"
         }
     ]
 }
