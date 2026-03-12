@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-11T23:29:02.059237",
+    "timestamp": "2026-03-12T02:24:10.135347",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12146,6 +12146,26 @@
             "date": "2026-03-11T23:26:01+00:00",
             "message_id": 7424,
             "message_key": "@testingcatalog:7424"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity now supports the \"Nemotron 3 Super 120B\" model from NVIDIA.",
+            "translated_text": "Perplexity kini menyokong model \"Nemotron 3 Super 120B\" daripada NVIDIA.",
+            "date": "2026-03-12T00:31:06+00:00",
+            "message_id": 7426,
+            "message_key": "@testingcatalog:7426"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NVIDIA published a series of new \"Nemotron 3 Super 120B\" open-source models on Huggingface, designed for agentic use.",
+            "translated_text": "NVIDIA dah keluarkan siri baru model sumber terbuka 'Nemotron 3 Super 120B' dekat Huggingface. Model-model ni direka khas untuk kegunaan ejen.",
+            "date": "2026-03-12T00:30:22+00:00",
+            "message_id": 7425,
+            "message_key": "@testingcatalog:7425"
         }
     ]
 }
