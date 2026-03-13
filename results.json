@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-13T02:22:21.628468",
+    "timestamp": "2026-03-13T13:04:21.779871",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12286,6 +12286,16 @@
             "date": "2026-03-13T00:37:34+00:00",
             "message_id": 7435,
             "message_key": "@testingcatalog:7435"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83e\udd16 **ABB: Physical AI simulation boosts ROI for factory automation**\n\nA new **ABB** and **NVIDIA** partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles.\n\nManufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital training models and actual factory floors, where lighting, material physics, and part variations refuse to behave as they do on a screen.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83e\udd16 **ABB: Simulasi AI fizikal tingkatkan ROI untuk automasi kilang**\n\nKerjasama baru antara **ABB** dan **NVIDIA** menunjukkan simulasi AI fizikal memacu ROI sebenar dalam automasi kilang dan selesaikan cabaran pengeluaran.\n\nPengeluar sering kali sukar untuk memastikan robotik pintar berfungsi dengan boleh dipercayai di luar persekitaran ujian. Isu utamanya ialah jurang antara model latihan digital dan lantai kilang sebenar, di mana pencahayaan, fizik bahan, dan variasi bahagian enggan berkelakuan seperti yang dipaparkan di skrin.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-13T12:39:01+00:00",
+            "message_id": 480,
+            "message_key": "@AItoolboxdaily:480"
         }
     ]
 }
