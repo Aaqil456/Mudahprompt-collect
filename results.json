@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-13T16:43:31.589724",
+    "timestamp": "2026-03-13T17:37:20.513692",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12316,6 +12316,26 @@
             "date": "2026-03-13T15:51:35+00:00",
             "message_id": 7438,
             "message_key": "@testingcatalog:7438"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic made Opus 4.6 and Sonnet 4.6 with a 1M context window, generally available to all Claude Code users.",
+            "translated_text": "Anthropic dah keluarkan Opus 4.6 dan Sonnet 4.6 dengan tetingkap konteks 1M, dan ia kini tersedia secara umum untuk semua pengguna Claude Code.",
+            "date": "2026-03-13T17:34:47+00:00",
+            "message_id": 7440,
+            "message_key": "@testingcatalog:7440"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Computer has been fully rolled out on iOS to all users. All sessions are synced across devices.",
+            "translated_text": "Perplexity Computer dah pun dilancarkan sepenuhnya di iOS untuk semua pengguna. Semua sesi akan disegerakkan merentasi peranti.",
+            "date": "2026-03-13T17:24:04+00:00",
+            "message_id": 7439,
+            "message_key": "@testingcatalog:7439"
         }
     ]
 }
