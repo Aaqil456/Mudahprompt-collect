@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-13T23:31:52.544832",
+    "timestamp": "2026-03-14T12:57:24.580116",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12356,6 +12356,16 @@
             "date": "2026-03-13T23:12:07+00:00",
             "message_id": 7441,
             "message_key": "@testingcatalog:7441"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Learning Faster**\n\n\u201cMaster a new topic quickly.\u201d\nUse this command:\n\n```I want to understand the topic below quickly but deeply.\nExplain the core principles in a clear and structured way, focusing on the most important concepts first.\nHighlight common misconceptions, practical examples, and the mental models that help experts think about this subject.\nMake the explanation efficient and focused on real understanding rather than surface-level information.\nTopic: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Belajar Lebih Cepat**\n\n\u201cKuasai topik baru dengan cepat.\u201d\nGuna prompt ini:\n\n```Saya nak faham topik di bawah dengan cepat tapi mendalam.\nTerangkan prinsip-prinsip utama dengan jelas dan tersusun, fokus pada konsep paling penting dulu.\nSerlahkan salah faham yang biasa, contoh praktikal, dan model mental yang bantu pakar fikirkan subjek ni.\nJadikan penerangan tu efisien dan fokus pada pemahaman sebenar, bukan sekadar info permukaan.\nTopik: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-14T12:41:47+00:00",
+            "message_id": 482,
+            "message_key": "@AItoolboxdaily:482"
         }
     ]
 }
