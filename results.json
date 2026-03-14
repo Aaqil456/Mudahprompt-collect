@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-14T12:57:24.580116",
+    "timestamp": "2026-03-14T17:30:27.875430",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12366,6 +12366,26 @@
             "date": "2026-03-14T12:41:47+00:00",
             "message_id": 482,
             "message_key": "@AItoolboxdaily:482"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Exclusive look at a future agentic design tool from Google. It feels like it has been designed as a VR workspace with voice controls and a new agent widget. Stitching\u2026\n\nWhat's coming:\n- A new \"wide\" canvas layout\n- \ud83d\udd25 Voice Live Mode\n- \ud83d\udd25 Voice selector with 8 different options: Puck, Charon, Kore, Fenrir, Autonoe, Leda, Orus, Zephyr\n- \ud83d\udd25 A new Agent widget instead of the old sidebar\n- A new Design system selector with presets \n- \ud83d\udd25 New Studio section with loads of generations, like Marketing kit and developer handoff\n- \ud83d\udd25 Stitch React prototype - a fully functional React app based on generated screens\n- Instant prototype - an editable prototype that links generated screens, allowing users to navigate between them\n- \ud83d\udd25 A new \"Imagine new screen\" option for Instant Prototypes\n- Figma linking\n- Loads of smaller tweaks \n\nThe design-to-production flow will shorten drastically. The line between design and development will fade away.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Tengok eksklusif alat reka bentuk 'agentic' masa depan dari Google. Rasa macam ia direka sebagai ruang kerja VR dengan kawalan suara dan widget ejen baru. 'Stitching'\u2026\n\nIni yang akan datang:\n- Susun atur kanvas \"lebar\" yang baru\n- \ud83d\udd25 Mod Suara Langsung\n- \ud83d\udd25 Pemilih suara dengan 8 pilihan berbeza: Puck, Charon, Kore, Fenrir, Autonoe, Leda, Orus, Zephyr\n- \ud83d\udd25 Widget Ejen baru menggantikan 'sidebar' lama\n- Pemilih sistem reka bentuk baru dengan pratetap\n- \ud83d\udd25 Bahagian Studio baru dengan banyak hasil penjanaan, macam kit Pemasaran dan serahan pembangun\n- \ud83d\udd25 Prototaip Stitch React - aplikasi React yang berfungsi sepenuhnya berdasarkan skrin yang dijana\n- Prototaip Segera - prototaip yang boleh diedit yang menghubungkan skrin yang dijana, membolehkan pengguna bergerak antara skrin tersebut\n- \ud83d\udd25 Pilihan \"Bayangkan skrin baru\" untuk Prototaip Segera\n- Pautan Figma\n- Banyak penambahbaikan kecil\n\nAliran dari reka bentuk ke produksi akan jadi lebih singkat. Garisan antara reka bentuk dan pembangunan akan pudar.",
+            "date": "2026-03-14T16:47:43+00:00",
+            "message_id": 7443,
+            "message_key": "@testingcatalog:7443"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Early look at upcoming vibe design tool from Google**](https://www.testingcatalog.com/exclusive-early-look-at-upcoming-vibe-design-tool-from-google/)\n\nGoogle\u2019s Stitch is shifting to a 3D workspace with an embedded AI agent, voice controls, advanced prototyping tools, and full React app generation. Will we see it at Google I/O 2026?\n\n\ud83d\uddde #stitch",
+            "translated_text": "[**Eksklusif: Intipan awal alat reka bentuk vibe yang akan datang dari Google**](https://www.testingcatalog.com/exclusive-early-look-at-upcoming-vibe-design-tool-from-google/)\n\nStitch dari Google sedang beralih ke ruang kerja 3D dengan ejen AI terbenam, kawalan suara, alat prototaip canggih, dan penjanaan aplikasi React penuh. Kita akan dapat tengok ke di Google I/O 2026?\n\n\ud83d\uddde #stitch",
+            "date": "2026-03-14T16:39:43+00:00",
+            "message_id": 7442,
+            "message_key": "@testingcatalog:7442"
         }
     ]
 }
