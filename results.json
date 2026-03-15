@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-15T16:36:42.700367",
+    "timestamp": "2026-03-15T17:30:32.178987",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12456,6 +12456,26 @@
             "date": "2026-03-15T15:47:38+00:00",
             "message_id": 7445,
             "message_key": "@testingcatalog:7445"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-15T16:51:14+00:00",
+            "message_id": 7451,
+            "message_key": "@testingcatalog:7451"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Z AI announced GLM-5-Turbo, a faster variant of GLM-5 designed for always-on agents like OpenClaw.\n\nGLM-5-Turbo will be available on Pro coding plans in March and on Lite in April with an extra waitlist for earlier access.",
+            "translated_text": "Z AI dah umumkan GLM-5-Turbo, satu varian GLM-5 yang lebih laju, direka khas untuk ejen yang sentiasa aktif macam OpenClaw.\n\nGLM-5-Turbo ni akan tersedia untuk pelan pengekodan Pro pada bulan Mac, dan untuk Lite pula pada bulan April. Ada juga senarai menunggu tambahan kalau nak akses lebih awal.",
+            "date": "2026-03-15T16:51:14+00:00",
+            "message_id": 7450,
+            "message_key": "@testingcatalog:7450"
         }
     ]
 }
