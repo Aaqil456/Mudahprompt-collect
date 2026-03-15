@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-15T12:58:13.562906",
+    "timestamp": "2026-03-15T16:36:42.700367",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12406,6 +12406,56 @@
             "date": "2026-03-15T12:44:01+00:00",
             "message_id": 484,
             "message_key": "@AItoolboxdaily:484"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is working on AI detector feature for Meta AI. \n\n100% AI \ud83e\udd16",
+            "translated_text": "Meta sedang usahakan ciri pengesan AI untuk Meta AI.\n\n100% AI \ud83e\udd16",
+            "date": "2026-03-15T16:22:05+00:00",
+            "message_id": 7449,
+            "message_key": "@testingcatalog:7449"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google started rolling out Cinematic Video Overviews on NotebookLM to Pro accounts!\n\nWorth testing \ud83d\udc40\n\nh/t https://t.me/c/1349477688/32920",
+            "translated_text": "Google dah mula lancarkan Cinematic Video Overviews di NotebookLM untuk akaun Pro!\n\nBerbaloi untuk cuba \ud83d\udc40\n\nSumber: https://t.me/c/1349477688/32920",
+            "date": "2026-03-15T16:18:27+00:00",
+            "message_id": 7448,
+            "message_key": "@testingcatalog:7448"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor debuts CursorBench-3 to evaluate coding agents**](https://www.testingcatalog.com/cursor-debuts-cursorbench-3-to-evaluate-coding-agents/)\n\nCursor has launched CursorBench-3, an internal benchmark that evaluates coding agents on complex, real-world developer tasks across large codebases. Using production data and refreshed task sets, it measures correctness, quality, efficiency, and guides product improvements.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor perkenalkan CursorBench-3 untuk nilai ejen pengekodan**](https://www.testingcatalog.com/cursor-debuts-cursorbench-3-to-evaluate-coding-agents/)\n\nCursor dah lancarkan CursorBench-3, satu penanda aras dalaman yang menilai ejen pengekodan untuk tugasan pembangun yang kompleks dan sebenar merentasi pangkalan kod yang besar. Dengan menggunakan data pengeluaran dan set tugasan yang dikemas kini, ia mengukur ketepatan, kualiti, kecekapan, dan membimbing penambahbaikan produk.\n\n\ud83d\uddde #cursor",
+            "date": "2026-03-15T15:55:08+00:00",
+            "message_id": 7447,
+            "message_key": "@testingcatalog:7447"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Microsoft begins phased US rollout of Copilot Health**](https://www.testingcatalog.com/icymi-microsoft-begins-phased-us-rollout-of-copilot-health/)\n\nMicrosoft has launched Copilot Health in the U.S., a secure, waitlist-based space that aggregates medical records and wearable data to deliver personalized health insights. Positioned as a support tool, it helps users interpret results and prepare for doctor visits, not diagnose conditions.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Kalau terlepas pandang: Microsoft mula lancarkan Copilot Health secara berperingkat di AS**](https://www.testingcatalog.com/icymi-microsoft-begins-phased-us-rollout-of-copilot-health/)\n\nMicrosoft dah lancarkan Copilot Health di AS. Ini adalah satu platform selamat yang berasaskan senarai menunggu, yang akan kumpul rekod perubatan dan data dari peranti boleh pakai untuk bagi maklumat kesihatan yang lebih peribadi. Ia berfungsi sebagai alat sokongan, untuk bantu pengguna fahamkan keputusan dan bersedia untuk temu janji doktor, tapi bukan untuk diagnosis penyakit.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-03-15T15:54:48+00:00",
+            "message_id": 7446,
+            "message_key": "@testingcatalog:7446"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: OpenAI adds interactive math & science tools to ChatGPT**](https://www.testingcatalog.com/icymi-openai-adds-interactive-math-science-tools-to-chatgpt/)\n\nOpenAI is rolling out interactive visual modules in ChatGPT for over 70 math and science topics, letting users adjust variables and see real-time results. Available to all logged-in users, the feature supports deeper conceptual learning beyond text explanations.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**Untuk yang terlepas pandang: OpenAI tambah alat interaktif matematik & sains ke ChatGPT**](https://www.testingcatalog.com/icymi-openai-adds-interactive-math-science-tools-to-chatgpt/)\n\nOpenAI sedang memperkenalkan modul visual interaktif dalam ChatGPT untuk lebih 70 topik matematik dan sains. Ini membolehkan pengguna melaraskan pemboleh ubah dan melihat hasilnya secara langsung.\n\nFungsi ini tersedia untuk semua pengguna yang log masuk, dan ia menyokong pembelajaran konsep yang lebih mendalam, melangkaui sekadar penjelasan teks.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-03-15T15:47:38+00:00",
+            "message_id": 7445,
+            "message_key": "@testingcatalog:7445"
         }
     ]
 }
