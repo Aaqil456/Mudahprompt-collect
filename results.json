@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-16T21:43:00.078857",
+    "timestamp": "2026-03-16T23:34:29.578595",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12676,6 +12676,16 @@
             "date": "2026-03-16T21:12:37+00:00",
             "message_id": 7467,
             "message_key": "@testingcatalog:7467"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral releases Mistral Small 4 model under Apache 2.0 licence**](https://www.testingcatalog.com/mistral-releases-mistral-small-4-model-under-apache-2-0-licence/)\n\nMistral has released Mistral Small 4 under Apache 2.0, a unified open-source model combining instruction following, deep reasoning, and multimodal capabilities. With 119B parameters, 256k context, lower latency, and higher throughput, it targets scalable enterprise and research deployment.\n\n\ud83d\uddde #mistral",
+            "translated_text": "[**Mistral melancarkan model Mistral Small 4 di bawah lesen Apache 2.0**](https://www.testingcatalog.com/mistral-releases-mistral-small-4-model-under-apache-2-0-licence/)\n\nMistral dah pun lancarkan Mistral Small 4 di bawah Apache 2.0. Model sumber terbuka bersepadu ni menggabungkan keupayaan mengikut arahan, penaakulan mendalam, dan multimodal. Dengan 119 bilion parameter, konteks 256k, latensi yang lebih rendah, dan daya pemprosesan yang lebih tinggi, ia sesuai untuk kegunaan berskala besar dalam syarikat dan penyelidikan.\n\n\ud83d\uddde #mistral",
+            "date": "2026-03-16T23:22:09+00:00",
+            "message_id": 7469,
+            "message_key": "@testingcatalog:7469"
         }
     ]
 }
