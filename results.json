@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-16T15:03:18.351138",
+    "timestamp": "2026-03-16T17:05:13.110934",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12566,6 +12566,46 @@
             "date": "2026-03-16T14:28:39+00:00",
             "message_id": 7457,
             "message_key": "@testingcatalog:7457"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus launches My Computer with local AI agent on desktop**](https://www.testingcatalog.com/manus-launches-my-computer-with-local-ai-agent-on-desktop/)\n\nManus has launched My Computer within its Desktop app, enabling its AI agent to operate directly on macOS and Windows devices. Users can access, edit, and organize files, run command-line tasks, leverage local GPUs, and automate workflows with full permission control.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus lancarkan My Computer dengan ejen AI tempatan di desktop**](https://www.testingcatalog.com/manus-lunches-my-computer-with-local-ai-agent-on-desktop/)\n\nManus dah lancarkan My Computer dalam aplikasi Desktop mereka, membolehkan ejen AI tu beroperasi terus dekat peranti macOS dan Windows. Pengguna boleh akses, edit, dan susun fail, jalankan tugas command-line, guna GPU tempatan, dan automatikkan aliran kerja dengan kawalan kebenaran penuh.\n\n\ud83d\uddde #manus",
+            "date": "2026-03-16T16:45:02+00:00",
+            "message_id": 7462,
+            "message_key": "@testingcatalog:7462"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Okara released a new AI CMO agent, which will run a team of AI subagents against your business URL and provide the necessary marketing summary.  \n\nHow many AI agents are we missing to run autonomous companies now?",
+            "translated_text": "Okara melancarkan ejen AI CMO baharu, yang akan menjalankan satu pasukan sub-ejen AI menggunakan URL perniagaan anda dan menyediakan ringkasan pemasaran yang diperlukan.\n\nBerapa banyak lagi ejen AI yang kita perlukan untuk jalankan syarikat autonomi sekarang ni?",
+            "date": "2026-03-16T15:56:27+00:00",
+            "message_id": 7461,
+            "message_key": "@testingcatalog:7461"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**HypeScribe launches AI transcription and summary tool**](https://www.testingcatalog.com/hypescribe-launches-ai-transcription-and-summary-tool/)\n\nHypeScribe is a web-based AI transcription platform that converts audio or video from uploads, links, meetings, or live recordings into searchable text with summaries and action items. It supports 100+ languages, per-file pricing, and exports to major formats.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**HypeScribe melancarkan alat transkripsi dan ringkasan AI**](https://www.testingcatalog.com/hypescribe-launches-ai-transcription-and-summary-tool/)\n\nHypeScribe adalah platform transkripsi AI berasaskan web yang menukar audio atau video daripada muat naik, pautan, mesyuarat, atau rakaman langsung kepada teks yang boleh dicari, lengkap dengan ringkasan dan item tindakan. Ia menyokong lebih 100 bahasa, harga mengikut fail, dan boleh dieksport ke format utama.\n\n\ud83d\uddde #sponsored",
+            "date": "2026-03-16T15:18:36+00:00",
+            "message_id": 7460,
+            "message_key": "@testingcatalog:7460"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Manus AI released \"My Computer\", a new desktop app that operates as a local AI agent. \n\nMy Computer is available today for all macOS and Windows users.",
+            "translated_text": "Berita Terkini \ud83d\udea8: Manus AI dah lancarkan \"My Computer\", satu aplikasi desktop baru yang berfungsi sebagai ejen AI tempatan.\n\nAplikasi My Computer ni dah boleh didapati hari ini untuk semua pengguna macOS dan Windows.",
+            "date": "2026-03-16T15:13:40+00:00",
+            "message_id": 7459,
+            "message_key": "@testingcatalog:7459"
         }
     ]
 }
