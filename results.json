@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-16T20:41:34.787300",
+    "timestamp": "2026-03-16T21:43:00.078857",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12656,6 +12656,26 @@
             "date": "2026-03-16T19:44:57+00:00",
             "message_id": 7463,
             "message_key": "@testingcatalog:7463"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI announced a new open-source Mistral Small 4 model under the Apache 2.0 licence. A new model is now available on Mistral Playground. \n\n\"One model to do it all\" \ud83d\udc40",
+            "translated_text": "Mistral AI mengumumkan model sumber terbuka baru, Mistral Small 4, di bawah lesen Apache 2.0. Model baru ini kini boleh didapati di Mistral Playground.\n\n\"Satu model untuk buat semua\" \ud83d\udc40",
+            "date": "2026-03-16T21:30:02+00:00",
+            "message_id": 7468,
+            "message_key": "@testingcatalog:7468"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI released Grok's Text-to-Speech API with Eve, Ara, Leo, Rex, and Sal voices available. \n\nLoads of demos to play with on api/voice!",
+            "translated_text": "xAI dah keluarkan API Text-to-Speech Grok, dengan pilihan suara Eve, Ara, Leo, Rex, dan Sal yang boleh guna.\n\nAda banyak demo boleh cuba dekat api/voice!",
+            "date": "2026-03-16T21:12:37+00:00",
+            "message_id": 7467,
+            "message_key": "@testingcatalog:7467"
         }
     ]
 }
