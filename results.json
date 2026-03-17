@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-17T14:59:26.052500",
+    "timestamp": "2026-03-17T18:01:03.651710",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12726,6 +12726,36 @@
             "date": "2026-03-17T13:46:38+00:00",
             "message_id": 488,
             "message_key": "@AItoolboxdaily:488"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI released GPT-5.4 Mini and GPT-5.4 Nano on the APIs. A mini version is also available on ChatGPT and Codex apps. \n\nCheck intelligence \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI dah keluarkan GPT-5.4 Mini dengan GPT-5.4 Nano dekat API diorang. Versi mini ni pun ada jugak dekat aplikasi ChatGPT dengan Codex.\n\nJom tengok kepintarannya \ud83d\udc40",
+            "date": "2026-03-17T17:14:10+00:00",
+            "message_id": 7475,
+            "message_key": "@testingcatalog:7475"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity announced Comet Enterprise, a browser with a security layer powered by CrowdStrike, enterprise-grade access controls, integrations, and automation features. \n\nI need it on my 9to5 \ud83d\udc40",
+            "translated_text": "Perplexity dah umumkan Comet Enterprise, satu pelayar web yang ada lapisan keselamatan dari CrowdStrike, kawalan akses tahap perusahaan, fungsi integrasi, dan ciri automasi. Saya nak benda ni ada kat 9to5 saya \ud83d\udc40",
+            "date": "2026-03-17T16:54:38+00:00",
+            "message_id": 7474,
+            "message_key": "@testingcatalog:7474"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling out Personal Intelligence in AI Mode across US users. \n\nThe feature requires an explicit OPT-IN \u2705\n\nGemini in Chrome is rolling out more broadly as well!",
+            "translated_text": "Google dah mula lancarkan fungsi Kecerdasan Peribadi dalam Mod AI untuk pengguna di seluruh AS.\nFungsi ni perlukan persetujuan jelas untuk 'opt-in' \u2705\nGemini dalam Chrome pun sedang dilancarkan dengan lebih meluas juga.",
+            "date": "2026-03-17T16:46:42+00:00",
+            "message_id": 7473,
+            "message_key": "@testingcatalog:7473"
         }
     ]
 }
