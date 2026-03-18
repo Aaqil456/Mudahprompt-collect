@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-18T13:18:52.301870",
+    "timestamp": "2026-03-18T17:07:08.598531",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12916,6 +12916,56 @@
             "date": "2026-03-18T12:51:42+00:00",
             "message_id": 490,
             "message_key": "@AItoolboxdaily:490"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-18T17:02:22+00:00",
+            "message_id": 7495,
+            "message_key": "@testingcatalog:7495"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: PERPLEXITY COMET BROWSER IS NOW AVAILABLE ON IOS! \n\nAGENTIC CAPACITY AND VOICE MODE ARE SUPPORTED TOO!",
+            "translated_text": "TERKINI \ud83d\udea8: PERPLEXITY COMET BROWSER dah ada di iOS!\n\nFungsi Agentic Capacity dan Voice Mode pun disokong juga!",
+            "date": "2026-03-18T17:02:22+00:00",
+            "message_id": 7494,
+            "message_key": "@testingcatalog:7494"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released new updates to the Gemini API, including Google Maps grounding support for Gemini 3. \n\nGoogle Maps grounding option is now also available on AI Studio for you to select.",
+            "translated_text": "Google melancarkan kemas kini baharu untuk Gemini API, termasuk sokongan 'grounding' Google Maps untuk Gemini 3.\n\nPilihan 'grounding' Google Maps ni pun dah ada dekat AI Studio untuk anda pilih.",
+            "date": "2026-03-18T16:47:19+00:00",
+            "message_id": 7493,
+            "message_key": "@testingcatalog:7493"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: GOOGLE RELEASED A NEW VIBE DESIGN EXPERIENCE FOR STITCH WITH A NEW CANVAS AND DESIGN AGENT UI!\n\nThis new experience is already rolling out to users and is available for testing.\n\nEveryone is a designer now \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: GOOGLE DAH LANCARKAN PENGALAMAN VIBE DESIGN BARU UNTUK STITCH, LENGKAP DENGAN KANVAS DAN UI EJEN REKA BENTUK YANG BARU!\n\nPengalaman baru ni dah mula dilancarkan kepada pengguna dan boleh dicuba.\n\nSemua orang dah jadi pereka sekarang \ud83d\udc40",
+            "date": "2026-03-18T16:31:36+00:00",
+            "message_id": 7492,
+            "message_key": "@testingcatalog:7492"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**CodeRabbit launches AI Planner for team project planning**](https://www.testingcatalog.com/coderabbit-launches-ai-planner-for-team-project-planning/)\n\nCodeRabbit\u2019s Planner adds a collaborative planning layer before coding begins, connecting to major issue trackers to generate structured, context-aware plans. Teams can review and refine plans before execution, reducing rework and aligning scope across agents and contributors.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**CodeRabbit lancarkan AI Planner untuk perancangan projek pasukan**](https://www.testingcatalog.com/coderabbit-launches-ai-planner-for-team-project-planning/)\n\nAI Planner CodeRabbit menambah lapisan perancangan kolaboratif sebelum pengekodan bermula, bersambung dengan pengesan isu utama untuk menjana pelan yang tersusun dan peka konteks. Pasukan boleh menyemak dan memperhalusi pelan sebelum pelaksanaan, mengurangkan kerja semula dan menyelaraskan skop antara ejen dan penyumbang.\n\n\ud83d\uddde #ditaja",
+            "date": "2026-03-18T15:52:52+00:00",
+            "message_id": 7491,
+            "message_key": "@testingcatalog:7491"
         }
     ]
 }
