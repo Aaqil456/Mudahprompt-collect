@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-17T22:36:48.773725",
+    "timestamp": "2026-03-18T02:29:54.068693",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12806,6 +12806,56 @@
             "date": "2026-03-17T21:40:09+00:00",
             "message_id": 7479,
             "message_key": "@testingcatalog:7479"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor trained Composer to self-summarize through RL**](https://www.testingcatalog.com/cursor-trained-composer-to-self-summarize-through-rl/)\n\nCursor\u2019s Composer is an AI model for agentic coding, trained with reinforcement learning to self-summarize and retain context across long tasks. It cuts compaction errors by 50%, uses ~1,000-token summaries, and outperforms prompt-based methods on complex, multi-step coding benchmarks.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor latih Composer untuk ringkaskan sendiri guna RL**](https://www.testingcatalog.com/cursor-trained-composer-to-self-summarize-through-rl/)\n\nComposer dari Cursor adalah model AI untuk pengekodan beragen, yang dilatih dengan pembelajaran pengukuhan untuk meringkaskan sendiri dan mengekalkan konteks sepanjang tugasan yang panjang. Ia mengurangkan ralat pemadatan sebanyak 50%, menggunakan ringkasan sekitar 1,000 token, dan mengatasi kaedah berasaskan prompt dalam penanda aras pengekodan yang kompleks dan pelbagai langkah.\n\n\ud83d\uddde #cursor",
+            "date": "2026-03-18T01:25:18+00:00",
+            "message_id": 7485,
+            "message_key": "@testingcatalog:7485"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral AI launches Forge for building AI enterprise models**](https://www.testingcatalog.com/mistral-ai-launches-forge-for-building-ai-enterprise-models/)\n\nMistral AI has launched Forge, a system that enables enterprises to build AI models trained on proprietary data. Supporting multimodal inputs and advanced architectures, it allows secure customization, compliance alignment, and control for regulated and knowledge-intensive sectors.\n\n\ud83d\uddde #mistral",
+            "translated_text": "[**Mistral AI melancarkan Forge untuk membina model AI perusahaan**](https://www.testingcatalog.com/mistral-ai-launches-forge-for-building-ai-enterprise-models/)\n\nMistral AI telah melancarkan Forge, satu sistem yang membolehkan syarikat-syarikat membina model AI yang dilatih menggunakan data proprietari mereka sendiri. Dengan sokongan input multimodal dan seni bina canggih, ia membolehkan penyesuaian yang selamat, pematuhan peraturan, dan kawalan untuk sektor-sektor yang dikawal selia dan berintensif pengetahuan.\n\n\ud83d\uddde #mistral",
+            "date": "2026-03-18T01:20:58+00:00",
+            "message_id": 7484,
+            "message_key": "@testingcatalog:7484"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.4 mini and GPT-5.4 nano on APIs**](https://www.testingcatalog.com/openai-launches-gpt-5-4-mini-and-gpt-5-4-nano-on-apis/)\n\nOpenAI launched GPT-5.4 mini and nano to deliver faster, lower-cost performance for coding copilots, subagents, and high-volume systems. Mini doubles GPT-5 mini\u2019s speed, while nano targets lightweight tasks, extending GPT-5.4 across API, Codex, ChatGPT, and partner clouds.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI Lancarkan GPT-5.4 mini dan GPT-5.4 nano untuk API**](https://www.testingcatalog.com/openai-launches-gpt-5-4-mini-and-gpt-5-4-nano-on-apis/)\n\nOpenAI dah lancarkan GPT-5.4 mini dan nano. Tujuannya, nak bagi prestasi yang lebih laju dan kos yang lebih rendah untuk 'coding copilots', 'subagents', dan sistem yang perlu kendalikan banyak kerja. Versi mini ni menggandakan kelajuan GPT-5 mini, manakala nano pula direka untuk tugasan yang ringan. Ini meluaskan lagi penggunaan GPT-5.4 merentasi API, Codex, ChatGPT, dan 'partner clouds'.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-03-18T01:17:16+00:00",
+            "message_id": 7483,
+            "message_key": "@testingcatalog:7483"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity launches Comet Enterprise with advanced security**](https://www.testingcatalog.com/perplexity-launches-comet-enterprise-with-advanced-security/)\n\nPerplexity has launched Comet Enterprise, a managed AI-native browser for companies that embeds research, task automation, and cross-site workflows directly into tabs. It adds centralized admin controls, policy enforcement, and compliance features for secure deployment.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity melancarkan Comet Enterprise dengan keselamatan canggih**](https://www.testingcatalog.com/perplexity-launches-comet-enterprise-with-advanced-security/)\n\nPerplexity dah lancarkan Comet Enterprise, pelayar AI-native terurus untuk syarikat. Ia menggabungkan fungsi penyelidikan, automasi tugas, dan aliran kerja merentas laman web terus ke dalam tab. Ia juga dilengkapi dengan kawalan pentadbir berpusat, penguatkuasaan polisi, dan ciri pematuhan untuk penggunaan yang lebih selamat.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-03-18T01:13:22+00:00",
+            "message_id": 7482,
+            "message_key": "@testingcatalog:7482"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI updated ChatGPT model selector on both web and mobile, allowing users to seamlessly switch between Instant and Thinking modes.\n\nA separate \"configure\" menu is now available with an extended model selector.",
+            "translated_text": "OpenAI dah kemas kini pemilih model ChatGPT dekat web dan juga aplikasi mudah alih, membolehkan pengguna tukar dengan lancar antara mod Instant dan Thinking.\n\nSekarang, ada menu \"configure\" yang berasingan dengan pemilih model yang lebih luas.",
+            "date": "2026-03-18T00:09:32+00:00",
+            "message_id": 7481,
+            "message_key": "@testingcatalog:7481"
         }
     ]
 }
