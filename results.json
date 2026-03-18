@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-18T11:53:14.996137",
+    "timestamp": "2026-03-18T13:18:52.301870",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12886,6 +12886,36 @@
             "date": "2026-03-18T11:23:21+00:00",
             "message_id": 7486,
             "message_key": "@testingcatalog:7486"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: MiniMax released MiniMax M2.7, a new self-evolving model, achieving a score of 56.22% on SWE-Bench Pro.\n\nM2.7 was used for building complex agent harnesses during its own development. Users can now access MiniMax M2.7 via APIs and MiniMax Agent.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: MiniMax dah lancarkan MiniMax M2.7, satu model baru yang boleh berkembang sendiri, dan berjaya dapat skor 56.22% dalam SWE-Bench Pro.\n\nM2.7 ni digunakan untuk bina sistem ejen yang kompleks masa ia tengah dibangunkan. Sekarang, pengguna dah boleh akses MiniMax M2.7 melalui API dan MiniMax Agent.",
+            "date": "2026-03-18T12:50:43+00:00",
+            "message_id": 7490,
+            "message_key": "@testingcatalog:7490"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**MiniMax launches M2.7 model on MiniMax Agent and APIs**](https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/)\n\nMiniMax has launched M2.7, advancing its M2-series with agent-driven self-improvement, multi-agent collaboration, and 97% skill adherence across 40+ tasks. It delivers strong benchmark results, autonomous debugging, and robust support for software, research, and office workflows.\n\n\ud83d\uddde #minimax",
+            "translated_text": "[**MiniMax melancarkan model M2.7 pada MiniMax Agent dan APIs**](https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/)\n\nMiniMax telah melancarkan M2.7, mempertingkatkan siri M2 mereka dengan penambahbaikan kendiri yang dipacu ejen, kerjasama pelbagai ejen, dan pematuhan kemahiran 97% merentasi lebih 40 tugasan. Ia menawarkan keputusan penanda aras yang kukuh, penyahpepijatan autonomi, dan sokongan padu untuk perisian, penyelidikan, serta aliran kerja pejabat.\n\n\ud83d\uddde #minimax",
+            "date": "2026-03-18T12:48:11+00:00",
+            "message_id": 7489,
+            "message_key": "@testingcatalog:7489"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\ud83d\udca5 The Great Model Showdown of 2026: Gemini 3 Pro vs. GPT-5 vs. Claude 3.5**\n\nInteresting? Read more: [here](https://bestaitools.ai/the-great-model-showdown/?utm_source=tg)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udca5 Pertarungan Hebat Model-Model AI 2026: Gemini 3 Pro vs. GPT-5 vs. Claude 3.5\n\nMenarik? Baca lagi: [sini](https://bestaitools.ai/the-great-model-showdown/?utm_source=tg)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-18T12:51:42+00:00",
+            "message_id": 490,
+            "message_key": "@AItoolboxdaily:490"
         }
     ]
 }
