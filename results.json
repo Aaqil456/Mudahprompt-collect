@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-18T17:07:08.598531",
+    "timestamp": "2026-03-18T19:04:02.399202",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -12966,6 +12966,16 @@
             "date": "2026-03-18T15:52:52+00:00",
             "message_id": 7491,
             "message_key": "@testingcatalog:7491"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perceptis launches AI platform for generating data-driven slides**](https://www.testingcatalog.com/perceptis-launches-ai-platform-for-generating-data-driven-slides/)\n\nPerceptis AI has launched a presentation platform built for consultants and analysts, turning uploaded company data into structured, source\u2011traceable PowerPoint decks using MBB-style logic. SOC-2 compliant, it delivers client-ready slides in a fraction of the usual time.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Perceptis melancarkan platform AI untuk menjana slaid berasaskan data**](https://www.testingcatalog.com/perceptis-launches-ai-platform-for-generating-data-driven-slides/)\n\nPerceptis AI dah lancarkan satu platform pembentangan yang memang dibuat untuk konsultan dan penganalisis. Platform ni boleh tukar data syarikat yang kita muat naik jadi dek PowerPoint yang tersusun, boleh jejak sumber, dan guna logik gaya MBB. Ia patuh SOC-2, dan boleh siapkan slaid yang sedia untuk klien dalam masa yang jauh lebih singkat dari biasa.\n\n\ud83d\uddde #tajaan",
+            "date": "2026-03-18T17:05:54+00:00",
+            "message_id": 7496,
+            "message_key": "@testingcatalog:7496"
         }
     ]
 }
