@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-18T20:41:11.169101",
+    "timestamp": "2026-03-18T22:35:04.763843",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13036,6 +13036,26 @@
             "date": "2026-03-18T19:13:01+00:00",
             "message_id": 491,
             "message_key": "@AItoolboxdaily:491"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft tests Portraits in Voice Mode for Copilot, Sage, and Pax**](https://www.testingcatalog.com/microsoft-tests-portraits-in-voice-mode-for-copilot-sage-and-pax/)\n\nMicrosoft is adding human-like voice avatars Sage and Pax to Copilot, alongside potential OneDrive syncing for AI-generated files. The updates coincide with a leadership restructure aimed at unifying consumer and commercial efforts as Copilot seeks growth.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft uji fungsi 'Portraits' dalam Mod Suara untuk Copilot, Sage, dan Pax**](https://www.testingcatalog.com/microsoft-tests-portraits-in-voice-mode-for-copilot-sage-and-pax/)\n\nMicrosoft sedang menambah avatar suara mirip manusia, Sage dan Pax, ke Copilot. Selain itu, ada juga potensi penyelarasan OneDrive untuk fail yang dijana AI. Kemaskini ini bertepatan dengan penyusunan semula kepimpinan yang bertujuan menyatukan usaha pengguna dan komersial, seiring dengan usaha Copilot untuk berkembang.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-03-18T22:33:39+00:00",
+            "message_id": 7506,
+            "message_key": "@testingcatalog:7506"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus AI prepares WhatsApp Business integration for its Agent**](https://www.testingcatalog.com/manus-ai-prepares-whatsapp-business-integration-for-its-agent/)\n\nManus AI, acquired by Meta, is preparing to add WhatsApp support beyond Telegram, requiring a WhatsApp Business account for access. The move could connect Manus to Meta\u2019s smart glasses, enabling voice-triggered, multi-step AI tasks through WhatsApp.\n\n\ud83d\uddde #manus",
+            "translated_text": "[**Manus AI sedang bersedia untuk integrasi WhatsApp Business bagi Ejennya**](https://www.testingcatalog.com/manus-ai-prepares-whatsapp-business-integration-for-its-agent/)\n\nManus AI, yang telah diambil alih oleh Meta, sedang bersedia untuk menambah sokongan WhatsApp selain Telegram, dengan memerlukan akaun WhatsApp Business untuk akses. Langkah ini boleh menghubungkan Manus dengan cermin mata pintar Meta, membolehkan tugas AI berbilang langkah yang diaktifkan suara melalui WhatsApp.\n\n\ud83d\uddde #manus",
+            "date": "2026-03-18T21:41:43+00:00",
+            "message_id": 7505,
+            "message_key": "@testingcatalog:7505"
         }
     ]
 }
