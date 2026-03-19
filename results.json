@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-19T15:57:28.849276",
+    "timestamp": "2026-03-19T17:04:15.516616",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13166,6 +13166,36 @@
             "date": "2026-03-19T15:46:07+00:00",
             "message_id": 7517,
             "message_key": "@testingcatalog:7517"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft released a new MAI\u2011Image\u20112 image generation model and a new MAI Playground in the US.",
+            "translated_text": "Microsoft dah melancarkan model penjanaan imej MAI\u2011Image\u20112 yang baru, dan juga MAI Playground yang baru, di AS.",
+            "date": "2026-03-19T16:44:20+00:00",
+            "message_id": 7521,
+            "message_key": "@testingcatalog:7521"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity launches Perplexity Health agent in US**](https://www.testingcatalog.com/perplexity-launches-perplexity-health-agent-in-us/)\n\nPerplexity Health will add a secure health hub to its app, letting users connect medical data, access dashboards, and use specialized AI agents for nutrition and sleep. Launching first in the U.S., it positions Perplexity against Microsoft, OpenAI, Amazon, and Anthropic in health AI.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity lancarkan ejen Perplexity Health di AS**](https://www.testingcatalog.com/perplexity-launches-perplexity-health-agent-in-us/)\n\nPerplexity Health akan menambah hab kesihatan yang selamat pada aplikasinya, membolehkan pengguna menyambungkan data perubatan, mengakses papan pemuka, dan menggunakan ejen AI khusus untuk nutrisi dan tidur. Dilancarkan pertama kali di AS, ia meletakkan Perplexity bersaing dengan Microsoft, OpenAI, Amazon, dan Anthropic dalam AI kesihatan.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-03-19T16:30:23+00:00",
+            "message_id": 7519,
+            "message_key": "@testingcatalog:7519"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Cursor released Composer 2, a cheap coding model with frontier performance (on par with GPT-5.4 and Opus 4.6 on CursorBench). \n\n\"It's frontier-level at coding and priced at $0.50/M input and $2.50/M output tokens, making it a new, optimal combination of intelligence and cost.\"",
+            "translated_text": "Pecah Berita \ud83d\udea8: Cursor dah keluarkan Composer 2, satu model coding murah dengan prestasi canggih (setanding dengan GPT-5.4 dan Opus 4.6 di CursorBench).\n\n\"Prestasi codingnya memang canggih dan harganya pula $0.50/M untuk input dan $2.50/M untuk output token, menjadikannya gabungan baru yang terbaik antara kepintaran dan kos.\"",
+            "date": "2026-03-19T16:28:32+00:00",
+            "message_id": 7518,
+            "message_key": "@testingcatalog:7518"
         }
     ]
 }
