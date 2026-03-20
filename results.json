@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-20T09:44:16.371646",
+    "timestamp": "2026-03-20T10:41:07.287573",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13296,6 +13296,46 @@
             "date": "2026-03-20T09:15:37+00:00",
             "message_id": 492,
             "message_key": "@AItoolboxdaily:492"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares Projects for Claude Cowork on desktop**](https://www.testingcatalog.com/anthropic-prepares-projects-for-claude-cowork-on-desktop/)\n\nAnthropic is adding project-based organization to Claude Desktop\u2019s Cowork, enabling persistent local workspaces with folder-scoped files, instructions, and scheduled tasks. The shift signals a move from chat sessions to structured, ongoing agent workflows with refined permission controls.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic siapkan Projek untuk Claude Cowork di desktop**](https://www.testingcatalog.com/anthropic-prepares-projects-for-claude-cowork-on-desktop/)\n\nAnthropic sedang menambah organisasi berasaskan projek kepada Cowork di Claude Desktop. Ini membolehkan ruang kerja tempatan yang berterusan dengan fail yang disusun mengikut folder, arahan, dan tugasan berjadual. Perubahan ini menandakan peralihan daripada sesi sembang kepada aliran kerja ejen yang berstruktur dan berterusan dengan kawalan kebenaran yang diperhalusi.\n\n\ud83d\uddde #claude",
+            "date": "2026-03-20T10:13:51+00:00",
+            "message_id": 7533,
+            "message_key": "@testingcatalog:7533"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Lovable launches AI platform for document, data, and app creation**](https://www.testingcatalog.com/lovable-launches-ai-platform-for-document-data-and-app-creation/)\n\nLovable has launched a public AI platform that analyzes data, generates documents, creates media, and converts files into functional apps within one interface. Supporting multiple file types and code execution, it centralizes product development and business operations workflows.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Lovable memperkenalkan platform AI untuk penciptaan dokumen, data, dan aplikasi**](https://www.testingcatalog.com/lovable-launches-ai-platform-for-document-data-and-app-creation/)\n\nLovable telah melancarkan platform AI awam yang menganalisis data, menjana dokumen, mencipta media, dan menukar fail menjadi aplikasi berfungsi dalam satu antaramuka. Menyokong pelbagai jenis fail dan pelaksanaan kod, ia memusatkan aliran kerja pembangunan produk dan operasi perniagaan.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-20T09:59:15+00:00",
+            "message_id": 7532,
+            "message_key": "@testingcatalog:7532"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google expands Gemini API with unified tool support for developers**](https://www.testingcatalog.com/google-expands-gemini-api-with-unified-tool-support-for-developers/)\n\nGoogle has updated the Gemini API to let developers combine built-in tools like Search and Maps with custom functions in a single request. The release adds cross-tool context circulation and unique response IDs, reducing workflow complexity and improving reliability for multi-step automation.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google kembangkan Gemini API dengan sokongan alat bersepadu untuk pembangun**](https://www.testingcatalog.com/google-expands-gemini-api-with-unified-tool-support-for-developers/)\n\nGoogle dah kemas kini Gemini API supaya pembangun boleh gabungkan alat sedia ada macam Search dan Maps dengan fungsi tersuai dalam satu permintaan je. Versi baru ni tambah peredaran konteks merentas alat dan ID respons unik, sekali gus kurangkan kerumitan aliran kerja dan tingkatkan kebolehpercayaan untuk automasi berbilang langkah.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-03-20T09:54:28+00:00",
+            "message_id": 7531,
+            "message_key": "@testingcatalog:7531"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor launches Composer 2 AI coding model for all users**](https://www.testingcatalog.com/cursor-launches-composer-2-ai-coding-model-for-all-users/)\n\nCursor has launched Composer 2, its latest AI coding model, available to all users with standalone usage limits. Delivering strong benchmark gains over prior versions, it targets complex, long-horizon tasks and offers two pricing tiers, including a faster, cost-competitive default option.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor lancarkan model pengekodan AI Composer 2 untuk semua pengguna**](https://www.testingcatalog.com/cursor-launches-composer-2-ai-coding-model-for-all-users/)\n\nCursor dah lancarkan Composer 2, model pengekodan AI terbarunya, yang boleh digunakan oleh semua pengguna dengan had penggunaan tersendiri. Dengan peningkatan prestasi yang mantap berbanding versi sebelumnya, ia fokus pada tugas yang rumit dan jangka masa panjang, serta ada dua pilihan harga, termasuk pilihan lalai yang lebih laju dan berpatutan.\n\n\ud83d\uddde #cursor",
+            "date": "2026-03-20T09:51:37+00:00",
+            "message_id": 7530,
+            "message_key": "@testingcatalog:7530"
         }
     ]
 }
