@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-20T13:04:59.885573",
+    "timestamp": "2026-03-20T15:45:02.314258",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13356,6 +13356,16 @@
             "date": "2026-03-20T12:05:29+00:00",
             "message_id": 7535,
             "message_key": "@testingcatalog:7535"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity tests Market Research agent for Perplexity Computer**](https://www.testingcatalog.com/perplexity-tests-market-research-agent-for-perplexity-computer/)\n\nPerplexity is developing a Market Research section powered by its agentic multi-model system, offering structured workflows for macro, industry, and growth analysis using premium data sources like CB Insights and PitchBook, targeting consultants, analysts, and enterprise users.\n\n\ud83d\uddde #perplexity",
+            "translated_text": "[**Perplexity sedang menguji ejen Penyelidikan Pasaran untuk Perplexity Computer**](https://www.testingcatalog.com/perplexity-tests-market-research-agent-for-perplexity-computer/)\n\nPerplexity sedang membangunkan satu bahagian Penyelidikan Pasaran yang dikuasakan oleh sistem multi-model ejen mereka. Ia menawarkan aliran kerja berstruktur untuk analisis makro, industri, dan pertumbuhan, menggunakan sumber data premium macam CB Insights dan PitchBook. Sasaran mereka adalah perunding, penganalisis, dan pengguna perusahaan.\n\n\ud83d\uddde #perplexity",
+            "date": "2026-03-20T14:52:07+00:00",
+            "message_id": 7536,
+            "message_key": "@testingcatalog:7536"
         }
     ]
 }
