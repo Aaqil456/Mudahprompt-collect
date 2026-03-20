@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-20T11:34:18.781365",
+    "timestamp": "2026-03-20T13:04:59.885573",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13346,6 +13346,16 @@
             "date": "2026-03-20T10:56:47+00:00",
             "message_id": 7534,
             "message_key": "@testingcatalog:7534"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor released new \"Glass\" experience in early access, a unified workspace for agents, repositories, and cloud tasks. \n\nA new Cloud Handoff feature also allows agents to switch between tasks on your local machine and their cloud instances. \n\nAn answer to the Codex \ud83d\udc40",
+            "translated_text": "Cursor dah lancarkan pengalaman \"Glass\" yang baharu dalam akses awal, satu ruang kerja bersepadu untuk ejen, repositori, dan tugasan awan.\n\nAda juga ciri Cloud Handoff baharu yang membolehkan ejen bertukar-tukar tugasan antara mesin tempatan anda dengan instans awan mereka.\n\nIni macam jawapan kepada Codex \ud83d\udc40",
+            "date": "2026-03-20T12:05:29+00:00",
+            "message_id": 7535,
+            "message_key": "@testingcatalog:7535"
         }
     ]
 }
