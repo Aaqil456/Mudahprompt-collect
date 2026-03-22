@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-21T22:28:45.202704",
+    "timestamp": "2026-03-22T16:34:51.577047",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13446,6 +13446,26 @@
             "date": "2026-03-21T22:21:55+00:00",
             "message_id": 7542,
             "message_key": "@testingcatalog:7542"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**What's new? Issue #238 \ud83d\uddde\ufe0f**](https://www.testingcatalog.com/whats-new-issue-238/)\n\nAI desktop agents are gaining traction as Anthropic, Manus, and xAI roll out laptop-controlling apps, while enterprise adoption intensifies with offerings from Perplexity and others. Google lags amid internal builds, and a wave of smaller models expands options for developers.\n\n\ud83d\uddde #newsletter",
+            "translated_text": "[**Apa yang baharu? Isu #238 \ud83d\uddde\ufe0f**](https://www.testingcatalog.com/whats-new-issue-238/)\n\nAgen AI desktop semakin mendapat perhatian apabila Anthropic, Manus, dan xAI melancarkan aplikasi yang boleh mengawal laptop. Pada masa yang sama, penggunaan di peringkat syarikat juga semakin rancak dengan tawaran daripada Perplexity dan syarikat lain. Google pula agak ketinggalan di tengah-tengah pembangunan dalaman, dan pelbagai model yang lebih kecil pula memperbanyakkan pilihan untuk para pembangun.\n\n\ud83d\uddde #newsletter",
+            "date": "2026-03-22T16:01:24+00:00",
+            "message_id": 7543,
+            "message_key": "@testingcatalog:7543"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Grain**\n\n\ud83c\udff7 #AIMeetingAssistant #Transcription #Collaboration\n\u2b50\ufe0f 4.6\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/grain/?utm_source=tg)\n\n\ud83d\udcac Records meetings, creates summaries, and highlights key moments for easy sharing.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Grain**\n\n\ud83c\udff7 #AIMeetingAssistant #Transcription #Collaboration\n\u2b50\ufe0f 4.6\n\ud83d\udd17 [Lawati Laman Web](https://bestaitools.ai/tools/grain/?utm_source=tg)\n\n\ud83d\udcac Merekod mesyuarat, membuat ringkasan, dan menyerlahkan detik-detik penting untuk perkongsian mudah.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-22T15:56:40+00:00",
+            "message_id": 496,
+            "message_key": "@AItoolboxdaily:496"
         }
     ]
 }
