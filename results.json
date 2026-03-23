@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-23T17:52:29.259170",
+    "timestamp": "2026-03-23T18:59:26.921483",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13476,6 +13476,26 @@
             "date": "2026-03-23T16:54:26+00:00",
             "message_id": 497,
             "message_key": "@AItoolboxdaily:497"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Luma Labs released Uni-1, a new image generation model for Luma Labs platform. \n\n\u201cUni-1 ranks first in human preference Elo for Overall, Style & Editing, and Reference-Based Generation, and second in Text-to-Image.\u201d",
+            "translated_text": "Luma Labs melancarkan Uni-1, model penjanaan imej baharu untuk platform Luma Labs.\n\n\u201cUni-1 menduduki tempat pertama dalam Elo pilihan manusia untuk Keseluruhan, Gaya & Penyuntingan, dan Penjanaan Berasaskan Rujukan, dan kedua dalam Teks-ke-Imej.\u201d",
+            "date": "2026-03-23T18:47:30+00:00",
+            "message_id": 7545,
+            "message_key": "@testingcatalog:7545"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor now uses Instant Grep to instantly search across codebases and it helps execute agentic coding tasks significantly faster.",
+            "translated_text": "Cursor kini menggunakan Instant Grep untuk mencari serta-merta merentasi pangkalan kod dan ia membantu melaksanakan tugas pengekodan beragen jauh lebih pantas.",
+            "date": "2026-03-23T18:19:17+00:00",
+            "message_id": 7544,
+            "message_key": "@testingcatalog:7544"
         }
     ]
 }
