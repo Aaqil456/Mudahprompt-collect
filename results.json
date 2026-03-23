@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-23T21:39:20.886071",
+    "timestamp": "2026-03-23T22:35:58.099383",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13536,6 +13536,16 @@
             "date": "2026-03-23T21:20:22+00:00",
             "message_id": 7549,
             "message_key": "@testingcatalog:7549"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Claude can now use your computer and apps to complete its tasks. The same also works with Claude Dispatch, where you can instruct Claude from your mobile device.\n\nA full-featured Computer Use \ud83d\udc40\n\n\"Research preview in Claude Cowork and Claude Code, macOS only.\"",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Claude kini boleh guna komputer dan aplikasi awak untuk siapkan tugas-tugasnya. Perkara yang sama juga berfungsi dengan Claude Dispatch, di mana awak boleh bagi arahan pada Claude dari peranti mudah alih awak.\n\nPenggunaan Komputer Berfungsi Penuh \ud83d\udc40\n\nPratonton penyelidikan dalam Claude Cowork dan Claude Code, untuk macOS sahaja.",
+            "date": "2026-03-23T22:14:58+00:00",
+            "message_id": 7550,
+            "message_key": "@testingcatalog:7550"
         }
     ]
 }
