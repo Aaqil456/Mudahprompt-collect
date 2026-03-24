@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-23T23:35:29.549758",
+    "timestamp": "2026-03-24T13:17:45.098285",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13566,6 +13566,26 @@
             "date": "2026-03-23T22:37:57+00:00",
             "message_id": 7551,
             "message_key": "@testingcatalog:7551"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Noota launches AI talent platform to automate recruitment process**](https://www.testingcatalog.com/noota-launches-ai-talent-platform-to-automate-recruitment-process/)\n\nNoota Talent is an AI agent platform that automates the full recruitment cycle, from intake to scored shortlist, via five coordinated agents and ATS sync. It helps teams scale capacity 3\u20135x, cut screening time, and deliver vetted candidates within 24 hours.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Noota lancarkan platform bakat AI untuk automatikkan proses rekrutmen**](https://www.testingcatalog.com/noota-launches-ai-talent-platform-to-automate-recruitment-process/)\n\nNoota Talent adalah platform ejen AI yang mengautomatikkan keseluruhan kitaran rekrutmen, dari proses pengambilan awal hingga senarai pendek calon yang dinilai, melalui lima ejen yang diselaraskan dan penyegerakan ATS. Ia membantu pasukan meningkatkan kapasiti sebanyak 3 hingga 5 kali ganda, mengurangkan masa saringan, dan menyediakan calon yang telah disahkan dalam tempoh 24 jam.\n\n\ud83d\uddde #sponsored",
+            "date": "2026-03-24T11:19:31+00:00",
+            "message_id": 7553,
+            "message_key": "@testingcatalog:7553"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83c\udfa7 A guy [launched](https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/) a successful AI band in Japan. They sell merchandise and rack up tens of thousands of streams, even though all the music was written by Suno.\n\nThe band Neon Oni went viral in 2025 among kawaii metal fans. But people quickly began noticing artifacts in their music videos and photos.\n\nThe project\u2019s creator didn\u2019t panic and admitted to using neural networks. He then hired live musicians, who now perform concerts featuring covers of the AI-generated music and are planning a tour.\n\nNeon Oni\u2019s description now states that they are \u201ca metal band from a machine that has become a reality for fans.\u201d\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83c\udfa7 Seorang lelaki [melancarkan](https://www.dexerto.com/entertainment/ai-band-becomes-real-life-group-after-creator-hires-actual-musicians-to-perform-for-them-3336120/) sebuah band AI yang berjaya di Jepun. Band ni jual macam-macam barangan dan dah dapat puluhan ribu strim, walaupun semua muzik tu ditulis oleh Suno.\n\nBand Neon Oni jadi viral pada tahun 2025 dalam kalangan peminat kawaii metal. Tapi, orang ramai cepat perasan ada 'artifacts' dalam video muzik dan gambar-gambar mereka.\n\nPencipta projek tu tak panik pun dan mengaku dia guna rangkaian neural (neural networks). Lepas tu, dia upah pemuzik sebenar, yang sekarang ni buat konsert dengan lagu-lagu cover dari muzik yang dijana AI tu, dan mereka pun tengah rancang nak buat jelajah.\n\nDalam penerangan Neon Oni sekarang, mereka tulis yang mereka ni \u201cband metal dari mesin yang dah jadi kenyataan untuk peminat.\u201d\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-24T13:09:01+00:00",
+            "message_id": 498,
+            "message_key": "@AItoolboxdaily:498"
         }
     ]
 }
