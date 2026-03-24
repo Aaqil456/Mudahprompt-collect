@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-24T20:44:10.215140",
+    "timestamp": "2026-03-24T22:35:10.005297",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13666,6 +13666,16 @@
             "date": "2026-03-24T19:44:13+00:00",
             "message_id": 7558,
             "message_key": "@testingcatalog:7558"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Brave is aiming to make .agent domains managed by the community of agentic web builders. \n\nUsers can claim up to 3 domains and 7 extra after submitting an endorsement for the ICANN application.",
+            "translated_text": "Brave nak domain .agent ni diuruskan oleh komuniti pembina web agentik. Pengguna boleh tuntut sampai 3 domain, dan dapat lagi 7 domain tambahan lepas hantar sokongan untuk permohonan ICANN tu.",
+            "date": "2026-03-24T22:23:23+00:00",
+            "message_id": 7561,
+            "message_key": "@testingcatalog:7561"
         }
     ]
 }
