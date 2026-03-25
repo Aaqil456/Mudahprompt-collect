@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-25T17:05:44.687470",
+    "timestamp": "2026-03-25T18:59:09.458137",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13716,6 +13716,26 @@
             "date": "2026-03-25T16:14:16+00:00",
             "message_id": 7563,
             "message_key": "@testingcatalog:7563"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google expands Lyria 3 Pro AI music model to apps and APIs**](https://www.testingcatalog.com/google-expands-lyria-3-pro-ai-music-model-to-apps-and-apis/)\n\nGoogle has expanded Lyria 3 Pro across Vertex AI, Gemini, Google AI Studio, and Workspace tools, enabling scalable, high-fidelity music generation for developers, businesses, and consumers, with longer tracks, full-song creation, and integration into apps like Google Vids and ProducerAI.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google meluaskan model muzik AI Lyria 3 Pro ke aplikasi dan API**](https://www.testingcatalog.com/google-expands-lyria-3-pro-ai-music-model-to-apps-and-apis/)\n\nGoogle dah luaskan Lyria 3 Pro ke seluruh Vertex AI, Gemini, Google AI Studio, dan alatan Workspace. Ini membolehkan penjanaan muzik berkualiti tinggi yang boleh diskalakan untuk pembangun, perniagaan, dan pengguna, dengan trek yang lebih panjang, penciptaan lagu penuh, dan integrasi ke dalam aplikasi macam Google Vids dan ProducerAI.\n\n\ud83d\uddde #gemini",
+            "date": "2026-03-25T17:14:48+00:00",
+            "message_id": 7566,
+            "message_key": "@testingcatalog:7566"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic made new tools for work available on Claude mobile apps. Canva, Figma, Amplitude, and more.",
+            "translated_text": "Anthropic telah menyediakan alatan kerja baharu yang boleh didapati di aplikasi mudah alih Claude. Canva, Figma, Amplitude, dan banyak lagi.",
+            "date": "2026-03-25T17:07:00+00:00",
+            "message_id": 7565,
+            "message_key": "@testingcatalog:7565"
         }
     ]
 }
