@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-24T22:35:10.005297",
+    "timestamp": "2026-03-25T10:53:55.775049",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13676,6 +13676,16 @@
             "date": "2026-03-24T22:23:23+00:00",
             "message_id": 7561,
             "message_key": "@testingcatalog:7561"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches visual product discovery in ChatGPT for all users**](https://www.testingcatalog.com/openai-launches-visual-product-discovery-in-chatgpt-for-all-users/)\n\nOpenAI is expanding ChatGPT into a visual product discovery platform with side by side comparisons, pricing, reviews, and image based search. Through its Agentic Commerce Protocol and retail partnerships, it positions ChatGPT as a direct commerce channel while merchants retain checkout control.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI melancarkan penemuan produk visual dalam ChatGPT untuk semua pengguna**](https://www.testingcatalog.com/openai-launches-visual-product-discovery-in-chatgpt-for-all-users/)\n\nOpenAI sedang mengembangkan ChatGPT menjadi platform penemuan produk visual, lengkap dengan perbandingan sebelah-menyebelah, harga, ulasan, dan carian berasaskan imej. Melalui Agentic Commerce Protocol dan kerjasama runcitnya, ia meletakkan ChatGPT sebagai saluran perdagangan langsung, sementara peniaga masih mengekalkan kawalan pembayaran.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-03-25T10:47:57+00:00",
+            "message_id": 7562,
+            "message_key": "@testingcatalog:7562"
         }
     ]
 }
