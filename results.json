@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-25T15:02:13.107910",
+    "timestamp": "2026-03-25T17:05:44.687470",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13696,6 +13696,26 @@
             "date": "2026-03-25T14:01:42+00:00",
             "message_id": 500,
             "message_key": "@AItoolboxdaily:500"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on a Memory feature for Perplexity Computer.",
+            "translated_text": "Perplexity sedang membangunkan ciri Memori untuk Perplexity Computer.",
+            "date": "2026-03-25T16:19:56+00:00",
+            "message_id": 7564,
+            "message_key": "@testingcatalog:7564"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google launched Lyria 3 Pro, and upgraded music model, capable of generating up to 3 minute tracks. \n\n\u201cThe model now understands the architecture of music. This makes it possible to prompt for intros, verses, choruses and bridges + generate songs with more complex transitions.\u201d",
+            "translated_text": "Google melancarkan Lyria 3 Pro, sebuah model muzik yang dinaik taraf, yang mampu menjana lagu sehingga 3 minit.\n\n\u201cModel ini kini memahami struktur muzik. Ini membolehkan kita meminta untuk intro, verse, chorus, dan bridge, serta menjana lagu dengan peralihan yang lebih kompleks.\u201d",
+            "date": "2026-03-25T16:14:16+00:00",
+            "message_id": 7563,
+            "message_key": "@testingcatalog:7563"
         }
     ]
 }
