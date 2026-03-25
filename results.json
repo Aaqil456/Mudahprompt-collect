@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-25T19:50:38.158221",
+    "timestamp": "2026-03-25T21:42:01.060798",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13746,6 +13746,16 @@
             "date": "2026-03-25T19:27:30+00:00",
             "message_id": 7568,
             "message_key": "@testingcatalog:7568"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NotebookLM has 2 hidden formats for. Video Overviews, Short and Whiteboard Animation. \n\nIt is unclear if they would ever be released but whiteboard videos could be quite cool. \n\nRemember RSA Animate? \ud83d\udc40",
+            "translated_text": "NotebookLM ada 2 format tersembunyi: Gambaran Keseluruhan Video, Video Pendek, dan Animasi Papan Putih.\n\nTak pasti sama ada ia akan dikeluarkan atau tidak, tapi video papan putih mungkin agak menarik.\n\nIngat tak RSA Animate? \ud83d\udc40",
+            "date": "2026-03-25T21:40:43+00:00",
+            "message_id": 7569,
+            "message_key": "@testingcatalog:7569"
         }
     ]
 }
