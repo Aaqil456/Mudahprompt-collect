@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-25T21:42:01.060798",
+    "timestamp": "2026-03-26T13:22:10.474650",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13756,6 +13756,16 @@
             "date": "2026-03-25T21:40:43+00:00",
             "message_id": 7569,
             "message_key": "@testingcatalog:7569"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\u26a0\ufe0f OpenAI is [shutting down](https://x.com/soraofficialapp/status/2036532795984715896?s=46&t=bhrf1PJh66TKhFjugwVf8w) Sora, the video generator will soon stop working.\n\nIt appears that both the application and the API will be taken offline. They promise to provide more details on the timeline soon.\n\nThe company has not disclosed the reasons. However, there have been recent rumors that OpenAI is [shifting](https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b) its focus to corporate clients.",
+            "translated_text": "\u26a0\ufe0f OpenAI akan [menghentikan](https://x.com/soraofficialapp/status/2036532795984715896?s=46&t=bhrf1PJh66TKhFjugwVf8w) Sora, penjana video itu akan berhenti berfungsi tidak lama lagi.\n\nNampaknya, aplikasi dan API kedua-duanya akan dihentikan. Mereka berjanji akan memberikan butiran lanjut mengenai garis masa tidak lama lagi.\n\nSyarikat itu belum mendedahkan sebab-sebabnya. Bagaimanapun, ada khabar angin baru-baru ini bahawa OpenAI sedang [mengalihkan](https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b) tumpuannya kepada pelanggan korporat.",
+            "date": "2026-03-26T12:17:01+00:00",
+            "message_id": 501,
+            "message_key": "@AItoolboxdaily:501"
         }
     ]
 }
