@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-26T15:07:15.519039",
+    "timestamp": "2026-03-26T17:06:45.317011",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13796,6 +13796,66 @@
             "date": "2026-03-26T14:03:57+00:00",
             "message_id": 7570,
             "message_key": "@testingcatalog:7570"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-26T16:38:06+00:00",
+            "message_id": 7577,
+            "message_key": "@testingcatalog:7577"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: xAI added a possibility to apply tags on Grok Imagine for iOS. Now you can categorise and filter your collections.",
+            "translated_text": "Mungkin ada yang terlepas pandang: xAI dah tambah satu fungsi untuk letak tag pada Grok Imagine untuk iOS. Sekarang ni, anda boleh kategorikan dan tapis koleksi anda.",
+            "date": "2026-03-26T16:38:06+00:00",
+            "message_id": 7576,
+            "message_key": "@testingcatalog:7576"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Voxtral TTS by Mistral AI is officially out! Open-source and fast TTS model with a support of 9 languages!",
+            "translated_text": "Voxtral TTS by Mistral AI dah pun dilancarkan secara rasmi! Model TTS sumber terbuka yang pantas ni, menyokong 9 bahasa!",
+            "date": "2026-03-26T16:13:32+00:00",
+            "message_id": 7575,
+            "message_key": "@testingcatalog:7575"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Gemini 3.1 Flash Live is launching on AI Studio, APIs and Gemini Live! \n\nGemini 3.1 Flash Live is faster, can keep a longer context and rolling out globally!",
+            "translated_text": "Berita Terkini \ud83d\udea8: Gemini 3.1 Flash Live kini dilancarkan di AI Studio, API dan Gemini Live!\n\nGemini 3.1 Flash Live lebih pantas, boleh mengekalkan konteks yang lebih lama dan sedang dilancarkan di seluruh dunia!",
+            "date": "2026-03-26T15:52:44+00:00",
+            "message_id": 7574,
+            "message_key": "@testingcatalog:7574"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cline debuts Kanban for local parallel CLI coding agents**](https://www.testingcatalog.com/cline-debuts-kanban-for-local-parallel-cli-coding-agents/)\n\nCline Kanban is a free, browser-based interface in the Cline CLI that runs multiple coding agents in parallel from any git repo. Each task uses its own worktree and terminal, enabling isolated branches, real-time diffs, dependency chains, and one-click commits or PRs.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Cline memperkenalkan Kanban untuk ejen pengekodan CLI selari tempatan**](https://www.testingcatalog.com/cline-debuts-kanban-for-local-parallel-cli-coding-agents/)\n\nCline Kanban ni adalah antara muka percuma berasaskan pelayar dalam Cline CLI yang boleh jalankan banyak ejen pengekodan secara selari dari mana-mana git repo. Setiap tugasan guna worktree dan terminal dia sendiri, membolehkan cawangan yang terasing, perbezaan masa nyata, rantaian kebergantungan, dan commit atau PRs dengan satu klik je.\n\n\ud83d\uddde #ditaja",
+            "date": "2026-03-26T15:11:57+00:00",
+            "message_id": 7573,
+            "message_key": "@testingcatalog:7573"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Most people who have valuable knowledge never turn it into a course\n\nNot because they can\u2019t \u2014 but because it feels too complicated\n\nContent, structure, platforms, tech...\n\nI came across something interesting:\n\n**LUMILY **- AI tool that turns your idea into a full course and launches it straight in Telegram\n\nNo LMS\nNo tech overhead\nNo complicated setup\n\nJust your expertise \u2192 structured lessons\n\nFeels like a shortcut that shouldn\u2019t exist\n\n[**\ud83d\udc49 Try Live Demo**](https://t.me/lumily_creators_bot?start=bp_tgseed_speed.effortless_ch.ai1.p699803.v1.c1)",
+            "translated_text": "Kebanyakan orang yang ada ilmu berharga tak pernah jadikan ilmu tu satu kursus.\n\nBukan sebab tak boleh \u2014 tapi sebab rasa rumit sangat.\n\nKandungan, struktur, platform, teknologi...\n\nAku terjumpa sesuatu yang menarik:\n\n**LUMILY **- Alat AI yang boleh tukar idea korang jadi kursus penuh dan terus lancarkan dalam Telegram.\n\nTak perlu LMS\nTak ada kos teknologi tambahan\nTak perlu setup rumit\n\nCuma kepakaran korang \u2192 jadi pelajaran yang tersusun\n\nRasa macam jalan pintas yang sepatutnya tak wujud pun.\n\n[**\ud83d\udc49 Cuba Demo Live**](https://t.me/lumily_creators_bot?start=bp_tgseed_speed.effortless_ch.ai1.p699803.v1.c1)",
+            "date": "2026-03-26T15:10:18+00:00",
+            "message_id": 502,
+            "message_key": "@AItoolboxdaily:502"
         }
     ]
 }
