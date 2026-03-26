@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-26T13:22:10.474650",
+    "timestamp": "2026-03-26T15:07:15.519039",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13766,6 +13766,36 @@
             "date": "2026-03-26T12:17:01+00:00",
             "message_id": 501,
             "message_key": "@AItoolboxdaily:501"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-26T14:13:31+00:00",
+            "message_id": 7572,
+            "message_key": "@testingcatalog:7572"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: GOOGLE IS PREPARING TO RELEASE GEMINI-3.1-FLASH-LIVE-PREVIEW! \n\nHigh chance that it will become available on Vertex AI and AI Studio soon. Will we see Gemini Live upgrades today too?",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: GOOGLE sedang bersiap untuk melancarkan GEMINI-3.1-FLASH-LIVE-PREVIEW! Kemungkinan besar ia akan tersedia di Vertex AI dan AI Studio tidak lama lagi. Adakah kita akan melihat naik taraf Gemini Live hari ini juga?",
+            "date": "2026-03-26T14:13:31+00:00",
+            "message_id": 7571,
+            "message_key": "@testingcatalog:7571"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Mistral AI is reportedly releasing Voxtral TTS today, a new 3B params open-source model that outperforms ElevenLabs V2.5 Flash. \n\nIt has not been announced yet, but it seems like it can already be accessed on Mistral Playground with sample voices and voice cloning!",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Mistral AI dilaporkan akan melancarkan Voxtral TTS hari ini, sebuah model sumber terbuka 3B params baharu yang mengatasi ElevenLabs V2.5 Flash.\n\nBelum ada pengumuman rasmi lagi, tapi nampaknya ia dah boleh diakses di Mistral Playground dengan suara contoh dan kloning suara!",
+            "date": "2026-03-26T14:03:57+00:00",
+            "message_id": 7570,
+            "message_key": "@testingcatalog:7570"
         }
     ]
 }
