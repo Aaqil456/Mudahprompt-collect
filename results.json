@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-27T10:59:06.890457",
+    "timestamp": "2026-03-27T16:59:19.886763",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13916,6 +13916,46 @@
             "date": "2026-03-27T10:30:09+00:00",
             "message_id": 7582,
             "message_key": "@testingcatalog:7582"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-27T16:22:04+00:00",
+            "message_id": 7586,
+            "message_key": "@testingcatalog:7586"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity now powers Galaxy Browser on Android and Desktop as well as Samsung Browsing Assist. \n\n\u201cThis extends a partnership that already makes Perplexity the AI behind two of the three assistants on the Galaxy S26: the native Perplexity assistant and Bixby, which uses Perplexity APIs for search and reasoning.\u201d",
+            "translated_text": "Perplexity kini menguasakan Galaxy Browser di Android dan Desktop, serta Samsung Browsing Assist.\n\n\u201cIni melanjutkan kerjasama yang sudah pun menjadikan Perplexity sebagai AI di sebalik dua daripada tiga pembantu di Galaxy S26: pembantu Perplexity asli dan Bixby, yang menggunakan API Perplexity untuk carian dan penaakulan.\u201d",
+            "date": "2026-03-27T16:22:04+00:00",
+            "message_id": 7585,
+            "message_key": "@testingcatalog:7585"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-27T16:14:25+00:00",
+            "message_id": 7584,
+            "message_key": "@testingcatalog:7584"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Z AI released GLM-5.1 and made it available to all GLM Coding Plan users. \n\nIt is also expected to be open-sourced in the first half of April.",
+            "translated_text": "Z AI dah keluarkan GLM-5.1, dan sekarang semua pengguna GLM Coding Plan dah boleh guna. Dijangka juga yang ia akan jadi sumber terbuka pada awal bulan April nanti.",
+            "date": "2026-03-27T16:14:25+00:00",
+            "message_id": 7583,
+            "message_key": "@testingcatalog:7583"
         }
     ]
 }
