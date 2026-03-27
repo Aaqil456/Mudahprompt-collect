@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-26T22:33:24.372647",
+    "timestamp": "2026-03-27T05:09:41.772280",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13886,6 +13886,26 @@
             "date": "2026-03-26T22:01:39+00:00",
             "message_id": 7578,
             "message_key": "@testingcatalog:7578"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-27T05:03:25+00:00",
+            "message_id": 7581,
+            "message_key": "@testingcatalog:7581"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic is preparing to release new models, Mythos and Capybara, where Mythos is a completely new tier of models, bigger then Opus. \n\nIn the blog post, Anthropic also highlights that this model brings significant cybersecurity risks due to its capabilities.\n\nSource confirmed",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Anthropic sedang bersiap sedia untuk melancarkan model baharu, Mythos dan Capybara. Mythos ini adalah model peringkat baharu sepenuhnya, dan ia lebih besar daripada Opus.\n\nDalam catatan blog itu, Anthropic turut menekankan bahawa model ini membawa risiko keselamatan siber yang ketara disebabkan keupayaannya.\n\nSumber mengesahkan.",
+            "date": "2026-03-27T05:03:25+00:00",
+            "message_id": 7580,
+            "message_key": "@testingcatalog:7580"
         }
     ]
 }
