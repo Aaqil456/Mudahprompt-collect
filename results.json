@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-27T17:56:21.973834",
+    "timestamp": "2026-03-27T20:42:11.146199",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13966,6 +13966,36 @@
             "date": "2026-03-27T17:42:38+00:00",
             "message_id": 504,
             "message_key": "@AItoolboxdaily:504"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-27T20:21:21+00:00",
+            "message_id": 7589,
+            "message_key": "@testingcatalog:7589"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NotebookLM app will now notify you when your artefact generation is finished.",
+            "translated_text": "Aplikasi NotebookLM akan maklumkan awak bila penjanaan artifak awak dah siap.",
+            "date": "2026-03-27T20:21:21+00:00",
+            "message_id": 7588,
+            "message_key": "@testingcatalog:7588"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Google launches Gemini 3.1 Flash Live on AI Studio and Gemini**](https://www.testingcatalog.com/icymi-google-launches-gemini-3-1-flash-live-on-ai-studio-and-gemini/)\n\nGoogle has launched Gemini 3.1 Flash Live via the Gemini API and AI Studio, delivering low-latency, real-time voice and vision capabilities in 90+ languages. It offers stronger noise handling, longer context retention, and secure session management for production-grade AI agents.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Untuk pengetahuan korang: Google lancarkan Gemini 3.1 Flash Live di AI Studio dan Gemini**](https://www.testingcatalog.com/icymi-google-launches-gemini-3-1-flash-live-on-ai-studio-and-gemini/)\n\nGoogle dah lancarkan Gemini 3.1 Flash Live melalui Gemini API dan AI Studio, yang menawarkan keupayaan suara dan penglihatan masa nyata dengan kependaman rendah dalam lebih 90 bahasa. Ia juga sediakan pengendalian hingar yang lebih baik, pengekalan konteks yang lebih lama, dan pengurusan sesi yang selamat untuk ejen AI gred pengeluaran.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-03-27T20:20:09+00:00",
+            "message_id": 7587,
+            "message_key": "@testingcatalog:7587"
         }
     ]
 }
