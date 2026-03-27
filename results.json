@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-27T20:42:11.146199",
+    "timestamp": "2026-03-27T22:35:15.744853",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -13996,6 +13996,16 @@
             "date": "2026-03-27T20:20:09+00:00",
             "message_id": 7587,
             "message_key": "@testingcatalog:7587"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Whiteboard Animation format in NotebookLM**](https://www.testingcatalog.com/google-tests-whiteboard-animation-format-in-notebooklm/)\n\nGoogle\u2019s NotebookLM may add two new Video Overview formats, \u201cShort\u201d and \u201cWhiteboard Animation,\u201d spotted in its customization UI. The additions would expand beyond Cinematic, Explainer, and Brief, targeting condensed clips and step\u2011by\u2011step illustrated explainers, though no release date is confirmed.\n\n\ud83d\uddde #notebooklm",
+            "translated_text": "[**Google Uji Format Animasi Whiteboard dalam NotebookLM**](https://www.testingcatalog.com/google-tests-whiteboard-animation-format-in-notebooklm/)\n\nNotebookLM dari Google mungkin akan menambah dua format Video Overview baharu, iaitu \u201cShort\u201d dan \u201cWhiteboard Animation\u201d, yang dikesan dalam UI penyesuaiannya. Penambahan ini akan berkembang melangkaui Cinematic, Explainer, dan Brief yang sedia ada, menyasarkan klip ringkas dan penerangan bergambar langkah demi langkah, walaupun tiada tarikh pelancaran yang disahkan lagi.\n\n\ud83d\uddde #notebooklm",
+            "date": "2026-03-27T22:03:32+00:00",
+            "message_id": 7590,
+            "message_key": "@testingcatalog:7590"
         }
     ]
 }
