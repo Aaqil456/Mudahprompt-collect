@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-28T02:28:10.595503",
+    "timestamp": "2026-03-28T08:43:11.161387",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14046,6 +14046,26 @@
             "date": "2026-03-28T00:13:02+00:00",
             "message_id": 7591,
             "message_key": "@testingcatalog:7591"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-28T07:23:30+00:00",
+            "message_id": 7596,
+            "message_key": "@testingcatalog:7596"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Availability of Seedance 2.0 on CapCut got expanded to a loads of new countries, including EU. \n\nCapCut is already one of the top AI apps and seems like they are only starting. \n\nSome free credits too \ud83d\udc40",
+            "translated_text": "Dah boleh guna Seedance 2.0 di CapCut di banyak negara baru, termasuk EU.\n\nCapCut memang dah jadi antara aplikasi AI terbaik, dan nampaknya mereka baru nak mula.\n\nAda juga kredit percuma \ud83d\udc40",
+            "date": "2026-03-28T07:23:30+00:00",
+            "message_id": 7595,
+            "message_key": "@testingcatalog:7595"
         }
     ]
 }
