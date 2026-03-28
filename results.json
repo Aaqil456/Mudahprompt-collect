@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-27T22:35:15.744853",
+    "timestamp": "2026-03-28T02:28:10.595503",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14006,6 +14006,46 @@
             "date": "2026-03-27T22:03:32+00:00",
             "message_id": 7590,
             "message_key": "@testingcatalog:7590"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic redies powerful Mythos model with high cybersecurity risk**](https://www.testingcatalog.com/anthropic-redies-powerfull-mythos-model-with-high-cybersecurity-risk/)\n\nA CMS error revealed Anthropic\u2019s upcoming Claude Mythos, a new tier above Opus and its most capable model yet. Described as highly compute-intensive, costly, and advanced in reasoning and cybersecurity, it may launch with restricted access due to risk concerns.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic Sedia Model Mythos Yang Sangat Berkuasa, Tapi Ada Risiko Keselamatan Siber Yang Tinggi**](https://www.testingcatalog.com/anthropic-redies-powerfull-mythos-model-with-high-cybersecurity-risk/)\n\nSatu kesilapan pada sistem CMS dah bongkar pasal Claude Mythos dari Anthropic yang akan datang ni. Ia adalah tahap baru yang lebih tinggi dari Opus, dan model paling berkemampuan mereka setakat ni. Dikatakan model ni sangatlah memerlukan kuasa pengkomputeran yang tinggi, mahal, dan memang canggih bab penaakulan serta keselamatan siber. Disebabkan ada kebimbangan risiko, ia mungkin akan dilancarkan dengan akses yang terhad.\n\n\ud83d\uddde #claude",
+            "date": "2026-03-28T00:48:11+00:00",
+            "message_id": 7594,
+            "message_key": "@testingcatalog:7594"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI is working on Skills support for Grok \ud83e\udd16",
+            "translated_text": "xAI sedang mengusahakan sokongan Kemahiran untuk Grok \ud83e\udd16",
+            "date": "2026-03-28T00:23:19+00:00",
+            "message_id": 7593,
+            "message_key": "@testingcatalog:7593"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic is working on a new Operon agent for Claude Desktop, built for scientific research in biology!\n\nOperon will have a \"private environment\" to work alongside you. Users will be able to create different sessions within Operon projects, manage generated artefacts, and work with Skills. \n\nCowork but for scientists \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Anthropic sedang usahakan ejen Operon baharu untuk Claude Desktop, yang dibina khas untuk penyelidikan saintifik dalam bidang biologi!\n\nOperon akan ada satu 'persekitaran peribadi' untuk bekerja bersama-sama dengan anda. Pengguna boleh cipta sesi berbeza dalam projek Operon, uruskan artifak yang dihasilkan, dan bekerja dengan Skills.\n\nMacam kerja bersama, tapi khas untuk saintis \ud83d\udc40",
+            "date": "2026-03-28T00:15:10+00:00",
+            "message_id": 7592,
+            "message_key": "@testingcatalog:7592"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests Claude Operon for scientific research in biology**](https://www.testingcatalog.com/anthropic-tests-claude-operon-for-scientific-research-in-biology/)\n\nTestingCatalog uncovered \u201cOperon,\u201d a new Claude desktop mode built for biology and health research. It offers a dedicated workspace for tasks like phylogenetics, CRISPR design, and single-cell analysis, with project-wide prompts, local file access, and multi-session support.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic Uji Claude Operon untuk Penyelidikan Saintifik dalam Biologi**](https://www.testingcatalog.com/anthropic-tests-claude-operon-for-scientific-research-in-biology/)\n\nTestingCatalog telah menemui \"Operon,\" mod desktop Claude baharu yang dibina khas untuk penyelidikan biologi dan kesihatan. Ia menawarkan ruang kerja khusus untuk tugasan seperti filogenetik, reka bentuk CRISPR, dan analisis sel tunggal, lengkap dengan gesaan seluruh projek, akses fail tempatan, dan sokongan berbilang sesi.\n\n\ud83d\uddde #claude",
+            "date": "2026-03-28T00:13:02+00:00",
+            "message_id": 7591,
+            "message_key": "@testingcatalog:7591"
         }
     ]
 }
