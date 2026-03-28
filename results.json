@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-28T08:43:11.161387",
+    "timestamp": "2026-03-28T12:59:58.422231",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14066,6 +14066,16 @@
             "date": "2026-03-28T07:23:30+00:00",
             "message_id": 7595,
             "message_key": "@testingcatalog:7595"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI prepares Skills support for Grok to rival Claude and ChatGPT**](https://www.testingcatalog.com/xai-prepares-skills-support-for-grok-to-rival-claude-and-chatgpt/)\n\nxAI is developing a Custom Skills feature for Grok, enabling users to create reusable, task-specific instruction sets via the web interface. Spotted in code, the unreleased tool supports skill creation and file imports, aligning Grok with similar moves by OpenAI, Anthropic, and Google.\n\n\ud83d\uddde #grok",
+            "translated_text": "[**xAI siapkan sokongan Kemahiran untuk Grok bersaing dengan Claude dan ChatGPT**](https://www.testingcatalog.com/xai-prepares-skills-support-for-grok-to-rival-claude-and-chatgpt/)\n\nxAI sedang membangunkan ciri Kemahiran Tersuai untuk Grok, membolehkan pengguna mencipta set arahan yang boleh diguna semula dan khusus untuk tugas melalui antara muka web. Dikesan dalam kod, alat yang belum dikeluarkan itu menyokong penciptaan kemahiran dan import fail, menyelaraskan Grok dengan langkah serupa oleh OpenAI, Anthropic, dan Google.\n\n\ud83d\uddde #grok",
+            "date": "2026-03-28T11:37:30+00:00",
+            "message_id": 7597,
+            "message_key": "@testingcatalog:7597"
         }
     ]
 }
