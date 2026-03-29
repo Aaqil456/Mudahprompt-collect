@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-29T13:01:18.479468",
+    "timestamp": "2026-03-29T23:36:07.755458",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14106,6 +14106,26 @@
             "date": "2026-03-29T12:39:41+00:00",
             "message_id": 7600,
             "message_key": "@testingcatalog:7600"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-29T23:35:29+00:00",
+            "message_id": 7602,
+            "message_key": "@testingcatalog:7602"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Manus now allows users to control desktop computers via its mobile app through Manus desktop client. \n\nAdditionally, seems like Music generation is coming to Manus soon as well.",
+            "translated_text": "Sekadar info: Manus sekarang dah benarkan pengguna kawal komputer desktop guna aplikasi mudah alih dia, melalui klien desktop Manus. Selain tu, nampaknya fungsi jana muzik pun akan ada kat Manus tak lama lagi.",
+            "date": "2026-03-29T23:35:29+00:00",
+            "message_id": 7601,
+            "message_key": "@testingcatalog:7601"
         }
     ]
 }
