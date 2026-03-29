@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-29T09:39:56.378926",
+    "timestamp": "2026-03-29T13:01:18.479468",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14096,6 +14096,16 @@
             "date": "2026-03-29T08:59:20+00:00",
             "message_id": 7598,
             "message_key": "@testingcatalog:7598"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Meta tests Avocado 9B, Avocado Mango Agent, and more**](https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/)\n\nMeta\u2019s Avocado AI faces delays after underperforming against Google and OpenAI models. Internal tests show multiple variants in development, with some Meta AI queries routed to Gemini. \n\n\ud83d\uddde #meta",
+            "translated_text": "[**Eksklusif: Meta uji Avocado 9B, Avocado Mango Agent, dan lain-lain**](https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/)\n\nAI Avocado Meta mengalami kelewatan selepas prestasinya kurang memuaskan berbanding model Google dan OpenAI. Ujian dalaman menunjukkan beberapa varian sedang dibangunkan, dengan beberapa pertanyaan AI Meta dialihkan ke Gemini.\n\n\ud83d\uddde #meta",
+            "date": "2026-03-29T12:39:41+00:00",
+            "message_id": 7600,
+            "message_key": "@testingcatalog:7600"
         }
     ]
 }
