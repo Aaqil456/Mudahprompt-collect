@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-30T19:14:28.530332",
+    "timestamp": "2026-03-30T21:44:52.613563",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14226,6 +14226,36 @@
             "date": "2026-03-30T19:10:47+00:00",
             "message_id": 7614,
             "message_key": "@testingcatalog:7614"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft 365 Copilot gets Critique and Council modes**](https://www.testingcatalog.com/microsoft-365-copilot-gets-critique-and-council-modes/)\n\nMicrosoft has launched Critique and Council in Microsoft 365 Copilot Researcher, introducing multi-model research workflows. Critique pairs drafting and review models to strengthen evidence quality, while Council compares outputs from multiple models to deliver consolidated insights for enterprises.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft 365 Copilot dapat mod Critique dan Council**](https://www.testingcatalog.com/microsoft-365-copilot-gets-critique-and-council-modes/)\n\nMicrosoft dah lancarkan Critique dan Council dalam Microsoft 365 Copilot Researcher, memperkenalkan aliran kerja penyelidikan berbilang model. Critique menggabungkan model draf dan semakan untuk kuatkan kualiti bukti, manakala Council pula bandingkan hasil dari pelbagai model untuk bagi pandangan yang lebih padu untuk syarikat-syarikat.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-03-30T21:06:57+00:00",
+            "message_id": 7617,
+            "message_key": "@testingcatalog:7617"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-30T20:53:24+00:00",
+            "message_id": 7616,
+            "message_key": "@testingcatalog:7616"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on CI auto fix toggle for Claude Code on mobile too.",
+            "translated_text": "Anthropic sedang usahakan CI auto fix toggle untuk Claude Code di telefon bimbit juga.",
+            "date": "2026-03-30T20:53:24+00:00",
+            "message_id": 7615,
+            "message_key": "@testingcatalog:7615"
         }
     ]
 }
