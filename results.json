@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-30T15:06:15.679109",
+    "timestamp": "2026-03-30T16:59:40.164216",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14166,6 +14166,46 @@
             "date": "2026-03-30T15:01:45+00:00",
             "message_id": 506,
             "message_key": "@AItoolboxdaily:506"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**CREAO launches Super Agent for AI-powered workflow apps**](https://www.testingcatalog.com/creao-launches-super-agent-for-ai-powered-workflow-apps/)\n\nCREAO\u2019s Super Agent lets users turn plain language tasks into live workflows that connect to tools like Gmail, GitHub, and Slack, then lock them into deterministic Agent Apps that run on schedule without AI. It also auto-builds reusable API integrations for persistent automation.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**CREAO lancarkan Super Agent untuk aplikasi aliran kerja berkuasa AI**](https://www.testingcatalog.com/creao-launches-super-agent-for-ai-powered-workflow-apps/)\n\nSuper Agent dari CREAO membolehkan pengguna menukar tugasan bahasa biasa menjadi aliran kerja langsung yang bersambung dengan alatan seperti Gmail, GitHub, dan Slack, kemudian menguncinya ke dalam Agent Apps yang deterministik yang berjalan mengikut jadual tanpa AI. Ia juga membina secara automatik integrasi API yang boleh diguna semula untuk automasi berterusan.\n\n\ud83d\uddde #ditaja",
+            "date": "2026-03-30T16:03:44+00:00",
+            "message_id": 7612,
+            "message_key": "@testingcatalog:7612"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-30T15:32:00+00:00",
+            "message_id": 7611,
+            "message_key": "@testingcatalog:7611"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI raised $830 million in debt to operate its new data center near Paris, powered by NVIDIA Grace Blackwell infrastructure.",
+            "translated_text": "Mistral AI telah mengumpul hutang sebanyak $830 juta untuk mengendalikan pusat data baharunya berhampiran Paris, yang dikuasakan oleh infrastruktur NVIDIA Grace Blackwell.",
+            "date": "2026-03-30T15:32:00+00:00",
+            "message_id": 7610,
+            "message_key": "@testingcatalog:7610"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Qwen released the Qwen3.5-Omni model family, designed for native understanding of text, images, audio, and video.\n\n- Qwen3.5-Omni-Lite\n- Qwen3.5-Omni-Flash\n- Qwen3.5-Omni-Plus\n- Qwen3.5-Omni-Plus-Realtime",
+            "translated_text": "Qwen dah lancarkan keluarga model Qwen3.5-Omni. Model-model ni direka khas untuk faham teks, gambar, audio, dan video secara semula jadi.\n\n- Qwen3.5-Omni-Lite\n- Qwen3.5-Omni-Flash\n- Qwen3.5-Omni-Plus\n- Qwen3.5-Omni-Plus-Realtime",
+            "date": "2026-03-30T15:25:22+00:00",
+            "message_id": 7609,
+            "message_key": "@testingcatalog:7609"
         }
     ]
 }
