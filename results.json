@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-29T23:36:07.755458",
+    "timestamp": "2026-03-30T05:27:49.117669",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14126,6 +14126,16 @@
             "date": "2026-03-29T23:35:29+00:00",
             "message_id": 7601,
             "message_key": "@testingcatalog:7601"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udda5 A revolution for web designers: a developer from Midjourney has [figured out](https://x.com/_chenglou/status/2037713766205608234?s=20) how to create text with a curved border in a browser, just like in glossy magazines.\n\nHis Pretext technology works with JavaScript/TypeScript and does not use CSS. It is supported by all modern browsers.\n\nThe code is available [here](https://github.com/chenglou/pretext).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udda5 Satu revolusi untuk pereka web: seorang pembangun dari Midjourney dah [jumpa cara](https://x.com/_chenglou/status/2037713766205608234?s=20) nak buat teks dengan sempadan melengkung dalam pelayar web, sebiji macam dalam majalah berkilat.\n\nTeknologi Pretext dia berfungsi dengan JavaScript/TypeScript dan tak guna CSS. Ia disokong oleh semua pelayar web moden.\n\nKodnya boleh didapati [di sini](https://github.com/chenglou/pretext).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-03-30T05:21:47+00:00",
+            "message_id": 505,
+            "message_key": "@AItoolboxdaily:505"
         }
     ]
 }
