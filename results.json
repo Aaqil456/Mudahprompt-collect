@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T20:49:47.390398",
+    "timestamp": "2026-03-31T22:37:44.417323",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14416,6 +14416,46 @@
             "date": "2026-03-31T19:56:55+00:00",
             "message_id": 7628,
             "message_key": "@testingcatalog:7628"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Slackbot is now an always-on agent that leverages business knowledge from Slack context. \n\nNew stuff \ud83d\udc40\n\n- Meeting intelligence - Slackbot now listens in the background of your meetings.\n- Slackbot now travels across your desktop as you work and understands the context of whatever you're doing.\n- Reusable AI skills! \ud83d\udd25\n- Slackbot can now route work to Agentforce or any agent or app in your enterprise.\n- Native CRM for small teams.\n- Slack as the conversational interface for Salesforce.\n- Deep research and voice input! \ud83d\udd25",
+            "translated_text": "Slackbot sekarang dah jadi ejen yang sentiasa ada, yang boleh guna pengetahuan bisnes dari dalam Slack.\n\nApa yang baru \ud83d\udc40\n\n- Fungsi pintar mesyuarat - Slackbot sekarang boleh dengar perbincangan mesyuarat anda di latar belakang.\n- Slackbot sekarang bergerak di desktop anda masa anda bekerja dan faham konteks apa saja yang anda buat.\n- Kemahiran AI yang boleh diguna semula! \ud83d\udd25\n- Slackbot sekarang boleh salurkan kerja kepada Agentforce atau mana-mana ejen atau aplikasi dalam syarikat anda.\n- CRM terbina dalam untuk pasukan kecil.\n- Slack sebagai antaramuka perbualan untuk Salesforce.\n- Kajian mendalam dan input suara! \ud83d\udd25",
+            "date": "2026-03-31T21:59:45+00:00",
+            "message_id": 7635,
+            "message_key": "@testingcatalog:7635"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Holo Company launches Holo3, SOTA Computer Use model**](https://www.testingcatalog.com/holo-company-launches-holo3-sota-computer-use-model/)\n\nHolo Company has introduced Holo3, an enterprise automation model scoring 78.85% on OSWorld-Verified while operating at one-tenth the cost of larger rivals. With open weights, API access, and agentic training, it supports complex, multi-application business workflows.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Holo Company Lancarkan Holo3, Model Penggunaan Komputer Tercanggih**](https://www.testingcatalog.com/holo-company-launches-holo3-sota-computer-use-model/)\n\nHolo Company dah perkenalkan Holo3, satu model automasi untuk syarikat yang dapat skor 78.85% dalam OSWorld-Verified. Yang menariknya, kos operasinya cuma sepersepuluh dari pesaing besar! Dengan 'open weights', akses API, dan latihan 'agentic', ia boleh sokong kerja-kerja perniagaan yang rumit dan guna banyak aplikasi.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-31T21:27:58+00:00",
+            "message_id": 7634,
+            "message_key": "@testingcatalog:7634"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-31T21:08:55+00:00",
+            "message_id": 7633,
+            "message_key": "@testingcatalog:7633"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI closed their latest funding round with $122 billion in committed capital at an $852B post-money valuation. \n\nOpenAI aims to use these resources in order to lead at scale in enterprise and consumer sectors. \n\nPart of the strategy is to build a unified Super App to combine ChatGPT, Codex and Atlas use cases.",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI dah tutup pusingan dana terbaru mereka dengan modal komited sebanyak $122 bilion, pada penilaian pasca-pelaburan $852 bilion.\n\nOpenAI bercadang nak guna sumber ni untuk jadi peneraju utama dalam sektor perusahaan dan pengguna.\n\nSalah satu strategi mereka adalah untuk bina satu Super App yang bersatu untuk gabungkan kes penggunaan ChatGPT, Codex, dan Atlas.",
+            "date": "2026-03-31T21:08:55+00:00",
+            "message_id": 7632,
+            "message_key": "@testingcatalog:7632"
         }
     ]
 }
