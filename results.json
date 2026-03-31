@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T10:55:23.620335",
+    "timestamp": "2026-03-31T13:25:14.160087",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14286,6 +14286,36 @@
             "date": "2026-03-31T08:50:41+00:00",
             "message_id": 7619,
             "message_key": "@testingcatalog:7619"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-31T12:06:51+00:00",
+            "message_id": 7622,
+            "message_key": "@testingcatalog:7622"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Claude Code source code has been leaked via the map file in Anthropic's npm registry. \n\nThe code references an unreleased model named \"Capybara\", mentioned in the recently revealed blog post. \n\nUNDERCOVER MODE \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Kod sumber Claude Code telah bocor melalui fail peta di daftar npm Anthropic.\n\nKod itu merujuk kepada model yang belum dikeluarkan bernama \"Capybara\", yang disebut dalam catatan blog yang baru didedahkan.\n\nMOD PENYIASATAN \ud83d\udc40",
+            "date": "2026-03-31T12:06:51+00:00",
+            "message_id": 7621,
+            "message_key": "@testingcatalog:7621"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\ude31 **Claude Code** suddenly went **open source**: Anthropic accidentally leaked the agent\u2019s source code, and it was immediately copied.\n\nThe GitHub repository has already garnered 15,000 stars in just one hour. Inside: skills, system prompts, hidden features. In total, thousands of lines of code.\n\nCheck it out at the [link](https://github.com/instructkr/claude-code).",
+            "translated_text": "**Claude Code** tiba-tiba dah jadi **open source**: Anthropic tak sengaja bocorkan kod sumber ejen tu, dan terus je kena salin.\n\nRepositori GitHub tu dah dapat 15,000 bintang dalam masa sejam je. Dalamnya ada: kemahiran, arahan sistem, ciri-ciri tersembunyi. Secara keseluruhan, beribu-ribu baris kod.\n\nBoleh tengok kat [sini](https://github.com/instructkr/claude-code).",
+            "date": "2026-03-31T13:21:29+00:00",
+            "message_id": 507,
+            "message_key": "@AItoolboxdaily:507"
         }
     ]
 }
