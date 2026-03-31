@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T15:05:25.899520",
+    "timestamp": "2026-03-31T17:01:18.236949",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14326,6 +14326,46 @@
             "date": "2026-03-31T13:25:42+00:00",
             "message_id": 7623,
             "message_key": "@testingcatalog:7623"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-03-31T16:38:22+00:00",
+            "message_id": 7627,
+            "message_key": "@testingcatalog:7627"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Siri will soon be able to handle multiple requests at once in iOS 27 as reported by Bloomberg.",
+            "translated_text": "Siri tak lama lagi akan boleh uruskan banyak permintaan sekaligus dalam iOS 27, macam yang dilaporkan oleh Bloomberg.",
+            "date": "2026-03-31T16:38:22+00:00",
+            "message_id": 7626,
+            "message_key": "@testingcatalog:7626"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released Veo 3.1 Lite on Gemini APIs and Google AI Studio. \n\nHalf the cost of Veo 3.1 Fast! \ud83d\udc40",
+            "translated_text": "Google dah keluarkan Veo 3.1 Lite di Gemini APIs dan Google AI Studio.\n\nHarganya separuh je daripada Veo 3.1 Fast! \ud83d\udc40",
+            "date": "2026-03-31T16:22:45+00:00",
+            "message_id": 7625,
+            "message_key": "@testingcatalog:7625"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**FLORA launches FAUNA AI design agent for teams**](https://www.testingcatalog.com/flora-launches-fauna-ai-design-agent-for-teams/)\n\nFLORA unveils FAUNA, an AI partner for teams that builds custom workflows from your creative history, new techniques, and Image Editor tools.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**FLORA melancarkan ejen reka bentuk FAUNA AI untuk pasukan**](https://www.testingcatalog.com/flora-launches-fauna-ai-design-agent-for-teams/)\n\nFLORA memperkenalkan FAUNA, rakan kongsi AI untuk pasukan yang membina aliran kerja tersuai daripada sejarah kreatif anda, teknik baharu, dan alatan Image Editor.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-31T15:58:21+00:00",
+            "message_id": 7624,
+            "message_key": "@testingcatalog:7624"
         }
     ]
 }
