@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T22:37:44.417323",
+    "timestamp": "2026-03-31T23:36:48.984157",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14456,6 +14456,26 @@
             "date": "2026-03-31T21:08:55+00:00",
             "message_id": 7632,
             "message_key": "@testingcatalog:7632"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests new Claude Code desktop UI amid source code leak**](https://www.testingcatalog.com/anthropic-tests-new-claude-code-desktop-ui-amid-source-code-leak/)\n\nAnthropic appears to be testing Epitaxy, a possible new interface for Claude Code Desktop featuring expanded hotkeys and playful visuals, as a source map leak exposed internal models like Capybara and Strudel, fueling speculation about its roadmap.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic uji UI desktop Claude Code baharu di tengah kebocoran kod sumber**](https://www.testingcatalog.com/anthropic-tests-new-claude-code-desktop-ui-amid-source-code-leak/)\n\nAnthropic nampaknya sedang menguji Epitaxy, satu antaramuka baru yang mungkin untuk Claude Code Desktop. Ia menampilkan hotkey yang diperluas dan visual yang menarik. Kebocoran peta sumber pula telah mendedahkan model dalaman seperti Capybara dan Strudel, sekali gus mencetuskan spekulasi mengenai pelan hala tuju mereka.\n\n\ud83d\uddde #claude",
+            "date": "2026-03-31T23:27:23+00:00",
+            "message_id": 7637,
+            "message_key": "@testingcatalog:7637"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares 3D Avatars for Gemini and Remy tools for learning**](https://www.testingcatalog.com/google-prepares-3d-avatars-for-gemini-and-remy-tools-for-learning/)\n\nRecent Gemini builds reveal an Avatar option for creating 3D portraits, a student-focused Remy learning mode, and signs of Skill Support reaching some Ultra users. \n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google sedang menyediakan Avatar 3D untuk Gemini dan alatan Remy bagi pembelajaran**](https://www.testingcatalog.com/google-prepares-3d-avatars-for-gemini-and-remy-tools-for-learning/)\n\nVersi Gemini terkini mendedahkan pilihan Avatar untuk mencipta potret 3D, mod pembelajaran Remy yang fokus kepada pelajar, dan tanda-tanda Sokongan Kemahiran akan sampai kepada beberapa pengguna Ultra.\n\n\ud83d\uddde #gemini",
+            "date": "2026-03-31T23:17:11+00:00",
+            "message_id": 7636,
+            "message_key": "@testingcatalog:7636"
         }
     ]
 }
