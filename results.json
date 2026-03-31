@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T18:03:43.494800",
+    "timestamp": "2026-03-31T20:49:47.390398",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14376,6 +14376,46 @@
             "date": "2026-03-31T17:41:48+00:00",
             "message_id": 508,
             "message_key": "@AItoolboxdaily:508"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta unveils prescription-first AI glasses and new AI features**](https://www.testingcatalog.com/meta-unveils-prescription-first-ai-glasses-and-new-ai-features/)\n\nMeta has introduced prescription-ready Ray-Ban Meta Blayzer and Scriber Gen 2 glasses, targeting everyday wearers with lighter, customizable frames starting at $499. The update focuses on accessibility and adoption, alongside new AI features and expanded US availability.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta perkenalkan cermin mata AI yang utamakan preskripsi, dan ciri AI baru**](https://www.testingcatalog.com/meta-unveils-prescription-first-ai-glasses-and-new-ai-features/)\n\nMeta dah perkenalkan cermin mata Ray-Ban Meta Blayzer dan Scriber Gen 2 yang boleh pakai preskripsi. Cermin mata ni direka untuk kegunaan harian, dengan bingkai yang lebih ringan, boleh disesuaikan, dan harga bermula dari $499. Update ni fokus pada kemudahan akses dan penggunaan, serta ciri AI baru dan dah boleh didapati dengan lebih meluas di AS.\n\n\ud83d\uddde #meta",
+            "date": "2026-03-31T20:29:37+00:00",
+            "message_id": 7631,
+            "message_key": "@testingcatalog:7631"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Base44 launches skills library for Superagents with 130+ options**](https://www.testingcatalog.com/base44-launches-skills-library-for-superagents-with-130-options/)\n\nBase44 has launched a Skills library for Superagents, offering 130+ domain-specific capabilities across seven categories. Skills persist across sessions, stack within workflows, and can be custom-built in chat, giving users durable, reusable agent expertise from day one.\n\n\ud83d\uddde #ai",
+            "translated_text": "[**Base44 melancarkan perpustakaan kemahiran untuk Superagents dengan lebih 130 pilihan**](https://www.testingcatalog.com/base44-launches-skills-library-for-superagents-with-130-options/)\n\nBase44 telah melancarkan perpustakaan Kemahiran untuk Superagents, menawarkan lebih 130 keupayaan khusus domain merentasi tujuh kategori. Kemahiran ini kekal merentasi sesi, boleh disusun dalam aliran kerja, dan boleh dibina khas dalam sembang, memberikan pengguna kepakaran ejen yang tahan lama dan boleh diguna semula dari hari pertama.\n\n\ud83d\uddde #ai",
+            "date": "2026-03-31T20:14:45+00:00",
+            "message_id": 7630,
+            "message_key": "@testingcatalog:7630"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Veo 3.1 Lite at half price of Veo 3.1 Fast**](https://www.testingcatalog.com/google-launches-veo-3-1-lite-at-half-price-of-veo-3-1-fast/)\n\nGoogle has introduced Veo 3.1 Lite, a lower-cost video generation model available via the Gemini API and Google AI Studio. Supporting text-to-video and image-to-video at 720p and 1080p, it offers scalable pricing, undercutting Veo 3.1 Fast as Google also reduces Fast\u2019s price.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google Lancarkan Veo 3.1 Lite Pada Separuh Harga Veo 3.1 Fast**](https://www.testingcatalog.com/google-launches-veo-3-1-lite-at-half-price-of-veo-3-1-fast/)\n\nGoogle telah memperkenalkan Veo 3.1 Lite, sebuah model penjanaan video dengan kos yang lebih rendah, yang boleh didapati melalui Gemini API dan Google AI Studio. Model ini menyokong penukaran teks ke video dan imej ke video pada resolusi 720p dan 1080p. Ia juga menawarkan harga yang fleksibel, malah lebih rendah dari Veo 3.1 Fast, memandangkan Google turut menurunkan harga Veo 3.1 Fast.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-03-31T20:09:09+00:00",
+            "message_id": 7629,
+            "message_key": "@testingcatalog:7629"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta announced new prescription-optimized Gen 2 Ray-Ban Meta AI glasses, Blayzer Optics, and Scriber Optics. \n\nBesides that, a bunch of AI features for Meta Glasses have been announced, too. \n\n- Nutrition tracking, where users can use voice, photos, and Meta AI to log their food, with further nutrition recommendations. US only. \n- Recall for WhatsApp conversations where Meta AI will be able to summarise the last messages and more. EAP only. \n- Handwriting for Meta Display is rolling out to everyone in the coming weeks and will also be available in iMessage.",
+            "translated_text": "Meta dah umumkan cermin mata Ray-Ban Meta AI Gen 2 baharu yang dioptimumkan untuk preskripsi, Blayzer Optics, dan Scriber Optics.\n\nSelain tu, beberapa ciri AI untuk Meta Glasses pun dah diumumkan jugak.\n\n- Penjejakan nutrisi, di mana pengguna boleh guna suara, gambar, dan Meta AI untuk rekod makanan diorang, dengan cadangan nutrisi tambahan. Untuk AS saja.\n- Fungsi 'Recall' untuk perbualan WhatsApp, di mana Meta AI boleh ringkaskan mesej-mesej terakhir dan banyak lagi. Untuk EAP saja.\n- Tulisan tangan untuk Meta Display akan dilancarkan kepada semua orang dalam beberapa minggu akan datang dan akan tersedia jugak dalam iMessage.",
+            "date": "2026-03-31T19:56:55+00:00",
+            "message_id": 7628,
+            "message_key": "@testingcatalog:7628"
         }
     ]
 }
