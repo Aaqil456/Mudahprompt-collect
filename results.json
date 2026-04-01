@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-01T20:48:30.629444",
+    "timestamp": "2026-04-01T21:44:19.730121",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14496,6 +14496,16 @@
             "date": "2026-04-01T19:46:29+00:00",
             "message_id": 7639,
             "message_key": "@testingcatalog:7639"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udc40 Meta has unveiled a new artificial intelligence model, TRIBE v2, capable of simulating the behavior of the human brain. \n\nIt is a foundational system that predicts brain activity in the visual, auditory, and language regions. The model was trained on data from approximately 700 volunteers and is already available along with its source code and a demo. \n\nThe developers hope this will help accelerate scientific discoveries in medicine, including the study and treatment of neurological diseases.\n\n\ud83e\udde0[ AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udc40 Meta telah memperkenalkan model kecerdasan buatan (AI) baharu, TRIBE v2, yang mampu mensimulasikan tingkah laku otak manusia.\n\nIa adalah sistem asas yang meramalkan aktiviti otak di kawasan visual, auditori, dan bahasa. Model ini dilatih menggunakan data daripada kira-kira 700 sukarelawan dan sudah tersedia bersama kod sumber serta demonya.\n\nPara pembangun berharap ini akan membantu mempercepatkan penemuan saintifik dalam bidang perubatan, termasuk kajian dan rawatan penyakit neurologi.\n\n\ud83e\udde0[ AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-01T21:08:01+00:00",
+            "message_id": 509,
+            "message_key": "@AItoolboxdaily:509"
         }
     ]
 }
