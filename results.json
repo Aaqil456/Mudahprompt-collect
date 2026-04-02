@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-02T21:41:04.783446",
+    "timestamp": "2026-04-02T22:33:47.963728",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14646,6 +14646,26 @@
             "date": "2026-04-02T21:38:43+00:00",
             "message_id": 7654,
             "message_key": "@testingcatalog:7654"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor launches Cursor 3 with Agents Window and Design Mode**](https://www.testingcatalog.com/cursor-launches-cursor-3-with-agents-window-and-design-mode/)\n\nCursor 3 launches with parallel agent execution, agent tabs, and a redesigned interface supporting local, SSH, worktrees, and cloud setups. It adds native worktree management, new commands, faster diffs, and enterprise security controls for scalable AI-driven development.\n\n\ud83d\uddde #cursor",
+            "translated_text": "[**Cursor melancarkan Cursor 3 dengan Tetingkap Ejen dan Mod Reka Bentuk**](https://www.testingcatalog.com/cursor-launches-cursor-3-with-agents-window-and-design-mode/)\n\nCursor 3 dilancarkan dengan pelaksanaan ejen selari, tab ejen, dan antara muka yang direka semula yang menyokong persediaan tempatan, SSH, worktrees, dan awan. Ia menambah pengurusan worktree asli, arahan baharu, diffs yang lebih pantas, dan kawalan keselamatan perusahaan untuk pembangunan dipacu AI yang boleh skala.\n\n\ud83d\uddde #cursor",
+            "date": "2026-04-02T22:17:11+00:00",
+            "message_id": 7656,
+            "message_key": "@testingcatalog:7656"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google debuts Gemma 4 open AI models for local use**](https://www.testingcatalog.com/google-debuts-gemma-4-open-ai-models-for-local-use/)\n\nGemma 4 is Google\u2019s latest open model family under Apache 2.0, built for on-device AI across edge, mobile, and high-performance systems. With up to 256K context, multilingual support, and native tool use, it enables agentic workflows, multimodal tasks, and complex reasoning.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google perkenalkan model AI terbuka Gemma 4 untuk kegunaan setempat**](https://www.testingcatalog.com/google-debuts-gemma-4-open-ai-models-for-local-use/)\n\nGemma 4 adalah keluarga model terbuka terbaru Google di bawah Apache 2.0, dibina untuk AI atas peranti merentasi sistem edge, mudah alih, dan berprestasi tinggi. Dengan konteks sehingga 256K, sokongan pelbagai bahasa, dan penggunaan alat terbina, ia membolehkan aliran kerja beragen, tugas multimodal, dan penaakulan kompleks.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-04-02T22:07:25+00:00",
+            "message_id": 7655,
+            "message_key": "@testingcatalog:7655"
         }
     ]
 }
