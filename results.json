@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-02T14:58:26.019446",
+    "timestamp": "2026-04-02T17:54:35.337614",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14566,6 +14566,66 @@
             "date": "2026-04-02T13:40:27+00:00",
             "message_id": 7645,
             "message_key": "@testingcatalog:7645"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-02T17:36:16+00:00",
+            "message_id": 7652,
+            "message_key": "@testingcatalog:7652"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: OpenAI aquired TBPN daily live show!\n\n\u201cIt\u2019s one of the places where the conversation about AI and builders is actually happening day to day. A lot of you already watch it, and rely on it to stay close to what\u2019s going on.\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: OpenAI telah mengambil alih siaran langsung harian TBPN!\n\n\u201cIa adalah antara tempat di mana perbincangan tentang AI dan pembangun sebenarnya berlaku setiap hari. Ramai di antara anda dah pun tontonnya, dan bergantung padanya untuk tahu apa yang sedang berlaku.\u201d",
+            "date": "2026-04-02T17:36:16+00:00",
+            "message_id": 7651,
+            "message_key": "@testingcatalog:7651"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-02T17:14:20+00:00",
+            "message_id": 7650,
+            "message_key": "@testingcatalog:7650"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT voice mode can now be used in CarPlay on iOS 26.4+\n\nNeeds testing \ud83d\udc40",
+            "translated_text": "Mod suara ChatGPT dah boleh guna dalam CarPlay pada iOS 26.4+\n\nKena uji ni \ud83d\udc40",
+            "date": "2026-04-02T17:14:20+00:00",
+            "message_id": 7649,
+            "message_key": "@testingcatalog:7649"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft now has MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 available on MAI Playground! \n\n- \"MAI-Voice-1 is our top-tier voice generation model. Built to generate natural, realistic speech, rich with nuance, emotional range, and expression that preserves speaker identity even across long-form content.\"\n\n- \"MAI-Transcribe-1 delivers state-of-the-art speech-to-text transcription across the top 25 most-used languages according to the industry-standard FLEURS benchmark.\"\n\n- \"MAI-Image-2 has turbocharged image generation performance and speed on Copilot after debuting as a top 3 model family on the Arena leaderboard.\"",
+            "translated_text": "Microsoft kini dah ada MAI-Transcribe-1, MAI-Voice-1, dan MAI-Image-2 yang boleh didapati di MAI Playground!\n\n- \"MAI-Voice-1 ni model penjanaan suara terbaik kami. Ia dibina untuk menghasilkan pertuturan yang semula jadi, realistik, penuh dengan nuansa, pelbagai emosi, dan ekspresi yang mengekalkan identiti penutur walaupun dalam kandungan yang panjang.\"\n\n- \"MAI-Transcribe-1 menyediakan transkripsi suara ke teks yang paling canggih untuk 25 bahasa yang paling banyak digunakan, berdasarkan penanda aras FLEURS standard industri.\"\n\n- \"MAI-Image-2 dah meningkatkan prestasi dan kelajuan penjanaan imej di Copilot dengan ketara, selepas ia mula diperkenalkan sebagai salah satu daripada 3 keluarga model teratas dalam papan pendahulu Arena.\"",
+            "date": "2026-04-02T17:02:24+00:00",
+            "message_id": 7648,
+            "message_key": "@testingcatalog:7648"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Sudowrite**\n\n\ud83c\udff7 #AIWriting #Storytelling #CreativeTools\n\u2b50\ufe0f 4.6\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/sudowrite/?utm_source=tg)\n\n\ud83d\udcac AI writing partner for fiction, helps brainstorm, expand scenes, and draft faster.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Sudowrite**\n\n\ud83c\udff7 #PenulisanAI #Penceritaan #AlatKreatif\n\u2b50\ufe0f 4.6\n\ud83d\udd17 [Layari Laman Web](https://bestaitools.ai/tools/sudowrite/?utm_source=tg)\n\n\ud83d\udcac Pembantu penulisan AI untuk fiksyen, membantu mencetuskan idea, mengembangkan babak, dan menulis draf dengan lebih pantas.\n\n[\ud83e\udde0 Kotak Peralatan AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-02T17:01:33+00:00",
+            "message_id": 510,
+            "message_key": "@AItoolboxdaily:510"
         }
     ]
 }
