@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-02T02:33:35.478800",
+    "timestamp": "2026-04-02T13:19:36.144415",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14546,6 +14546,16 @@
             "date": "2026-04-01T23:39:26+00:00",
             "message_id": 7640,
             "message_key": "@testingcatalog:7640"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta tests Paricado model family, Health, and Document agents**](https://www.testingcatalog.com/meta-tests-paricado-model-family-health-and-document-agents/)\n\nHands-on testing indicates Meta\u2019s Avocado models are further along than reported, with multiple variants, including a reasoning build, already partially active on the background. A new Paricado family spotted as well.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta sedang menguji keluarga model Paricado, agen Kesihatan, dan Dokumen**](https://www.testingcatalog.com/meta-tests-paricado-model-family-health-and-document-agents/)\n\nUjian yang dibuat sendiri menunjukkan model Avocado Meta dah lebih maju dari yang dilaporkan, dengan pelbagai varian, termasuk versi yang ada kemampuan berfikir, dah pun aktif sebahagiannya di latar belakang. Satu keluarga Paricado baru pun dah nampak juga.\n\n\ud83d\uddde #meta",
+            "date": "2026-04-02T12:57:13+00:00",
+            "message_id": 7644,
+            "message_key": "@testingcatalog:7644"
         }
     ]
 }
