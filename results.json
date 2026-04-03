@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-03T07:13:31.604589",
+    "timestamp": "2026-04-03T08:58:36.981599",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14696,6 +14696,46 @@
             "date": "2026-04-03T06:10:54+00:00",
             "message_id": 7657,
             "message_key": "@testingcatalog:7657"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft releases 3 new models on MAI Playground**](https://www.testingcatalog.com/microsoft-releases-3-new-models-on-mai-playground/)\n\nMicrosoft has added MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 to Foundry, opening its media AI stack to developers beyond Copilot. The models support speech-to-text, custom voice generation, and image creation, with enterprise pricing and broader deployment.\n\n\ud83d\uddde #microsoftcopilot",
+            "translated_text": "[**Microsoft memperkenalkan 3 model baharu di MAI Playground**](https://www.testingcatalog.com/microsoft-releases-3-new-models-on-mai-playground/)\n\nMicrosoft dah masukkan MAI-Transcribe-1, MAI-Voice-1, dan MAI-Image-2 dalam Foundry, buka akses kepada platform AI media mereka untuk pembangun selain Copilot. Model-model ni boleh buat suara ke teks, jana suara ikut suka, dan cipta imej, siap ada harga untuk syarikat besar dan boleh guna secara lebih meluas.\n\n\ud83d\uddde #microsoftcopilot",
+            "date": "2026-04-03T07:47:57+00:00",
+            "message_id": 7664,
+            "message_key": "@testingcatalog:7664"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Users can now switch between Speed and Quality modes on Grok Imagine Video. \n\nxAI is also working on a new Professional mode for Imagine, which is expected to arrive later this month.",
+            "translated_text": "Pengguna kini boleh bertukar antara mod Kelajuan dan Kualiti di Grok Imagine Video. xAI juga sedang membangunkan mod Profesional baharu untuk Imagine, yang dijangka akan dilancarkan akhir bulan ini.",
+            "date": "2026-04-03T07:43:39+00:00",
+            "message_id": 7663,
+            "message_key": "@testingcatalog:7663"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus Agent can now be connected to LINE Messenger as an alternative to Telegram.",
+            "translated_text": "Manus Agent sekarang boleh disambungkan ke LINE Messenger sebagai alternatif kepada Telegram.",
+            "date": "2026-04-03T07:33:49+00:00",
+            "message_id": 7661,
+            "message_key": "@testingcatalog:7661"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on a slightly updated and cleaner UI for Claude Desktop and a new permission toggle for Claude Cowork. \n\nUsers will be able to predefine Connectors and websites that Claude Cowork should be able to access without explicit permission approval. \n\n\"Skip all approvals?\" \ud83d\udc40",
+            "translated_text": "Anthropic sedang usahakan antaramuka (UI) yang sedikit dikemaskini dan lebih kemas untuk Claude Desktop, serta suis kebenaran baharu untuk Claude Cowork.\n\nPengguna akan dapat tetapkan awal Connectors dan laman web yang Claude Cowork boleh akses tanpa perlu kelulusan kebenaran secara jelas.\n\n\"Langkau semua kelulusan?\" \ud83d\udc40",
+            "date": "2026-04-03T07:24:36+00:00",
+            "message_id": 7660,
+            "message_key": "@testingcatalog:7660"
         }
     ]
 }
