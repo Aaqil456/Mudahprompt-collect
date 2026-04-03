@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-03T19:39:59.048896",
+    "timestamp": "2026-04-03T22:36:52.603994",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14756,6 +14756,16 @@
             "date": "2026-04-03T19:38:53+00:00",
             "message_id": 511,
             "message_key": "@AItoolboxdaily:511"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is preparing to flood enterprises and businesses with AI Agents that can work 24/7.\n\n> Users will be able to configure Trusted Senders for Conway webhooks. \n\n> \"Conway will reject requests without a valid X-Hub-Signature-256 header. Paste the secret into your repository's webhook settings.\"\n\nWith this, Anthropic is likely following a Notion path of building always-on AI agents for businesses, as Conway agents are designed to be called by external systems via webhooks.",
+            "translated_text": "Anthropic sedang bersiap sedia untuk membekalkan secara meluas syarikat dan perniagaan dengan Ejen AI yang boleh beroperasi sepanjang masa.\n\n> Pengguna boleh tetapkan Penghantar Dipercayai untuk webhook Conway.\n\n> \"Conway akan menolak permintaan tanpa pengepala X-Hub-Signature-256 yang sah. Tampal rahsia itu ke dalam tetapan webhook repositori anda.\"\n\nDengan ini, Anthropic nampaknya mengikut jejak Notion dalam membina ejen AI yang sentiasa aktif untuk perniagaan, memandangkan ejen Conway direka untuk dipanggil oleh sistem luaran melalui webhook.",
+            "date": "2026-04-03T22:32:58+00:00",
+            "message_id": 7666,
+            "message_key": "@testingcatalog:7666"
         }
     ]
 }
