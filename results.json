@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-03T16:44:01.279318",
+    "timestamp": "2026-04-03T19:39:59.048896",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14746,6 +14746,16 @@
             "date": "2026-04-03T16:13:47+00:00",
             "message_id": 7665,
             "message_key": "@testingcatalog:7665"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udca5Perplexity AI has [launched](https://www.perplexity.ai/secure-intelligence-institute) the Secure Intelligence Institute, led by Ninghui Li. The team is focused on risks associated with AI agents: instruction substitution, delegation errors, and chain failures. \n\nTheir first paper describes a threat model and a multi-layered defense system, input filtering, model constraints, isolation, and action control. This marks a shift: security is becoming an integral part of agent system architecture rather than an external add-on. The work spans cryptography, security, machine learning, data privacy, and vulnerability assessment of complex systems.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\udca5Perplexity AI dah [melancarkan](https://www.perplexity.ai/secure-intelligence-institute) Secure Intelligence Institute, yang diketuai oleh Ninghui Li. Pasukan ni fokus pada risiko-risiko yang berkaitan dengan ejen AI: penggantian arahan, kesilapan delegasi, dan kegagalan rantaian.\n\nKertas kerja pertama mereka menerangkan model ancaman dan sistem pertahanan pelbagai lapisan, termasuk penapisan input, kekangan model, pengasingan, dan kawalan tindakan. Ini menandakan satu anjakan: keselamatan kini menjadi sebahagian penting daripada seni bina sistem ejen, bukannya sekadar tambahan luaran. Kerja ini merangkumi bidang kriptografi, keselamatan, pembelajaran mesin, privasi data, dan penilaian kerentanan sistem yang kompleks.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-03T19:38:53+00:00",
+            "message_id": 511,
+            "message_key": "@AItoolboxdaily:511"
         }
     ]
 }
