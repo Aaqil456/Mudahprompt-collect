@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-03T22:36:52.603994",
+    "timestamp": "2026-04-04T07:12:28.035749",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14766,6 +14766,26 @@
             "date": "2026-04-03T22:32:58+00:00",
             "message_id": 7666,
             "message_key": "@testingcatalog:7666"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-04T06:41:00+00:00",
+            "message_id": 7668,
+            "message_key": "@testingcatalog:7668"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic vs OpenClaw \ud83d\udd25\n\nUsers are no longer able to use Claude subscriptions to cover usage of tools like OpenClaw. \n\nIt will be still possible to use an API key.\n\n\u201cWe\u2019ve been working hard to meet the increase in demand for Claude, and our subscriptions weren't built for the usage patterns of these third-party tools.\u201d",
+            "translated_text": "Anthropic vs OpenClaw \ud83d\udd25\n\nPengguna tak boleh lagi guna langganan Claude untuk menampung penggunaan alatan macam OpenClaw.\n\nMasih lagi boleh guna API key.\n\n\u201cKami dah berusaha keras untuk penuhi permintaan Claude yang makin tinggi, dan langganan kami tak direka untuk corak penggunaan alatan pihak ketiga ni.\u201d",
+            "date": "2026-04-04T06:41:00+00:00",
+            "message_id": 7667,
+            "message_key": "@testingcatalog:7667"
         }
     ]
 }
