@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-04T22:32:55.812959",
+    "timestamp": "2026-04-05T19:35:53.720818",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14816,6 +14816,36 @@
             "date": "2026-04-04T21:39:25+00:00",
             "message_id": 7670,
             "message_key": "@testingcatalog:7670"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Flova AI releases Seedance 2.0 support for video generation**](https://www.testingcatalog.com/flova-ai-releases-seedance-2-0-support-for-video-generation/)\n\nFlova now integrates Seedance 2.0, ByteDance\u2019s AI video model, enabling 1080p multimodal generation with native audio, multi-shot continuity, and stable characters. PRO users get up to 50 concurrent runs within an all-in-one video workflow, now in beta at discounted pricing.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Flova AI melancarkan sokongan Seedance 2.0 untuk penjanaan video**](https://www.testingcatalog.com/flova-ai-releases-seedance-2-0-support-for-video-generation/)\n\nFlova kini mengintegrasikan Seedance 2.0, model video AI dari ByteDance, membolehkan penjanaan multimodal 1080p dengan audio asli, kesinambungan berbilang tangkapan, dan watak yang stabil. Pengguna PRO boleh dapat sehingga 50 operasi serentak dalam satu aliran kerja video semua-dalam-satu, dan ia kini dalam fasa beta dengan harga diskaun.\n\n\ud83d\uddde #tajaan",
+            "date": "2026-04-05T19:17:03+00:00",
+            "message_id": 7674,
+            "message_key": "@testingcatalog:7674"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-05T19:14:22+00:00",
+            "message_id": 7673,
+            "message_key": "@testingcatalog:7673"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Gemma 4 is now available on Locally AI for iOS where you can easily use it offline. \n\nAirplane mode default \u2708\ufe0f",
+            "translated_text": "Untuk makluman: Gemma 4 dah boleh guna di Locally AI untuk iOS. Senang je nak pakai offline. Defaultnya memang mod kapal terbang \u2708\ufe0f",
+            "date": "2026-04-05T19:14:22+00:00",
+            "message_id": 7672,
+            "message_key": "@testingcatalog:7672"
         }
     ]
 }
