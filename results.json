@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-06T14:51:31.539691",
+    "timestamp": "2026-04-06T20:40:05.362896",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14886,6 +14886,26 @@
             "date": "2026-04-06T13:57:31+00:00",
             "message_id": 7676,
             "message_key": "@testingcatalog:7676"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Atomic Bot now runs local AI models on your computer**](https://www.testingcatalog.com/atomic-bot-now-runs-local-ai-models-on-your-computer/)\n\nAtomic Bot now runs fully offline via Ollama, letting users deploy OpenClaw on local hardware with no API keys or cloud reliance. It supports major open models, 40,000+ skills, and multi-messenger automation, packaged as a native macOS and Windows app.\n\n\ud83d\uddde #sponsored",
+            "translated_text": "[**Atomic Bot kini boleh jalankan model AI tempatan di komputer anda**](https://www.testingcatalog.com/atomic-bot-now-runs-local-ai-models-on-your-computer/)\n\nAtomic Bot kini beroperasi sepenuhnya secara luar talian melalui Ollama. Ini membolehkan pengguna guna OpenClaw pada perkakasan komputer sendiri tanpa perlukan kunci API atau bergantung pada perkhidmatan awan. Ia menyokong model terbuka utama, lebih 40,000 kemahiran, dan automasi pelbagai utusan, semuanya dibungkus sebagai aplikasi asli untuk macOS dan Windows.\n\n\ud83d\uddde #sponsored",
+            "date": "2026-04-06T19:10:22+00:00",
+            "message_id": 7679,
+            "message_key": "@testingcatalog:7679"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta still plans to release open-source versions of their upcoming models, but later, according to Axios. \n\nTheir upcoming release will be a huge improvement for all the Metas' products that integrate AI, even though they are behind frontier models. \n\nIs Paricado an open-source version?",
+            "translated_text": "Meta masih merancang untuk keluarkan versi sumber terbuka model-model mereka yang akan datang, tapi nanti, menurut Axios.\n\nKeluaran mereka yang akan datang ni akan jadi peningkatan besar untuk semua produk Meta yang guna AI, walaupun mereka ketinggalan berbanding model-model canggih lain.\n\nParicado ni versi sumber terbuka ke?",
+            "date": "2026-04-06T19:06:55+00:00",
+            "message_id": 7678,
+            "message_key": "@testingcatalog:7678"
         }
     ]
 }
