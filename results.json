@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-06T11:55:38.383677",
+    "timestamp": "2026-04-06T14:51:31.539691",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14866,6 +14866,26 @@
             "date": "2026-04-06T11:20:00+00:00",
             "message_id": 512,
             "message_key": "@AItoolboxdaily:512"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Jules V2 agent capable of taking bigger tasks**](https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks/)\n\nGoogle is reportedly developing \u201cJitro,\u201d a next-gen Jules coding agent centered on goal-driven development. Instead of task-based prompts, it would pursue KPI-level objectives within a dedicated workspace, signaling a shift toward autonomous, outcome-focused AI collaboration for engineering teams.\n\n\ud83d\uddde #jules",
+            "translated_text": "[**Google sedang siapkan ejen Jules V2 yang mampu menguruskan tugasan lebih besar**](https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks/)\n\nGoogle dilaporkan sedang membangunkan \"Jitro,\" ejen pengekodan Jules generasi seterusnya yang berpusat pada pembangunan berasaskan matlamat. Daripada arahan berasaskan tugasan, ia akan mengejar objektif tahap KPI dalam ruang kerja khusus, menandakan peralihan ke arah kolaborasi AI yang autonomi dan berfokuskan hasil untuk pasukan kejuruteraan.\n\n\ud83d\uddde #jules",
+            "date": "2026-04-06T14:21:51+00:00",
+            "message_id": 7677,
+            "message_key": "@testingcatalog:7677"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena**](https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena/)\n\nOpenAI is testing Image V2 on LM Arena in three variants, showing stronger UI rendering, accurate text, and prompt fidelity. Some users access it via A/B tests. A launch could counter Google\u2019s lead, though pricing and quality retention remain uncertain.\n\n\ud83d\uddde #chatgpt",
+            "translated_text": "[**OpenAI sedang uji model Image V2 generasi seterusnya pada ChatGPT dan LM Arena**](https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena/)\n\nOpenAI sedang menguji Image V2 di LM Arena dalam tiga varian, menunjukkan paparan UI yang lebih baik, teks yang tepat, dan ketepatan arahan. Sesetengah pengguna mendapat akses kepadanya melalui ujian A/B. Pelancaran ini boleh menyaingi kedudukan utama Google, walaupun harga dan pengekalan kualiti masih belum jelas.\n\n\ud83d\uddde #chatgpt",
+            "date": "2026-04-06T13:57:31+00:00",
+            "message_id": 7676,
+            "message_key": "@testingcatalog:7676"
         }
     ]
 }
