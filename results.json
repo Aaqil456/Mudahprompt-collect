@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-06T21:40:02.836491",
+    "timestamp": "2026-04-06T22:40:03.483640",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14926,6 +14926,36 @@
             "date": "2026-04-06T20:49:20+00:00",
             "message_id": 7680,
             "message_key": "@testingcatalog:7680"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-06T22:23:13+00:00",
+            "message_id": 7684,
+            "message_key": "@testingcatalog:7684"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic signed an agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity.\n\nWith all what\u2019s coming from Anthropic it feels very much needed. Also, managed 24/7 agents will consume a lot.",
+            "translated_text": "Anthropic dah sain perjanjian dengan Google dan Broadcom untuk kapasiti TPU generasi akan datang yang berbilang gigawatt. Dengan macam-macam yang Anthropic nak keluarkan, benda ni memang sangat diperlukan. Lagipun, ejen yang diuruskan 24/7 tu nanti akan pakai banyak.",
+            "date": "2026-04-06T22:23:13+00:00",
+            "message_id": 7683,
+            "message_key": "@testingcatalog:7683"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI seems to be working on an upgraded agent builder, internally named \"Hermes,\" which will likely be integrated directly into ChatGPT. \n\nAnd \"Pluto Model\" \ud83d\udc40",
+            "translated_text": "OpenAI nampaknya sedang usahakan satu pembina ejen yang dinaik taraf, yang secara dalaman dipanggil \"Hermes.\" Ia kemungkinan besar akan disepadukan terus ke dalam ChatGPT.\n\nDan \"Pluto Model\" \ud83d\udc40",
+            "date": "2026-04-06T21:49:57+00:00",
+            "message_id": 7682,
+            "message_key": "@testingcatalog:7682"
         }
     ]
 }
