@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-06T20:40:05.362896",
+    "timestamp": "2026-04-06T21:40:02.836491",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -14906,6 +14906,26 @@
             "date": "2026-04-06T19:06:55+00:00",
             "message_id": 7678,
             "message_key": "@testingcatalog:7678"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic likely tests managed 24/7 AI agents for Businesses**](https://www.testingcatalog.com/anthropic-likely-tests-managed-24-7-ai-agents-for-businesses/)\n\nAnthropic\u2019s Conway project is evolving into an enterprise-focused agent platform with extensions, browser control, and cryptographically verified webhooks. Its design supports secure system-to-system automation, positioning Conway as managed infrastructure for teams building workflows around Claude.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic kemungkinan sedang menguji ejen AI 24/7 yang diuruskan untuk Perniagaan**](https://www.testingcatalog.com/anthropic-likely-tests-managed-24-7-ai-agents-for-businesses/)\n\nProjek Conway dari Anthropic sedang berkembang menjadi platform ejen yang fokus kepada perusahaan, lengkap dengan sambungan, kawalan pelayar, dan webhook yang disahkan secara kriptografi. Reka bentuknya menyokong automasi sistem-ke-sistem yang selamat, meletakkan Conway sebagai infrastruktur terurus untuk pasukan yang membina aliran kerja menggunakan Claude.\n\n\ud83d\uddde #claude",
+            "date": "2026-04-06T21:16:09+00:00",
+            "message_id": 7681,
+            "message_key": "@testingcatalog:7681"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Telegram adds AI text editor and upgraded polls for all users**](https://www.testingcatalog.com/telegram-adds-ai-text-editor-and-upgraded-polls-for-all-users/)\n\nTelegram has launched an update featuring a Cocoon AI-powered Text Editor that corrects, translates, and restyles messages with privacy protection and no data retention. The release also upgrades polls with media support, custom options, quiz modes, and advanced admin controls.\n\n\ud83d\uddde #telegram",
+            "translated_text": "[**Telegram tambah penyunting teks AI dan undian yang dipertingkat untuk semua pengguna**](https://www.testingcatalog.com/telegram-adds-ai-text-editor-and-upgraded-polls-for-all-users/)\n\nTelegram dah lancarkan kemas kini baru yang ada Penyunting Teks berkuasa AI Cocoon. Ia boleh betulkan, terjemah, dan ubah gaya mesej, dengan perlindungan privasi dan tak simpan data pengguna langsung. Kemas kini ni juga tingkatkan fungsi undian, dengan sokongan media, pilihan tersuai, mod kuiz, dan kawalan admin yang lebih canggih.\n\n\ud83d\uddde #telegram",
+            "date": "2026-04-06T20:49:20+00:00",
+            "message_id": 7680,
+            "message_key": "@testingcatalog:7680"
         }
     ]
 }
