@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-07T17:02:59.596608",
+    "timestamp": "2026-04-07T20:51:41.775319",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15026,6 +15026,26 @@
             "date": "2026-04-07T15:16:11+00:00",
             "message_id": 7687,
             "message_key": "@testingcatalog:7687"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-07T18:35:48+00:00",
+            "message_id": 7695,
+            "message_key": "@testingcatalog:7695"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: ANTHROPIC ANNOUNCED CYBERSECURITY PROJECT GLASSWING AND MYTHOS BENCHMARKS!\n\nClaude Mythos scored 93.9% on SWE Bench Verified and 87.3 on SWE Bench Multilingual! \n\n\u201cWe do not plan to make Claude Mythos Preview generally available, but our eventual goal is to enable our users to safely deploy Mythos-class models at scale\u201d",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: ANTHROPIC MENGUMUMKAN CYBERSECURITY PROJECT GLASSWING DAN MYTHOS BENCHMARKS!\n\nClaude Mythos mendapat markah 93.9% dalam SWE Bench Verified dan 87.3 dalam SWE Bench Multilingual!\n\n\u201cKami tidak bercadang untuk menjadikan Claude Mythos Preview tersedia secara umum, tetapi matlamat utama kami adalah untuk membolehkan pengguna kami menggunakan model kelas Mythos dengan selamat secara besar-besaran.\u201d",
+            "date": "2026-04-07T18:35:48+00:00",
+            "message_id": 7694,
+            "message_key": "@testingcatalog:7694"
         }
     ]
 }
