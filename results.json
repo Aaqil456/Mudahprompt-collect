@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-07T20:51:41.775319",
+    "timestamp": "2026-04-07T23:39:35.859917",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15046,6 +15046,16 @@
             "date": "2026-04-07T18:35:48+00:00",
             "message_id": 7694,
             "message_key": "@testingcatalog:7694"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic announces Claude Mythos for cybersecurity research**](https://www.testingcatalog.com/anthropic-announces-claude-mythos-for-cybersecuriy/)\n\nAnthropic introduced Claude Mythos Preview, an AI model that autonomously detects and exploits zero-day vulnerabilities. It has uncovered critical flaws across major systems and is available to select partners, with $100 million in credits supporting cybersecurity efforts.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic mengumumkan Claude Mythos untuk penyelidikan keselamatan siber**](https://www.testingcatalog.com/anthropic-announces-claude-mythos-for-cybersecuriy/)\n\nAnthropic memperkenalkan Claude Mythos Preview, sebuah model AI yang secara autonomi mengesan dan mengeksploitasi kerentanan zero-day. Ia telah menemui kelemahan kritikal merentasi sistem-sistem utama dan boleh didapati oleh rakan kongsi terpilih, dengan $100 juta dalam bentuk kredit untuk menyokong usaha keselamatan siber.\n\n\ud83d\uddde #claude",
+            "date": "2026-04-07T23:27:31+00:00",
+            "message_id": 7696,
+            "message_key": "@testingcatalog:7696"
         }
     ]
 }
