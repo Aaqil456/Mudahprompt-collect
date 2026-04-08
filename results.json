@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T02:38:44.135833",
+    "timestamp": "2026-04-08T11:00:20.124786",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15066,6 +15066,46 @@
             "date": "2026-04-07T23:44:04+00:00",
             "message_id": 7697,
             "message_key": "@testingcatalog:7697"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-08T10:25:44+00:00",
+            "message_id": 7701,
+            "message_key": "@testingcatalog:7701"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI is training 7 different models on Colossus 2 in different sizes from 1T to 10T, including Imagine V2. \n\nNot soon \ud83d\udc40",
+            "translated_text": "xAI sedang melatih 7 model berbeza menggunakan Colossus 2 dalam pelbagai saiz dari 1T hingga 10T, termasuk Imagine V2.\n\nBukan dalam masa terdekat \ud83d\udc40",
+            "date": "2026-04-08T10:25:44+00:00",
+            "message_id": 7700,
+            "message_key": "@testingcatalog:7700"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-08T10:18:22+00:00",
+            "message_id": 7699,
+            "message_key": "@testingcatalog:7699"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mythos grade intelligence might become available to users sooner than \u201cmonths\u201d. \n\n> it\u2019ll probably be months before we use a model of this level of capability\n\n> Uhm\n\nSoon \ud83d\udc40",
+            "translated_text": "Kepintaran tahap Mythos mungkin akan tersedia kepada pengguna lebih cepat dari \"berbulan-bulan\".\n\n> mungkin berbulan-bulan lagi sebelum kita dapat guna model dengan tahap keupayaan macam ni\n> Erm\nTak lama lagi \ud83d\udc40",
+            "date": "2026-04-08T10:18:22+00:00",
+            "message_id": 7698,
+            "message_key": "@testingcatalog:7698"
         }
     ]
 }
