@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-07T23:39:35.859917",
+    "timestamp": "2026-04-08T02:38:44.135833",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15056,6 +15056,16 @@
             "date": "2026-04-07T23:27:31+00:00",
             "message_id": 7696,
             "message_key": "@testingcatalog:7696"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Zhipu AI launches open-source GLM-5.1 model for coding tasks**](https://www.testingcatalog.com/zhipu-ai-launches-open-source-glm-5-1-model-for-coding-tasks/)\n\nZ AI has launched GLM-5.1, a flagship model built for agentic engineering and long-horizon coding, capable of running up to eight hours on a single task. \n\n\ud83d\uddde #ai",
+            "translated_text": "[**Zhipu AI melancarkan model sumber terbuka GLM-5.1 untuk tugasan pengekodan**](https://www.testingcatalog.com/zhipu-ai-launches-open-source-glm-5-1-model-for-coding-tasks/)\n\nZ AI telah melancarkan GLM-5.1, sebuah model utama yang dibina untuk kejuruteraan agen dan pengekodan jangka panjang, mampu beroperasi sehingga lapan jam untuk satu tugasan.\n\n\ud83d\uddde #ai",
+            "date": "2026-04-07T23:44:04+00:00",
+            "message_id": 7697,
+            "message_key": "@testingcatalog:7697"
         }
     ]
 }
