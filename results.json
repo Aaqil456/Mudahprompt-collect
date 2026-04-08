@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T20:50:48.798880",
+    "timestamp": "2026-04-08T21:45:24.055500",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15226,6 +15226,36 @@
             "date": "2026-04-08T19:52:01+00:00",
             "message_id": 7709,
             "message_key": "@testingcatalog:7709"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-08T21:26:44+00:00",
+            "message_id": 7716,
+            "message_key": "@testingcatalog:7716"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta stock price went up by 6-8% after Muse Spark model announcement.",
+            "translated_text": "",
+            "date": "2026-04-08T21:26:43+00:00",
+            "message_id": 7715,
+            "message_key": "@testingcatalog:7715"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Google has integrated NotebookLM directly into Gemini! \n\nIt will enable users to work with notebooks directly in the Gemini UI and use Gemini chats as sources for NotebookLM. \n\n\"We're rolling out notebooks in Gemini today, starting with Google AI Ultra, Pro, and Plus subscribers on the web. In the coming weeks, we'll expand access to mobile, more countries across Europe, and to free users.\"",
+            "translated_text": "",
+            "date": "2026-04-08T21:03:14+00:00",
+            "message_id": 7714,
+            "message_key": "@testingcatalog:7714"
         }
     ]
 }
