@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T17:11:26.753812",
+    "timestamp": "2026-04-08T19:21:11.847750",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15156,6 +15156,26 @@
             "date": "2026-04-08T15:22:22+00:00",
             "message_id": 7703,
             "message_key": "@testingcatalog:7703"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Anthropic announced Claude Managed Agents in public beta on Claude Platform!\n\nClaude Managed Agents will allow businesses to deploy agents with the latest capabilities at scale!\n\nConway, phase 1 \ud83d\udc40",
+            "translated_text": "TERKINI \ud83d\udea8: Anthropic dah umumkan Claude Managed Agents dalam fasa beta awam di Claude Platform!\n\nClaude Managed Agents ni akan bantu syarikat untuk guna ejen dengan keupayaan terkini secara besar-besaran!\n\nConway, fasa 1 \ud83d\udc40",
+            "date": "2026-04-08T17:22:07+00:00",
+            "message_id": 7708,
+            "message_key": "@testingcatalog:7708"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\ude31 Pika has introduced a new [feature](https://www.pika.me/): users can now with their AI agent via video call. \n\nThe startup, which specializes in creating digital replicas of real people, has integrated this feature into Google Meet: the agent replicates the user\u2019s appearance, voice, and personality traits. The technology is powered by the new PikaStream 1.0 model.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\ud83d\ude31 Pika dah perkenalkan satu [ciri](https://www.pika.me/) baru: pengguna sekarang boleh berinteraksi dengan ejen AI mereka melalui panggilan video.\n\nStartup ni, yang pakar dalam mencipta replika digital orang sebenar, dah integrasikan ciri ni ke dalam Google Meet: ejen tu akan meniru rupa, suara, dan ciri-ciri personaliti pengguna. Teknologi ni dikuasakan oleh model PikaStream 1.0 yang baru.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-08T17:56:11+00:00",
+            "message_id": 513,
+            "message_key": "@AItoolboxdaily:513"
         }
     ]
 }
