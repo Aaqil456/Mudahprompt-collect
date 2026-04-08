@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T19:21:11.847750",
+    "timestamp": "2026-04-08T20:50:48.798880",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15176,6 +15176,56 @@
             "date": "2026-04-08T17:56:11+00:00",
             "message_id": 513,
             "message_key": "@AItoolboxdaily:513"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Managed Agents for businesses**](https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/)\n\nAnthropic has launched Claude Managed Agents in public beta, offering composable APIs and production-grade infrastructure for building and deploying cloud-hosted AI agents. The suite supports secure execution, orchestration, and multi-agent workflows at scale.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic melancarkan Claude Managed Agents untuk perniagaan**](https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/)\n\nAnthropic dah lancarkan Claude Managed Agents dalam versi beta awam, menawarkan API yang boleh digabungkan dan infrastruktur bertaraf produksi untuk membina serta menggunakan ejen AI yang dihoskan di awan. Pakej ini boleh menyokong pelaksanaan yang selamat, orkestrasi, dan aliran kerja berbilang ejen dalam skala besar.\n\n\ud83d\uddde #claude",
+            "date": "2026-04-08T20:25:50+00:00",
+            "message_id": 7713,
+            "message_key": "@testingcatalog:7713"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta unveils Muse Spark AI model and new Contemplating mode**](https://www.testingcatalog.com/meta-unveils-muse-spark-ai-model-and-new-contemplating-mode/)\n\nMeta has launched Muse Spark, a new AI model built on a rebuilt pretraining stack with upgraded architecture, optimization, and data pipelines. It matches prior performance using over 10x less compute and ranks 4th on Artificial Analysis, targeting scalable research use.\n\n\ud83d\uddde #meta",
+            "translated_text": "[**Meta Perkenalkan Model AI Muse Spark dan Mod \"Contemplating\" Baru**](https://www.testingcatalog.com/meta-unveils-muse-spark-ai-model-and-new-contemplating-mode/)\n\nMeta dah lancarkan Muse Spark, model AI baru yang dibina atas 'pretraining stack' yang dibina semula, dengan seni bina, pengoptimuman, dan saluran data yang dinaik taraf. Prestasinya setanding dengan yang sebelum ini, tapi guna kuasa pengkomputeran lebih 10 kali ganda lebih rendah. Ia juga menduduki tempat ke-4 dalam Artificial Analysis, dengan sasaran untuk kegunaan penyelidikan yang boleh diskalakan.\n\n\ud83d\uddde #meta",
+            "date": "2026-04-08T20:20:27+00:00",
+            "message_id": 7712,
+            "message_key": "@testingcatalog:7712"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-08T20:09:58+00:00",
+            "message_id": 7711,
+            "message_key": "@testingcatalog:7711"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity will be running an 8-weeks competition where contenders will use Perplexity Computer to build businesses. \n\nUp to 1M investment and up to 1M in Computer credits. \n\nWe are slowly shifting towards levels 4 (innovators) and 5 (AI orgs) on the path to AGI and more and more AI solutions for businesses will arrive during 2026.",
+            "translated_text": "",
+            "date": "2026-04-08T20:09:58+00:00",
+            "message_id": 7710,
+            "message_key": "@testingcatalog:7710"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Google is hosting Google Cloud Next 26 event on April 22-24 in Las Vegas. \n\nLoads of updates are expected across Gemini, Vertex AI, Agents, Vibe Coding, Generative UI, and AI Cloud. \n\n> Going to be a fun next few months \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-04-08T19:52:01+00:00",
+            "message_id": 7709,
+            "message_key": "@testingcatalog:7709"
         }
     ]
 }
