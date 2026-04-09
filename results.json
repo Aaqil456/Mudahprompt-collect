@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-09T19:11:03.649055",
+    "timestamp": "2026-04-09T21:48:51.312371",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15356,6 +15356,36 @@
             "date": "2026-04-09T17:41:30+00:00",
             "message_id": 7726,
             "message_key": "@testingcatalog:7726"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Cowork in General Availability**](https://www.testingcatalog.com/anthropic-launches-claude-cowork-in-general-availability/)\n\nAnthropic has made Claude Cowork generally available on all paid plans, adding role-based access controls, group spend limits, usage analytics, expanded OpenTelemetry, and a Zoom connector to support governance, compliance, and cross-team workflow management.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic Melancarkan Claude Cowork untuk Kegunaan Umum**](https://www.testingcatalog.com/anthropic-launches-claude-cowork-in-general-availability/)\n\nAnthropic kini telah menjadikan Claude Cowork tersedia secara umum pada semua pelan berbayar, serta menambah kawalan akses berasaskan peranan, had perbelanjaan kumpulan, analitik penggunaan, OpenTelemetry yang diperluaskan, dan penyambung Zoom untuk menyokong tadbir urus, pematuhan, dan pengurusan aliran kerja merentas pasukan.\n\n\ud83d\uddde #claude",
+            "date": "2026-04-09T21:40:16+00:00",
+            "message_id": 7731,
+            "message_key": "@testingcatalog:7731"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google adds NotebookLM directly into Gemini for paid subscribers**](https://www.testingcatalog.com/google-adds-notebooklm-directly-into-gemini-for-paid-subscribers/)\n\nGoogle is adding Notebooks to Gemini, creating a shared workspace that syncs with NotebookLM. Users can group chats, files, and instructions in one project, then switch between tools for research and outputs, as Google unifies both products under Gemini.\n\n\ud83d\uddde #gemini",
+            "translated_text": "[**Google tambah NotebookLM terus ke dalam Gemini untuk pelanggan berbayar**](https://www.testingcatalog.com/google-adds-notebooklm-directly-into-gemini-for-paid-subscribers/)\n\nGoogle sedang menambah Notebooks ke Gemini, mewujudkan ruang kerja bersama yang disegerakkan dengan NotebookLM. Pengguna boleh mengumpulkan sembang, fail, dan arahan dalam satu projek, kemudian bertukar antara alatan untuk penyelidikan dan hasil, memandangkan Google menyatukan kedua-dua produk di bawah Gemini.\n\n\ud83d\uddde #gemini",
+            "date": "2026-04-09T21:36:22+00:00",
+            "message_id": 7730,
+            "message_key": "@testingcatalog:7730"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on a Style Tuner for Stitch to allow picking better-suited colors for generated designs.",
+            "translated_text": "Google sedang membangunkan Style Tuner untuk Stitch bagi membolehkan pemilihan warna yang lebih sesuai untuk rekaan yang dihasilkan.",
+            "date": "2026-04-09T21:21:07+00:00",
+            "message_id": 7729,
+            "message_key": "@testingcatalog:7729"
         }
     ]
 }
