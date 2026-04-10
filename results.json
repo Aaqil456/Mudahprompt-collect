@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-10T13:17:42.503806",
+    "timestamp": "2026-04-10T14:51:42.696421",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15426,6 +15426,46 @@
             "date": "2026-04-10T12:31:22+00:00",
             "message_id": 514,
             "message_key": "@AItoolboxdaily:514"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Notion continues to work on the \"Computer\" feature to expand the capabilities of its AI workforce. \n\nNotion AI agents will have access to custom Computer environments, Computer Use model selector, trusted URLs setting, and custom \"scripts\". \n\n> Imagine hiring dozens of AI employees and buying a Computer for all of them. \n\n> VM hosting is a new IT Supply \ud83d\udc40",
+            "translated_text": "Notion terus usahakan ciri \"Computer\" untuk kembangkan keupayaan tenaga kerja AI mereka.\n\nEjen AI Notion akan ada akses kepada persekitaran Computer tersuai, pemilih model Penggunaan Computer, tetapan URL yang dipercayai, dan \"skrip\" tersuai.\n\n> Bayangkan ambil berpuluh-puluh pekerja AI dan belikan Computer untuk mereka semua.\n\n> Hos VM adalah Bekalan IT baharu \ud83d\udc40",
+            "date": "2026-04-10T14:26:26+00:00",
+            "message_id": 7738,
+            "message_key": "@testingcatalog:7738"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Notion tests Computer to expand capabilities of its AI offering**](https://www.testingcatalog.com/notion-tests-computer-to-expand-capabilities-of-its-ai-offering/)\n\nNotion is expanding its agent strategy by introducing a \u201cComputer\u201d capability and integrating Anthropic\u2019s Claude Managed Agents. The move enables teams to assign autonomous, multi-step tasks from Notion, with agents operating beyond the workspace via managed infrastructure.\n\n\ud83d\uddde #notion @testingcatalog",
+            "translated_text": "[**Notion Uji 'Computer' untuk Kembangkan Keupayaan AI Mereka**](https://www.testingcatalog.com/notion-tests-computer-to-expand-capabilities-of-its-ai-offering/)\n\nNotion sedang meluaskan strategi ejennya dengan memperkenalkan keupayaan \"Computer\" dan menyepadukan Claude Managed Agents dari Anthropic. Langkah ini membolehkan pasukan untuk menetapkan tugas autonomi yang berbilang langkah dari Notion, dengan ejen-ejen beroperasi di luar ruang kerja melalui infrastruktur terurus.\n\n\ud83d\uddde #notion @testingcatalog",
+            "date": "2026-04-10T14:16:16+00:00",
+            "message_id": 7737,
+            "message_key": "@testingcatalog:7737"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares broader rollout of Skills for Gemini and AI Studio**](https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/)\n\nGoogle is preparing to expand Gemini \u201cSkills\u201d to AI Studio and consumer versions, enabling reusable instruction sets and scheduled tasks. The move would support automated workflows, standardize outputs across projects, and align Gemini with competing AI platforms ahead of I/O 2026.\n\n\ud83d\uddde #aistudio",
+            "translated_text": "[**Google bersiap sedia untuk melancarkan \"Skills\" secara lebih meluas untuk Gemini dan AI Studio**](https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/)\n\nGoogle sedang bersedia untuk meluaskan \"Skills\" Gemini ke AI Studio dan versi pengguna, membolehkan set arahan yang boleh diguna semula dan tugasan berjadual. Langkah ini akan menyokong aliran kerja automatik, menyeragamkan hasil merentasi projek, dan menyelaraskan Gemini dengan platform AI pesaing menjelang I/O 2026.\n\n\ud83d\uddde #aistudio",
+            "date": "2026-04-10T14:04:31+00:00",
+            "message_id": 7736,
+            "message_key": "@testingcatalog:7736"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic develops managed 24/7 Agent for Claude mobile apps**](https://www.testingcatalog.com/anthropic-develops-managed-24-7-agent-for-claude-mobile-apps/)\n\nAnthropic appears to be preparing a consumer version of its managed \u201cConway\u201d agents within the Claude iOS app, signaling a push toward unified, persistent agent functionality across mobile, web, and desktop amid rising competition in autonomous AI tools.\n\n\ud83d\uddde #claude",
+            "translated_text": "[**Anthropic bangunkan Ejen 24/7 terurus untuk aplikasi mudah alih Claude**](https://www.testingcatalog.com/anthropic-develops-managed-24-7-agent-for-claude-mobile-apps/)\n\nAnthropic nampaknya sedang siapkan versi pengguna untuk ejen \u201cConway\u201d terurus mereka dalam aplikasi Claude iOS. Ini menunjukkan ada usaha ke arah fungsi ejen yang lebih bersatu dan berterusan merentasi peranti mudah alih, web, dan desktop, terutamanya dengan persaingan yang makin sengit dalam alat AI autonomi.\n\n\ud83d\uddde #claude",
+            "date": "2026-04-10T13:54:25+00:00",
+            "message_id": 7735,
+            "message_key": "@testingcatalog:7735"
         }
     ]
 }
