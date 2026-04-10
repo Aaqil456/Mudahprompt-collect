@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-10T15:56:59.890623",
+    "timestamp": "2026-04-10T18:58:48.999846",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15516,6 +15516,16 @@
             "date": "2026-04-10T14:58:44+00:00",
             "message_id": 7739,
             "message_key": "@testingcatalog:7739"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\udca5 OpenAI has [launched](https://x.com/OpenAI/status/2042295688323875316?s=20) a \u201cbudget\u201d Pro subscription, you can now use the top GPT models for $100 a month.\n\nThe limit under the new plan is five times higher than on Plus, but lower than the standard Pro plan. It\u2019s enough for long sessions in Codex, which require a lot of context.\n\nTo celebrate the launch, Codex limits have been nearly doubled for all ChatGPT users through the end of May.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "",
+            "date": "2026-04-10T17:52:01+00:00",
+            "message_id": 515,
+            "message_key": "@AItoolboxdaily:515"
         }
     ]
 }
