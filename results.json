@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-11T18:51:34.410176",
+    "timestamp": "2026-04-11T21:37:07.785868",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15646,6 +15646,36 @@
             "date": "2026-04-11T17:36:31+00:00",
             "message_id": 517,
             "message_key": "@AItoolboxdaily:517"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI prepares credits system for upcoming Grok Build launch**](https://www.testingcatalog.com/xai-prepares-credits-system-for-upcoming-grok-build-launch/)\n\nxAI is preparing a credits-based pricing model for Grok Build, its upcoming coding platform with local CLI and web access. Features like Model Arena and bundled monthly credits point to a commercial launch aimed at competing with Codex and Claude Code.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**xAI sedang siapkan sistem kredit untuk pelancaran Grok Build yang akan datang**](https://www.testingcatalog.com/xai-prepares-credits-system-for-upcoming-grok-build-launch/)\n\nxAI sedang menyediakan model harga berasaskan kredit untuk Grok Build, platform pengekodan mereka yang akan datang yang dilengkapi dengan akses CLI tempatan dan web. Ciri-ciri seperti Model Arena dan pakej kredit bulanan menunjukkan pelancaran komersial yang bertujuan untuk bersaing dengan Codex dan Claude Code.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-04-11T20:57:14+00:00",
+            "message_id": 7757,
+            "message_key": "@testingcatalog:7757"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \u26a1\ufe0f: Google is working on Voice Mode and new collaborative tools for its Mixboard experiment. \n\nVoice mode on Mixboard works similarly to Stitch, allowing users to operate their canvas boards with voice commands. \n\nIt will be possible to generate and edit images, and potentially move them around. \n\nImagine a team retrospective where everyone can just dump their complaints with voice commands!",
+            "translated_text": "GOOGLE \u26a1\ufe0f: Google sedang usahakan Mod Suara dan alatan kolaborasi baru untuk eksperimen Mixboard mereka.\n\nMod Suara di Mixboard berfungsi macam Stitch, membolehkan pengguna kawal papan kanvas mereka guna arahan suara.\n\nNanti boleh jana dan edit gambar, dan mungkin boleh gerak-gerakkan gambar tu.\n\nBayangkan satu sesi retrospektif pasukan di mana semua orang boleh luahkan aduan mereka guna arahan suara!",
+            "date": "2026-04-11T20:51:28+00:00",
+            "message_id": 7756,
+            "message_key": "@testingcatalog:7756"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google develops voice mode and collaborative tools for Mixboard**](https://www.testingcatalog.com/google-develops-voice-mode-and-collaborative-tools-for-mixboard/)\n\nGoogle\u2019s Mixboard is expanding beyond image canvases with stickers, voice notes, shapes, markers, voice control, and PDF export. The updates position it closer to collaborative whiteboarding tools, blending generative AI with day-to-day team workflows.\n\n\ud83d\uddde #aitestkitchen @testingcatalog",
+            "translated_text": "[**Google membangunkan mod suara dan alat kolaborasi untuk Mixboard**](https://www.testingcatalog.com/google-develops-voice-mode-and-collaborative-tools-for-mixboard/)\n\nMixboard Google kini berkembang melangkaui kanvas imej dengan pelekat, nota suara, bentuk, penanda, kawalan suara, dan eksport PDF. Kemaskini ini meletakkannya lebih dekat dengan alat papan putih kolaboratif, menggabungkan AI generatif dengan aliran kerja pasukan harian.\n\n\ud83d\uddde #aitestkitchen @testingcatalog",
+            "date": "2026-04-11T20:42:26+00:00",
+            "message_id": 7755,
+            "message_key": "@testingcatalog:7755"
         }
     ]
 }
