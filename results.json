@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-11T08:50:03.518426",
+    "timestamp": "2026-04-11T13:03:48.957904",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15606,6 +15606,16 @@
             "date": "2026-04-11T08:09:35+00:00",
             "message_id": 7751,
             "message_key": "@testingcatalog:7751"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\u269b\ufe0f Google has quietly launched a free dictation app based on Gemma models called AI [Edge Eloquent](https://apps.apple.com/kz/app/google-ai-edge-eloquent/id6756505519). It [runs](https://apps.apple.com/kz/app/google-ai-edge-eloquent/id6756505519) on iOS and converts speech to text in real time. The service removes filler words and makes sentences more structured. \n\nThe app works offline and does not limit users by time or usage. You can also edit the result and copy it to other apps without an internet connection.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "\u269b\ufe0f Google dah senyap-senyap lancarkan satu aplikasi imlak percuma berdasarkan model Gemma, namanya AI [Edge Eloquent](https://apps.apple.com/kz/app/google-ai-edge-eloquent/id6756505519). Ia [berfungsi](https://apps.apple.com/kz/app/google-ai-edge-eloquent/id6756505519) di iOS dan tukarkan suara kepada teks secara langsung. Perkhidmatan ni buang perkataan pengisi dan jadikan ayat lebih tersusun.\n\nAplikasi ni boleh guna luar talian dan tak hadkan pengguna ikut masa atau penggunaan. Awak juga boleh edit hasilnya dan salin ke aplikasi lain tanpa sambungan internet.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-11T11:56:19+00:00",
+            "message_id": 516,
+            "message_key": "@AItoolboxdaily:516"
         }
     ]
 }
