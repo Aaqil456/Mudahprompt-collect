@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-11T13:03:48.957904",
+    "timestamp": "2026-04-11T18:51:34.410176",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15616,6 +15616,36 @@
             "date": "2026-04-11T11:56:19+00:00",
             "message_id": 516,
             "message_key": "@AItoolboxdaily:516"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is working on a new experimental feature for Codex called Scratchpad. \n\nUsers will be able to start multiple Codex chats from a TODO list view, which will be executed in parallel. \n\nIt will become very instrumental in the upcoming Codex Superapp, where you will be able to trigger a broader range of tasks to achieve your goals.\n\n* Not available yet \ud83d\udc40",
+            "translated_text": "OpenAI sedang membangunkan satu ciri eksperimen baharu untuk Codex yang dinamakan Scratchpad.\n\nPengguna akan dapat memulakan beberapa sembang Codex dari paparan senarai TODO, yang akan dijalankan secara serentak.\n\nIa akan menjadi sangat membantu dalam Codex Superapp yang akan datang, di mana anda akan dapat mencetuskan pelbagai jenis tugasan yang lebih luas untuk mencapai matlamat anda.\n\n* Belum tersedia lagi \ud83d\udc40",
+            "date": "2026-04-11T17:36:37+00:00",
+            "message_id": 7754,
+            "message_key": "@testingcatalog:7754"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI develops unified Codex app and new Scratchpad feature**](https://www.testingcatalog.com/openai-develops-unified-codex-app-and-new-scratchpad-feature/)\n\nOpenAI is developing a Scratchpad feature for Codex to run parallel tasks and moving toward a unified desktop app that could merge ChatGPT and Atlas. Code hints at managed agents with persistent workflows, alongside speculation of a GPT-5.5 release.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI membangunkan aplikasi Codex bersepadu dan ciri Scratchpad baharu**](https://www.testingcatalog.com/openai-develops-unified-codex-app-and-new-scratchpad-feature/)\n\nOpenAI sedang membangunkan ciri Scratchpad untuk Codex bagi menjalankan tugas secara selari dan bergerak ke arah aplikasi desktop bersepadu yang mungkin menggabungkan ChatGPT dan Atlas. Kod membayangkan ejen terurus dengan aliran kerja yang berterusan, bersama spekulasi mengenai pelancaran GPT-5.5.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-04-11T17:34:44+00:00",
+            "message_id": 7753,
+            "message_key": "@testingcatalog:7753"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**TextCortex**\n\n\ud83c\udff7 #AIWriting #KnowledgeManagement #Productivity\n\u2b50\ufe0f 4.7\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/textcortex/?utm_source=tg)\n\n\ud83d\udcac AI writing and knowledge platform that helps teams generate better text faster across web apps, browser extensions, and integrations.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**TextCortex**\n\n\ud83c\udff7 #AIWriting #KnowledgeManagement #Productivity\n\u2b50\ufe0f 4.7\n\ud83d\udd17 [Lawati Laman Web](https://bestaitools.ai/tools/textcortex/?utm_source=tg)\n\n\ud83d\udcac Platform AI untuk penulisan dan pengurusan pengetahuan yang bantu pasukan hasilkan teks lebih baik dengan pantas, merentasi aplikasi web, sambungan pelayar, dan integrasi.\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-11T17:36:31+00:00",
+            "message_id": 517,
+            "message_key": "@AItoolboxdaily:517"
         }
     ]
 }
