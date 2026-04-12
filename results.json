@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-11T23:37:58.462125",
+    "timestamp": "2026-04-12T13:06:36.001173",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15706,6 +15706,16 @@
             "date": "2026-04-11T23:02:53+00:00",
             "message_id": 7760,
             "message_key": "@testingcatalog:7760"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Problem Solving**\n\n\u201cBreak down any problem into a clear solution path.\u201d\nUse this command:\n\n```Take the problem below and analyze it in depth.\nIdentify what is actually causing the issue, separate important factors from noise, and explore realistic ways to solve it.\nExplain your reasoning clearly and guide me toward the most practical solution based on real-world constraints.\nProblem: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Selesaikan Masalah**\n\n\u201cPecahkan apa-apa masalah kepada laluan penyelesaian yang jelas.\u201d\nGunakan arahan ini:\n\n```Ambil masalah di bawah dan analisis secara mendalam.\nKenal pasti punca sebenar masalah itu, asingkan faktor penting daripada gangguan, dan teroka cara-cara realistik untuk menyelesaikannya.\nTerangkan alasan anda dengan jelas dan bimbing saya ke arah penyelesaian paling praktikal berdasarkan kekangan dunia sebenar.\nMasalah: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-12T11:58:01+00:00",
+            "message_id": 518,
+            "message_key": "@AItoolboxdaily:518"
         }
     ]
 }
