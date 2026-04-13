@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T08:10:38.420427",
+    "timestamp": "2026-04-13T12:06:35.463215",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15766,6 +15766,16 @@
             "date": "2026-04-13T07:05:42+00:00",
             "message_id": 7765,
             "message_key": "@testingcatalog:7765"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\ud83c\udf10 Meta has a competitive AI model but loses its open-source identity**\n\nThe open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind Llama, something shifted.\n\n A company with three billion users, vast compute resources, and the credibility of a tech giant was now building openly, and the developer community responded.\n\nBy early 2026, the Llama ecosystem had [reached](https://www.threads.com/@zuck/post/DHV7vTivqWD?xmt=https%3A%2F%2Ftechcrunch.com%2F2025%2F03%2F18%2Fmark-zuckerberg-says-that-metas-llama-models-have-hit-1b-downloads%2F) 1.2 billion downloads, averaging about 1 million per day. That is the context for what happened on April 8, 2026. Meta launched Muse Spark, its first major new Meta AI model in a year, and the first product from its newly formed Meta Superintelligence Labs.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "",
+            "date": "2026-04-13T12:02:01+00:00",
+            "message_id": 520,
+            "message_key": "@AItoolboxdaily:520"
         }
     ]
 }
