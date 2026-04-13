@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T12:06:35.463215",
+    "timestamp": "2026-04-13T16:15:57.436411",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15776,6 +15776,16 @@
             "date": "2026-04-13T12:02:01+00:00",
             "message_id": 520,
             "message_key": "@AItoolboxdaily:520"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI tests web browsing feature on Codex Superapp**](https://www.testingcatalog.com/openai-tests-web-browsing-feature-on-codex-superapp/)\n\nOpenAI is preparing a broader Codex update with basic and pro onboarding, pull request tools, live UI previews, inline feedback, and parallel task planning, positioning Codex as a unified workspace beyond coding.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI sedang menguji ciri pelayaran web pada Codex Superapp**](https://www.testingcatalog.com/openai-tests-web-browsing-feature-on-codex-superapp/)\n\nOpenAI sedang menyediakan kemas kini Codex yang lebih menyeluruh, lengkap dengan onboarding asas dan pro, alat pull request, pratonton UI secara langsung, maklum balas sebaris, dan perancangan tugas selari. Ini meletakkan Codex sebagai ruang kerja bersepadu yang melangkaui pengekodan.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-04-13T15:27:50+00:00",
+            "message_id": 7767,
+            "message_key": "@testingcatalog:7767"
         }
     ]
 }
