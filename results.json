@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T02:54:41.009233",
+    "timestamp": "2026-04-13T08:10:38.420427",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15746,6 +15746,26 @@
             "date": "2026-04-13T00:21:43+00:00",
             "message_id": 7763,
             "message_key": "@testingcatalog:7763"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "It also comes with a new Pull Requests section for PR management and the possibility to leave comments right on the previewed UI.",
+            "translated_text": "",
+            "date": "2026-04-13T07:06:18+00:00",
+            "message_id": 7766,
+            "message_key": "@testingcatalog:7766"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is preparing to split Codex use cases into Basic and Advanced (for developers), along with new additions like app preview, scratchpad, and more. \n\nDiscovered by x@mweinbach",
+            "translated_text": "",
+            "date": "2026-04-13T07:05:42+00:00",
+            "message_id": 7765,
+            "message_key": "@testingcatalog:7765"
         }
     ]
 }
