@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T18:04:29.857135",
+    "timestamp": "2026-04-13T21:55:48.613187",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15816,6 +15816,46 @@
             "date": "2026-04-13T16:39:01+00:00",
             "message_id": 521,
             "message_key": "@AItoolboxdaily:521"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-13T21:14:45+00:00",
+            "message_id": 7773,
+            "message_key": "@testingcatalog:7773"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI acquired Hiro Finance \ud83d\udd25\n\n> Hiro Finance team has been building a personal AI CFO\n\n> OpenAI has been developing their own Finance solution on ChatGPT for some time already\n\nAI CFOs are on the raise \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-04-13T21:14:45+00:00",
+            "message_id": 7772,
+            "message_key": "@testingcatalog:7772"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google I/O leaks \ud83d\udc40\n\nGoogle is likely already testing its own \"Cowork\" competitor, simply named \"Agent\" for Gemini and Gemini Enterprise. \n\nA new \"Tasks\" UI highlights \n- Goal\n- Agent\n- Connected apps\n- Files\n- Require a human review toggle \n- And more\n\nThe \"Require a human review\" component specifically means that Gemini's capabilities will likely expand, potentially allowing users to automate their desktop tasks as well. \n\nSkills and Projects are also cooking \ud83d\udc40",
+            "translated_text": "Bocoran Google I/O \ud83d\udc40\n\nGoogle nampaknya dah mula uji pesaing \"Cowork\" mereka sendiri, yang dinamakan \"Agent\" saja, untuk Gemini dan Gemini Enterprise.\n\nAntaramuka (UI) \"Tasks\" yang baru menunjukkan:\n- Matlamat\n- Agent\n- Aplikasi yang bersambung\n- Fail\n- Butang tukar 'Perlukan semakan manusia'\n- Dan banyak lagi\n\nKomponen \"Perlukan semakan manusia\" ini secara spesifik bermaksud keupayaan Gemini mungkin akan berkembang, berpotensi membolehkan pengguna mengautomasikan tugasan desktop mereka juga.\n\nKemahiran dan Projek pun sedang diusahakan juga \ud83d\udc40",
+            "date": "2026-04-13T20:55:23+00:00",
+            "message_id": 7771,
+            "message_key": "@testingcatalog:7771"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google develops its own desktop Agent to compete with Cowork**](https://www.testingcatalog.com/google-develops-its-own-desktop-agent-to-compete-with-cowork/)\n\nGoogle appears to be turning Gemini Enterprise into an agent-based work platform. A new Agent tab, task workspace, connected tools, and human-review controls point a possible desktop-focused rollout during I/O.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "",
+            "date": "2026-04-13T20:35:49+00:00",
+            "message_id": 7770,
+            "message_key": "@testingcatalog:7770"
         }
     ]
 }
