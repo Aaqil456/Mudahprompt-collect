@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T16:15:57.436411",
+    "timestamp": "2026-04-13T18:04:29.857135",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15786,6 +15786,36 @@
             "date": "2026-04-13T15:27:50+00:00",
             "message_id": 7767,
             "message_key": "@testingcatalog:7767"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-13T17:42:06+00:00",
+            "message_id": 7769,
+            "message_key": "@testingcatalog:7769"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity grew from $100M to $500M with only 34% growth in team size and fully pivoted to Perplexity Computer. \n\nComputer for businesses \ud83d\udc40",
+            "translated_text": "Perplexity berkembang dari $100 juta ke $500 juta dengan hanya 34% peningkatan saiz pasukan dan beralih sepenuhnya kepada Perplexity Computer. Komputer untuk perniagaan \ud83d\udc40",
+            "date": "2026-04-13T17:42:06+00:00",
+            "message_id": 7768,
+            "message_key": "@testingcatalog:7768"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Surfer SEO**\n\n\ud83c\udff7 #SEO #ContentOptimization #AIWriting\n\u2b50\ufe0f 4.8\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/surfer-seo/?utm_source=tg)\n\n\ud83d\udcac SEO content optimization platform for researching, auditing, and improving pages with AI-assisted workflows.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Surfer SEO**\n\n\ud83c\udff7 #SEO #PengoptimumanKandungan #PenulisanAI\n\u2b50\ufe0f 4.8\n\ud83d\udd17 [Lawati Laman Web](https://bestaitools.ai/tools/surfer-seo/?utm_source=tg)\n\n\ud83d\udcac Platform pengoptimuman kandungan SEO untuk penyelidikan, audit, dan tingkatkan halaman dengan aliran kerja bantuan AI.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-13T16:39:01+00:00",
+            "message_id": 521,
+            "message_key": "@AItoolboxdaily:521"
         }
     ]
 }
