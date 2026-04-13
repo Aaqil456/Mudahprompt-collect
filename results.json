@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-12T16:42:58.233269",
+    "timestamp": "2026-04-13T02:54:41.009233",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15726,6 +15726,26 @@
             "date": "2026-04-12T16:37:01+00:00",
             "message_id": 519,
             "message_key": "@AItoolboxdaily:519"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Both Anthropic and OpenAI are gearing up to release updates to their desktop apps already next week.\n\nAnthropic is finalizing its new Claude Code \"epitaxy\" experience with a power-user-friendly UI, Cowork-style layout, and the possibility to work on multiple repositories at once.\n\nUsers will be able to preview their code right in the app, along with sections to view a \"Plan\", \"Tasks\" executed by sub-agents, and \"Diff\".\n\nCoordinator Mode is coming too \ud83d\udc40",
+            "translated_text": "Anthropic dan OpenAI sedang bersiap sedia untuk melancarkan kemas kini aplikasi desktop mereka seawal minggu depan.\n\nAnthropic sedang memuktamadkan pengalaman baru Claude Code \"epitaxy\" mereka, lengkap dengan UI yang mesra pengguna tegar, susun atur gaya Cowork, dan keupayaan untuk bekerja pada pelbagai repositori serentak.\n\nPengguna akan dapat pratonton kod mereka terus dalam aplikasi, bersama dengan bahagian untuk melihat \"Plan\", \"Tasks\" yang dilaksanakan oleh sub-agen, dan \"Diff\".\n\nCoordinator Mode pun akan datang juga \ud83d\udc40",
+            "date": "2026-04-13T00:28:51+00:00",
+            "message_id": 7764,
+            "message_key": "@testingcatalog:7764"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests Claude Code upgrade to rival Codex Superapp**](https://www.testingcatalog.com/anthropic-tests-claude-code-upgrade-to-rival-codex-superapp/)\n\nAnthropic\u2019s \u201cEpitaxy\u201d revamps Claude Code\u2019s desktop app with Plan, Tasks, Diffs, code preview, multi-repo support, custom agents, and a local Coordinator Mode, signaling a shift toward power-user developer workflows.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic menguji naik taraf Claude Code untuk menyaingi Codex Superapp**](https://www.testingcatalog.com/anthropic-tests-claude-code-upgrade-to-rival-codex-superapp/)\n\n\u201cEpitaxy\u201d dari Anthropic ni dah ubah suai aplikasi desktop Claude Code. Sekarang dia ada Plan, Tasks, Diffs, pratonton kod, sokongan untuk pelbagai repositori, agen tersuai, dan Coordinator Mode tempatan. Ini menunjukkan yang Anthropic nak fokus pada cara kerja pembangun yang lebih canggih.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-04-13T00:21:43+00:00",
+            "message_id": 7763,
+            "message_key": "@testingcatalog:7763"
         }
     ]
 }
