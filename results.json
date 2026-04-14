@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T21:55:48.613187",
+    "timestamp": "2026-04-14T07:50:37.830619",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15856,6 +15856,26 @@
             "date": "2026-04-13T20:35:49+00:00",
             "message_id": 7770,
             "message_key": "@testingcatalog:7770"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-14T07:40:19+00:00",
+            "message_id": 7775,
+            "message_key": "@testingcatalog:7775"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Thinking Machines acquired Workshop Labs. \n\n> Workshop Labs is an AI research lab with a mission to make people irreplaceable. \n\nThinking Labs \ud83d\udc40",
+            "translated_text": "Thinking Machines mengambil alih Workshop Labs.\n\nWorkshop Labs adalah makmal penyelidikan AI dengan misi untuk menjadikan manusia tidak boleh diganti.\n\nThinking Labs \ud83d\udc40",
+            "date": "2026-04-14T07:40:19+00:00",
+            "message_id": 7774,
+            "message_key": "@testingcatalog:7774"
         }
     ]
 }
