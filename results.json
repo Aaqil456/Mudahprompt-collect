@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-14T15:16:08.070511",
+    "timestamp": "2026-04-14T17:12:47.946506",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15926,6 +15926,26 @@
             "date": "2026-04-14T15:01:10+00:00",
             "message_id": 7778,
             "message_key": "@testingcatalog:7778"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**TinyFish launches 4-in-1 web agents API suite for developers**](https://www.testingcatalog.com/tinyfish-launches-4-in-1-web-agents-api-suite-for-developers/)\n\nTinyFish launched a unified four-API web platform for AI coding agents, adding CLI and Agent Skill access with no integration code. It reports lower token use, higher task completion, 89.9% benchmark accuracy, and 99.99% uptime.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**TinyFish melancarkan suit API ejen web 4-dalam-1 untuk pembangun**](https://www.testingcatalog.com/tinyfish-launches-4-in-1-web-agents-api-suite-for-developers/)\n\nTinyFish telah melancarkan platform web bersepadu dengan empat API untuk ejen pengekodan AI, yang turut menambah akses CLI dan Agent Skill tanpa memerlukan kod integrasi. Ia melaporkan penggunaan token yang lebih rendah, penyelesaian tugas yang lebih tinggi, ketepatan penanda aras 89.9%, dan masa beroperasi (uptime) 99.99%.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-04-14T16:02:49+00:00",
+            "message_id": 7780,
+            "message_key": "@testingcatalog:7780"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Clearscope\n**\n\ud83c\udff7 #SEO #ContentOptimization #AIWriting\n\u2b50\ufe0f 4.7\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/clearscope/?utm_source=tg)\n\n\ud83d\udcac SEO and AI visibility platform for researching topics, optimizing drafts, and improving search performance.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Clearscope**\n\n\ud83c\udff7 #SEO #PengoptimumanKandungan #PenulisanAI\n\u2b50\ufe0f 4.7\n\ud83d\udd17 [Lawati Laman Web](https://bestaitools.ai/tools/clearscope/?utm_source=tg)\n\n\ud83d\udcac Platform keterlihatan SEO dan AI untuk menyelidik topik, mengoptimumkan draf, dan meningkatkan prestasi carian.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-14T16:48:01+00:00",
+            "message_id": 523,
+            "message_key": "@AItoolboxdaily:523"
         }
     ]
 }
