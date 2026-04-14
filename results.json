@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-14T11:05:23.474119",
+    "timestamp": "2026-04-14T13:47:39.466139",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -15886,6 +15886,26 @@
             "date": "2026-04-14T10:51:30+00:00",
             "message_id": 7776,
             "message_key": "@testingcatalog:7776"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Canvas and Connectors on NotebookLM**](https://www.testingcatalog.com/google-tests-canvas-and-connectors-on-notebooklm/)\n\nGoogle appears to be expanding NotebookLM with Canvas for visual outputs, Connectors for external data, and source labels with auto categorization.\n\nh/t @Thomasguka\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**Google uji Canvas dan Connectors di NotebookLM**](https://www.testingcatalog.com/google-tests-canvas-and-connectors-on-notebooklm/)\n\nGoogle nampaknya sedang mengembangkan NotebookLM dengan Canvas untuk output visual, Connectors untuk data luaran, dan label sumber dengan pengkategorian automatik.\n\nkredit kepada @Thomasguka\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-04-14T12:52:12+00:00",
+            "message_id": 7777,
+            "message_key": "@testingcatalog:7777"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Advanced Prompt for Personal Productivity\n**\n\u201cOptimize how I work, not just what I do.\u201d\nUse this command:\n\n```Based on the details below, analyze how I currently work and suggest ways to improve my efficiency and focus.\nIdentify time-wasting patterns, unnecessary complexity, and opportunities to simplify or automate.\nPropose a cleaner, more effective way of working that is sustainable and easy to follow.\nDetails: [paste your routine, tools, tasks, challenges]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt Lanjutan untuk Produktiviti Peribadi**\n\n\u201cOptimumkan cara saya bekerja, bukan sekadar apa yang saya buat.\u201d\nGunakan arahan ini:\n\n```Berdasarkan butiran di bawah, analisis cara saya bekerja sekarang dan cadangkan cara untuk meningkatkan kecekapan dan fokus saya.\nKenal pasti corak pembaziran masa, kerumitan yang tidak perlu, dan peluang untuk mempermudah atau mengautomasikan.\nCadangkan cara bekerja yang lebih kemas, lebih berkesan yang lestari dan mudah diikuti.\nButiran: [tampal rutin, alatan, tugasan, cabaran anda di sini]```\n\n#AIPrompts #KerjaLebihCekap #AliranKerjaAI\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-14T11:59:01+00:00",
+            "message_id": 522,
+            "message_key": "@AItoolboxdaily:522"
         }
     ]
 }
