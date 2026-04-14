@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-14T21:58:50.925388",
+    "timestamp": "2026-04-14T22:55:25.927694",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16006,6 +16006,46 @@
             "date": "2026-04-14T21:05:02+00:00",
             "message_id": 7786,
             "message_key": "@testingcatalog:7786"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft launches faster MAI-Image-2-Efficient for business**](https://www.testingcatalog.com/microsoft-launches-faster-mai-image-2-efficient-for-business/)\n\nMicrosoft launched MAI-Image-2-Efficient, a faster, lower-cost image model for high-volume production. It is 22% faster, 4x more compute-efficient, and about 41% cheaper, with Foundry availability aimed at enterprise-scale workflows.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Microsoft lancarkan MAI-Image-2-Efficient yang lebih pantas untuk perniagaan**](https://www.testingcatalog.com/microsoft-launches-faster-mai-image-2-efficient-for-business/)\n\nMicrosoft telah melancarkan MAI-Image-2-Efficient, iaitu model imej yang lebih pantas dan kos lebih rendah untuk pengeluaran berskala besar. Ia 22% lebih pantas, 4 kali ganda lebih cekap dari segi pengkomputeran, dan kira-kira 41% lebih murah, dengan ketersediaan Foundry yang disasarkan untuk aliran kerja berskala perusahaan.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-04-14T22:42:54+00:00",
+            "message_id": 7791,
+            "message_key": "@testingcatalog:7791"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google rolls out Skills in Chrome for saving and reusing AI prompts**](https://www.testingcatalog.com/google-rolls-out-skills-in-chrome-for-saving-and-reusing-ai-prompts/)\n\nGoogle is rolling out Skills in Gemini for Chrome on desktop, letting signed-in users save, reuse, and customize prompts across devices. The feature supports repeat web tasks, offers ready-made prompt templates, and includes safety checks.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google melancarkan fungsi Skills dalam Chrome untuk simpan dan guna semula arahan AI**](https://www.testingcatalog.com/google-rolls-out-skills-in-chrome-for-saving-and-reusing-ai-prompts/)\n\nGoogle sedang melancarkan fungsi Skills dalam Gemini untuk Chrome di desktop, membolehkan pengguna yang log masuk untuk simpan, guna semula, dan sesuaikan arahan (prompts) merentasi pelbagai peranti. Fungsi ini menyokong tugasan web berulang, menawarkan templat arahan (prompts) yang sedia ada, dan disertakan dengan pemeriksaan keselamatan.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-04-14T22:29:28+00:00",
+            "message_id": 7790,
+            "message_key": "@testingcatalog:7790"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-14T22:05:09+00:00",
+            "message_id": 7789,
+            "message_key": "@testingcatalog:7789"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta has partnered with Broadcom to co-develop next gen MTIA chips that would power AI across Meta apps and services. \n\n> Meta Training and Inference Accelerator",
+            "translated_text": "Meta dah bekerjasama dengan Broadcom untuk bangunkan bersama cip MTIA generasi seterusnya (Meta Training and Inference Accelerator) yang akan kuasakan AI untuk semua aplikasi dan perkhidmatan Meta.",
+            "date": "2026-04-14T22:05:09+00:00",
+            "message_id": 7788,
+            "message_key": "@testingcatalog:7788"
         }
     ]
 }
