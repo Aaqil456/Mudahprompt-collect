@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-15T15:07:25.833002",
+    "timestamp": "2026-04-15T17:08:01.367160",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16106,6 +16106,36 @@
             "date": "2026-04-15T14:25:24+00:00",
             "message_id": 7796,
             "message_key": "@testingcatalog:7796"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released Gemini 3.1 Flash TTS with support for 70 different languages!\n\n> Available via a new audio playground in AI Studio and in the Gemini API!",
+            "translated_text": "Google dah lancarkan Gemini 3.1 Flash TTS, dan ia menyokong 70 bahasa berbeza!\n\nIa boleh didapati melalui audio playground baru dalam AI Studio dan juga dalam Gemini API!",
+            "date": "2026-04-15T16:30:48+00:00",
+            "message_id": 7799,
+            "message_key": "@testingcatalog:7799"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released Gemini app for macOS \ud83d\udc40\n\nCurrently, it mimics functionality available on the web, but looks like we will get Gemini Live support there soon as well.",
+            "translated_text": "Google dah rilis app Gemini untuk macOS \ud83d\udc40\nSekarang ni, fungsi dia sama je macam yang ada dekat web, tapi macamnya kita akan dapat sokongan Gemini Live kat situ tak lama lagi juga.",
+            "date": "2026-04-15T16:25:18+00:00",
+            "message_id": 7798,
+            "message_key": "@testingcatalog:7798"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Humwork A2P marketplace connects AI agents with experts**](https://www.testingcatalog.com/humwork-a2p-marketplace-connects-ai-agents-with-experts/)\n\nHumwork launched an A2P marketplace that routes stuck AI agents to verified experts in real time via MCP. With 1,000+ experts, sub-30-second matching, and an 87% resolution rate, it targets AI-first developer workflows.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Pasaran A2P Humwork menghubungkan ejen AI dengan pakar**](https://www.testingcatalog.com/humwork-a2p-marketplace-connects-ai-agents-with-experts/)\n\nHumwork dah lancarkan satu pasaran A2P yang akan hantar ejen AI yang 'tersekat' kepada pakar bertauliah secara langsung melalui MCP. Dengan lebih 1,000 pakar, padanan dalam masa kurang 30 saat, dan kadar penyelesaian 87%, ia memang fokus pada aliran kerja pembangun yang utamakan AI.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-04-15T16:06:44+00:00",
+            "message_id": 7797,
+            "message_key": "@testingcatalog:7797"
         }
     ]
 }
