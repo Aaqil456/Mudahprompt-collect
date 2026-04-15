@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-15T17:08:01.367160",
+    "timestamp": "2026-04-15T22:43:56.332244",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16136,6 +16136,56 @@
             "date": "2026-04-15T16:06:44+00:00",
             "message_id": 7797,
             "message_key": "@testingcatalog:7797"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is preparing Gemini Live support for its recently released Gemini desktop app. \n\nGemini Live will appear as a sphere overlay (purpure), and users will also be able to share their screens with Gemini.  \n\nSoon? \ud83d\udc40",
+            "translated_text": "Google sedang menyediakan sokongan Gemini Live untuk aplikasi desktop Gemini yang baru saja dikeluarkan. Gemini Live akan muncul sebagai lapisan sfera (ungu), dan pengguna juga boleh berkongsi skrin mereka dengan Gemini. Tak lama lagi? \ud83d\udc40",
+            "date": "2026-04-15T22:22:33+00:00",
+            "message_id": 7804,
+            "message_key": "@testingcatalog:7804"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Live Mode with screen sharing for Gemini desktop**](https://www.testingcatalog.com/google-tests-live-mode-with-screen-sharing-for-gemini-desktop/)\n\nGoogle\u2019s native Swift-based Gemini app for macOS mirrors the web version but includes dormant settings for Gemini Live, voice selection, and screen sharing, pointing to a fuller desktop assistant likely to debut at Google I/O 2026.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google Uji Mod Langsung dengan Perkongsian Skrin untuk Gemini Desktop**](https://www.testingcatalog.com/google-tests-live-mode-with-screen-sharing-for-gemini-desktop/)\n\nAplikasi Gemini Google yang dibina dengan Swift untuk macOS ni, walaupun nampak macam versi web, sebenarnya ada tetapan tersembunyi untuk Gemini Live, pilihan suara, dan perkongsian skrin. Ini macam petanda yang pembantu desktop yang lebih lengkap akan diperkenalkan, mungkin masa Google I/O 2026 nanti.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-04-15T22:18:38+00:00",
+            "message_id": 7803,
+            "message_key": "@testingcatalog:7803"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta partners with Broadcom for custom AI chip development**](https://www.testingcatalog.com/meta-partners-with-broadcom-for-custom-ai-chip-development/)\n\nMeta expanded its Broadcom partnership to co-develop multiple MTIA chip generations, plus packaging and networking, as it scales custom AI infrastructure past 1GW and cuts cost and power for training, inference, and recommendations.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta bekerjasama dengan Broadcom untuk pembangunan cip AI tersuai**](https://www.testingcatalog.com/meta-partners-with-broadcom-for-custom-ai-chip-development/)\n\nMeta telah meluaskan kerjasama dengan Broadcom untuk bersama-sama membangunkan beberapa generasi cip MTIA, serta pembungkusan dan rangkaian. Ini adalah sebahagian daripada usaha Meta untuk mengembangkan infrastruktur AI tersuai melebihi 1GW dan mengurangkan kos serta penggunaan kuasa untuk latihan, inferens, dan cadangan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-04-15T22:06:47+00:00",
+            "message_id": 7802,
+            "message_key": "@testingcatalog:7802"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google DeepMind releases Gemini Robotics-ER 1.6**](https://www.testingcatalog.com/google-deepmind-releases-gemini-robotics-er-1-6/)\n\nGoogle DeepMind launched Gemini Robotics-ER 1.6, a reasoning model for robots with stronger visual, spatial, and task planning skills. Available via Gemini API and AI Studio, it supports tool use and analog instrument reading.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "translated_text": "[**Google DeepMind Lancarkan Gemini Robotics-ER 1.6**](https://www.testingcatalog.com/google-deepmind-releases-gemini-robotics-er-1-6/)\n\nGoogle DeepMind dah lancarkan Gemini Robotics-ER 1.6, satu model penaakulan untuk robot dengan kemahiran visual, spatial, dan perancangan tugas yang lebih mantap. Boleh didapati melalui Gemini API dan AI Studio, ia menyokong penggunaan alatan dan pembacaan instrumen analog.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "date": "2026-04-15T22:03:36+00:00",
+            "message_id": 7801,
+            "message_key": "@testingcatalog:7801"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI expands Trusted Access for GPT-5.4-Cyber**](https://www.testingcatalog.com/openai-expands-trusted-access-for-gpt-5-4-cyber/)\n\nOpenAI is expanding Trusted Access for Cyber with GPT-5.4-Cyber, a defense-focused model for verified defenders and teams. The program adds tiered access, supports reverse engineering, and targets vetted security work, not consumers.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI Luaskan Akses Dipercayai untuk GPT-5.4-Cyber**](https://www.testingcatalog.com/openai-expands-trusted-access-for-gpt-5-4-cyber/)\n\nOpenAI sedang meluaskan Akses Dipercayai untuk Cyber dengan GPT-5.4-Cyber, iaitu model yang fokus pada pertahanan untuk pembela dan pasukan yang disahkan. Program ini menambah akses berperingkat, menyokong kejuruteraan songsang, dan menyasarkan kerja keselamatan yang ditapis, bukan untuk pengguna biasa.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-04-15T22:00:33+00:00",
+            "message_id": 7800,
+            "message_key": "@testingcatalog:7800"
         }
     ]
 }
