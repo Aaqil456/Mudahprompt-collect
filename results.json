@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-15T13:42:54.810365",
+    "timestamp": "2026-04-15T15:07:25.833002",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16096,6 +16096,16 @@
             "date": "2026-04-15T12:39:29+00:00",
             "message_id": 524,
             "message_key": "@AItoolboxdaily:524"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Agentic Shopping with native checkout in Gemini**](https://www.testingcatalog.com/google-tests-agentic-shopping-with-native-checkout-in-gemini/)\n\nGoogle appears to be adding a Shopping Cart to Gemini, pointing to in-app product selection and checkout. Alongside new Skills in Chrome and a settings revamp, Gemini may be evolving into a unified AI hub for browsing, automation, and commerce.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google tengah uji 'Agentic Shopping' dengan pembayaran terus dalam Gemini**](https://www.testingcatalog.com/google-tests-agentic-shopping-with-native-checkout-in-gemini/)\n\nGoogle nampaknya sedang menambah fungsi Troli Beli-belah ke Gemini. Ini bermakna kita boleh pilih produk dan buat pembayaran terus dalam aplikasi tu nanti. Bersama dengan fungsi baru dalam Chrome dan perubahan pada tetapan, Gemini mungkin akan berkembang jadi pusat AI yang menyeluruh untuk melayari internet, automasi, dan urusan jual beli.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-04-15T14:25:24+00:00",
+            "message_id": 7796,
+            "message_key": "@testingcatalog:7796"
         }
     ]
 }
