@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T11:06:43.679950",
+    "timestamp": "2026-04-16T13:52:06.733621",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16246,6 +16246,36 @@
             "date": "2026-04-16T09:32:52+00:00",
             "message_id": 525,
             "message_key": "@AItoolboxdaily:525"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Windsurf 2.0 adds Devin and Agent Command Center**](https://www.testingcatalog.com/windsurf-2-0-adds-devin-and-agent-command-center/)\n\nWindsurf 2.0 adds an Agent Command Center and native Devin support, combining local IDE agents with cloud execution in one workflow. The release targets teams managing long-running coding tasks, shared context, and multi-agent work.\n\n\ud83d\uddde #windsurf @testingcatalog",
+            "translated_text": "[**Windsurf 2.0 memperkenalkan Devin dan Agent Command Center**](https://www.testingcatalog.com/windsurf-2-0-adds-devin-and-agent-command-center/)\n\nWindsurf 2.0 memperkenalkan Agent Command Center dan sokongan asli Devin, menggabungkan agen IDE tempatan dengan pelaksanaan awan dalam satu aliran kerja. Keluaran ini menyasarkan pasukan yang menguruskan tugas pengekodan jangka panjang, konteks yang dikongsi, dan kerja berbilang agen.\n\n\ud83d\uddde #windsurf @testingcatalog",
+            "date": "2026-04-16T13:19:27+00:00",
+            "message_id": 7812,
+            "message_key": "@testingcatalog:7812"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MiniMax added a new always-on managed agent, powered by Hermes, to its MiniMax Agent platform. \n\nNow users can operate 2 managed agents, each powered by a different project. \n\nImagine these 2 combined \ud83d\udc40\n\nOpenmes or Herclaw?",
+            "translated_text": "MiniMax dah tambah ejen terurus baru yang sentiasa aktif, dikuasakan oleh Hermes, dekat platform MiniMax Agent dia orang.\nSekarang, pengguna boleh jalankan 2 ejen terurus, dan setiap satu tu dikuasakan oleh projek yang berbeza.\nBayangkan kalau dua ni digabungkan \ud83d\udc40\nOpenmes atau Herclaw?",
+            "date": "2026-04-16T13:11:37+00:00",
+            "message_id": 7811,
+            "message_key": "@testingcatalog:7811"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity tests new Workflows tab for Perplexity Computer**](https://www.testingcatalog.com/perplexity-tests-new-workflows-tab-for-perplexity-computer/)\n\nPerplexity is building a Workflows tab for Computer that uses structured templates for repeatable tasks like SEO audits. Users provide inputs before launch, guiding multi-step jobs and moving the product beyond free-form prompting.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[Perplexity sedang menguji tab Workflows baharu untuk Perplexity Computer](https://www.testingcatalog.com/perplexity-tests-new-workflows-tab-for-perplexity-computer/)\n\nPerplexity sedang membangunkan tab Workflows untuk Computer yang menggunakan templat berstruktur bagi tugasan berulang seperti audit SEO. Pengguna akan masukkan input sebelum pelancaran, untuk membimbing kerja-kerja berbilang langkah dan menjadikan produk ini lebih daripada sekadar arahan bebas.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-04-16T12:45:29+00:00",
+            "message_id": 7810,
+            "message_key": "@testingcatalog:7810"
         }
     ]
 }
