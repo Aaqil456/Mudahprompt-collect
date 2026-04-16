@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T13:52:06.733621",
+    "timestamp": "2026-04-16T15:31:40.541088",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16276,6 +16276,46 @@
             "date": "2026-04-16T12:45:29+00:00",
             "message_id": 7810,
             "message_key": "@testingcatalog:7810"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is also preparing to release Computer Use for Codex. Computer use will have a dedicated section in settings, but will be working as an optional plugin. \n\nI will need to test Codex <> Claude Desktop recursion, where each app opens the other and asks it to open itself. \n\nComputer Usecursion \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-04-16T15:24:08+00:00",
+            "message_id": 7816,
+            "message_key": "@testingcatalog:7816"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-16T14:57:35+00:00",
+            "message_id": 7815,
+            "message_key": "@testingcatalog:7815"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Opus 4.7 on Claude for mobile uses \u201cAdaptive thinking\u201d instead of \u201cExtended thinking\u201d as before. \n\n> Switch to Opus 4.7 for your most ambitious work\n\n> Thinks only when needed\n\nShould we turn that off? \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-04-16T14:57:35+00:00",
+            "message_id": 7814,
+            "message_key": "@testingcatalog:7814"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic released Claude Opus 4.7 \ud83d\udc40\n\nOpus 4.7 is a notable improvement over Opus 4.6 in software engineering and vision tasks. \n\n> Opus 4.7 handles complex, long-running tasks with rigor and consistency, pays precise attention to instructions, and devises ways to verify its own outputs before reporting back.\n\nMAX improvement \ud83d\udd25",
+            "translated_text": "",
+            "date": "2026-04-16T14:40:55+00:00",
+            "message_id": 7813,
+            "message_key": "@testingcatalog:7813"
         }
     ]
 }
