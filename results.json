@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T19:19:51.212862",
+    "timestamp": "2026-04-16T20:54:13.392774",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16346,6 +16346,26 @@
             "date": "2026-04-16T17:37:32+00:00",
             "message_id": 7818,
             "message_key": "@testingcatalog:7818"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Opus 4.7 model on web, apps, and APIs**](https://www.testingcatalog.com/anthropic-launches-claude-opus-4-7-model-on-web-apps-and-apis/)\n\nAnthropic launched Claude Opus 4.7 across Claude, its API, and major cloud platforms at unchanged pricing. It delivers stronger coding, workflow execution, image analysis, and output verification, with added safety controls for cybersecurity use.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "",
+            "date": "2026-04-16T20:48:41+00:00",
+            "message_id": 7820,
+            "message_key": "@testingcatalog:7820"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Opera adds Browser Connector to pass context to AI models**](https://www.testingcatalog.com/opera-adds-browser-connector-to-pass-context-ai-models/)\n\nOpera launched Browser Connector for Opera One and GX, a free Early Bird tool that links ChatGPT, Claude, and other AI services to live browser context, cutting manual copy-paste and extending Neon\u2019s MCP-based feature to mainstream desktop browsers.\n\n\ud83d\uddde #opera @testingcatalog",
+            "translated_text": "",
+            "date": "2026-04-16T20:43:08+00:00",
+            "message_id": 7819,
+            "message_key": "@testingcatalog:7819"
         }
     ]
 }
