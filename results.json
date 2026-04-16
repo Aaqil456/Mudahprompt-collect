@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T15:31:40.541088",
+    "timestamp": "2026-04-16T17:18:37.407264",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16316,6 +16316,26 @@
             "date": "2026-04-16T14:40:55+00:00",
             "message_id": 7813,
             "message_key": "@testingcatalog:7813"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is rolling out Personal Computer, a new desktop app with Computer Use capabilities. \n\nIt is now available on macOS to Max subscribers and everyone on the waitlist. \n\nPersonal Computer can also be installed on Mac Mini and operated from Perplexity mobile app. \n\nTesting time \ud83d\udd25",
+            "translated_text": "Perplexity sedang melancarkan Personal Computer, aplikasi desktop baharu dengan keupayaan Computer Use.\n\nIa kini boleh didapati di macOS untuk pelanggan Max dan semua orang dalam senarai menunggu.\n\nPersonal Computer juga boleh dipasang pada Mac Mini dan dikendalikan dari aplikasi mudah alih Perplexity.\n\nMasa untuk menguji \ud83d\udd25",
+            "date": "2026-04-16T16:02:44+00:00",
+            "message_id": 7817,
+            "message_key": "@testingcatalog:7817"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Gemini can now turn answers into interactive visuals making complex topics much easier to understand.\n\nJust start your prompt with `show me`, and it will generate a dynamic illustration where you can tweak parameters yourself. Works great for exploring physics laws, math concepts, and more.\n\nTest it [here](https://gemini.google.com/app) (select the Pro model)",
+            "translated_text": "Gemini kini boleh tukar jawapan jadi visual interaktif, buat topik rumit lebih senang faham.\n\nMula je arahan kamu dengan `show me`, dan ia akan hasilkan ilustrasi dinamik di mana kamu boleh ubah suai parameter sendiri. Sangat bagus untuk teroka hukum fizik, konsep matematik, dan banyak lagi.\n\nCuba ia [di sini](https://gemini.google.com/app) (pilih model Pro)",
+            "date": "2026-04-16T15:54:01+00:00",
+            "message_id": 526,
+            "message_key": "@AItoolboxdaily:526"
         }
     ]
 }
