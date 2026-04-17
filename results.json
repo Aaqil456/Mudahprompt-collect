@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T16:09:30.580908",
+    "timestamp": "2026-04-17T22:42:36.350465",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16466,6 +16466,46 @@
             "date": "2026-04-17T15:08:32+00:00",
             "message_id": 7827,
             "message_key": "@testingcatalog:7827"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google officially announced Flow Music, an AI music generation tool, powered by Google's latest Lyria 3 Pro model. \n\nFlow Music is built on top of ProducerAI, which Google acquired in February.",
+            "translated_text": "Google dah umumkan secara rasmi Flow Music, satu alat penjana muzik AI. Alat ni dikuasakan oleh model Lyria 3 Pro terbaru Google. Flow Music ni sebenarnya dibina atas ProducerAI, yang Google dah beli bulan Februari lepas.",
+            "date": "2026-04-17T22:16:30+00:00",
+            "message_id": 7833,
+            "message_key": "@testingcatalog:7833"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Google AI subscription support for AI Studio**](https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio/)\n\nGoogle is testing AI Studio support for Gemini consumer subscriptions, starting with Ultra and later Pro. This could replace separate API billing, though subscription use may limit some models and agents as rollout details remain unclear.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "translated_text": "[**Google sedang uji sokongan langganan Google AI untuk AI Studio**](https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio/)\n\nGoogle sedang menguji sokongan AI Studio untuk langganan pengguna Gemini, bermula dengan Ultra dan kemudiannya Pro. Ini mungkin menggantikan bil API yang berasingan, walaupun penggunaan langganan mungkin mengehadkan beberapa model dan ejen kerana butiran pelancaran masih belum jelas.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "date": "2026-04-17T21:56:38+00:00",
+            "message_id": 7832,
+            "message_key": "@testingcatalog:7832"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Design AI tool for paid plans**](https://www.testingcatalog.com/anthropic-launches-claude-design-ai-tool-for-paid-plans/)\n\nAnthropic launched Claude Design, a research-preview platform for AI-led prototypes, slides, and one-pagers. Powered by Claude Opus 4.7, it supports asset imports, design systems, collaboration, and code handoff for subscribers.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic perkenalkan alat AI Claude Design untuk langganan berbayar**](https://www.testingcatalog.com/anthropic-l aunches-claude-design-ai-tool-for-paid-plans/)\n\nAnthropic dah lancarkan Claude Design, satu platform pratonton penyelidikan untuk hasilkan prototaip, slaid, dan 'one-pager' yang dipacu AI. Dikuasakan oleh Claude Opus 4.7, ia boleh menyokong import aset, sistem reka bentuk, kolaborasi, dan penyerahan kod untuk para pelanggan.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-04-17T21:55:54+00:00",
+            "message_id": 7831,
+            "message_key": "@testingcatalog:7831"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity released Personal Computer to all Max subscribers**](https://www.testingcatalog.com/perplexity-released-personal-computer-to-all-max-subscribers/)\n\nPerplexity has launched Personal Computer to all Max subscribers and waitlist users. Built into the Mac app, it can act across files, native apps, and the browser, positioning Perplexity as a system-level agent with on-device context.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity melancarkan Personal Computer kepada semua pelanggan Max**](https://www.testingcatalog.com/perplexity-released-personal-computer-to-all-max-subscribers/)\n\nPerplexity telah melancarkan Personal Computer kepada semua pelanggan Max dan pengguna dalam senarai menunggu. Terbina dalam aplikasi Mac, ia boleh beroperasi merentasi fail, aplikasi asli, dan pelayar web, meletakkan Perplexity sebagai agen peringkat sistem dengan konteks pada peranti.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-04-17T21:51:18+00:00",
+            "message_id": 7830,
+            "message_key": "@testingcatalog:7830"
         }
     ]
 }
