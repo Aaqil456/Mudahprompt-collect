@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T13:52:49.148355",
+    "timestamp": "2026-04-17T16:09:30.580908",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16436,6 +16436,36 @@
             "date": "2026-04-17T12:03:01+00:00",
             "message_id": 527,
             "message_key": "@AItoolboxdaily:527"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Early look at Grok Build and Computer \ud83d\udd25\n\nYes, there is a strong assumption that both will arrive at the same time as a desktop app. \n\n> Grok Build UI has 2 versions, Local and Remote. The local version uses a Grok agent running locally for execution, which only makes sense if it were a desktop app. \n\n> Grok Computer is likely a Grok Desktop app with Grok Build built in. Since it will be web-based, there is a high chance that both macOS and Windows versions will drop at the same time. \n\n> Grok Build will arrive with Connectors support, Arena mode, and Parallel Agents mode.\n\n> Grok UI for Grok Computer may get an earlier-spotted Fire animation. \n\nGrok Build local \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-04-17T15:26:42+00:00",
+            "message_id": 7829,
+            "message_key": "@testingcatalog:7829"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Early look at Grok Computer and Grok Build**](https://www.testingcatalog.com/exclusive-early-look-at-grok-computer-and-grok-build/)\n\nxAI is nearing the launch of Grok Build and Grok CLI, signaling its entry into agentic coding. Paired with Grok 4.3, the offering may combine web, CLI, desktop, connectors, and multi-agent modes to challenge top developer tools.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**Eksklusif: Pandangan awal Grok Computer dan Grok Build**](https://www.testingcatalog.com/exclusive-early-look-at-grok-computer-and-grok-build/)\n\nxAI dah nak lancarkan Grok Build dan Grok CLI, menandakan kemasukan mereka dalam bidang pengekodan agentic. Bila digabungkan dengan Grok 4.3, tawaran ni mungkin akan gabungkan web, CLI, desktop, penyambung, dan mod multi-agen untuk bersaing dengan alatan pembangun terkemuka.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-04-17T15:14:19+00:00",
+            "message_id": 7828,
+            "message_key": "@testingcatalog:7828"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic released Claude Design \ud83d\udc40 \n\nA new tool to generate UI prototypes, slides, and one-pagers. Claude Design will be gradually rolled out to all paid plans shortly.",
+            "translated_text": "",
+            "date": "2026-04-17T15:08:32+00:00",
+            "message_id": 7827,
+            "message_key": "@testingcatalog:7827"
         }
     ]
 }
