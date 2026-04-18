@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T22:42:36.350465",
+    "timestamp": "2026-04-18T15:39:24.990812",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16506,6 +16506,16 @@
             "date": "2026-04-17T21:51:18+00:00",
             "message_id": 7830,
             "message_key": "@testingcatalog:7830"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic likely preparing Claude Security for broader release**](https://www.testingcatalog.com/anthropic-likely-preparing-claude-security-for-broader-release/)\n\nAnthropic appears set to bring Claude Code Security to a wider audience via a new Security tab. The build points to automated and manual repo scans with patch PRs, likely expanding first beyond enterprise to Max-tier developers.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic Nampaknya Sedang Bersedia Melancarkan Claude Security Secara Lebih Meluas**](https://www.testingcatalog.com/anthropic-likely-preparing-claude-security-for-broader-release/)\n\nAnthropic nampaknya akan memperkenalkan Claude Code Security kepada lebih ramai pengguna melalui tab Security baharu. Versi ini menunjukkan ia akan melakukan imbasan repo secara automatik dan manual dengan patch PR, dan mungkin akan diperluaskan dahulu dari peringkat korporat kepada pembangun peringkat Max.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-04-18T15:06:53+00:00",
+            "message_id": 7834,
+            "message_key": "@testingcatalog:7834"
         }
     ]
 }
