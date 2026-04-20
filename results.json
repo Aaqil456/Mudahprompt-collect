@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-20T21:50:45.407815",
+    "timestamp": "2026-04-20T23:46:16.108042",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16656,6 +16656,26 @@
             "date": "2026-04-20T20:59:41+00:00",
             "message_id": 7846,
             "message_key": "@testingcatalog:7846"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares 8 interactive Avatars for its Codex app**](https://www.testingcatalog.com/openai-prepares-8-interactive-avatars-for-its-codex-app/)\n\nEarly look at Codex Avatars \ud83d\udc40\n\nThey would appear as interactive, draggable overlays on the desktop. 8 pre-made characters in total. Users will also be able to create and use their own Avatars! \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "",
+            "date": "2026-04-20T23:06:35+00:00",
+            "message_id": 7849,
+            "message_key": "@testingcatalog:7849"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs**](https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/)\n\nMoonshot AI launched open-source Kimi K2.6 for coding and agentic work, offering chat, reasoning, research and swarm variants via web, API and Hugging Face. It reports top benchmark results and positions open weights as a key differentiator.\n\n\ud83d\uddde #kimi @testingcatalog",
+            "translated_text": "[**Moonshot AI melancarkan Kimi K2.6 di Kimi Chat dan API**](https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/)\n\nMoonshot AI telah melancarkan Kimi K2.6 sumber terbuka untuk kerja pengekodan dan agen, menawarkan varian sembang, penaakulan, penyelidikan, dan swarm melalui web, API, dan Hugging Face. Ia melaporkan keputusan penanda aras terbaik dan meletakkan 'open weights' sebagai pembeza utama.\n\n\ud83d\uddde #kimi @testingcatalog",
+            "date": "2026-04-20T22:50:36+00:00",
+            "message_id": 7848,
+            "message_key": "@testingcatalog:7848"
         }
     ]
 }
