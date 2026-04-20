@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-20T19:20:51.037708",
+    "timestamp": "2026-04-20T20:52:20.461330",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16596,6 +16596,46 @@
             "date": "2026-04-20T18:57:25+00:00",
             "message_id": 7841,
             "message_key": "@testingcatalog:7841"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-20T20:47:42+00:00",
+            "message_id": 7845,
+            "message_key": "@testingcatalog:7845"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic \ud83e\udd1d Amazon\n\n> Anthropic expands its compute power via a new partnership with Amazon to secure up to 5 gigawatts for training and deploying Claude\n\n> Amazon also invested additional $5 billion in Anthropic, with up to $20 billion more in the future.\n\nCompute is the hottest thing now \ud83d\udd25",
+            "translated_text": "Anthropic \ud83e\udd1d Amazon\n\n> Anthropic tingkatkan kuasa pengkomputeran mereka melalui kerjasama baru dengan Amazon untuk mendapatkan sehingga 5 gigawatt bagi melatih dan menggunakan Claude.\n\n> Amazon juga melabur tambahan $5 bilion dalam Anthropic, dengan potensi sehingga $20 bilion lagi pada masa hadapan.\n\nPengkomputeran sedang hangat sekarang \ud83d\udd25",
+            "date": "2026-04-20T20:47:42+00:00",
+            "message_id": 7844,
+            "message_key": "@testingcatalog:7844"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is working on Avatars for Codex \ud83d\udd25\n\nCustom Avatars will be supported as well, but it is unclear exactly where they will be seen. My only bet is a Realtime Voice mode. \n\nNull signal is the best ofc \ud83d\udc40",
+            "translated_text": "OpenAI sedang usahakan Avatar untuk Codex \ud83d\udd25\n\nAvatar kustom pun akan disokong, tapi tak jelas lagi kat mana ia akan muncul. Saya rasa ia mungkin untuk mod Suara Realtime.\n\nNull signal memang yang terbaiklah \ud83d\udc40",
+            "date": "2026-04-20T19:32:50+00:00",
+            "message_id": 7843,
+            "message_key": "@testingcatalog:7843"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Chronicle feature will become available in Personalization settings on Codex and will require screen capture permission.\n\n> Be mindful of the following considerations before enabling Chronicle\n\nStill testing \ud83d\udc40",
+            "translated_text": "Ciri Chronicle akan tersedia di bahagian tetapan Peribadi pada Codex dan akan memerlukan kebenaran tangkapan skrin.\n\n> Perlu ambil perhatian perkara-perkara berikut sebelum mengaktifkan Chronicle\n\nMasih dalam ujian \ud83d\udc40",
+            "date": "2026-04-20T19:23:26+00:00",
+            "message_id": 7842,
+            "message_key": "@testingcatalog:7842"
         }
     ]
 }
