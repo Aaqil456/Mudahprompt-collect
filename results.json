@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-21T20:56:54.966218",
+    "timestamp": "2026-04-21T22:40:08.948553",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16806,6 +16806,16 @@
             "date": "2026-04-21T19:18:16+00:00",
             "message_id": 7861,
             "message_key": "@testingcatalog:7861"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google debuts Deep Research agents on AI Studio and APIs**](https://www.testingcatalog.com/google-debuts-deep-research-agents-on-ai-studio-and-apis/)\n\nGoogle introduced Deep Research and Deep Research Max in public preview via the Gemini API, offering autonomous research workflows with cited reports, charts, and data integrations for enterprises in finance, life sciences, and related fields.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "translated_text": "[**Google Memperkenalkan Agen Deep Research di AI Studio dan API**](https://www.testingcatalog.com/google-debuts-deep-research-agents-on-ai-studio-and-apis/)\n\nGoogle telah memperkenalkan Deep Research dan Deep Research Max secara pratonton awam melalui Gemini API. Ini menawarkan aliran kerja penyelidikan autonomi dengan laporan yang dirujuk, carta, dan integrasi data untuk syarikat dalam bidang kewangan, sains hayat, dan bidang berkaitan.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "date": "2026-04-21T22:08:43+00:00",
+            "message_id": 7862,
+            "message_key": "@testingcatalog:7862"
         }
     ]
 }
