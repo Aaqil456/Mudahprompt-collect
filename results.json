@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-21T22:40:08.948553",
+    "timestamp": "2026-04-21T23:37:12.687205",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16816,6 +16816,26 @@
             "date": "2026-04-21T22:08:43+00:00",
             "message_id": 7862,
             "message_key": "@testingcatalog:7862"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-21T22:57:21+00:00",
+            "message_id": 7864,
+            "message_key": "@testingcatalog:7864"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceXAI \ud83e\udd1d Cursor\n\nSpaceXAI and cursor partner on creating coding and knowledge work AI models. SpaceXAI also got a right to acquire Cursor for $60B later this year or pay $10B for the collab. \n\nThat\u2019s big \ud83d\udc40",
+            "translated_text": "SpaceXAI \ud83e\udd1d Cursor\n\nSpaceXAI dan Cursor bekerjasama untuk bangunkan model AI bagi kerja pengekodan dan pengetahuan. SpaceXAI juga dapat hak untuk ambil alih Cursor dengan harga $60 bilion hujung tahun ni, atau bayar $10 bilion untuk kerjasama ni.\n\nBesar ni \ud83d\udc40",
+            "date": "2026-04-21T22:57:21+00:00",
+            "message_id": 7863,
+            "message_key": "@testingcatalog:7863"
         }
     ]
 }
