@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-21T02:48:10.800206",
+    "timestamp": "2026-04-21T09:43:34.956996",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16686,6 +16686,46 @@
             "date": "2026-04-20T23:54:18+00:00",
             "message_id": 7850,
             "message_key": "@testingcatalog:7850"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-21T08:53:59+00:00",
+            "message_id": 7853,
+            "message_key": "@testingcatalog:7853"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udea8: CONWAY WILL EVOLVE ALWAYS-ON AGENTS TO THE NEXT LEVEL!\n\nImagine an always-on Agent with custom UI tabs that users can share and reuse as packages. Mission control, any custom workflow that requires a UI, etc. \n\nAnd all these to be powered by top models from Antropic. This is what \"Claude Conway\" will likely be about. \n\n> Anthropic continues working on its always-on agent, Conway, with a new setting UI being added to the iOS app (currently hidden). \n\n> On the web, a new UI component for Built-in and Installed has been introduced. \n\n> Since we know new extensions will allow users to build custom UI tabs, we might be talking about a huge new feature here.\n\nIt is cooking \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udea8: CONWAY AKAN BAWA EJEN 'ALWAYS-ON' KE TAHAP SETERUSNYA!\n\nBayangkan ejen 'always-on' dengan tab UI kustom yang pengguna boleh kongsi dan guna semula sebagai pakej. Macam kawalan misi, atau mana-mana aliran kerja kustom yang perlukan UI, dan sebagainya.\n\nDan semua ini akan dikuasakan oleh model-model terbaik dari Anthropic. Inilah yang mungkin akan ada pada \"Claude Conway\".\n\nAnthropic masih teruskan usaha untuk ejen 'always-on' mereka, Conway, dengan UI tetapan baru yang ditambah ke aplikasi iOS (sekarang ni tersembunyi).\n\nDi web pula, komponen UI baru untuk 'Built-in' dan 'Installed' dah diperkenalkan.\n\nMemandangkan kita tahu sambungan baru akan benarkan pengguna bina tab UI kustom, kita mungkin sedang bercakap tentang satu ciri baru yang sangat besar di sini.\n\nAda sesuatu yang menarik sedang diusahakan \ud83d\udc40",
+            "date": "2026-04-21T08:53:59+00:00",
+            "message_id": 7852,
+            "message_key": "@testingcatalog:7852"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropics works on its always-on agent with new UI extensions**](https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/)\n\nAnthropic is building Conway, an always-on, containerized Claude agent with web-mobile parity, full settings, extensions, connectors, and permissions. Web cues suggest a modular mini-app platform within Claude\u2019s persistent runtime.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropics sedang usahakan ejen sentiasa aktifnya dengan sambungan UI baharu**](https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/)\n\nAnthropic sedang membangunkan Conway, ejen Claude yang sentiasa aktif dan dalam bentuk kontena. Ia direka untuk berfungsi sama di web dan mudah alih, lengkap dengan tetapan penuh, sambungan, penyambung, dan kebenaran. Petunjuk dari web mencadangkan ia adalah platform aplikasi mini modular dalam runtime berterusan Claude.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-04-21T08:47:09+00:00",
+            "message_id": 7851,
+            "message_key": "@testingcatalog:7851"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Anthropic is bringing back its global online hackathon for Claude users - with $100K in API credits on the line.\n\nThe \u201cBuilt with Opus 4.7\u201d hackathon runs from April 21 to April 26, gathering developers worldwide to build apps and demos using Claude Opus.\n\nIt\u2019s another strong signal of where things are going: AI tools are not just assisting - they\u2019re becoming the core way products get built.",
+            "translated_text": "Anthropic akan mengadakan semula hackathon dalam talian globalnya untuk pengguna Claude - dengan tawaran kredit API bernilai $100K.\n\nHackathon \u201cBuilt with Opus 4.7\u201d ini berlangsung dari 21 hingga 26 April, mengumpulkan pembangun dari seluruh dunia untuk membina aplikasi dan demo menggunakan Claude Opus.\n\nIni satu lagi petanda jelas ke mana arah tujuannya: alat AI bukan sekadar membantu, malah ia menjadi cara utama produk dibina.",
+            "date": "2026-04-21T08:21:12+00:00",
+            "message_id": 529,
+            "message_key": "@AItoolboxdaily:529"
         }
     ]
 }
