@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T11:09:02.966425",
+    "timestamp": "2026-04-22T13:48:23.445467",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16876,6 +16876,26 @@
             "date": "2026-04-22T10:03:30+00:00",
             "message_id": 7866,
             "message_key": "@testingcatalog:7866"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google debuts Workspace Intelligence for Gemini Workspace**](https://www.testingcatalog.com/google-debuts-workspace-intelligence-for-gemini-workspace/)\n\nGOOGLE \ud83d\udea8: A NEW WORKSPACE INTELLIGENCE IS BEING ANNOUNCED ON GOOGLE CLOUD NEXT 2026 TODAY. \n\nEmails, chats, projects, and files will all be linked together as an AI-powered context for Google Workspace. \n\nAI everywhere \ud83d\udc40\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "Google perkenalkan Workspace Intelligence untuk Gemini Workspace\n\nGOOGLE \ud83d\udea8: Workspace Intelligence baharu diumumkan di Google Cloud Next 2026 hari ini.\nSemua emel, sembang, projek, dan fail nanti akan dihubungkan sekali, jadi satu konteks berkuasa AI untuk Google Workspace.\nAI di mana-mana \ud83d\udc40\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-04-22T12:05:02+00:00",
+            "message_id": 7870,
+            "message_key": "@testingcatalog:7870"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches new Agent Platform for Gemini Enterprise**](https://www.testingcatalog.com/google-launches-new-agent-platform-for-gemini-enterprise/)\n\nGOOGLE \ud83d\udea8: A NEW AGENT PLATFORM FOR GEMINI ENTERPRISE IS BEING ANNOUNCED ON GOOGLE CLOUD NEXT 2026!\n\nGemini Enterprise users will get access to Projects, Skills, the new Agent Builder, Agents Gallery, Slides editor inside Canvas, and tons of other new features.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "",
+            "date": "2026-04-22T12:02:33+00:00",
+            "message_id": 7869,
+            "message_key": "@testingcatalog:7869"
         }
     ]
 }
