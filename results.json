@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-21T23:37:12.687205",
+    "timestamp": "2026-04-22T02:46:41.907369",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16836,6 +16836,16 @@
             "date": "2026-04-21T22:57:21+00:00",
             "message_id": 7863,
             "message_key": "@testingcatalog:7863"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Atomic Bot adds one-click Hermes Agent setup on desktop**](https://www.testingcatalog.com/atomic-bot-adds-one-click-hermes-agent-setup-on-desktop/)\n\nAtomic Bot now supports Hermes Agent with one-click setup, letting users run a private, open-source agent locally or via cloud without terminal work. It supports local and third-party models, persistent memory, and macOS/Windows access.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Atomic Bot Menambah Persediaan Hermes Agent Sekali Klik di Desktop**](https://www.testingcatalog.com/atomic-bot-adds-one-click-hermes-agent-setup-on-desktop/)\n\nAtomic Bot kini menyokong Hermes Agent dengan persediaan sekali klik, membolehkan pengguna menjalankan ejen sumber terbuka yang peribadi secara tempatan atau melalui awan tanpa perlu kerja terminal. Ia menyokong model tempatan dan pihak ketiga, memori berterusan, serta akses macOS/Windows.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-04-22T00:01:44+00:00",
+            "message_id": 7865,
+            "message_key": "@testingcatalog:7865"
         }
     ]
 }
