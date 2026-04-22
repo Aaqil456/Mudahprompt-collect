@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T02:46:41.907369",
+    "timestamp": "2026-04-22T11:09:02.966425",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16846,6 +16846,36 @@
             "date": "2026-04-22T00:01:44+00:00",
             "message_id": 7865,
             "message_key": "@testingcatalog:7865"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-22T10:05:56+00:00",
+            "message_id": 7868,
+            "message_key": "@testingcatalog:7868"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A new \"Collab\" mode has been spotted on ChatGPT for mobile during a short period of time. May we receive something similar to \"Dispatch\" soon as well?\n\nh/t @rarariraa",
+            "translated_text": "Mod \"Collab\" baharu telah dikesan pada ChatGPT versi mudah alih untuk tempoh masa yang singkat. Harap-harap kita akan dapat sesuatu yang serupa dengan \"Dispatch\" tak lama lagi juga?\n\nKredit kepada @rarariraa",
+            "date": "2026-04-22T10:05:56+00:00",
+            "message_id": 7867,
+            "message_key": "@testingcatalog:7867"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udea8: GPT-5.5 and a bunch of internal model names have been spotted on Codex recently, and this normally signals that OpenAI is preparing to release a new model. \n\n- oai-2.1\n- arcanine\n- glacier-alpha\n- glacier-alpha-block-cy4\n- glacier-alpha-block-cy3\n\nSoon \ud83d\udc40\n\nh/t x@TheAhmadOsman",
+            "translated_text": "OPENAI \ud83d\udea8: GPT-5.5 dan banyak nama model dalaman telah dikesan di Codex baru-baru ini, dan ini selalunya menunjukkan yang OpenAI sedang bersedia untuk melancarkan model baru.\n\n- oai-2.1\n- arcanine\n- glacier-alpha\n- glacier-alpha-block-cy4\n- glacier-alpha-block-cy3\n\nTak lama lagi \ud83d\udc40\n\nSUMBER: x@TheAhmadOsman",
+            "date": "2026-04-22T10:03:30+00:00",
+            "message_id": 7866,
+            "message_key": "@testingcatalog:7866"
         }
     ]
 }
