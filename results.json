@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T19:17:46.084478",
+    "timestamp": "2026-04-22T20:58:31.244702",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16916,6 +16916,16 @@
             "date": "2026-04-22T19:07:00+00:00",
             "message_id": 7872,
             "message_key": "@testingcatalog:7872"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Jules v2 Early Access form is now open \ud83d\udc40\n\n> Most teams are drowning in scattered context\u2014feedback, logs, and tickets that disappear into the void.\n\n> We're building a new version of Jules that is an end-to-end agentic product development platform. It reads your entire product context to figure out what to build next, comes up with solutions, and then ships a PR.\n\n> This is an early experiment for teams with a software product in the market. We don't have all the answers yet, but the waitlist is now open for product teams who want to help us shape this new direction.\n\nh/t @LanceAdams",
+            "translated_text": "Borang Akses Awal Jules v2 kini dibuka \ud83d\udc40\n\nKebanyakan pasukan tenggelam dalam maklumat yang berselerak\u2014maklum balas, log, dan tiket yang hilang begitu sahaja.\n\nKami sedang membina versi baharu Jules yang merupakan platform pembangunan produk agentic hujung-ke-hujung. Ia membaca keseluruhan konteks produk anda untuk menentukan apa yang perlu dibina seterusnya, mencadangkan penyelesaian, dan kemudian menghantar PR.\n\nIni adalah eksperimen awal untuk pasukan yang mempunyai produk perisian di pasaran. Kami belum ada semua jawapan lagi, tetapi senarai menunggu kini dibuka untuk pasukan produk yang ingin membantu kami membentuk arah baharu ini.\n\nKredit kepada @LanceAdams",
+            "date": "2026-04-22T20:00:38+00:00",
+            "message_id": 7873,
+            "message_key": "@testingcatalog:7873"
         }
     ]
 }
