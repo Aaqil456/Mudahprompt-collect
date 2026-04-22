@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-22T13:48:23.445467",
+    "timestamp": "2026-04-22T17:05:00.204555",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16896,6 +16896,16 @@
             "date": "2026-04-22T12:02:33+00:00",
             "message_id": 7869,
             "message_key": "@testingcatalog:7869"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Actually, this is quite big \ud83d\udd25\n\nAnthropic recently introduced Live Artifacts for Cowork, which allows users to build any web app using data from available connectors. \n\nWhen opened, Artifacts pull fresh data, so you can build them once and reuse them later. \n\nWhy does it matter?\n \n> This shift removes a value from UI interfaces b/c now everyone can use Claude to build their own. \n\n> Upcoming 24/7 agent from Claude will support \"UI Tabs\", which are likely \"Live Artifacts\". Users will be able to build tools for both themselves and their AI agents. \n\nGenUI is here \ud83d\udc40\n\nExample - OKRs dashboard based on Notion data.",
+            "translated_text": "Sebenarnya, ini satu perkembangan yang agak besar \ud83d\udd25\n\nAnthropic baru-baru ini memperkenalkan Live Artifacts untuk Cowork, yang membolehkan pengguna membina apa-apa aplikasi web menggunakan data dari penyambung yang tersedia.\n\nApabila dibuka, Artifacts akan menarik data terkini, jadi anda boleh bina sekali dan gunakannya semula nanti.\n\nKenapa ini penting?\n\n> Perubahan ini mengurangkan nilai dari antaramuka UI sebab sekarang semua orang boleh guna Claude untuk bina sendiri.\n\n> Ejen 24/7 yang akan datang dari Claude akan menyokong \"UI Tabs\", yang kemungkinan besar adalah \"Live Artifacts\". Pengguna akan dapat membina alatan untuk diri sendiri dan juga ejen AI mereka.\n\nGenUI sudah tiba \ud83d\udc40\n\nContoh - papan pemuka OKRs berdasarkan data Notion.",
+            "date": "2026-04-22T15:31:45+00:00",
+            "message_id": 7871,
+            "message_key": "@testingcatalog:7871"
         }
     ]
 }
