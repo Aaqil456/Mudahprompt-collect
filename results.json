@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T07:58:53.483430",
+    "timestamp": "2026-04-23T13:50:18.420517",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -16996,6 +16996,16 @@
             "date": "2026-04-23T05:53:22+00:00",
             "message_id": 7881,
             "message_key": "@testingcatalog:7881"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "OpenAI\u2019s new flagship model for image generation - [GPT Image 2.](https://chatgpt.com/)\n\nIt can generate almost anything: realistic app UIs, ads, game scenes, documents, even handwritten text - with lighting and micro-details that make images look nearly indistinguishable from real photos.\n\nThe biggest upgrade is text rendering - finally sharp, readable, and naturally integrated into images (even in photorealistic scenes). Plus, you can now edit specific parts of an image by selecting an area and updating it with a prompt.\n\nAvailable directly inside ChatGPT \u2014 no extra tools needed.",
+            "translated_text": "Model utama baharu OpenAI untuk penjanaan imej - [GPT Image 2.](https://chatgpt.com/)\n\nIa boleh menjana hampir apa sahaja: UI aplikasi yang realistik, iklan, babak permainan, dokumen, malah teks tulisan tangan \u2014 dengan pencahayaan dan butiran mikro yang menjadikan imej kelihatan hampir tidak dapat dibezakan daripada foto sebenar.\n\nPeningkatan terbesar adalah pada paparan teks \u2014 akhirnya tajam, mudah dibaca, dan disepadukan secara semula jadi ke dalam imej (walaupun dalam babak fotorealistik). Selain itu, anda kini boleh mengedit bahagian tertentu imej dengan memilih kawasan dan mengemas kininya dengan arahan.\n\nBoleh didapati terus dalam ChatGPT \u2014 tiada alatan tambahan diperlukan.",
+            "date": "2026-04-23T12:26:52+00:00",
+            "message_id": 530,
+            "message_key": "@AItoolboxdaily:530"
         }
     ]
 }
