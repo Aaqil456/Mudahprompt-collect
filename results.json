@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T22:50:07.539880",
+    "timestamp": "2026-04-23T23:50:43.693822",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17046,6 +17046,36 @@
             "date": "2026-04-23T22:35:14+00:00",
             "message_id": 7886,
             "message_key": "@testingcatalog:7886"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI released a new \"Grok Voice Think Fast 1.0\" flagship voice model for building voice Agents. \n\nThe model is also available on the xAI Console for testing.",
+            "translated_text": "xAI dah lancarkan model suara utama baru mereka, 'Grok Voice Think Fast 1.0', untuk bina ejen suara.\n\nModel ni pun ada dekat xAI Console untuk dicuba.",
+            "date": "2026-04-23T23:19:53+00:00",
+            "message_id": 7890,
+            "message_key": "@testingcatalog:7890"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Managed Agents now have Memory support! In case you missed it, Managed Agents are available on Anthropic Workbench. \n\nConway will likely get it too \ud83d\udc40",
+            "translated_text": "Claude Managed Agents sekarang dah ada sokongan Memori! Kalau-kalau ada yang terlepas pandang, Managed Agents tersedia di Anthropic Workbench.\n\nConway mungkin akan dapat juga nanti \ud83d\udc40",
+            "date": "2026-04-23T23:09:39+00:00",
+            "message_id": 7889,
+            "message_key": "@testingcatalog:7889"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex gained expanded Browser Use capabilities, updated document generation, and a new auto-review feature.\n\nThe Super App \ud83d\udc40",
+            "translated_text": "Codex kini dilengkapi dengan keupayaan penggunaan pelayar yang lebih luas, penjanaan dokumen yang dikemas kini, dan ciri semakan automatik yang baharu.\n\nThe Super App \ud83d\udc40",
+            "date": "2026-04-23T23:03:54+00:00",
+            "message_id": 7888,
+            "message_key": "@testingcatalog:7888"
         }
     ]
 }
