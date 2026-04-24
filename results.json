@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T19:54:58.486904",
+    "timestamp": "2026-04-24T21:52:15.381485",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17156,6 +17156,36 @@
             "date": "2026-04-24T19:00:21+00:00",
             "message_id": 7896,
             "message_key": "@testingcatalog:7896"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Memory in Claude Agents for enterprise**](https://www.testingcatalog.com/anthropic-launches-memory-in-claude-agents-for-enterprise/)\n\nAnthropic has launched Memory for Claude Managed Agents in public beta, letting agents retain knowledge across sessions. The filesystem-based feature offers exportable data, API control, permissions, audit trails, and rollback options.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Anthropic lancarkan Memory dalam Claude Agents untuk syarikat**](https://www.testingcatalog.com/anthropic-launches-memory-in-claude-agents-for-enterprise/)\n\nAnthropic dah lancarkan Memory untuk Claude Managed Agents dalam versi beta awam, membolehkan ejen-ejennya simpan maklumat merentasi sesi. Ciri berasaskan sistem fail ini menawarkan data yang boleh dieksport, kawalan API, kebenaran akses, jejak audit, dan pilihan untuk kembali ke versi sebelumnya.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-04-24T21:50:12+00:00",
+            "message_id": 7900,
+            "message_key": "@testingcatalog:7900"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI launches Grok Voice Think Fast 1.0 for voice agents**](https://www.testingcatalog.com/xai-launches-grok-voice-think-fast-1-0-for-voice-agents/)\n\nxAI launched Grok Voice Think Fast 1.0, a real-time voice model for business calls. Via API, it supports 25+ languages, tool use, and background reasoning. xAI cites Starlink results in sales and autonomous support.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "",
+            "date": "2026-04-24T21:49:59+00:00",
+            "message_id": 7899,
+            "message_key": "@testingcatalog:7899"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**DeepSeek released 3 new open-source V4 models**](https://www.testingcatalog.com/deepseek-released-3-new-open-source-v4-models/)\n\nDeepSeek launched open-source V4 preview with Pro and Flash MoE models, both offering a 1M-token context by default. New sparse attention lowers long-context costs, while benchmarks place V4-Pro near top closed models.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**DeepSeek Melancarkan 3 Model V4 Sumber Terbuka Baharu**](https://www.testingcatalog.com/deepseek-released-3-new-open-source-v4-models/)\n\nDeepSeek dah melancarkan pratonton V4 sumber terbuka dengan model Pro dan Flash MoE. Kedua-dua model ni menawarkan konteks 1 juta token secara lalai. Teknologi sparse attention yang baharu dapat mengurangkan kos untuk konteks yang panjang, manakala ujian penanda aras menunjukkan V4-Pro hampir setanding dengan model tertutup terkemuka.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-04-24T21:49:47+00:00",
+            "message_id": 7898,
+            "message_key": "@testingcatalog:7898"
         }
     ]
 }
