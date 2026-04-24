@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T17:00:46.808203",
+    "timestamp": "2026-04-24T18:57:03.221070",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17116,6 +17116,26 @@
             "date": "2026-04-24T14:40:25+00:00",
             "message_id": 7892,
             "message_key": "@testingcatalog:7892"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udea8: GPT-5.5 AND GPT-5.5-PRO MODELS ARE NOW AVAILABLE ON APIs AND OPENAI PLAYGROUND. \n\nInput price - $5 / Input MTok\nOutput price - $30 / Output MTok\n\nx2 from GPT-5.4 \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udea8: Model GPT-5.5 dan GPT-5.5-PRO kini tersedia di APIs dan OpenAI Playground.\n\nHarga input - $5/MTok input\nHarga output - $30/MTok output\n\n2 kali ganda daripada GPT-5.4 \ud83d\udc40",
+            "date": "2026-04-24T18:28:18+00:00",
+            "message_id": 7895,
+            "message_key": "@testingcatalog:7895"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Maket AI can now edit your floor plans in real-time**](https://www.testingcatalog.com/maket-ai-now-can-edit-your-floor-plans-in-realtime/)\n\nMaket launched AI Editing, a plain-language floor plan editing layer for residential design. Users can generate layouts, revise them by typing commands, and review trade-offs in real time across the v2 workspace.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Maket AI kini boleh edit pelan lantai anda secara masa nyata**](https://www.testingcatalog.com/maket-ai-now-can-edit-your-floor-plans-in-realtime/)\n\nMaket memperkenalkan AI Editing, satu lapisan penyuntingan pelan lantai yang guna bahasa biasa untuk reka bentuk kediaman. Pengguna boleh hasilkan susun atur, ubah suai dengan menaip arahan, dan semak pertukaran secara masa nyata dalam ruang kerja v2.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-04-24T17:09:30+00:00",
+            "message_id": 7894,
+            "message_key": "@testingcatalog:7894"
         }
     ]
 }
