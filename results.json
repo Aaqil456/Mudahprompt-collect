@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T20:41:33.966600",
+    "timestamp": "2026-04-25T21:39:00.666079",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17256,6 +17256,36 @@
             "date": "2026-04-25T20:19:53+00:00",
             "message_id": 7907,
             "message_key": "@testingcatalog:7907"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-25T21:37:26+00:00",
+            "message_id": 7910,
+            "message_key": "@testingcatalog:7910"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "I have rushed to test this one \ud83d\udc40\n\nGemini for iOS got a new voice dictation with wave animation and proper controls. \n\nBesides that, it triggers read aloud automatically in case you have used voice dictation to prompt. \n\nWorks like a charm \ud83d\udd25",
+            "translated_text": "Saya dah cepat-cepat cuba yang ni \ud83d\udc40\n\nGemini untuk iOS dah ada fungsi input suara baru, lengkap dengan animasi gelombang dan kawalan yang elok.\n\nSelain tu, dia akan automatik bacakan balik kalau kita guna input suara untuk bagi arahan.\n\nMemang menjadi! \ud83d\udd25",
+            "date": "2026-04-25T21:37:25+00:00",
+            "message_id": 7909,
+            "message_key": "@testingcatalog:7909"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests new Bugcrawl tool for Claude Code bug detection**](https://www.testingcatalog.com/anthropic-tests-new-bugcrawl-tool-for-claude-code-bug-detection/)\n\nAnthropic appears to be testing Bugcrawl in Claude Code, a repo-wide bug-finding agent that may propose fixes across full codebases. It would extend the Code Security and Review lineup, though no release timing or production rollout is visible.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic uji alat Bugcrawl baru untuk kesan pepijat kod Claude Code**](https://www.testingcatalog.com/anthropic-tests-new-bugcrawl-tool-for-claude-code-bug-detection/)\n\nAnthropic nampaknya sedang menguji Bugcrawl dalam Claude Code, iaitu ejen pencari pepijat di seluruh repo yang mungkin mencadangkan pembetulan merentasi keseluruhan pangkalan kod. Ia akan meluaskan barisan Code Security and Review, walaupun tiada masa pelancaran atau pengeluaran produk yang kelihatan.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-04-25T21:04:15+00:00",
+            "message_id": 7908,
+            "message_key": "@testingcatalog:7908"
         }
     ]
 }
