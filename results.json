@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T14:43:55.711638",
+    "timestamp": "2026-04-25T20:41:33.966600",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17246,6 +17246,16 @@
             "date": "2026-04-25T13:17:00+00:00",
             "message_id": 7905,
             "message_key": "@testingcatalog:7905"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Catalog and Website generation for Pomelli experiment**](https://www.testingcatalog.com/google-tests-catalog-and-website-generation-for-pomelli-experiment/)\n\nGoogle is expanding Pomelli to the EEA, UK, and Switzerland while developing Catalog for bulk product ingestion and Websites for page creation and hosting, extending the tool from social asset generation toward end-to-end marketing support.\n\n\ud83d\uddde #aitestkitchen @testingcatalog",
+            "translated_text": "[**Google sedang menguji penjanaan Katalog dan Laman Web untuk eksperimen Pomelli**](https://www.testingcatalog.com/google-tests-catalog-and-website-generation-for-pomelli-experiment/)\n\nGoogle sedang memperluaskan Pomelli ke kawasan EEA, UK, dan Switzerland. Selain itu, mereka juga sedang membangunkan Katalog untuk memudahkan proses masukkan produk secara pukal, dan Laman Web untuk buat serta hos halaman. Ini bermakna, alat ini akan diperluaskan fungsinya daripada sekadar hasilkan aset sosial, kepada sokongan pemasaran yang menyeluruh.\n\n\ud83d\uddde #aitestkitchen @testingcatalog",
+            "date": "2026-04-25T20:19:53+00:00",
+            "message_id": 7907,
+            "message_key": "@testingcatalog:7907"
         }
     ]
 }
