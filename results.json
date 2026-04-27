@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T15:56:34.215823",
+    "timestamp": "2026-04-27T17:25:30.004679",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17376,6 +17376,16 @@
             "date": "2026-04-27T15:04:55+00:00",
             "message_id": 535,
             "message_key": "@AItoolboxdaily:535"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sonar 2 is now available on Perplexity web \ud83d\udc40\n\n> Sonar models are Perplexity\u2019s in\u2011house LLMs, optimized specifically for fast, web\u2011grounded search and answering\n\nWhich base do you think was used for Sonar 2? DeepSeek V4, Kimi K2.6, or Qwen?",
+            "translated_text": "Sonar 2 dah boleh guna di web Perplexity \ud83d\udc40\n\nModel Sonar ni adalah LLM (Large Language Models) buatan Perplexity sendiri, yang dioptimumkan khas untuk carian dan jawapan yang pantas, berasaskan web.\n\nAgak-agak, asas apa yang digunakan untuk Sonar 2 ni? DeepSeek V4, Kimi K2.6, atau Qwen?",
+            "date": "2026-04-27T16:09:41+00:00",
+            "message_id": 7916,
+            "message_key": "@testingcatalog:7916"
         }
     ]
 }
