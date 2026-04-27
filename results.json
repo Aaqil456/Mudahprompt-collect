@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T22:55:17.354388",
+    "timestamp": "2026-04-27T23:57:21.344888",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17406,6 +17406,56 @@
             "date": "2026-04-27T22:46:31+00:00",
             "message_id": 7917,
             "message_key": "@testingcatalog:7917"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI models are coming to AWS Badrock in the coming weeks. Besides that, Amazon is hosting a livestream on April 28 with OpenAI leaders. \n\n> Watch Matt Garman, Colleen Aubrey, Julia White, and OpenAI leaders in a candid conversation about what's next with agentic AI.",
+            "translated_text": "Model-model OpenAI akan tersedia di AWS Bedrock dalam beberapa minggu akan datang. Selain itu, Amazon akan mengadakan siaran langsung pada 28 April bersama pemimpin-pemimpin OpenAI.\n\nSaksikan Matt Garman, Colleen Aubrey, Julia White, dan pemimpin-pemimpin OpenAI dalam perbincangan terbuka tentang masa depan AI agentik.",
+            "date": "2026-04-27T23:50:42+00:00",
+            "message_id": 7923,
+            "message_key": "@testingcatalog:7923"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta partners with Overview Energy to bring up to 1 GW of space solar energy to Earth!\n\nMeta also partners with Noon Energy to deploy up to 1 GW/100 GWh of energy storage. \n\nIt is Meta vs SpacexAI now \ud83d\udc40",
+            "translated_text": "Meta bekerjasama dengan Overview Energy untuk membawa sehingga 1 GW tenaga solar angkasa ke Bumi!\n\nMeta juga bekerjasama dengan Noon Energy untuk menyediakan sehingga 1 GW/100 GWh simpanan tenaga.\n\nSekarang ni Meta lawan SpacexAI \ud83d\udc40",
+            "date": "2026-04-27T23:28:59+00:00",
+            "message_id": 7922,
+            "message_key": "@testingcatalog:7922"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft rolled out Agent Mode for Outlook to Frontier early access users. \n\n> Copilot in Outlook is now agentic, taking on the ongoing work of running your inbox and calendar. It triages emails, reschedules conflicts, and surfaces what matters most before you even ask.",
+            "translated_text": "Microsoft melancarkan Agent Mode untuk Outlook kepada pengguna akses awal Frontier.\n\nCopilot dalam Outlook kini bersifat ejen, mengambil alih tugas berterusan menguruskan peti masuk dan kalendar anda. Ia menyaring e-mel, menjadualkan semula pertindihan, dan mengetengahkan perkara paling penting sebelum anda sempat bertanya.",
+            "date": "2026-04-27T23:20:43+00:00",
+            "message_id": 7921,
+            "message_key": "@testingcatalog:7921"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-04-27T23:14:07+00:00",
+            "message_id": 7920,
+            "message_key": "@testingcatalog:7920"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI: Gemini can now generate Docs and Sheets on web and mobile. Not sure when it was added though. \n\nSlides are not working for now but looking at Gemini for Business, we will likely get them too, as well as an inline editor potentially.",
+            "translated_text": "Untuk pengetahuan korang: Gemini sekarang dah boleh hasilkan Docs dan Sheets di web dan mobile. Tak pasti pula bila fungsi ni ditambah.\n\nSlides belum berfungsi buat masa ni, tapi kalau tengok Gemini for Business, kita mungkin akan dapat juga nanti, termasuklah editor inline.",
+            "date": "2026-04-27T23:14:07+00:00",
+            "message_id": 7919,
+            "message_key": "@testingcatalog:7919"
         }
     ]
 }
