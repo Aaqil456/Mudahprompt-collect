@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-28T11:47:05.701338",
+    "timestamp": "2026-04-28T14:13:10.714682",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17496,6 +17496,26 @@
             "date": "2026-04-28T11:45:31+00:00",
             "message_id": 7926,
             "message_key": "@testingcatalog:7926"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ElevenLabs launches Agent Templates for faster bootstrapping**](https://www.testingcatalog.com/elevenlabs-launches-agent-templates-for-faster-bootstrapping/)\n\nElevenLabs launched 50+ ElevenAgents templates with preset prompts, workflows, and integrations for support, sales, onboarding, feedback, and reception, helping teams deploy conversational AI faster with less setup and testing.\n\n\ud83d\uddde #elevenlabs @testingcatalog",
+            "translated_text": "[**ElevenLabs melancarkan Templat Ejen untuk permulaan yang lebih pantas**](https://www.testingcatalog.com/elevenlabs-launches-agent-templates-for-faster-bootstrapping/)\n\nElevenLabs memperkenalkan lebih 50 templat ElevenAgents dengan arahan pra-tetap, aliran kerja, dan integrasi untuk sokongan, jualan, orientasi, maklum balas, dan penyambut tetamu. Ini membantu pasukan menggunakan AI perbualan dengan lebih pantas, dengan kurang persediaan dan ujian.\n\n\ud83d\uddde #elevenlabs @testingcatalog",
+            "date": "2026-04-28T13:55:03+00:00",
+            "message_id": 7928,
+            "message_key": "@testingcatalog:7928"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Cat Gatekeeper** - the cutest way to stop doomscrolling.\n\nSpend too much time on social media? A cat literally takes over your screen and forces you to take a break.\n\nSet your time limit, and once it\u2019s up - the cat appears and blocks the page until your break is over. Works with X, Instagram, TikTok, and YouTube.\n\nFree, no ads, no tracking, just a fluffy productivity enforcer - [try it here](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh) \ud83d\udc08\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Cat Gatekeeper** - cara paling comel untuk hentikan *doomscrolling*.\n\nTerlalu banyak masa di media sosial? Seekor kucing akan ambil alih skrin anda dan paksa anda berehat.\n\nTetapkan had masa anda, dan bila dah sampai masanya - kucing tu akan muncul dan sekat halaman tu sampai waktu rehat anda tamat. Berfungsi dengan X, Instagram, TikTok, dan YouTube.\n\nPercuma, tiada iklan, tiada penjejakan, cuma penguat produktiviti berbulu yang comel - [cuba di sini](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh) \ud83d\udc08\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElgZjdi)",
+            "date": "2026-04-28T12:09:58+00:00",
+            "message_id": 536,
+            "message_key": "@AItoolboxdaily:536"
         }
     ]
 }
