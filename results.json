@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T23:57:21.344888",
+    "timestamp": "2026-04-28T03:37:02.821549",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17456,6 +17456,26 @@
             "date": "2026-04-27T23:14:07+00:00",
             "message_id": 7919,
             "message_key": "@testingcatalog:7919"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI can now host models with other cloud providers, like AWS**](https://www.testingcatalog.com/openai-now-can-host-models-with-other-cloud-providers-besides-azure/)\n\nMicrosoft and OpenAI revised their pact: Azure remains the primary launch platform, while OpenAI can sell products across any cloud. Microsoft keeps non-exclusive IP rights through 2032, with revenue-sharing terms fixed through 2030.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI kini boleh hos model dengan penyedia awan lain, macam AWS**](https://www.testingcatalog.com/openai-now-can-host-models-with-other-cloud-providers-besides-azure/)\n\nMicrosoft dan OpenAI dah semak semula perjanjian mereka: Azure kekal jadi platform utama untuk pelancaran, manakala OpenAI boleh jual produk mereka di mana-mana awan. Microsoft kekalkan hak IP bukan eksklusif sampai 2032, dengan syarat perkongsian hasil ditetapkan sampai 2030.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-04-28T00:15:52+00:00",
+            "message_id": 7925,
+            "message_key": "@testingcatalog:7925"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**GitHub Copilot moves to usage-based billing for all plans in 2026**](https://www.testingcatalog.com/github-copilot-moves-to-usage-based-billing-for-all-plans-in-2026/)\n\nGitHub will shift Copilot to usage-based billing on June 1, 2026, with monthly AI Credits for all plans. Base prices stay the same, overages can be purchased, and admins gain spending controls.\n\n\ud83d\uddde #github @testingcatalog",
+            "translated_text": "[**GitHub Copilot beralih kepada sistem bayaran ikut penggunaan untuk semua pelan pada tahun 2026**](https://www.testingcatalog.com/github-copilot-moves-to-usage-based-billing-for-all-plans-in-2026/)\n\nGitHub akan tukar Copilot kepada sistem bayaran ikut penggunaan mulai 1 Jun 2026, siap dengan Kredit AI bulanan untuk semua pelan. Harga asas kekal sama, kalau terlebih guna boleh beli tambahan, dan admin pun ada kawalan perbelanjaan.\n\n\ud83d\uddde #github @testingcatalog",
+            "date": "2026-04-28T00:07:59+00:00",
+            "message_id": 7924,
+            "message_key": "@testingcatalog:7924"
         }
     ]
 }
