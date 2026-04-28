@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-28T14:13:10.714682",
+    "timestamp": "2026-04-28T16:56:33.433589",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17516,6 +17516,66 @@
             "date": "2026-04-28T12:09:58+00:00",
             "message_id": 536,
             "message_key": "@AItoolboxdaily:536"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Code can now notify you via a push notification when it has finished the task.",
+            "translated_text": "Claude Code sekarang boleh maklumkan anda melalui notifikasi tolak bila tugas dah selesai.",
+            "date": "2026-04-28T16:06:45+00:00",
+            "message_id": 7935,
+            "message_key": "@testingcatalog:7935"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Base44 allows instant data migration from other platforms**](https://www.testingcatalog.com/base44-allows-instant-migration-from-shoppify-wordpress-and-more/)\n\nBase44 launched one-click migration from Salesforce, HubSpot, Shopify, WordPress, Lovable, and Bolt, importing data, schemas, and code without CSVs or rebuilds. Launch-day migrations include 25 free credits.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[Base44 membolehkan pemindahan data segera dari platform lain](https://www.testingcatalog.com/base44-allows-instant-migration-from-shoppify-wordpress-and-more/)\n\nBase44 telah melancarkan pemindahan satu klik dari Salesforce, HubSpot, Shopify, WordPress, Lovable, dan Bolt, mengimport data, skema, dan kod tanpa fail CSV atau perlu bina semula. Pemindahan pada hari pelancaran disertakan dengan 25 kredit percuma.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-04-28T15:21:32+00:00",
+            "message_id": 7934,
+            "message_key": "@testingcatalog:7934"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI keeps working on SKILLs support \ud83d\udc40\n\nA new Skills tab is now available (but hidden), while Grok 4.3 now supports Skills creation. \n\nWith all the features being prepared and Google I/O approaching in May, I bet we should expect a Keynote from xAI quite soon.",
+            "translated_text": "xAI masih lagi mengusahakan sokongan SKILLs \ud83d\udc40\n\nTab Skills baharu dah ada (tapi tersembunyi), manakala Grok 4.3 kini menyokong penciptaan Skills.\n\nDengan semua ciri yang sedang disiapkan dan Google I/O akan tiba pada bulan Mei, saya rasa kita boleh jangkakan Keynote dari xAI tak lama lagi.",
+            "date": "2026-04-28T15:19:47+00:00",
+            "message_id": 7933,
+            "message_key": "@testingcatalog:7933"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic released new Connectors to Claude, focused on Creative Work.  \n\nNew Connectors: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, Resolume, Autodesk Fusion, and Blender.",
+            "translated_text": "Anthropic melancarkan Penyambung baharu untuk Claude, fokus pada Kerja Kreatif.\nPenyambung Baharu: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, Resolume, Autodesk Fusion, dan Blender.",
+            "date": "2026-04-28T15:18:42+00:00",
+            "message_id": 7932,
+            "message_key": "@testingcatalog:7932"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI is rolling out support for shareable Imagine templates on the Grok web. \n\nUsers can now create custom templates with 3 different options\n- Photo > Video\n- Photo > Style Edit\n- Photo > Edit > Video\n\nAdditionally, the \"Image Reference\" template type is also in the works.",
+            "translated_text": "xAI sedang melancarkan sokongan untuk templat Imagine yang boleh dikongsi di web Grok.\n\nPengguna kini boleh mencipta templat tersuai dengan 3 pilihan berbeza:\n- Photo > Video\n- Photo > Style Edit\n- Photo > Edit > Video\n\nSelain itu, jenis templat \"Image Reference\" juga sedang dibangunkan.",
+            "date": "2026-04-28T14:59:56+00:00",
+            "message_id": 7931,
+            "message_key": "@testingcatalog:7931"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Shannon is going viral on GitHub \u2014 an AI \u201chacker\u201d that helps test the security of any web app.\n\nIt analyzes your codebase, scans for vulnerabilities, and runs automated pentests. At the end, it generates a clear report with all detected issues.\n\nRuns locally and can be launched with a single command. Try it [here for free](https://github.com/KeygraphHQ/shannon).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "Shannon sedang tular di GitHub \u2014 seorang 'penggodam' AI yang bantu uji keselamatan mana-mana aplikasi web.\n\nIa menganalisis kod anda, mengimbas kelemahan, dan menjalankan ujian penembusan automatik. Akhirnya, ia menjana laporan yang jelas dengan semua isu yang dikesan.\n\nBerjalan secara tempatan dan boleh dilancarkan dengan satu arahan sahaja. Cuba ia [di sini secara percuma](https://github.com/KeygraphHQ/shannon).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-28T14:49:58+00:00",
+            "message_id": 537,
+            "message_key": "@AItoolboxdaily:537"
         }
     ]
 }
