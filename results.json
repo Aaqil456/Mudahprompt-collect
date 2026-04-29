@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-28T18:19:46.193492",
+    "timestamp": "2026-04-29T14:03:03.682124",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17606,6 +17606,26 @@
             "date": "2026-04-28T17:34:58+00:00",
             "message_id": 538,
             "message_key": "@AItoolboxdaily:538"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SenseTime releases SenseNova U1 models on HuggingFace**](https://www.testingcatalog.com/sensetime-releases-sensenova-u1-models-on-huggingface/)\n\nSenseTime released Apache 2.0 multimodal U1 models with open weights on HuggingFace. Built on NEO-Unify and native MoT, they unify text and vision end to end, support self-hosting, and cut infographic and document generation costs.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**SenseTime Dah Keluarkan Model SenseNova U1 di HuggingFace**](https://www.testingcatalog.com/sensetime-releases-sensenova-u1-models-on-huggingface/)\n\nSenseTime dah keluarkan model U1 multimodal Apache 2.0 dengan 'open weights' di HuggingFace. Model ni dibina atas NEO-Unify dan MoT asli. Ia boleh satukan teks dengan visual dari awal sampai akhir, sokong 'self-hosting', dan kurangkan kos nak buat infografik atau dokumen.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-04-29T13:45:49+00:00",
+            "message_id": 7936,
+            "message_key": "@testingcatalog:7936"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Qwen3.6\u2011Max\u2011Preview** dropped a new large-scale model from Alibaba with over 1 trillion parameters.\n\nIt brings stronger reasoning, improved code generation, and better handling of long context. In agent-style workflows and coding tasks, it\u2019s already competing with top-tier models.\n\nTry it [here for free](https://chat.qwen.ai/).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Qwen3.6\u2011Max\u2011Preview** telah melancarkan model berskala besar baharu daripada Alibaba dengan lebih 1 trilion parameter.\n\nIa menawarkan penaakulan yang lebih kukuh, penjanaan kod yang lebih baik, dan pengendalian konteks panjang yang lebih cekap. Dalam aliran kerja gaya ejen dan tugasan pengekodan, ia sudah bersaing dengan model-model terkemuka.\n\nCubalah [di sini secara percuma](https://chat.qwen.ai/).\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-29T12:50:58+00:00",
+            "message_id": 541,
+            "message_key": "@AItoolboxdaily:541"
         }
     ]
 }
