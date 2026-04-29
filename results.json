@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T18:14:08.881276",
+    "timestamp": "2026-04-29T22:00:38.017225",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17696,6 +17696,36 @@
             "date": "2026-04-29T18:12:58+00:00",
             "message_id": 543,
             "message_key": "@AItoolboxdaily:543"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic rolls out Claude connectors for creative platforms**](https://www.testingcatalog.com/anthropic-rolls-out-claude-connectors-for-creative-platforms/)\n\nAnthropic launched Claude connectors for Blender, Adobe, Autodesk, Ableton, Splice, Affinity, and others, enabling documentation-based help, scripting, batch tasks, and asset transfer across creative workflows and education.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic memperkenalkan penyambung Claude untuk platform kreatif**](https://www.testingcatalog.com/anthropic-rolls-out-claude-connectors-for-creative-platforms/)\n\nAnthropic melancarkan penyambung Claude untuk Blender, Adobe, Autodesk, Ableton, Splice, Affinity, dan lain-lain. Ini membolehkan bantuan berasaskan dokumentasi, penulisan skrip, tugas kelompok, dan pemindahan aset merentasi aliran kerja kreatif dan pendidikan.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-04-29T20:29:06+00:00",
+            "message_id": 7944,
+            "message_key": "@testingcatalog:7944"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft Copilot in Outlook adds AI to manage inbox and calendar**](https://www.testingcatalog.com/microsoft-copilot-in-outlook-adds-ai-to-manage-inbox-and-calendar/)\n\nMicrosoft upgraded Outlook Copilot with agentic inbox and calendar management for Frontier business users from April 27. It now triages mail, drafts follow-ups, applies rules, resolves scheduling conflicts, and blocks focus time.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Microsoft Copilot dalam Outlook tambah AI untuk urus peti masuk dan kalendar**](https://www.testingcatalog.com/microsoft-copilot-in-outlook-adds-ai-to-manage-inbox-and-calendar/)\n\nMicrosoft dah tingkatkan Outlook Copilot dengan pengurusan peti masuk dan kalendar yang proaktif untuk pengguna perniagaan Frontier mulai 27 April. Sekarang ia boleh susun e-mel, draf e-mel susulan, guna peraturan, selesaikan konflik jadual, dan peruntukkan masa fokus.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-04-29T20:28:49+00:00",
+            "message_id": 7943,
+            "message_key": "@testingcatalog:7943"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral AI launches Workflows public preview for Enterprises**](https://www.testingcatalog.com/mistral-ai-launches-workflows-public-preview-for-enterprises/)\n\nMistral AI launched Workflows in public preview, an orchestration layer for running enterprise AI pipelines in production with durability, observability, fault tolerance, and auditability across cloud, on-prem, and hybrid setups.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral AI melancarkan pratonton awam Workflows untuk Perusahaan**](https://www.testingcatalog.com/mistral-ai-launches-workflows-public-preview-for-enterprises/)\n\nMistral AI telah melancarkan Workflows dalam pratonton awam. Ini adalah lapisan orkestrasi untuk menjalankan saluran paip AI perusahaan dalam produksi, lengkap dengan ketahanan, kebolehpantauan, toleransi kesalahan, dan kebolehauditan merentasi persediaan awan, di premis, dan hibrid.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-04-29T20:25:51+00:00",
+            "message_id": 7942,
+            "message_key": "@testingcatalog:7942"
         }
     ]
 }
