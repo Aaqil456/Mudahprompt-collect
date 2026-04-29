@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T14:03:03.682124",
+    "timestamp": "2026-04-29T16:44:03.646844",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17626,6 +17626,56 @@
             "date": "2026-04-29T12:50:58+00:00",
             "message_id": 541,
             "message_key": "@AItoolboxdaily:541"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MISTRAL \ud83d\udea8: Mistral AI released Mistral Medium 3.5, a 128B dense open weights model with a 256k context window and configurable reasoning effort. \n\nMistral Medium 3.5 is now available on Mistral Vibe and Le Chat.",
+            "translated_text": "MISTRAL \ud83d\udea8: Mistral AI dah keluarkan Mistral Medium 3.5, satu model open weights padat 128B dengan tetingkap konteks 256k dan usaha penaakulan yang boleh disesuaikan.\n\nMistral Medium 3.5 ni dah boleh didapati di Mistral Vibe dan Le Chat.",
+            "date": "2026-04-29T15:37:38+00:00",
+            "message_id": 7940,
+            "message_key": "@testingcatalog:7940"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek released DeepSeek Vision in Beta, a new mode in DeepSeek Chat dedicated to image-understanding tasks.",
+            "translated_text": "DeepSeek dah keluarkan DeepSeek Vision dalam versi Beta, mod baru dalam DeepSeek Chat yang fokus untuk tugas-tugas memahami imej.",
+            "date": "2026-04-29T15:33:02+00:00",
+            "message_id": 7939,
+            "message_key": "@testingcatalog:7939"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**NotebookLM tests Mind Map controls and Play Books sources**](https://www.testingcatalog.com/notebooklm-tests-mind-map-controls-and-play-books-sources/)\n\nGoogle is working on Mind Map customization for NotebookLM and a new integration with Google Play Books. \n\nWhat's Coming? \ud83d\udc40\n\n> Users will be able to instruct NotebookLM to build a Mind Map for a specific topic or a set of sources. \n\n> Users will be able to use Google Play Books as sources. \n\n\"Turn bestsellers into personalized insights. Add full-length books from leading authors to your notebooks.\"\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**NotebookLM menguji kawalan Peta Minda dan sumber Play Books**](https://www.testingcatalog.com/notebooklm-tests-mind-map-controls-and-play-books-sources/)\n\nGoogle sedang membangunkan penyesuaian Peta Minda untuk NotebookLM dan integrasi baharu dengan Google Play Books.\n\nApa yang akan datang? \ud83d\udc40\n\n> Pengguna akan dapat mengarahkan NotebookLM untuk membina Peta Minda bagi topik tertentu atau set sumber.\n\n> Pengguna akan dapat menggunakan Google Play Books sebagai sumber.\n\n\"Jadikan buku laris sebagai pandangan peribadi. Tambah buku penuh daripada penulis terkemuka ke dalam buku nota anda.\"\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-04-29T15:21:34+00:00",
+            "message_id": 7938,
+            "message_key": "@testingcatalog:7938"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ElevenLabs launched ElevenMusic platform!\n\nElevenMusic is built on top of ElevenLabs music generation model and is now available on the web and mobile.",
+            "translated_text": "ElevenLabs dah lancarkan platform ElevenMusic!\n\nElevenMusic dibina berasaskan model penjanaan muzik ElevenLabs dan kini boleh didapati di web dan mudah alih.",
+            "date": "2026-04-29T14:29:05+00:00",
+            "message_id": 7937,
+            "message_key": "@testingcatalog:7937"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "[AI agent wiped](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue) a production database in 9 seconds - **real case from PocketOS.** \ud83e\udd2f\n\nWhile fixing a credential issue, a Cursor agent running Claude Opus 4.6 found an API token and used it to delete a Railway volume including production data and recent backups.\n\nThe system interpreted the mismatch as something to \u201cfix\u201d and acted on its own, without human approval. The team later managed to recover the data, but the incident highlights a serious risk.\n\n**Lesson:** giving AI agents direct access to infrastructure without strict limits can backfire fast.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "[Ejen AI padamkan](https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue) pangkalan data produksi dalam 9 saat - **kes sebenar dari PocketOS.** \ud83e\udd2f\n\nMasa nak betulkan isu kelayakan, ejen Cursor yang guna Claude Opus 4.6 jumpa token API dan gunakannya untuk padamkan volume Railway, termasuk data produksi dan backup terkini.\n\nSistem tu tafsirkan ketidakpadanan tu sebagai sesuatu yang perlu 'dibetulkan' dan bertindak sendiri, tanpa kelulusan manusia. Pasukan tu kemudian berjaya pulihkan data, tapi insiden ni tunjukkan risiko yang serius.\n\n**Pengajaran:** bagi ejen AI akses terus ke infrastruktur tanpa had yang ketat boleh makan diri dengan cepat.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-29T15:21:58+00:00",
+            "message_id": 542,
+            "message_key": "@AItoolboxdaily:542"
         }
     ]
 }
