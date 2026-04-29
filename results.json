@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T22:00:38.017225",
+    "timestamp": "2026-04-29T23:05:32.762466",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17726,6 +17726,26 @@
             "date": "2026-04-29T20:25:51+00:00",
             "message_id": 7942,
             "message_key": "@testingcatalog:7942"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral AI unveils Medium 3.5 model and Work Mode for Le Chat**](https://www.testingcatalog.com/mistral-ai-unveils-medium-3-5-model-and-work-mode-for-le-chat/)\n\nMistral AI launched Medium 3.5 in public preview, a 128B model with 256k context, remote cloud agents, and Le Chat Work mode. It combines reasoning, coding, and vision, supports self-hosted deployment, and targets global teams via API and CLI.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral AI memperkenalkan model Medium 3.5 dan Mod Kerja untuk Le Chat**](https://www.testingcatalog.com/mistral-ai-unveils-medium-3-5-model-and-work-mode-for-le-chat/)\n\nMistral AI telah melancarkan Medium 3.5 dalam pratonton awam, sebuah model 128B dengan konteks 256k, ejen awan jarak jauh, dan Mod Kerja Le Chat. Ia menggabungkan penaakulan, pengekodan, dan penglihatan, menyokong penggunaan hos sendiri, dan menyasarkan pasukan global melalui API dan CLI.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-04-29T22:01:20+00:00",
+            "message_id": 7946,
+            "message_key": "@testingcatalog:7946"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta invests in space solar and storage to power US data centers**](https://www.testingcatalog.com/meta-invests-in-space-solar-and-storage-to-power-us-data-centers/)\n\nMeta partnered with Overview Energy and Noon Energy to power AI data centers with orbit-to-grid solar and 100+ hour storage. The projects target US sites, with demos in 2028 and commercial rollout possible by 2030.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta melabur dalam tenaga solar angkasa dan penyimpanan untuk menjana pusat data AS**](https://www.testingcatalog.com/meta-invests-in-space-solar-and-storage-to-power-us-data-centers/)\n\nMeta bekerjasama dengan Overview Energy dan Noon Energy untuk menjana pusat data AI menggunakan solar angkasa ke grid dan penyimpanan lebih 100 jam. Projek-projek ini menyasarkan lokasi di AS, dengan demo pada tahun 2028 dan pelancaran komersial mungkin menjelang 2030.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-04-29T22:00:39+00:00",
+            "message_id": 7945,
+            "message_key": "@testingcatalog:7945"
         }
     ]
 }
