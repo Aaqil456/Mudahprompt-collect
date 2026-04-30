@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T14:02:13.556019",
+    "timestamp": "2026-04-30T16:22:06.269826",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17766,6 +17766,36 @@
             "date": "2026-04-30T12:14:58+00:00",
             "message_id": 544,
             "message_key": "@AItoolboxdaily:544"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MANUS \ud83d\udea8: Manus AI announced Cloud Computer, an always-on machine that works for you 24/7!\n\nAlways-on agent as an infrastructure \ud83d\udd25\n\n> Users can host their own 24/7 Bots for Discord and Telegram via Cloud Computer \n> Build a Persistent Knowledge Base\n> Deploy and host any open-source tool\n> Run Scheduled Scrapers\n> Use CLI Developer Tools\n\nCloud Computer on Manus is now available on the web and mobile for paid personal plans. \n\nThis needs testing time \ud83d\udc40",
+            "translated_text": "MANUS \ud83d\udea8: Manus AI umumkan Cloud Computer, sebuah mesin yang sentiasa aktif dan bekerja untuk anda 24/7!\n\nEjen yang sentiasa aktif sebagai infrastruktur \ud83d\udd25\n\n> Pengguna boleh hoskan Bot 24/7 mereka sendiri untuk Discord dan Telegram melalui Cloud Computer\n> Bina Pangkalan Pengetahuan Berterusan\n> Guna dan hoskan mana-mana alatan sumber terbuka\n> Jalankan Scraper Berjadual\n> Guna CLI Developer Tools\n\nCloud Computer di Manus kini tersedia di web dan mudah alih untuk pelan peribadi berbayar.\n\nIni perlukan masa untuk diuji \ud83d\udc40",
+            "date": "2026-04-30T15:42:37+00:00",
+            "message_id": 7949,
+            "message_key": "@testingcatalog:7949"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI debuts Imagine Agent in Grok with open Canvas AI workspace**](https://www.testingcatalog.com/xai-debuts-imagine-agent-in-grok-with-open-canvas-ai-workspace/)\n\nxAI is rolling out Imagine Agent in Grok Imagine beta, letting subscribers delegate multi-step image and video projects on an open canvas. It plans, generates, composites, and assembles assets for films, photoshoots, and campaigns.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**xAI memperkenalkan Imagine Agent dalam Grok dengan ruang kerja AI Canvas terbuka**](https://www.testingcatalog.com/xai-debuts-imagine-agent-in-grok-with-open-canvas-ai-workspace/)\n\nxAI sedang melancarkan Imagine Agent dalam Grok Imagine beta, membolehkan pelanggan menugaskan projek imej dan video berbilang langkah pada kanvas terbuka. Ia merancang, menjana, menggabungkan, dan menyusun aset untuk filem, sesi fotografi, dan kempen.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-04-30T14:14:26+00:00",
+            "message_id": 7948,
+            "message_key": "@testingcatalog:7948"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**GPT Image 2 **just took #1 place on the Arena AI leaderboard - outperforming all major image generation models.\n\nIt leads across the board: from photorealism and text rendering to UI design, ads, and 3D-style visuals. The gap with competitors like Nano Banana 2 is significant, making it the current top model in text-to-image tasks. Try it [here](https://chatgpt.com/).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "GPT Image 2 baru je jadi nombor 1 dalam papan pendahulu Arena AI \u2014 kalahkan semua model penjanaan imej utama yang lain.\n\nIa memang paling depan dalam semua benda: dari hasil gambar realistik, paparan teks, sampai ke reka bentuk UI, iklan, dan visual gaya 3D. Jarak dia dengan pesaing macam Nano Banana 2 memang jauh, buatkan dia jadi model terbaik sekarang untuk tugas teks-ke-imej. Cubalah [di sini](https://chatgpt.com/).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-04-30T14:52:58+00:00",
+            "message_id": 545,
+            "message_key": "@AItoolboxdaily:545"
         }
     ]
 }
