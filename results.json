@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T18:12:54.214219",
+    "timestamp": "2026-04-30T21:57:58.273030",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17836,6 +17836,26 @@
             "date": "2026-04-30T17:01:45+00:00",
             "message_id": 7950,
             "message_key": "@testingcatalog:7950"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udc40: Claude will get a new feature called \"Cardinal\" (internal name)! \n\n> Users will be able to select a month, and Claude will show them stats, including a highlight of the areas they've focused on most.\n- \"Here\u2019s where your conversations clustered.\"\n- \"These were the main working styles you used.\"\n\n> This new feature will be available in settings. \n\n> Settings layout will also be updated on both the web and desktop apps.\n\nMemory but visual! \ud83d\udd25",
+            "translated_text": "ANTHROPIC \ud83d\udc40: Claude akan dapat ciri baru yang dipanggil \"Cardinal\" (nama dalaman)!\n\nPengguna nanti boleh pilih bulan, dan Claude akan tunjukkan statistik, termasuk sorotan tentang bidang yang paling banyak mereka fokuskan.\n- \"Ini tempat perbualan anda banyak tertumpu.\"\n- \"Ini gaya kerja utama yang anda guna.\"\n\nCiri baru ni akan ada dalam tetapan.\n\nSusun atur tetapan pun akan dikemaskini dekat aplikasi web dan desktop.\n\nMemori tapi visual! \ud83d\udd25",
+            "date": "2026-04-30T21:39:40+00:00",
+            "message_id": 7955,
+            "message_key": "@testingcatalog:7955"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udc40: Codex app got updated to version 26.429.20946 with loads of minor tweaks and new hidden additions! \n\nWhat's hidden? (not available yet)\n- A new Remote Control feature and Connections section in settings\n- Codex \"Avatars\" got renamed into \"Pets\"\n- A new Keyboard category in settings for shortcut management\n- A new onboarding widget prompting to connect core integrations with email, calendar, and files\n\nWhat's new?\n- Updated onboarding flow\n- 20% faster computer & browser use \n- Upgraded slides and sheets capabilities\n- Annotation for browser, artifacts, and code \n- Cleaner design & performance improvements\n\nAdditional changes?\n- It seems like Browser Use got disabled in EU\n- It seems like Computer Use got disabled in EU",
+            "translated_text": "OPENAI \ud83d\udc40: Aplikasi Codex dah dikemaskini ke versi 26.429.20946 dengan pelbagai pembetulan kecil dan penambahan tersembunyi yang baharu!\n\nApa yang tersembunyi? (belum tersedia lagi)\n- Ciri Kawalan Jauh baharu dan bahagian Sambungan dalam tetapan\n- \"Avatars\" Codex dah ditukar nama jadi \"Pets\"\n- Kategori Papan Kekunci baharu dalam tetapan untuk pengurusan pintasan\n- Widget onboarding baharu yang menggesa untuk menyambungkan integrasi utama dengan e-mel, kalendar, dan fail\n\nApa yang baharu?\n- Aliran onboarding yang dikemaskini\n- Penggunaan komputer & pelayar 20% lebih pantas\n- Keupayaan slaid dan helaian yang dipertingkat\n- Anotasi untuk pelayar, artifak, dan kod\n- Reka bentuk yang lebih kemas & peningkatan prestasi\n\nPerubahan tambahan?\n- Nampaknya Penggunaan Pelayar dah dinyahaktifkan di EU\n- Nampaknya Penggunaan Komputer dah dinyahaktifkan di EU",
+            "date": "2026-04-30T20:50:09+00:00",
+            "message_id": 7954,
+            "message_key": "@testingcatalog:7954"
         }
     ]
 }
