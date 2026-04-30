@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T21:57:58.273030",
+    "timestamp": "2026-04-30T23:58:37.133628",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17856,6 +17856,26 @@
             "date": "2026-04-30T20:50:09+00:00",
             "message_id": 7954,
             "message_key": "@testingcatalog:7954"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI updates Codex and prepares Remote Control feature**](https://www.testingcatalog.com/openai-updates-codex-and-prepares-remote-control-feature/)\n\nOpenAI\u2019s Codex refresh broadens the app from coding to general knowledge work, adding connectors, annotations, side chats, shortcut remapping, and possible goal-based autonomy, while some browser features remain region-locked in Europe.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI kemas kini Codex dan sediakan ciri Kawalan Jauh**](https://www.testingcatalog.com/openai-updates-codex-and-prepares-remote-control-feature/)\n\nPembaharuan Codex OpenAI meluaskan aplikasi ini daripada pengekodan kepada kerja pengetahuan am, dengan penambahan penyambung, anotasi, sembang sisi, pemetaan semula pintasan, dan kemungkinan autonomi berasaskan matlamat, sementara beberapa ciri pelayar masih terkunci mengikut wilayah di Eropah.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-04-30T23:54:51+00:00",
+            "message_id": 7957,
+            "message_key": "@testingcatalog:7957"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus launches Cloud Computer with service hosting feature**](https://www.testingcatalog.com/manus-launches-cloud-computer-with-service-hosting-capabilities/)\n\nManus Cloud Computer provides a persistent Ubuntu-based cloud machine for running bots, scripts, databases, and open-source tools 24/7. Available on web and mobile, it offers plan, region, and storage options for varied workloads.\n\n\ud83d\uddde #manus @testingcatalog",
+            "translated_text": "[**Manus melancarkan Cloud Computer dengan ciri pengehosan perkhidmatan**](https://www.testingcatalog.com/manus-launches-cloud-computer-with-service-hosting-capabilities/)\n\nManus Cloud Computer menyediakan mesin awan berasaskan Ubuntu yang berterusan untuk menjalankan bot, skrip, pangkalan data, dan alatan sumber terbuka 24/7. Boleh didapati di web dan mudah alih, ia menawarkan pilihan pelan, wilayah, dan storan untuk pelbagai beban kerja.\n\n\ud83d\uddde #manus @testingcatalog",
+            "date": "2026-04-30T23:44:34+00:00",
+            "message_id": 7956,
+            "message_key": "@testingcatalog:7956"
         }
     ]
 }
