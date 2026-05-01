@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T18:00:06.618859",
+    "timestamp": "2026-05-01T19:24:36.415157",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17946,6 +17946,26 @@
             "date": "2026-05-01T17:05:58+00:00",
             "message_id": 547,
             "message_key": "@AItoolboxdaily:547"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI made it easier to switch to Codex, as now you can import settings, plugins, agents, and project configuration from other tools.\n\nAt launch, Codex will also automatically detect new configs and suggest importing them.\n\nALLYOURCONFIGSBELONGTOUS \ud83d\udc40",
+            "translated_text": "OpenAI dah mudahkan lagi untuk beralih ke Codex, sebab sekarang korang boleh import tetapan, plugin, ejen, dan konfigurasi projek dari alatan lain.\n\nMasa pelancaran nanti, Codex juga akan automatik kesan konfigurasi baru dan cadangkan untuk import.\n\nSEMUA KONFIGURASI KORANG KAMI PUNYA \ud83d\udc40",
+            "date": "2026-05-01T19:15:16+00:00",
+            "message_id": 7966,
+            "message_key": "@testingcatalog:7966"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udea8: Codex now has Pets! Pets are overlay avatars that live on your desktop. \n\n8 predefined pets are available, and users can also use skills to generate custom pets!\n\nChoose your Pokemon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udea8: Codex sekarang ada Pets! Pets ni adalah avatar overlay yang tinggal di desktop anda. Ada 8 Pets yang dah ditetapkan tersedia, dan pengguna juga boleh guna kemahiran untuk hasilkan Pets sendiri! Pilih Pokemon anda \ud83d\udc40",
+            "date": "2026-05-01T18:17:24+00:00",
+            "message_id": 7965,
+            "message_key": "@testingcatalog:7965"
         }
     ]
 }
