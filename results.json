@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T23:58:37.133628",
+    "timestamp": "2026-05-01T04:08:21.953062",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17876,6 +17876,16 @@
             "date": "2026-04-30T23:44:34+00:00",
             "message_id": 7956,
             "message_key": "@testingcatalog:7956"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests Jupiter-v1-p ahead of its developer conference**](https://www.testingcatalog.com/anthropic-tests-jupiter-v1-p-before-potential-launch-on-may-6/)\n\nAnthropic has begun red teaming an internal build, Claude Jupiter V1, ahead of its May 6 Code with Claude event. Following last year\u2019s Neptune-to-Claude 4 pattern, this may point to a near-term model announcement.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic sedang menguji Jupiter-v1-p menjelang persidangan pembangunnya**](https://www.testingcatalog.com/anthropic-tests-jupiter-v1-p-before-potential-launch-on-may-6/)\n\nAnthropic dah mula buat ujian 'red teaming' untuk versi dalaman, Claude Jupiter V1, menjelang acara 'Code with Claude' mereka pada 6 Mei nanti. Mengikut corak Neptune ke Claude 4 tahun lepas, ini mungkin petanda yang mereka akan umumkan model baru tak lama lagi.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-01T00:19:27+00:00",
+            "message_id": 7959,
+            "message_key": "@testingcatalog:7959"
         }
     ]
 }
