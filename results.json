@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T16:02:27.527611",
+    "timestamp": "2026-05-01T18:00:06.618859",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17936,6 +17936,16 @@
             "date": "2026-05-01T15:01:50+00:00",
             "message_id": 7963,
             "message_key": "@testingcatalog:7963"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**ComfyUI** - a powerful tool for building custom AI image and video workflows.\n\nIt uses a node-based interface where you connect models, prompts, and effects into your own pipeline or run ready-made workflows from the community.\n\nYou can run everything locally or use cloud GPUs, and it supports a wide range of models (Stable Diffusion, video, LoRAs).\n\nCompletely free - perfect if you want full control over how your AI generates content. Try it [here](https://www.comfy.org/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**ComfyUI** - satu alat yang sangat berkuasa untuk bina aliran kerja (workflow) AI imej dan video yang boleh disesuaikan.\n\nIa guna antaramuka berasaskan nod, di mana anda boleh sambungkan model, prompt, dan efek ke dalam 'pipeline' anda sendiri atau jalankan 'workflow' yang dah siap dari komuniti.\n\nAnda boleh jalankan semua ni secara lokal (di komputer sendiri) atau guna GPU awan (cloud GPUs), dan ia sokong pelbagai jenis model (Stable Diffusion, video, LoRAs).\n\nPercuma sepenuhnya - memang sesuai kalau anda nak kawalan penuh macam mana AI anda hasilkan kandungan. Cuba ia [di sini](https://www.comfy.org/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-01T17:05:58+00:00",
+            "message_id": 547,
+            "message_key": "@AItoolboxdaily:547"
         }
     ]
 }
