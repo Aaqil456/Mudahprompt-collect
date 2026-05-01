@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T07:26:03.824976",
+    "timestamp": "2026-05-01T09:48:08.148393",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -17896,6 +17896,26 @@
             "date": "2026-05-01T05:22:57+00:00",
             "message_id": 7960,
             "message_key": "@testingcatalog:7960"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok 4.3 got to the 7th spot on the Artificial Analysis Index, surpassing Muse Spark from Meta.",
+            "translated_text": "Grok 4.3 mendapat tempat ke-7 di Artificial Analysis Index, mengatasi Muse Spark dari Meta.",
+            "date": "2026-05-01T07:44:16+00:00",
+            "message_id": 7962,
+            "message_key": "@testingcatalog:7962"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Users can now opt in to feature their Imagine templates publicly on Grok web. \n\n> By enabling this feature, your template may be selected by xAI to appear in its publicly featured gallery. If your xAI account is associated with your X account, your X handle may be shown alongside the template.",
+            "translated_text": "Pengguna kini boleh memilih untuk memaparkan templat Imagine mereka secara awam di laman web Grok.\n\nDengan mengaktifkan ciri ini, templat anda mungkin dipilih oleh xAI untuk dipaparkan dalam galeri pilihan awamnya. Jika akaun xAI anda dikaitkan dengan akaun X anda, nama pengguna X anda mungkin dipaparkan bersama templat tersebut.",
+            "date": "2026-05-01T07:35:10+00:00",
+            "message_id": 7961,
+            "message_key": "@testingcatalog:7961"
         }
     ]
 }
