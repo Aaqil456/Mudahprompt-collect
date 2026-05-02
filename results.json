@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-02T17:46:14.246503",
+    "timestamp": "2026-05-02T22:44:51.354266",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18046,6 +18046,16 @@
             "date": "2026-05-02T17:40:58+00:00",
             "message_id": 549,
             "message_key": "@AItoolboxdaily:549"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google is testing new Omni model for video generation ahead of I/O**](https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/)\n\nGOOGLE I/O \ud83d\udea8: A NEW OMNI MODEL IS BEING TESTED ON GEMINI FOR VIDEO GENERATION!\n\n> \"Start with an idea or try a template. Powered by Omni.\"\n\n> This is a new leaked headline from the video generation tab on Gemini. \n\n> Omni appears close to \"Toucan\", an internal name of the current video generation tool powered by Veo. \n\n> If Google plans to release Gemini Omni for video generation, it would likely outperform Veo 3.1. \n\n> If true (as it is still highly speculative), Gemini will be the first top-tier Omni model with video output!\n\nGoogle I/O 2026 will be hot \ud83d\udd25\n\nImage by @Thomasguka\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google sedang uji model Omni baharu untuk hasilkan video, sebelum I/O**](https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/)\n\nGOOGLE I/O \ud83d\udea8: MODEL OMNI BAHARU SEDANG DIUJI PADA GEMINI UNTUK HASILKAN VIDEO!\n\n> \"Mula dengan idea atau cuba templat. Dikuasakan oleh Omni.\"\n\n> Ini adalah tajuk utama yang bocor dari tab penghasilan video di Gemini.\n\n> Omni nampak macam \"Toucan\", nama dalaman untuk alat penghasilan video sedia ada yang dikuasakan oleh Veo.\n\n> Kalau Google rancang nak keluarkan Gemini Omni untuk hasilkan video, kemungkinan besar ia akan lebih hebat dari Veo 3.1.\n\n> Kalau betul (sebab ini masih spekulasi tinggi), Gemini akan jadi model Omni peringkat tertinggi pertama yang ada output video!\n\nGoogle I/O 2026 memang akan gempak \ud83d\udd25\n\nImej oleh @Thomasguka\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-02T22:30:50+00:00",
+            "message_id": 7973,
+            "message_key": "@testingcatalog:7973"
         }
     ]
 }
