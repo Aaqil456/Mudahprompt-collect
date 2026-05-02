@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-02T05:39:34.156752",
+    "timestamp": "2026-05-02T07:48:05.997741",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18006,6 +18006,26 @@
             "date": "2026-05-02T05:37:18+00:00",
             "message_id": 7970,
             "message_key": "@testingcatalog:7970"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "XAI \ud83d\udea8: Voice cloning is now available on xAI Console in the US. \n\n> Create a custom voice in less than 2 minutes or select from our library of 80+ voices across 28 languages to personalize your voice agents, audiobooks, video game characters, and more.\n\nThis also means we will see custom voices on Grok soon. I hope they won't be restricted to the US only.",
+            "translated_text": "XAI \ud83d\udea8: Pengeklonan suara kini dah boleh guna di xAI Console, di AS.\n\n> Cipta suara sendiri dalam masa kurang 2 minit atau pilih dari pustaka kami yang ada lebih 80 suara merentasi 28 bahasa untuk peribadikan ejen suara, buku audio, watak permainan video, dan macam-macam lagi.\n\nIni juga bermakna kita akan nampak suara khas di Grok tak lama lagi. Harap-harap ia tak terhad di AS saja.",
+            "date": "2026-05-02T07:07:38+00:00",
+            "message_id": 7972,
+            "message_key": "@testingcatalog:7972"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex named him \"Minty\" \ud83d\udc40\n\nWhich Codex Pets did you make?",
+            "translated_text": "Codex namakan dia \"Minty\" \ud83d\udc40\n\nApa Codex Pets yang awak buat?",
+            "date": "2026-05-02T07:00:19+00:00",
+            "message_id": 7971,
+            "message_key": "@testingcatalog:7971"
         }
     ]
 }
