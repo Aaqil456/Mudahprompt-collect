@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-02T22:44:51.354266",
+    "timestamp": "2026-05-02T23:48:46.866441",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18056,6 +18056,16 @@
             "date": "2026-05-02T22:30:50+00:00",
             "message_id": 7973,
             "message_key": "@testingcatalog:7973"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI adds animated Pets and config imports to Codex**](https://www.testingcatalog.com/openai-adds-animated-pets-and-config-imports-to-codex/)\n\nOpenAI updated Codex with Pets, pixel-art overlays that show task status and support replies, plus Hatch for custom animated companions. The release also adds config import from other coding agents and a custom dictionary for voice dictation.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI Menambah Pets Beranimasi dan Import Konfigurasi ke Codex**](https://www.testingcatalog.com/openai-adds-animated-pets-and-config-imports-to-codex/)\n\nOpenAI telah mengemaskini Codex dengan Pets, iaitu lapisan seni piksel yang menunjukkan status tugasan dan menyokong balasan, serta Hatch untuk teman beranimasi tersuai. Keluaran ini juga menambah import konfigurasi dari ejen pengekodan lain dan kamus tersuai untuk imlak suara.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-02T23:17:35+00:00",
+            "message_id": 7974,
+            "message_key": "@testingcatalog:7974"
         }
     ]
 }
