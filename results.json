@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-03T13:16:06.465616",
+    "timestamp": "2026-05-03T16:54:48.778265",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18096,6 +18096,36 @@
             "date": "2026-05-03T12:39:58+00:00",
             "message_id": 550,
             "message_key": "@AItoolboxdaily:550"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-03T16:28:46+00:00",
+            "message_id": 7978,
+            "message_key": "@testingcatalog:7978"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udea8: A new design for Gemini on iOS has been spotted!\n\nSleeeeeeeeeeeek! \ud83d\udc40\nh/t @QuantumFast",
+            "translated_text": "GOOGLE \ud83d\udea8: Reka bentuk baru untuk Gemini di iOS dah dikesan!\nNampak kemas betul! \ud83d\udc40\nKredit kepada @QuantumFast",
+            "date": "2026-05-03T16:28:46+00:00",
+            "message_id": 7977,
+            "message_key": "@testingcatalog:7977"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**30,000 workers were laid off by the system they trained** \ud83e\udd2f\n\nAccording to [TIME](https://time.com/article/2026/04/30/oracle-layoffs-ai-tech-jobs/),  employees were asked to train AI systems that could replace them - and were then let go, sometimes with just a single email after years at the company. Some also lost unvested stock or faced visa issues.\n\nAt the same time, the company is heavily investing in AI infrastructure - shifting focus from people to automation.",
+            "translated_text": "**30,000 pekerja dibuang kerja oleh sistem yang mereka latih** \ud83e\udd2f\n\nMenurut [TIME](https://time.com/article/2026/04/30/oracle-layoffs-ai-tech-jobs/), pekerja diminta untuk melatih sistem AI yang akhirnya boleh menggantikan mereka \u2014 dan kemudiannya diberhentikan kerja, kadang-kadang hanya dengan satu emel selepas bertahun-tahun berkhidmat di syarikat itu. Ada juga yang kehilangan saham yang belum matang atau berdepan masalah visa.\n\nPada masa yang sama, syarikat itu sedang melabur besar-besaran dalam infrastruktur AI \u2014 mengalihkan tumpuan daripada pekerja kepada automasi.",
+            "date": "2026-05-03T16:19:58+00:00",
+            "message_id": 551,
+            "message_key": "@AItoolboxdaily:551"
         }
     ]
 }
