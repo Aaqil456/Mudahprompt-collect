@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-04T09:21:50.136398",
+    "timestamp": "2026-05-04T14:06:51.877944",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18136,6 +18136,26 @@
             "date": "2026-05-04T09:11:45+00:00",
             "message_id": 7979,
             "message_key": "@testingcatalog:7979"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Jarvis - a private AI assistant that runs on your computer and remembers everything you do.\n**\nIt works fully locally, understands conversations, and can control your system, browser, and workflows - acting like a real assistant instead of a simple chatbot.\n\nOne standout feature is its memory system, you can literally view and manage what the AI \"knows\" about you (tasks, context, history), making interactions more consistent and personalized over time.\n\nGreat if you want a local AI with real memory and control, not just chat responses.\n\nTry for free [here](https://github.com/isair/jarvis)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Jarvis - pembantu AI peribadi yang berjalan di komputer awak dan ingat semua yang awak buat.**\n\nIa berfungsi sepenuhnya secara lokal, faham perbualan, dan boleh kawal sistem, pelayar, serta aliran kerja awak - bertindak macam pembantu sebenar, bukan sekadar chatbot biasa.\n\nSatu ciri menarik dia adalah sistem memorinya; awak boleh tengok dan urus sendiri apa yang AI tu \"tahu\" pasal awak (tugas, konteks, sejarah), buat interaksi jadi lebih konsisten dan peribadi dari masa ke masa.\n\nMemang bagus kalau awak nak AI lokal yang ada memori dan kawalan sebenar, bukan sekadar jawapan chat je.\n\nCuba secara percuma [sini](https://github.com/isair/jarvis)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-04T14:04:58+00:00",
+            "message_id": 553,
+            "message_key": "@AItoolboxdaily:553"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83d\ude80 **May Sale | Limited-Time VPS Offer**\n\nOur May promotion is live.\nDeploy your VPS at just.hosting today and get up to 50% off in selected locations.\nOffer valid until May 31.\n\n\ud83d\udccd **Available locations:**\n\n\ud83c\uddef\ud83c\uddf5 Tokyo (TYO2)\n\ud83c\uddf8\ud83c\uddec Singapore (SIN2)\n\ud83c\uddfa\ud83c\uddf8 Los Angeles (QLA2)\n\ud83c\uddfa\ud83c\uddf8 San Jose (SJC1)\n\ud83c\uddfa\ud83c\uddf8 Seattle (SEA1)\n\ud83c\uddfa\ud83c\uddf8 Chicago (CHI1)\n\ud83c\udde8\ud83c\udde6 Toronto (YTO1)\n\n\ud83c\udff7 **Promo codes:**\n\n**MAY50** \u2014 up to 50% off new VPS orders\n**MAY40** \u2014 up to 40% off renewals\n\n\u2699\ufe0f NVMe-powered VPS\n\ud83c\udf10 Global locations\n\ud83d\ude80 Fast deployment\n\ud83d\udd10 IPv4 + IPv6 included\n\nApplies to selected locations only. Discounts cannot be combined.\nLaunch your server today and scale your infrastructure this May.\n\nAvailable for promo plans New Star, Double Star, Bright Star, and standard plans Sirius, Arcturus, Alpha Centauri, Vega, Capella, Rigel.\n\n\ud83c\udf10 just.hosting",
+            "translated_text": "\ud83d\ude80 **Promosi Mei | Tawaran VPS Masa Terhad**\n\nPromosi Mei kami sedang berlangsung.\nDapatkan VPS anda di just.hosting hari ini dan nikmati diskaun sehingga 50% di lokasi terpilih.\nTawaran ini sah sehingga 31 Mei.\n\n\ud83d\udccd **Lokasi yang Tersedia:**\n\n\ud83c\uddef\ud83c\uddf5 Tokyo (TYO2)\n\ud83c\uddf8\ud83c\uddec Singapore (SIN2)\n\ud83c\uddfa\ud83c\uddf8 Los Angeles (QLA2)\n\ud83c\uddfa\ud83c\uddf8 San Jose (SJC1)\n\ud83c\uddfa\ud83c\uddf8 Seattle (SEA1)\n\ud83c\uddfa\ud83c\uddf8 Chicago (CHI1)\n\ud83c\udde8\ud83c\udde6 Toronto (YTO1)\n\n\ud83c\udff7 **Kod Promo:**\n\n**MAY50** \u2014 diskaun sehingga 50% untuk tempahan VPS baharu\n**MAY40** \u2014 diskaun sehingga 40% untuk pembaharuan\n\n\u2699\ufe0f VPS berkuasa NVMe\n\ud83c\udf10 Lokasi global\n\ud83d\ude80 Penyediaan pantas\n\ud83d\udd10 IPv4 + IPv6 disertakan\n\nTerpakai untuk lokasi terpilih sahaja. Diskaun tidak boleh digabungkan.\nLancarkan pelayan anda hari ini dan kembangkan infrastruktur anda bulan Mei ini.\n\nTersedia untuk pelan promosi New Star, Double Star, Bright Star, dan pelan standard Sirius, Arcturus, Alpha Centauri, Vega, Capella, Rigel.\n\n\ud83c\udf10 just.hosting",
+            "date": "2026-05-04T12:51:30+00:00",
+            "message_id": 552,
+            "message_key": "@AItoolboxdaily:552"
         }
     ]
 }
