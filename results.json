@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-04T18:16:47.424742",
+    "timestamp": "2026-05-04T23:56:15.887212",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18176,6 +18176,36 @@
             "date": "2026-05-04T17:12:58+00:00",
             "message_id": 554,
             "message_key": "@AItoolboxdaily:554"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udea8: Claude Cowork will get its own proactive assistant called \"Orbit\". \n\n> Users will get personalized insights from Gmail, Slack, GitHub, Calendar, Drive, Figma, and other apps, which Claude will generate proactively. \n\n> There are also mentions of \"Orbit\" apps, which users will be able to \"deploy.\"\n\n > \"Your deployed Orbit apps. Pin favorites for quick access.\"\n\n> OpenAI already has ChatGPT Pulse, while both Google and Perplexity are developing their own proactive assistants, too. \n\n> There is a high chance it will be released as Max-only.",
+            "translated_text": "ANTHROPIC \ud83d\udea8: Claude Cowork akan dapat pembantu proaktifnya sendiri yang dipanggil \"Orbit\".\n\n> Pengguna akan dapat pandangan peribadi dari Gmail, Slack, GitHub, Calendar, Drive, Figma, dan aplikasi lain, yang Claude akan jana secara proaktif.\n\n> Ada juga disebut tentang aplikasi \"Orbit\", yang pengguna boleh \"deploy\".\n\n> \"Aplikasi Orbit anda yang telah di-deploy. Pin kegemaran untuk akses pantas.\"\n\n> OpenAI dah ada ChatGPT Pulse, sementara Google dan Perplexity pun sedang bangunkan pembantu proaktif mereka sendiri.\n\n> Ada kemungkinan besar ia akan dikeluarkan untuk Max-only.",
+            "date": "2026-05-04T23:54:53+00:00",
+            "message_id": 7983,
+            "message_key": "@testingcatalog:7983"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic is working on Orbit, its upcoming proactive assistant**](https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant/)\n\nAnthropic appears close to launching Orbit, an opt-in, time zone-aware assistant for Claude and Claude Code. Build references point to personalized briefings from Gmail, Slack, GitHub, Calendar, Drive, and Figma.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic sedang membangunkan Orbit, pembantu proaktif mereka yang akan datang**](https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant/)\n\nAnthropic nampaknya hampir melancarkan Orbit, sebuah pembantu yang boleh dipilih (opt-in) dan peka zon waktu untuk Claude dan Claude Code. Rujukan pembangunan menunjukkan taklimat peribadi daripada Gmail, Slack, GitHub, Calendar, Drive, dan Figma.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-04T23:53:09+00:00",
+            "message_id": 7982,
+            "message_key": "@testingcatalog:7982"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity prepares Digest feature for personalized summaries**](https://www.testingcatalog.com/perplexity-prepares-digest-feature-for-personalized-summaries/)\n\nPerplexity\u2019s hidden Digest feature appears tied to its context layer and Computer platform, pointing to a recurring daily brief built from connected apps. It may sit behind Max or draw from Computer usage limits.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity Siapkan Ciri Digest untuk Ringkasan Peribadi**](https://www.testingcatalog.com/perplexity-prepares-digest-feature-for-personalized-summaries/)\n\nCiri Digest Perplexity yang tersembunyi nampak macam berkait dengan lapisan konteks dan platform Komputernya, menunjukkan ia akan jadi ringkasan harian yang berulang, dibina daripada aplikasi yang bersambung. Ia mungkin di sebalik Max atau bergantung pada had penggunaan Komputer.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-05-04T22:11:44+00:00",
+            "message_id": 7981,
+            "message_key": "@testingcatalog:7981"
         }
     ]
 }
