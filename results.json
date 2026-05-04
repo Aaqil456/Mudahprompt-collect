@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-04T16:48:05.204811",
+    "timestamp": "2026-05-04T18:16:47.424742",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18166,6 +18166,16 @@
             "date": "2026-05-04T16:34:14+00:00",
             "message_id": 7980,
             "message_key": "@testingcatalog:7980"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**An AI just created its own company - and is preparing to trade crypto.**\n\nAccording to a [report by CoinDesk](https://www.coindesk.com/tech/2026/05/01/ai-agent-forms-its-own-company-gets-ready-to-trade-crypto), an autonomous agent called Manfred independently registered a U.S. company, obtained an IRS tax ID, and set up both a bank account and a crypto wallet without human involvement.\n\nIt can already manage funds and transact across 30+ cryptocurrencies, with full trading expected soon.\nThis might be the first real example of an AI acting as a legal business entity - not just assisting, but actually operating in the economy.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Sebuah AI baru saja menubuhkan syarikatnya sendiri - dan sedang bersedia untuk berdagang kripto.**\n\nMenurut [laporan oleh CoinDesk](https://www.coindesk.com/tech/2026/05/01/ai-agent-forms-its-own-company-gets-ready-to-trade-crypto), sebuah agen autonomi bernama Manfred telah mendaftarkan syarikat di A.S. secara bebas, mendapatkan ID cukai IRS, dan menubuhkan akaun bank serta dompet kripto tanpa campur tangan manusia.\n\nIa sudah boleh menguruskan dana dan berurus niaga merentasi lebih 30 mata wang kripto, dengan dagangan penuh dijangka tidak lama lagi.\nIni mungkin contoh sebenar pertama sebuah AI bertindak sebagai entiti perniagaan yang sah - bukan sekadar membantu, tetapi benar-benar beroperasi dalam ekonomi.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-04T17:12:58+00:00",
+            "message_id": 554,
+            "message_key": "@AItoolboxdaily:554"
         }
     ]
 }
