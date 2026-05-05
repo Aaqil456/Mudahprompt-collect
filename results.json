@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-05T15:11:49.686299",
+    "timestamp": "2026-05-05T17:26:57.662166",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18276,6 +18276,36 @@
             "date": "2026-05-05T14:38:01+00:00",
             "message_id": 555,
             "message_key": "@AItoolboxdaily:555"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Inworld AI launches Realtime TTS-2 model for live conversations**](https://www.testingcatalog.com/inworld-ai-launches-realtime-tts-2-model-for-live-conversations/)\n\nInworld AI launched Realtime TTS-2, a voice model for live conversation with sub-200ms latency, conversational context, natural-language voice direction, inline vocal controls, and voice consistency across 100+ languages.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Inworld AI melancarkan model Realtime TTS-2 untuk perbualan langsung**](https://www.testingcatalog.com/inworld-ai-launches-realtime-tts-2-model-for-live-conversations/)\n\nInworld AI telah melancarkan Realtime TTS-2, sebuah model suara untuk perbualan langsung dengan kependaman bawah 200ms, konteks perbualan, arahan suara bahasa semula jadi, kawalan vokal sebaris, dan konsistensi suara merentasi lebih 100 bahasa.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-05-05T16:40:31+00:00",
+            "message_id": 7992,
+            "message_key": "@testingcatalog:7992"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic announced new ready-to-run Claude agent templates for Finance services. \n\nThese tools can be used as plugins for Claude Code, Cowork, or via Managed hosted Agents.",
+            "translated_text": "Anthropic dah umumkan templat ejen Claude baru yang siap guna untuk perkhidmatan Kewangan. Alat-alat ni boleh digunakan sebagai plugin untuk Claude Code, Cowork, atau melalui Ejen Hos Terurus.",
+            "date": "2026-05-05T15:28:51+00:00",
+            "message_id": 7991,
+            "message_key": "@testingcatalog:7991"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "AI Studio can now use Nano Banana for Image Generation to tweak images on apps generated via AI Studio Build.",
+            "translated_text": "AI Studio kini boleh guna Nano Banana untuk penjanaan imej, bagi mengubah suai imej pada aplikasi yang dihasilkan melalui AI Studio Build.",
+            "date": "2026-05-05T15:20:28+00:00",
+            "message_id": 7990,
+            "message_key": "@testingcatalog:7990"
         }
     ]
 }
