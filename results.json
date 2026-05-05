@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-05T17:26:57.662166",
+    "timestamp": "2026-05-05T19:26:27.545524",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18306,6 +18306,56 @@
             "date": "2026-05-05T15:20:28+00:00",
             "message_id": 7990,
             "message_key": "@testingcatalog:7990"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released Pomelli Catalog, a new feature on Pomelli marketing agent experiment. \n\nPomelli will generate a set of products based on your business DNA, so you can reuse them across your marketing campaigns. \n\nFor TestingCatalog, it generated a Weekly Newsletter Subscription product and several others. \n\nI will package a new campaign soon \ud83d\udc40",
+            "translated_text": "Google melancarkan Pomelli Catalog, ciri baharu pada eksperimen ejen pemasaran Pomelli.\n\nPomelli akan menjana satu set produk berdasarkan DNA perniagaan anda, supaya anda boleh menggunakannya semula dalam kempen pemasaran anda.\n\nUntuk TestingCatalog, ia menjana produk Langganan Surat Berita Mingguan dan beberapa yang lain.\n\nSaya akan sediakan kempen baharu tak lama lagi \ud83d\udc40",
+            "date": "2026-05-05T19:20:55+00:00",
+            "message_id": 7996,
+            "message_key": "@testingcatalog:7996"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity got a new tab for artifacts! It appears to be a list of all previously generated artifacts across Perplexity and Perplexity Computer. \n\nPinning is possible too \ud83d\udc40",
+            "translated_text": "Perplexity ada tab baru untuk artifak! Nampaknya ia adalah senarai semua artifak yang pernah dihasilkan sebelum ini dalam Perplexity dan Perplexity Computer. Boleh pin juga \ud83d\udc40",
+            "date": "2026-05-05T19:13:09+00:00",
+            "message_id": 7995,
+            "message_key": "@testingcatalog:7995"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity released Perplexity Computer for Professional Finance with bootstrapped workflows and new data providers. \n\nAdditionally, all responses are traceable back to the source!",
+            "translated_text": "Perplexity telah melancarkan Perplexity Computer untuk Kewangan Profesional, dengan aliran kerja yang dipermudahkan dan penyedia data baharu.\n\nSelain itu, semua jawapan boleh dikesan kembali ke sumbernya!",
+            "date": "2026-05-05T19:09:13+00:00",
+            "message_id": 7994,
+            "message_key": "@testingcatalog:7994"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udea8: GPT-5.5 Instant is rolling out to all users on ChatGPT! \"gpt-5.5-chat-latest\" is coming to APIs as well. \n\n> Much more concise. Better memory. More personalized.\n\nInstant testing time \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udea8: GPT-5.5 Instant sedang dilancarkan kepada semua pengguna di ChatGPT! \"gpt-5.5-chat-latest\" akan datang ke APIs juga.\n\n> Jauh lebih ringkas. Memori lebih baik. Lebih diperibadikan.\n\nWaktu untuk cuba terus \ud83d\udc40",
+            "date": "2026-05-05T18:02:50+00:00",
+            "message_id": 7993,
+            "message_key": "@testingcatalog:7993"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**MarketMuse**\n\n\ud83c\udff7 #AISEO #ContentOptimization #AIWriting #ContentStrategy\n\u2b50\ufe0f 4.6\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/marketmuse/?utm_source=tg)\n\n\ud83d\udcac MarketMuse is an AI-powered content strategy and SEO optimization tool that helps you plan, write, and improve content based on data-driven insights, topic authority, and competitive analysis.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**MarketMuse**\n\n\ud83c\udff7 #AISEO #ContentOptimization #AIWriting #ContentStrategy\n\u2b50\ufe0f 4.6\n\ud83d\udd17 [Layari Laman Web](https://bestaitools.ai/tools/marketmuse/?utm_source=tg)\n\n\ud83d\udcac MarketMuse ialah alat strategi kandungan dan pengoptimuman SEO berkuasa AI yang bantu anda rancang, tulis, dan tingkatkan kandungan berdasarkan pandangan berasaskan data, autoriti topik, dan analisis persaingan.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-05T17:43:01+00:00",
+            "message_id": 556,
+            "message_key": "@AItoolboxdaily:556"
         }
     ]
 }
