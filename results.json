@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-04T23:56:15.887212",
+    "timestamp": "2026-05-05T02:57:22.398621",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18206,6 +18206,36 @@
             "date": "2026-05-04T22:11:44+00:00",
             "message_id": 7981,
             "message_key": "@testingcatalog:7981"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-05T01:00:54+00:00",
+            "message_id": 7986,
+            "message_key": "@testingcatalog:7986"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udc40: Voice mode upgrade is coming? \n\nThat would be quite a long awaited release! \n\nWhich voice assistant do you use right now the most?",
+            "translated_text": "OPENAI \ud83d\udc40: Mod suara nak di-upgrade ke?\nMemang dah lama orang tunggu keluaran ni!\nPembantu suara mana yang awak paling kerap guna sekarang ni?",
+            "date": "2026-05-05T01:00:54+00:00",
+            "message_id": 7985,
+            "message_key": "@testingcatalog:7985"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini mobile app redesign leaks show upcoming look ahead of Google I/O**](https://www.testingcatalog.com/gemini-mobile-app-redesign-leaks-show-upcoming-look-ahead-of-i-o/)\n\nLeaked screenshots show Gemini for iOS adopting Apple\u2019s Liquid Glass style, with translucent panels, a cleaner tool sheet, and reorganized navigation. Google may unveil it at I/O alongside new agents, assistant features, and models.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Bocoran reka bentuk semula aplikasi mudah alih Gemini tunjuk rupa baru sebelum Google I/O**](https://www.testingcatalog.com/gemini-mobile-app-redesign-leaks-show-upcoming-look-ahead-of-i-o/)\n\nTangkapan skrin yang bocor tunjuk Gemini untuk iOS akan guna gaya Liquid Glass Apple, lengkap dengan panel lutsinar, helaian alatan yang lebih kemas, dan navigasi yang disusun semula. Google mungkin akan perkenalkan benda ni masa I/O nanti, sekali dengan ejen baru, ciri-ciri pembantu, dan model-model lain.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-05T00:20:25+00:00",
+            "message_id": 7984,
+            "message_key": "@testingcatalog:7984"
         }
     ]
 }
