@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-05T19:26:27.545524",
+    "timestamp": "2026-05-05T21:09:48.844594",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18356,6 +18356,46 @@
             "date": "2026-05-05T17:43:01+00:00",
             "message_id": 556,
             "message_key": "@AItoolboxdaily:556"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is rolling out customization feature for Mind Maps on NotebookLM, along with renaming & sharing options and updated animation. \n\nUsers will be able to scope their Mind Maps to a specific topic or a source. \n\nDid you get it already? \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-05-05T20:00:58+00:00",
+            "message_id": 8000,
+            "message_key": "@testingcatalog:8000"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.5 Instant as new ChatGPT default**](https://www.testingcatalog.com/openai-launches-gpt-5-5-instant-as-new-chatgpt-default/)\n\nOpenAI is rolling out GPT-5.5 Instant as ChatGPT\u2019s new default model, replacing GPT-5.3 Instant. It delivers shorter, clearer answers, fewer false claims, stronger reasoning, and added personalization through memory, files, and Gmail context.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "",
+            "date": "2026-05-05T19:49:30+00:00",
+            "message_id": 7999,
+            "message_key": "@testingcatalog:7999"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus adds connector suggestions based on task needs**](https://www.testingcatalog.com/manus-adds-connector-suggestions-based-on-task-needs/)\n\nManus added Connector Recommendations to suggest missing integrations like Notion, Slack, Gmail, and Drive during a task, then guide approval and setup in-chat. Available to all users, it cuts manual steps while keeping permissions under user control.\n\n\ud83d\uddde #manus @testingcatalog",
+            "translated_text": "",
+            "date": "2026-05-05T19:42:27+00:00",
+            "message_id": 7998,
+            "message_key": "@testingcatalog:7998"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released Multi-Token Prediction (MTP) drafters for the Gemma 4 family. It comes with a 3x speed boost without losing performance. \n\nLooking forward to testing a quantized Gemma 4 with MTP drafters on a Mac Mini!",
+            "translated_text": "",
+            "date": "2026-05-05T19:30:59+00:00",
+            "message_id": 7997,
+            "message_key": "@testingcatalog:7997"
         }
     ]
 }
