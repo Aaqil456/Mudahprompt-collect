@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-05T02:57:22.398621",
+    "timestamp": "2026-05-05T15:11:49.686299",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18236,6 +18236,46 @@
             "date": "2026-05-05T00:20:25+00:00",
             "message_id": 7984,
             "message_key": "@testingcatalog:7984"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-05T14:40:50+00:00",
+            "message_id": 7989,
+            "message_key": "@testingcatalog:7989"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenClaw will start getting a long term support releases later in May! As a reflection from past updates which caused a degraded performance. \n\nStableClaw \ud83e\udd9e",
+            "translated_text": "OpenClaw akan mula dapat keluaran sokongan jangka panjang lewat bulan Mei nanti! Ini sebagai pengajaran daripada update-update lepas yang menyebabkan prestasi merosot.\n\nStableClaw \ud83e\udd9e",
+            "date": "2026-05-05T14:40:50+00:00",
+            "message_id": 7988,
+            "message_key": "@testingcatalog:7988"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares new upgrades for Gemini Flash model**](https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/)\n\nAhead of Google I/O 2026, signs point to a Gemini 3.2 Flash launch: LM Arena testing, Vertex AI migration notices, and a brief app listing suggest a near-term rollout with faster responses and stronger reasoning at lower cost.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google sedang siapkan naik taraf baharu untuk model Gemini Flash**](https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/)\n\nMenjelang Google I/O 2026, ada petanda pelancaran Gemini 3.2 Flash: Ujian LM Arena, notis migrasi Vertex AI, dan penyenaraian aplikasi ringkas menunjukkan pelancaran dalam masa terdekat dengan respons lebih pantas, penaakulan lebih kukuh, dan kos lebih rendah.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-05T14:40:03+00:00",
+            "message_id": 7987,
+            "message_key": "@testingcatalog:7987"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Unity AI is now in open beta - bringing AI directly into one of the most popular game engines.**\n\nIt works inside the Unity editor, helping you build games faster without digging through complex interfaces. Includes tools for generating assets, scripts, and even 3D content.\n\nThere\u2019s also [MCP support](https://docs.unity3d.com/Packages/com.unity.ai.assistant@2.7/manual/integration/unity-mcp-get-started.html) for connecting with external AI agents like Claude Code, turning Unity into a more automated dev environment. Try it [here](https://unity.com/features/ai)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Unity AI dah masuk beta terbuka - membawa AI terus ke salah satu enjin game paling popular.**\n\nIa berfungsi dalam editor Unity, membantu anda bina game lebih cepat tanpa perlu pening dengan antaramuka yang rumit. Ada juga alatan untuk jana aset, skrip, dan juga kandungan 3D.\n\nAda juga [sokongan MCP](https://docs.unity3d.com/Packages/com.unity.ai.assistant@2.7/manual/integration/unity-mcp-get-started.html) untuk sambung dengan ejen AI luaran macam Claude Code, menjadikan Unity satu persekitaran pembangunan yang lebih automatik. Boleh cuba [di sini](https://unity.com/features/ai).\n\n[\ud83e\udde0 AI Toolbox Harian | Alatan AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-05T14:38:01+00:00",
+            "message_id": 555,
+            "message_key": "@AItoolboxdaily:555"
         }
     ]
 }
