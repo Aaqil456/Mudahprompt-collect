@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T11:49:27.637525",
+    "timestamp": "2026-05-06T14:21:25.656667",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18416,6 +18416,26 @@
             "date": "2026-05-06T11:08:21+00:00",
             "message_id": 8002,
             "message_key": "@testingcatalog:8002"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests screen sharing and custom agents in Antigravity IDE**](https://www.testingcatalog.com/google-tests-screen-sharing-and-custom-agents-in-antigravity-ide/)\n\nGoogle is preparing Antigravity updates: screen sharing in Agent Mode for visibility beyond the editor, and flagged support for custom agents and plugins, expanding workflows, customization, and likely cross-platform plugin compatibility.\n\n\ud83d\uddde #antigravity @testingcatalog",
+            "translated_text": "[**Google uji perkongsian skrin dan ejen tersuai dalam Antigravity IDE**](https://www.testingcatalog.com/google-tests-screen-sharing-and-custom-agents-in-antigravity-ide/)\n\nGoogle sedang siapkan kemas kini untuk Antigravity. Antaranya, perkongsian skrin dalam Mod Ejen supaya kita boleh nampak lebih daripada editor. Selain itu, ada juga sokongan yang sedang diuji untuk ejen tersuai dan pemalam. Ini akan meluaskan lagi aliran kerja, pilihan penyesuaian, dan mungkin juga keserasian pemalam merentas pelbagai platform.\n\n\ud83d\uddde #antigravity @testingcatalog",
+            "date": "2026-05-06T12:31:55+00:00",
+            "message_id": 8003,
+            "message_key": "@testingcatalog:8003"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**OpenAI just released **[**GPT-5.5 Instant**](https://openai.com/index/gpt-5-5-instant/) \u2014 a new default model for ChatGPT focused on speed and accuracy.\n\nIt delivers smarter, more concise answers, handles images better, and can decide when to use web search for more useful responses.\n\nThe key upgrade: **52.5% fewer hallucinations**, especially in areas like law, medicine, and finance \u2014 while keeping fast response times.\n\nAlready rolling out to users as the new default. Try it [here](https://chatgpt.com/)",
+            "translated_text": "",
+            "date": "2026-05-06T12:54:58+00:00",
+            "message_id": 557,
+            "message_key": "@AItoolboxdaily:557"
         }
     ]
 }
