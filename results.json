@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T03:43:40.497149",
+    "timestamp": "2026-05-06T11:49:27.637525",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18406,6 +18406,16 @@
             "date": "2026-05-06T02:12:17+00:00",
             "message_id": 8001,
             "message_key": "@testingcatalog:8001"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google has started rolling out Personal Intelligence for Gemini in EU. Gemini Live will get it soon as well. \n\n> Gemini remembers your past chats so that you don't have to repeat yourself. Coming soon to Live. \n\nh/t @AntiIkindaloveGemini",
+            "translated_text": "Google dah mula memperkenalkan Personal Intelligence untuk Gemini di EU. Gemini Live pun akan dapat juga nanti.\n\nGemini ni akan ingat perbualan awak yang lepas-lepas, jadi awak tak perlu ulang benda yang sama. Ciri ni akan datang ke Live tak lama lagi.\n\nTerima kasih kepada @AntiIkindaloveGemini",
+            "date": "2026-05-06T11:08:21+00:00",
+            "message_id": 8002,
+            "message_key": "@testingcatalog:8002"
         }
     ]
 }
