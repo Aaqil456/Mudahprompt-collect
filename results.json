@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T18:19:46.000730",
+    "timestamp": "2026-05-06T22:03:01.817748",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18526,6 +18526,56 @@
             "date": "2026-05-06T16:51:01+00:00",
             "message_id": 558,
             "message_key": "@AItoolboxdaily:558"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Agent Mode on Gemini to tackle complex tasks**](https://www.testingcatalog.com/google-prepares-agent-mode-on-gemini-to-tackle-complex-tasks/)\n\nLeaked Gemini builds point to a dedicated Agent Mode tab for multi-step workflows, combining skills and scheduled actions for inbox, meetings, research, writing, and files. \n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google sedang siapkan Mod Ejen pada Gemini untuk uruskan tugasan rumit**](https://www.testingcatalog.com/google-prepares-agent-mode-on-gemini-to-tackle-complex-tasks/)\n\nMaklumat bocor tentang Gemini menunjukkan adanya tab Mod Ejen khas untuk aliran kerja pelbagai langkah, menggabungkan kemahiran dan tindakan berjadual untuk peti masuk, mesyuarat, penyelidikan, penulisan, dan fail.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-06T21:42:37+00:00",
+            "message_id": 8016,
+            "message_key": "@testingcatalog:8016"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic partners with SpaceXAI and doubles 5-hour rate limits**](https://www.testingcatalog.com/anthropic-partners-with-spacexai-and-doubles-5-hour-rate-limits/)\n\nAnthropic\u2019s partnership with SpaceX expands compute capacity and raises Claude usage limits, giving SpaceX staff broader AI access for engineering, operations, coding, and documentation in high-demand internal workflows.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic bekerjasama dengan SpaceXAI dan menggandakan had kadar 5 jam**](https://www.testingcatalog.com/anthropic-partners-with-spacexai-and-doubles-5-hour-rate-limits/)\n\nKerjasama Anthropic dengan SpaceX ini meluaskan kapasiti pengkomputeran dan meningkatkan had penggunaan Claude. Ini membolehkan kakitangan SpaceX mendapat akses AI yang lebih luas untuk kerja-kerja kejuruteraan, operasi, pengekodan, dan dokumentasi dalam aliran kerja dalaman yang sangat diperlukan.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-06T20:59:13+00:00",
+            "message_id": 8015,
+            "message_key": "@testingcatalog:8015"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic debuts Dreams for Claude Managed Agents**](https://www.testingcatalog.com/anthropic-debuts-reaming-for-claude-managed-agents-in-new-preview/)\n\nAnthropic previewed \u201cdreaming\u201d in Claude Managed Agents, letting agents review past sessions, refine memory, and reduce repeat errors. The update also adds outcomes, multiagent orchestration, and webhooks for complex enterprise workflows.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "",
+            "date": "2026-05-06T20:50:01+00:00",
+            "message_id": 8014,
+            "message_key": "@testingcatalog:8014"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google made Gemma 4 models 3x faster with MTP Drafters**](https://www.testingcatalog.com/google-made-gemma-4-models-3x-faster-with-mtp-drafters/)\n\nGoogle introduced speculative decoding for Gemma 4, cutting inference latency by pairing a main model with a lightweight drafter. It speeds local and on-device AI on GPUs and edge hardware without sacrificing output quality.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "",
+            "date": "2026-05-06T20:35:22+00:00",
+            "message_id": 8013,
+            "message_key": "@testingcatalog:8013"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Maket opens Draw from Scratch tool to all users for free**](https://www.testingcatalog.com/maket-opens-draw-from-scratch-tool-to-all-users-for-free/)\n\nMaket AI made its Draw from Scratch canvas free for all users, opening manual room sketching, furnishing, and 3D visualization to homeowners and builders. The shift widens access beyond paid tiers while keeping premium features for higher-volume use.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "",
+            "date": "2026-05-06T20:34:16+00:00",
+            "message_id": 8012,
+            "message_key": "@testingcatalog:8012"
         }
     ]
 }
