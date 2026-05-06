@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-05T21:09:48.844594",
+    "timestamp": "2026-05-06T03:43:40.497149",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18396,6 +18396,16 @@
             "date": "2026-05-05T19:30:59+00:00",
             "message_id": 7997,
             "message_key": "@testingcatalog:7997"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is hosting a separate \"The Android Show | I/O Edition\" event on May 12!\n\n> Android is glowing with upcoming Gemini colors, so we may expect loads of AI features to be announced there\n\nThis means we are getting 2 AI events! \ud83d\udd25",
+            "translated_text": "Google akan menganjurkan acara berasingan \"The Android Show | I/O Edition\" pada 12 Mei!\n\nAndroid nampak berseri dengan Gemini yang akan datang, jadi kita boleh jangkakan banyak ciri AI akan diumumkan di sana.\n\nIni bermakna kita akan ada 2 acara AI! \ud83d\udd25",
+            "date": "2026-05-06T02:12:17+00:00",
+            "message_id": 8001,
+            "message_key": "@testingcatalog:8001"
         }
     ]
 }
