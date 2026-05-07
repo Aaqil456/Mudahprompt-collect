@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-07T20:17:54.920888",
+    "timestamp": "2026-05-07T22:02:16.142623",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18736,6 +18736,16 @@
             "date": "2026-05-07T19:02:45+00:00",
             "message_id": 8026,
             "message_key": "@testingcatalog:8026"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex Chrome extension is now officially rolling out on macOS and Windows. You need to install the Chrome plugin to start testing.",
+            "translated_text": "Codex Chrome extension kini dah rasmi dilancarkan untuk macOS dan Windows. Anda perlu pasang plugin Chrome tu untuk mula testing.",
+            "date": "2026-05-07T20:18:00+00:00",
+            "message_id": 8031,
+            "message_key": "@testingcatalog:8031"
         }
     ]
 }
