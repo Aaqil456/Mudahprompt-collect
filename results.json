@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-07T22:02:16.142623",
+    "timestamp": "2026-05-07T23:54:56.653704",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18746,6 +18746,16 @@
             "date": "2026-05-07T20:18:00+00:00",
             "message_id": 8031,
             "message_key": "@testingcatalog:8031"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI prepares Grok Build desktop app to rival OpenAI Codex**](https://www.testingcatalog.com/spacexai-prepares-grok-build-desktop-app-to-rival-openai-codex/)\n\nSpaceXAI appears close to launching Grok Build, a desktop coding app for macOS, Linux, and Windows. \n\n> It will support planning mode, Plugins, Skills, and MCPs.\n> Will be able to work with the Git tree, spawn dev servers, and work with a built-in browser.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**SpaceXAI sedang siapkan aplikasi desktop Grok Build untuk bersaing dengan OpenAI Codex**](https://www.testingcatalog.com/spacexai-prepares-grok-build-desktop-app-to-rival-openai-codex/)\n\nNampaknya SpaceXAI dah nak lancarkan Grok Build, satu aplikasi pengekodan desktop untuk macOS, Linux, dan Windows.\n\n> Ia akan menyokong mod perancangan, Plugins, Skills, dan MCPs.\n> Boleh berfungsi dengan Git tree, jalankan dev servers, dan guna pelayar web terbina dalam.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-05-07T23:14:07+00:00",
+            "message_id": 8032,
+            "message_key": "@testingcatalog:8032"
         }
     ]
 }
