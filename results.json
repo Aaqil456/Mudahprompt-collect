@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-07T14:19:08.525875",
+    "timestamp": "2026-05-07T16:53:23.045621",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18626,6 +18626,46 @@
             "date": "2026-05-07T12:47:01+00:00",
             "message_id": 559,
             "message_key": "@AItoolboxdaily:559"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Scale AI published SWE Atlas Refactoring Leaderboard, a new benchmark that evaluates agent capabilities of restructuring the code. \n\n> It requires agents to produce twice as much lines of code than SWE Bench Pro. \n\n> Claude Code with Opus 4.7 tops the leaderboard followed by Codex with GPT-5.5, GPT-5.4 and GPT-5.3.\n\n> Refactoring is quite an important task for LLMs to handle as it often boils down to a quite boring engineering work.",
+            "translated_text": "Scale AI telah menerbitkan SWE Atlas Refactoring Leaderboard, satu penanda aras baru yang menilai keupayaan agen untuk menyusun semula kod.\n\nIa memerlukan agen untuk menghasilkan dua kali ganda baris kod berbanding SWE Bench Pro.\n\nClaude Code dengan Opus 4.7 mendahului papan pendahulu, diikuti oleh Codex dengan GPT-5.5, GPT-5.4 dan GPT-5.3.\n\nRefactoring adalah tugas yang agak penting untuk dikendalikan oleh LLM, kerana ia selalunya melibatkan kerja kejuruteraan yang agak membosankan.",
+            "date": "2026-05-07T16:17:26+00:00",
+            "message_id": 8023,
+            "message_key": "@testingcatalog:8023"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Scale Labs debuts new Refactoring Leaderboard**](https://www.testingcatalog.com/scale-labs-debuts-new-refactoring-leaderboard/)\n\nScale Labs\u2019 SWE Atlas Refactoring Leaderboard tests whether AI coding agents can restructure real codebases without changing behavior. Opus 4.7 leads, but results show reliability, cleanup, and repeatability still limit production use.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Scale Labs melancarkan Papan Pendahulu Refactoring baharu**](https://www.testingcatalog.com/scale-labs-debuts-new-refactoring-leaderboard/)\n\nPapan Pendahulu Refactoring SWE Atlas dari Scale Labs menguji sama ada agen pengekodan AI boleh menyusun semula pangkalan kod sebenar tanpa mengubah tingkah laku. Opus 4.7 mendahului, tetapi keputusan menunjukkan kebolehpercayaan, pembersihan, dan kebolehulangan masih mengehadkan penggunaan dalam produksi.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-05-07T15:59:30+00:00",
+            "message_id": 8022,
+            "message_key": "@testingcatalog:8022"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares Hatch Agent under waitlist and social media skills**](https://www.testingcatalog.com/meta-prepares-hatch-agent-under-waitlist-and-social-media-skills/)\n\nMeta is preparing Hatch, a waitlisted consumer AI agent for image and video creation, shopping, research, scheduled tasks, and file generation. \n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "**[Meta sedang siapkan Hatch Agent yang akan dilancarkan dengan senarai menunggu dan kemahiran media sosial](https://www.testingcatalog.com/meta-prepares-hatch-agent-under-waitlist-and-social-media-skills/)**\n\nMeta sedang siapkan Hatch, ejen AI pengguna yang ada senarai menunggu, untuk penciptaan imej dan video, membeli-belah, penyelidikan, tugasan berjadual, dan penjanaan fail.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-05-07T14:29:41+00:00",
+            "message_id": 8021,
+            "message_key": "@testingcatalog:8021"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Zapier AI**\n\n\ud83c\udff7 #AIAutomation #NoCode #WorkflowAutomation #ProductivityTools\n\u2b50\ufe0f 4.5\n\ud83d\udd17 [Visit Website](https://bestaitools.ai/tools/zapier/?utm_source=tg)\n\n\ud83d\udcac Zapier is a no-code automation platform that connects apps and automates workflows, allowing you to streamline repetitive tasks, sync data, and build powerful integrations without coding.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Zapier AI**\n\n\ud83c\udff7 #AIAutomation #NoCode #WorkflowAutomation #ProductivityTools\n\u2b50\ufe0f 4.5\n\ud83d\udd17 [Lawati Laman Web](https://bestaitools.ai/tools/zapier/?utm_source=tg)\n\n\ud83d\udcac Zapier ialah platform automasi tanpa kod yang menghubungkan aplikasi dan mengautomasikan aliran kerja, membolehkan anda menyelaraskan tugas berulang, menyegerakkan data, dan membina integrasi yang hebat tanpa perlu menulis kod.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-07T15:37:01+00:00",
+            "message_id": 560,
+            "message_key": "@AItoolboxdaily:560"
         }
     ]
 }
