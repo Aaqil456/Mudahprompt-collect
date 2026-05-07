@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-07T18:27:03.824757",
+    "timestamp": "2026-05-07T20:17:54.920888",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18686,6 +18686,56 @@
             "date": "2026-05-07T17:51:01+00:00",
             "message_id": 561,
             "message_key": "@AItoolboxdaily:561"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Codex is getting a dedicated Chrome extension soon!\n\n> With the new extension for Chrome, Codex is even better at working with apps and websites in your browser. It works in parallel across tabs in the background without taking over your browser, and you stay in control of which websites Codex can use.\n\n* Not available yet \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Codex akan ada extension Chrome khas tak lama lagi!\n\n> Dengan extension Chrome yang baru ni, Codex lagi mantap bila bekerja dengan aplikasi dan laman web dalam browser anda. Ia berfungsi secara selari merentasi tab di latar belakang tanpa mengambil alih browser anda, dan anda kekal mengawal laman web mana yang Codex boleh gunakan.\n\n* Belum ada lagi \ud83d\udc40",
+            "date": "2026-05-07T19:58:34+00:00",
+            "message_id": 8030,
+            "message_key": "@testingcatalog:8030"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-07T19:31:42+00:00",
+            "message_id": 8029,
+            "message_key": "@testingcatalog:8029"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "AVM 2 is in development \ud83d\udea7\n\nHistorically, AVM updates are reserved to the day before I/O event.\n\nSoon? \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "translated_text": "AVM 2 sedang dibangunkan \ud83d\udea7\n\nSelalunya, kemas kini AVM akan dikeluarkan sehari sebelum acara I/O.\n\nTak lama lagi ke? \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "date": "2026-05-07T19:31:42+00:00",
+            "message_id": 8028,
+            "message_key": "@testingcatalog:8028"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udea8: New signs of Grok Computer have been spotted on the Grok web. \n\nA new selector allows users to choose between Grok Computer and a \"Folder on Google Drive.\" \n\nThis feature became recently available to everyone and might not be intentional.\n\nGrok Computer soon? \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udea8: Tanda-tanda baru Grok Computer telah dikesan di laman web Grok.\nSatu pemilih baru membolehkan pengguna memilih antara Grok Computer dan \"Folder di Google Drive\".\nCiri ini baru-baru ini tersedia untuk semua orang dan mungkin tak sengaja.\nGrok Computer tak lama lagi? \ud83d\udc40",
+            "date": "2026-05-07T19:17:23+00:00",
+            "message_id": 8027,
+            "message_key": "@testingcatalog:8027"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udea8: Gemini 3.1 Flash Lite is now Generally Available! Users can also test this model on AI Studio.\n\n> Designed for ultra-low latency, high-volume tasks, and unmatched cost-efficiency, Flash-Lite is already transforming how applications are built at scale.",
+            "translated_text": "",
+            "date": "2026-05-07T19:02:45+00:00",
+            "message_id": 8026,
+            "message_key": "@testingcatalog:8026"
         }
     ]
 }
