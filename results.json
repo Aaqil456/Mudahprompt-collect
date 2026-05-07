@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T22:59:30.854308",
+    "timestamp": "2026-05-07T14:19:08.525875",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18596,6 +18596,36 @@
             "date": "2026-05-06T22:13:20+00:00",
             "message_id": 8017,
             "message_key": "@testingcatalog:8017"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Agent Mode for Flow to automate video production**](https://www.testingcatalog.com/google-prepares-agent-mode-for-flow-to-automate-video-production/)\n\nGoogle is preparing an Agent Mode for Flow, its Veo-based filmmaking tool. Code indicates a prompt-bar toggle for planning scenes, managing tools, running generation, and updating projects via chat, with a likely reveal at I/O.\n\n\ud83d\uddde #flow @testingcatalog",
+            "translated_text": "",
+            "date": "2026-05-07T14:11:18+00:00",
+            "message_id": 8020,
+            "message_key": "@testingcatalog:8020"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is testing Insights feature for its Managed Agents on Claude Console. \n\n> Up to 100 recent sessions are fetched. Each transcript is sent to the model (4 in parallel) with your agent's system prompt as context. The model writes a summary \u2014 task, actions, issues, assessment \u2014 and a 0\u2013100 quality score. Token, cache, and tool-error counts are computed directly from the events alongside.\n\n> A single model call reads every summary and its stats, then produces cross-session findings (recurring errors, usage patterns, efficiency outliers, wins), error-category buckets, and use-case clusters. Every cited session ID is checked against the input, so findings only ever point at real sessions.\n\n> Summaries and findings are saved so the page loads instantly next time. Everything numeric you see \u2014 counts, percentages, token stats per cluster \u2014 is computed here from raw event data; only the prose and bucket membership come from the model.",
+            "translated_text": "Anthropic sedang menguji ciri Insights untuk Managed Agents mereka di Claude Console.\n\nSehingga 100 sesi terkini akan diambil. Setiap transkrip dihantar ke model (4 secara selari) dengan arahan sistem ejen anda sebagai konteks. Model akan menulis ringkasan \u2014 tugas, tindakan, isu, penilaian \u2014 dan skor kualiti 0\u2013100. Kiraan token, cache, dan ralat alatan dikira terus daripada peristiwa yang berkaitan.\n\nSatu panggilan model akan membaca setiap ringkasan dan statistiknya, kemudian menghasilkan penemuan merentas sesi (ralat berulang, corak penggunaan, anomali kecekapan, kejayaan), kategori ralat, dan kluster kes penggunaan. Setiap ID sesi yang disebut akan disemak dengan input, jadi penemuan hanya akan merujuk kepada sesi sebenar.\n\nRingkasan dan penemuan disimpan supaya halaman boleh dimuatkan serta-merta pada masa akan datang. Semua data berangka yang anda lihat \u2014 kiraan, peratusan, statistik token setiap kluster \u2014 dikira di sini daripada data peristiwa mentah; hanya prosa dan keahlian kategori datang daripada model.",
+            "date": "2026-05-07T11:50:06+00:00",
+            "message_id": 8019,
+            "message_key": "@testingcatalog:8019"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**ChatGPT for Excel and Google Sheets is now officially available** \u2014 turning ChatGPT into a built-in AI copilot for spreadsheets.\n\nYou can **generate full tables, analyze data across tabs, fix formulas**, clean spreadsheets, and update sheets using natural language directly inside Excel or Google Sheets.\n\nThe AI works in a sidebar, explains what it changes, and can even reference specific cells before editing anything. Try it [here](https://chatgpt.com/apps/spreadsheets/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**ChatGPT untuk Excel dan Google Sheets kini tersedia secara rasmi** \u2014 menjadikan ChatGPT pembantu AI terbina dalam untuk hamparan.\n\nAnda boleh **menjana jadual penuh, menganalisis data merentasi tab, membetulkan formula**, membersihkan hamparan, dan mengemas kini helaian menggunakan bahasa semula jadi terus dalam Excel atau Google Sheets.\n\nAI ini berfungsi di bahagian sisi, menerangkan apa yang diubahnya, dan malah boleh merujuk sel tertentu sebelum mengubah apa-apa. Cubalah [di sini](https://chatgpt.com/apps/spreadsheets/)\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-07T12:47:01+00:00",
+            "message_id": 559,
+            "message_key": "@AItoolboxdaily:559"
         }
     ]
 }
