@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-07T23:54:56.653704",
+    "timestamp": "2026-05-08T03:22:11.982552",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18756,6 +18756,16 @@
             "date": "2026-05-07T23:14:07+00:00",
             "message_id": 8032,
             "message_key": "@testingcatalog:8032"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches new realtime voice and translation AI models**](https://www.testingcatalog.com/openai-launches-new-realtime-voice-and-translation-ai-models/)\n\nOpenAI added three real-time voice models to its API: GPT-Realtime-2 for complex voice agents, GPT-Realtime-Translate for multilingual speech, and GPT-Realtime-Whisper for live transcription, with pricing and Playground access.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan model AI suara dan terjemahan masa nyata baharu**](https://www.testingcatalog.com/openai-launches-new-realtime-voice-and-translation-ai-models/)\n\nOpenAI dah tambah tiga model suara masa nyata ke API mereka: GPT-Realtime-2 untuk ejen suara yang kompleks, GPT-Realtime-Translate untuk pertuturan berbilang bahasa, dan GPT-Realtime-Whisper untuk transkripsi secara langsung, lengkap dengan harga dan akses Playground.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-08T00:14:32+00:00",
+            "message_id": 8034,
+            "message_key": "@testingcatalog:8034"
         }
     ]
 }
