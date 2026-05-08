@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-08T17:20:59.807903",
+    "timestamp": "2026-05-08T22:57:20.565215",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18826,6 +18826,26 @@
             "date": "2026-05-08T16:03:01+00:00",
             "message_id": 563,
             "message_key": "@AItoolboxdaily:563"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Hooks support is coming to the Codex app as well!\n\n> Hooks are an extensibility framework for Codex. They allow you to inject your own scripts into the agentic loop.",
+            "translated_text": "Sokongan Hooks akan tiba di aplikasi Codex juga!\n\nHooks ni sebenarnya satu kerangka kerja untuk meluaskan fungsi Codex. Ia membolehkan anda masukkan skrip anda sendiri ke dalam 'agentic loop'.",
+            "date": "2026-05-08T22:43:56+00:00",
+            "message_id": 8041,
+            "message_key": "@testingcatalog:8041"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is testing the option to mark Notebooks as \"Donation Safe\" as part of a Data Donation feature. \n\n> Your logs from using this notebook will NOT be scrubbed (this allows for quality improvement).\n\n> The notebook will immediately lose its Donation Safe status if shared.\n\n> Marking a notebook as Donation Safe allows you to Donate Detailed Feedback.\n\n> You must not donate NTK or Privileged data.",
+            "translated_text": "Google sedang menguji pilihan untuk menandakan Notebooks sebagai \"Donation Safe\" sebagai sebahagian daripada ciri Sumbangan Data.\n\n> Log anda daripada penggunaan notebook ini TIDAK akan dipadamkan (ini membolehkan penambahbaikan kualiti).\n\n> Notebook ini akan serta-merta hilang status Donation Safe jika dikongsi.\n\n> Menandakan notebook sebagai Donation Safe membolehkan anda Menyumbang Maklum Balas Terperinci.\n\n> Anda tidak boleh menyumbang data NTK atau data Istimewa.",
+            "date": "2026-05-08T22:41:19+00:00",
+            "message_id": 8040,
+            "message_key": "@testingcatalog:8040"
         }
     ]
 }
