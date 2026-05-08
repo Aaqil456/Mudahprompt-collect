@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-08T13:54:35.548960",
+    "timestamp": "2026-05-08T15:25:44.427106",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18786,6 +18786,36 @@
             "date": "2026-05-08T13:45:09+00:00",
             "message_id": 562,
             "message_key": "@AItoolboxdaily:562"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI adds Chrome plugin and tests Remote control for Codex**](https://www.testingcatalog.com/openai-adds-chrome-plugin-and-tests-remote-control-for-codex/)\n\n1. OpenAI expanded Codex with a Chrome extension that runs in an isolated browser session, supports background tab work, and uses DevTools. \n\n2. OpenAI continues working on Remote Control for Codex, which will allow it to manage remote instances via SSH. \n\n3. A new toggle has been added to the settings that will keep remote connection to Codex open. \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI tambah pemalam Chrome dan uji Kawalan Jauh untuk Codex**](https://www.testingcatalog.com/openai-adds-chrome-plugin-and-tests-remote-control-for-codex/)\n\n1. OpenAI kembangkan Codex dengan sambungan Chrome yang berjalan dalam sesi pelayar terasing, menyokong kerja tab latar belakang, dan menggunakan DevTools.\n\n2. OpenAI terus mengusahakan Kawalan Jauh untuk Codex, yang akan membolehkannya mengurus instans jauh melalui SSH.\n\n3. Satu suis baharu telah ditambah ke tetapan yang akan memastikan sambungan jauh ke Codex sentiasa terbuka.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-08T14:55:28+00:00",
+            "message_id": 8038,
+            "message_key": "@testingcatalog:8038"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 3.1 Flash-Lite in General Availability**](https://www.testingcatalog.com/google-launches-gemini-3-1-flash-lite-in-general-availability/)\n\nGoogle launched Gemini 3.1 Flash-Lite for Google Cloud, offering low-latency, high-volume AI with text and image support. Aimed at enterprise use, it delivers fast, cost-efficient performance for automation, tool calling, and real-time tasks.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "translated_text": "[**Google Perkenalkan Gemini 3.1 Flash-Lite untuk Ketersediaan Umum**](https://www.testingcatalog.com/google-launches-gemini-3-1-flash-lite-in-general-availability/)\n\nGoogle telah memperkenalkan Gemini 3.1 Flash-Lite untuk Google Cloud. Ia menawarkan AI dengan latensi rendah dan kapasiti tinggi, serta menyokong teks dan imej. AI ini direka khas untuk kegunaan syarikat besar, memberikan prestasi yang pantas dan jimat kos untuk automasi, pemanggilan alat, dan tugasan masa nyata.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "date": "2026-05-08T14:47:27+00:00",
+            "message_id": 8037,
+            "message_key": "@testingcatalog:8037"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google unveils Google Health app, Health Coach, and Fitbit Air**](https://www.testingcatalog.com/google-unviels-google-health-app-helth-coach-and-fitbit-air/)\n\nGoogle expanded its health lineup with a unified Health App, AI-powered Health Coach under Premium, and the screenless Fitbit Air. The platform combines health data, supports secure sharing, and offers personalized wellness guidance.\n\n\ud83d\uddde #googleapps @testingcatalog",
+            "translated_text": "[**Google perkenalkan Google Health app, Health Coach, dan Fitbit Air**](https://www.testingcatalog.com/google-unviels-google-health-app-helth-coach-and-fitbit-air/)\n\nGoogle telah memperluaskan lagi penawaran produk kesihatannya dengan memperkenalkan Health App yang disatukan, Health Coach berkuasa AI untuk pengguna Premium, dan Fitbit Air yang tiada skrin. Platform ini menggabungkan data kesihatan, menyokong perkongsian yang selamat, dan menyediakan panduan kesejahteraan yang diperibadikan.\n\n\ud83d\uddde #googleapps @testingcatalog",
+            "date": "2026-05-08T14:47:03+00:00",
+            "message_id": 8036,
+            "message_key": "@testingcatalog:8036"
         }
     ]
 }
