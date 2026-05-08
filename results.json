@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-08T03:22:11.982552",
+    "timestamp": "2026-05-08T13:54:35.548960",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18766,6 +18766,26 @@
             "date": "2026-05-08T00:14:32+00:00",
             "message_id": 8034,
             "message_key": "@testingcatalog:8034"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Telegram ships major update for AI bots and automations**](https://www.testingcatalog.com/telegram-ships-major-update-for-ai-bots-and-automations/)\n\nTelegram\u2019s latest update turns chats into an AI agent layer with Guest Bots, bot-to-bot messaging, streaming replies, profile chat automation, custom writing styles, AI sticker search, and new admin controls.\n\n\ud83d\uddde #telegram @testingcatalog",
+            "translated_text": "[**Telegram melancarkan kemas kini besar untuk bot AI dan automasi**](https://www.testingcatalog.com/telegram-ships-major-update-for-ai-bots-and-automations/)\n\nKemas kini terbaru Telegram mengubah sembang menjadi lapisan ejen AI dengan Guest Bots, pemesejan bot-ke-bot, balasan strim, automasi sembang profil, gaya penulisan tersuai, carian pelekat AI, dan kawalan pentadbir baharu.\n\n\ud83d\uddde #telegram @testingcatalog",
+            "date": "2026-05-08T13:52:06+00:00",
+            "message_id": 8035,
+            "message_key": "@testingcatalog:8035"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Students and researchers** \u2014 this might be the best free AI research tool you\u2019ll find this year.\n\nLocal Deep Research is a free open-source AI agent that can run locally and generate deep research reports with sources and citations.\n\nIt can analyze the web, PDFs, and your own documents while keeping everything private. Supports both local AI models and OpenAI/Anthropic APIs.\n\n[Try it here](https://github.com/LearningCircuit/local-deep-research) for free\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Pelajar dan penyelidik** \u2014 ini mungkin alat penyelidikan AI percuma terbaik yang anda akan jumpa tahun ini.\n\nLocal Deep Research adalah agen AI sumber terbuka percuma yang boleh dijalankan secara tempatan dan menjana laporan penyelidikan mendalam dengan sumber dan rujukan.\n\nIa boleh menganalisis web, PDF, dan dokumen anda sendiri sambil memastikan semuanya kekal peribadi. Ia menyokong model AI tempatan dan juga API OpenAI/Anthropic.\n\n[Cuba di sini](https://github.com/LearningCircuit/local-deep-research) secara percuma\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-08T13:45:09+00:00",
+            "message_id": 562,
+            "message_key": "@AItoolboxdaily:562"
         }
     ]
 }
