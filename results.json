@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-10T13:23:44.968464",
+    "timestamp": "2026-05-10T19:07:29.718733",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18956,6 +18956,16 @@
             "date": "2026-05-10T13:18:06+00:00",
             "message_id": 8051,
             "message_key": "@testingcatalog:8051"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI set to add remote Codex control to ChatGPT mobile app**](https://www.testingcatalog.com/openai-set-to-add-remote-codex-control-to-chatgpt-mobile-app/)\n\nOpenAI teased a Thursday launch, prompting device rumors, but app evidence points to mobile control for Codex inside ChatGPT. \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI akan menambah kawalan Codex jarak jauh pada aplikasi mudah alih ChatGPT**](https://www.testingcatalog.com/openai-set-to-add-remote-codex-control-to-chatgpt-mobile-app/)\n\nOpenAI memberi bayangan pelancaran pada hari Khamis, mencetuskan khabar angin tentang peranti baru, tapi bukti dari aplikasi menunjukkan kawalan mudah alih untuk Codex dalam ChatGPT.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-10T17:06:14+00:00",
+            "message_id": 8053,
+            "message_key": "@testingcatalog:8053"
         }
     ]
 }
