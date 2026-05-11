@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-10T19:07:29.718733",
+    "timestamp": "2026-05-11T07:44:07.086228",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -18966,6 +18966,36 @@
             "date": "2026-05-10T17:06:14+00:00",
             "message_id": 8053,
             "message_key": "@testingcatalog:8053"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sample video and early feedback (quotes from Reddit)\n\n> I won\u2019t lie, this is one of the best video models I have seen, maybe not *the* best, but a really strong performance. I was particularly impressed by the prompt adherence (except for the one shot with the missing centerpiece), the model nailed all the constraints.\n\n> Additionally, the voice quality is much better than the Veo models by quite a large margin. It even added some light background music, that would fit right in with an upscale dining experience.\n\n> While there are some continuity issues if you look close enough, the ability to change camera angles on the fly so frequently and with good coherence is impressive to me. Overall this is definitely the new model and quite a step up from the Veo we are used to",
+            "translated_text": "Video contoh dan maklum balas awal (petikan dari Reddit)\n\n> Jujur cakap, ini salah satu model video terbaik yang pernah saya tengok, mungkin bukan *yang* terbaik, tapi prestasinya memang mantap. Saya sangat kagum dengan ketepatan arahan yang dipatuhi (kecuali satu babak yang tiada objek utama), model ini berjaya penuhi semua kekangan.\n\n> Tambahan pula, kualiti suara jauh lebih baik daripada model Veo, beza ketara sangat. Ia siap tambah muzik latar yang ringan, yang sangat sesuai untuk pengalaman makan di restoran mewah.\n\n> Walaupun ada beberapa isu kesinambungan kalau tengok betul-betul, keupayaan untuk tukar sudut kamera dengan pantas dan kerap, serta dengan keselarasan yang baik, sangat mengagumkan saya. Secara keseluruhan, ini memang model baru dan satu peningkatan besar daripada Veo yang biasa kita guna.",
+            "date": "2026-05-11T06:09:45+00:00",
+            "message_id": 8056,
+            "message_key": "@testingcatalog:8056"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-11T06:06:46+00:00",
+            "message_id": 8055,
+            "message_key": "@testingcatalog:8055"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE I/O \ud83d\udd25: New evidence of the upcoming Gemini Omni vide model has been spotted on the Gemini mobile app. \n\nA video sample below \ud83d\udc40\n\n> \"Meet our new video model. Remix your videos, edit directly in chat, try a template, and more.\"\n\n> Based on the description, we might be really talking about the true \"Omni\" model based on Gemini, rather than Veo. \n\n> It also seems to be quickly consuming usage limits, based on early tests.  \"Usage\" is a new tab that will be available on both the web and mobile.",
+            "translated_text": "GOOGLE I/O \ud83d\udd25: Bukti baru untuk model video Gemini Omni yang akan datang telah dikesan dalam aplikasi mudah alih Gemini.\n\nContoh video di bawah \ud83d\udc40\n\n> \"Kenali model video baharu kami. Campur semula video anda, edit terus dalam sembang, cuba templat, dan banyak lagi.\"\n\n> Berdasarkan penerangan itu, kita mungkin betul-betul bercakap tentang model \"Omni\" sebenar yang berasaskan Gemini, bukannya Veo.\n\n> Ia juga nampaknya cepat menghabiskan had penggunaan, berdasarkan ujian awal. \"Usage\" adalah tab baharu yang akan tersedia di web dan mudah alih.",
+            "date": "2026-05-11T06:06:46+00:00",
+            "message_id": 8054,
+            "message_key": "@testingcatalog:8054"
         }
     ]
 }
