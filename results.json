@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T14:58:18.616637",
+    "timestamp": "2026-05-11T17:28:35.051615",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19026,6 +19026,26 @@
             "date": "2026-05-11T13:18:53+00:00",
             "message_id": 8057,
             "message_key": "@testingcatalog:8057"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google\u2019s Gemini Omni video model surfaces ahead of I/O debut**](https://www.testingcatalog.com/googles-gemini-omni-video-model-surfaces-ahead-of-i-o-debut/)\n\nLeaked Gemini Omni details point to Google unveiling a unified video model at I/O, with strong in-chat editing and remix tools but generation quality trailing Seedance 2. Credit-based limits and possible Flash/Pro tiers also surfaced.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Model video Gemini Omni Google muncul sebelum debut I/O**](https://www.testingcatalog.com/googles-gemini-omni-video-model-surfaces-ahead-of-i-o-debut/)\n\nButiran Gemini Omni yang bocor menunjukkan Google akan memperkenalkan model video bersepadu di I/O, dengan alat penyuntingan dan adunan semula dalam sembang yang hebat, tetapi kualiti penjanaan masih ketinggalan berbanding Seedance 2. Had berasaskan kredit dan kemungkinan tahap Flash/Pro turut muncul.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-11T15:58:24+00:00",
+            "message_id": 8060,
+            "message_key": "@testingcatalog:8060"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: An upcoming Gemini Omni video model from Google is expected to be much more advanced in video editing, capable of completing tasks like removing watermarks, replacing objects in the video, and more. \n\nIt is also likely that Google will release 2 versions of this model, including a Pro variant. \n\nAnd I assume what we see isn't Pro?\n\nAnime sample \ud83d\udc40\nh/t @QuantumFast",
+            "translated_text": "GOOGLE \ud83d\udd25: Model video Gemini Omni yang akan datang dari Google dijangka akan jauh lebih canggih dalam penyuntingan video, mampu menyelesaikan tugas seperti membuang tanda air (watermark), menggantikan objek dalam video, dan banyak lagi.\n\nKemungkinan besar Google juga akan mengeluarkan 2 versi model ini, termasuk varian Pro.\n\nDan saya rasa apa yang kita lihat ini bukan versi Pro?\n\nContoh anime \ud83d\udc40\nh/t @QuantumFast",
+            "date": "2026-05-11T15:22:10+00:00",
+            "message_id": 8059,
+            "message_key": "@testingcatalog:8059"
         }
     ]
 }
