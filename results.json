@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T21:19:31.262443",
+    "timestamp": "2026-05-11T22:57:38.918384",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19076,6 +19076,56 @@
             "date": "2026-05-11T21:16:17+00:00",
             "message_id": 8063,
             "message_key": "@testingcatalog:8063"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic released Agent View in Claude Code CLI, from where users can observe and interact with parallel-running agents.\n\nIt looks like preparation for a future in which agents will pursue broader long-term goals. Claude's mobile app is being prepared for that as well.",
+            "translated_text": "Anthropic dah keluarkan Agent View dalam Claude Code CLI, di mana pengguna boleh tengok dan berinteraksi dengan ejen-ejen yang berjalan serentak. Nampak gayanya ini macam persediaan untuk masa depan di mana ejen-ejen akan kejar matlamat jangka panjang yang lebih besar. Aplikasi mudah alih Claude pun sedang disiapkan untuk tujuan tu juga.",
+            "date": "2026-05-11T22:08:17+00:00",
+            "message_id": 8068,
+            "message_key": "@testingcatalog:8068"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Thinking Machines announced new Interaction Voice Models**](https://www.testingcatalog.com/thinking-machines-announced-new-interaction-voice-models/)\n\nThinking Machines unveiled a research preview of multimodal AI models built for real-time collaboration across audio, video, and text, using native time-aware processing, low-latency micro-turns, and background reasoning.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Thinking Machines umumkan Interaction Voice Models baharu**](https://www.testingcatalog.com/thinking-machines-announced-new-interaction-voice-models/)\n\nThinking Machines dah tunjuk pratonton penyelidikan untuk model AI multimodal yang diorang bina. Model ni direka khas untuk kerjasama masa nyata melalui audio, video, dan teks, dengan menggunakan pemprosesan yang peka masa secara asli, giliran mikro kependaman rendah, dan penaakulan latar belakang.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-05-11T22:04:12+00:00",
+            "message_id": 8067,
+            "message_key": "@testingcatalog:8067"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI announces Daybreak initiative around Codex Security**](https://www.testingcatalog.com/openai-announces-daybreak-initiative-around-codex-security/)\n\nOpenAI launched Daybreak, a cybersecurity program that extends Codex into secure code review, threat modeling, patch validation, and detection support, with verified access, partner integrations, and rollout for defenders and enterprises.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI umum inisiatif Daybreak berkaitan Keselamatan Codex**](https://www.testingcatalog.com/openai-announces-daybreak-initiative-around-codex-security/)\n\nOpenAI melancarkan Daybreak, satu program keselamatan siber yang meluaskan penggunaan Codex untuk semakan kod selamat, pemodelan ancaman, pengesahan tampalan, dan sokongan pengesanan, dengan akses yang disahkan, integrasi rakan kongsi, serta pelancaran untuk pembela siber dan syarikat besar.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-11T21:48:59+00:00",
+            "message_id": 8066,
+            "message_key": "@testingcatalog:8066"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-11T21:33:21+00:00",
+            "message_id": 8065,
+            "message_key": "@testingcatalog:8065"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "THINKING MACHINES \ud83d\udd25: Research preview of a new family of realtime voice models have been announced! \n\n> Today, we\u2019re announcing a research preview of interaction models: models that handle interaction natively rather than through external scaffolding. \n\n> Our research preview demonstrates qualitatively new interaction capabilities, as well as state-of-the-art combined performance in intelligence and responsiveness.\n\nA new SOTA?! \ud83d\udc40",
+            "translated_text": "THINKING MACHINES \ud83d\udd25: Pratonton penyelidikan untuk keluarga model suara masa nyata yang baru dah diumumkan!\n\n> Hari ni, kami umumkan pratonton penyelidikan untuk model interaksi: model yang menguruskan interaksi secara asli, bukan melalui sokongan luaran.\n\n> Pratonton penyelidikan kami ni tunjukkan keupayaan interaksi yang baru secara kualitatif, dan juga prestasi gabungan tercanggih dalam kecerdasan serta responsif.\n\nSOTA baru ke tu?! \ud83d\udc40",
+            "date": "2026-05-11T21:33:21+00:00",
+            "message_id": 8064,
+            "message_key": "@testingcatalog:8064"
         }
     ]
 }
