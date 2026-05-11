@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T19:50:47.820109",
+    "timestamp": "2026-05-11T21:19:31.262443",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19066,6 +19066,16 @@
             "date": "2026-05-11T19:44:28+00:00",
             "message_id": 8061,
             "message_key": "@testingcatalog:8061"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic adds Agent View to Claude Code CLI interface**](https://www.testingcatalog.com/anthropic-adds-agent-view-for-claude-code-for-parralel-work/)\n\nAnthropic\u2019s Agent View for Claude Code adds a CLI dashboard for managing parallel coding sessions in one place. It shows status, activity, and input needs, supports background jobs, and is available now in Research Preview.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic memperkenalkan Agent View pada antaramuka CLI Claude Code**](https://www.testingcatalog.com/anthropic-adds-agent-view-for-claude-code-for-parralel-work/)\n\nAgent View Anthropic untuk Claude Code menyediakan papan pemuka CLI bagi mengurus sesi pengekodan selari di satu tempat. Ia menunjukkan status, aktiviti, dan keperluan input, menyokong kerja latar belakang, dan kini boleh didapati dalam Research Preview.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-11T21:16:17+00:00",
+            "message_id": 8063,
+            "message_key": "@testingcatalog:8063"
         }
     ]
 }
