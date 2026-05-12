@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-12T13:04:53.752378",
+    "timestamp": "2026-05-12T16:20:45.815459",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19136,6 +19136,26 @@
             "date": "2026-05-12T10:55:56+00:00",
             "message_id": 8069,
             "message_key": "@testingcatalog:8069"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini Omni Agent will launch along with Avatars support**](https://www.testingcatalog.com/gemini-omni-agent-will-launch-along-with-avatars-support/)\n\nHidden Gemini web code shows Gemini Omni as an Agent for conversational video creation, combining text, images, clips, and avatars. \n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Gemini Omni Agent akan dilancarkan bersama sokongan Avatars**](https://www.testingcatalog.com/gemini-omni-agent-will-launch-along-with-avatars-support/)\n\nKod web Gemini yang tersembunyi menunjukkan Gemini Omni sebagai Ejen untuk penciptaan video perbualan, menggabungkan teks, imej, klip, dan avatar.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-12T15:11:20+00:00",
+            "message_id": 8071,
+            "message_key": "@testingcatalog:8071"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Gemini Omni banner has been added to the web build recently. \n\n> Gemini Omni will be an Agent that can combine text, images, and videos.\n\n> Users will be able to add themselves to different scenes. As we know, AI Avatars (Likeness) are coming to Gemini as well, and Gemini Omni will likely be connected to that.\n\n> \"Likeness\" feature will likely be highly coupled to mobile apps (as it used to work on Sora). \n\nWhat's the chance we will get it today during the Android show?\n\nh/t @Thomasguka",
+            "translated_text": "GOOGLE \ud83d\udd25: Satu banner Gemini Omni yang baru dah ditambah ke web build baru-baru ni.\n\n> Gemini Omni ni akan jadi Ejen yang boleh gabungkan teks, imej, dan video.\n\n> Pengguna nanti boleh masukkan diri sendiri ke dalam pelbagai babak. Macam yang kita tahu, AI Avatars (Likeness) pun akan datang ke Gemini jugak, dan Gemini Omni ni mungkin akan bersambung dengan fungsi tu.\n\n> Fungsi \"Likeness\" ni mungkin akan sangat berkait rapat dengan aplikasi mudah alih (macam mana ia berfungsi dulu dekat Sora).\n\nAda peluang tak kita akan dapat benda ni hari ni masa Android show?\n\nh/t @Thomasguka",
+            "date": "2026-05-12T13:49:23+00:00",
+            "message_id": 8070,
+            "message_key": "@testingcatalog:8070"
         }
     ]
 }
