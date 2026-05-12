@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T22:57:38.918384",
+    "timestamp": "2026-05-12T13:04:53.752378",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19126,6 +19126,16 @@
             "date": "2026-05-11T21:33:21+00:00",
             "message_id": 8064,
             "message_key": "@testingcatalog:8064"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google will enable source selection for every artifact on NotebookLM soon. \n\nIt will be possible to restrict Audio & Video Overviews, Slides, Infographics, and the rest of your creations only to selected sources. \n\nPower user feature \ud83d\udc40",
+            "translated_text": "Google akan membolehkan pemilihan sumber untuk setiap artifak di NotebookLM tak lama lagi.\n\nAnda boleh mengehadkan Ringkasan Audio & Video, Slaid, Infografik, dan hasil kerja anda yang lain hanya kepada sumber yang dipilih.\n\nCiri pengguna tegar \ud83d\udc40",
+            "date": "2026-05-12T10:55:56+00:00",
+            "message_id": 8069,
+            "message_key": "@testingcatalog:8069"
         }
     ]
 }
