@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-12T16:20:45.815459",
+    "timestamp": "2026-05-12T18:58:12.237276",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19156,6 +19156,26 @@
             "date": "2026-05-12T13:49:23+00:00",
             "message_id": 8070,
             "message_key": "@testingcatalog:8070"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Android Intelligence has been introduced during Android Show 2026!\n\n- A whole new sleek design!\n- Automated multi-step tasks across Android apps\n- Gemini in Chrome gets Browser Use\n- Automated form filling\n- \"Rambler\" to turn voice notes into text\n- Custom Gen UI Widgets\n\nI need a Pixel now \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Android Intelligence baharu telah diperkenalkan semasa Android Show 2026!\n\n- Reka bentuk serba baharu yang anggun!\n- Tugas berbilang langkah automatik merentasi aplikasi Android\n- Gemini dalam Chrome kini boleh digunakan di pelayar\n- Pengisian borang secara automatik\n- \"Rambler\" untuk menukar nota suara kepada teks\n- Widget UI Gen yang boleh disesuaikan\n\nSaya nak Pixel sekarang \ud83d\udc40",
+            "date": "2026-05-12T17:33:50+00:00",
+            "message_id": 8074,
+            "message_key": "@testingcatalog:8074"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Android Show has begun \ud83c\udf7f\nhttps://www.youtube.com/watch?v=dXCCleAddEA",
+            "translated_text": "Show Android dah mula \ud83c\udf7f\nhttps://www.youtube.com/watch?v=dXCCleAddEA",
+            "date": "2026-05-12T17:04:03+00:00",
+            "message_id": 8073,
+            "message_key": "@testingcatalog:8073"
         }
     ]
 }
