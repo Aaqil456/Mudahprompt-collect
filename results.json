@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-12T18:58:12.237276",
+    "timestamp": "2026-05-12T22:13:40.953438",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19176,6 +19176,26 @@
             "date": "2026-05-12T17:04:03+00:00",
             "message_id": 8073,
             "message_key": "@testingcatalog:8073"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta to release Muse Spark in Voice Mode and Meta Glasses**](https://www.testingcatalog.com/meta-to-release-muse-spark-in-voice-mode-and-meta-glasses/)\n\nMeta launched Muse Spark to power Meta AI across its apps and glasses, adding faster voice chat, shopping support, and live camera recognition. The model supports multimodal reasoning and contextual assistance, starting in the US and Canada.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta akan melancarkan Muse Spark dalam Mod Suara dan Meta Glasses**](https://www.testingcatalog.com/meta-to-release-muse-spark-in-voice-mode-and-meta-glasses/)\n\nMeta telah melancarkan Muse Spark untuk menggerakkan Meta AI di semua aplikasi dan cermin matanya, dengan sembang suara yang lebih pantas, sokongan membeli-belah, dan pengecaman kamera secara langsung. Model ini menyokong penaakulan multimodal dan bantuan kontekstual, dan akan mula tersedia di AS dan Kanada.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-05-12T22:06:03+00:00",
+            "message_id": 8076,
+            "message_key": "@testingcatalog:8076"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Spark will be available within a new Voice Mode and a Live Camera view on the Meta AI app. \n\nThere, it can generate images, show places on the map, pull data from Reels, and more. \n\nAdditionally, new features were added to Shopping Mode, including the ability to search Facebook Marketplace. \n\n> Muse Spark is starting to gradually roll out on Ray-Ban Meta and Oakley Meta glasses in the US and Canada over the next few weeks, and on Meta Ray-Ban Display this summer. \n\n> Muse Spark is starting to bring the same intelligence to Meta AI across WhatsApp, Instagram, Facebook, Messenger, and Threads \u2014 in places like search bars, group chats, posts, and more.",
+            "translated_text": "META \ud83d\udd25: Muse Spark akan tersedia dalam Mod Suara baharu dan paparan Kamera Langsung di aplikasi Meta AI.\n\nDi sana, ia boleh menjana imej, menunjukkan tempat di peta, mengambil data dari Reels, dan banyak lagi.\n\nSelain itu, ciri-ciri baharu telah ditambah pada Mod Beli-belah, termasuk keupayaan untuk mencari di Facebook Marketplace.\n\n> Muse Spark mula dilancarkan secara berperingkat pada cermin mata Ray-Ban Meta dan Oakley Meta di AS dan Kanada dalam beberapa minggu akan datang, dan pada Meta Ray-Ban Display pada musim panas ini.\n\n> Muse Spark mula membawa kepintaran yang sama kepada Meta AI merentasi WhatsApp, Instagram, Facebook, Messenger, dan Threads \u2014 di tempat-tempat seperti bar carian, sembang kumpulan, siaran, dan banyak lagi.",
+            "date": "2026-05-12T20:57:21+00:00",
+            "message_id": 8075,
+            "message_key": "@testingcatalog:8075"
         }
     ]
 }
