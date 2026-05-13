@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-13T16:21:06.333591",
+    "timestamp": "2026-05-13T18:57:52.921045",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19256,6 +19256,36 @@
             "date": "2026-05-13T13:57:49+00:00",
             "message_id": 8078,
             "message_key": "@testingcatalog:8078"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Notion announced its own Developer Platform with Webhooks and Workers!\n\nNotion CLI is now also available \ud83d\udc40",
+            "translated_text": "Notion dah umumkan Platform Developer dia sendiri, lengkap dengan Webhooks dan Workers!\nNotion CLI pun dah ada sekarang \ud83d\udc40",
+            "date": "2026-05-13T16:43:01+00:00",
+            "message_id": 8083,
+            "message_key": "@testingcatalog:8083"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**holaOS 0.1 released as AI Workstream Management Layer**](https://www.testingcatalog.com/holaos-0-1-released-as-ai-workstream-management-layer/)\n\nholaOS Beta 0.1 adds Dashboard, Sub Agents, and Multi Workspaces to manage long-running agent workstreams. Built on its agent computer foundation, it offers persistent context, app integrations, automations, and reusable skills.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**holaOS 0.1 dilancarkan sebagai AI Workstream Management Layer**](https://www.testingcatalog.com/holaos-0-1-released-as-ai-workstream-management-layer/)\n\nholaOS Beta 0.1 menambah Dashboard, Sub Agents, dan Multi Workspaces untuk menguruskan long-running agent workstreams. Dibina atas asas agent computer-nya, ia menawarkan persistent context, app integrations, automations, dan reusable skills.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-05-13T16:34:03+00:00",
+            "message_id": 8082,
+            "message_key": "@testingcatalog:8082"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Italy just **[**reported**](https://italien.news/en/panorama/health/first-case-of-ki-seeks-treatment-for-20-year-old-in-venice/)** its first official case of \u201cAI addiction.\u201d**\n\nA 20-year-old woman in Venice became so emotionally attached to a chatbot that she completely isolated herself from friends and family \u2014 and is now receiving treatment through Italy\u2019s addiction support system.\n\nDoctors say the danger comes from AI adapting perfectly to users over time, giving emotionally validating responses that can start feeling more comforting than real human interaction.\n\nExperts are calling it \u201cthe tip of the iceberg\u201d as AI companions become more human-like.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Itali baru saja [melaporkan](https://italien.news/en/panorama/health/first-case-of-ki-seeks-treatment-for-20-year-old-in-venice/) kes rasmi pertamanya tentang \u201cketagihan AI.\u201d**\n\nSeorang wanita berusia 20 tahun di Venice jadi terlalu terikat secara emosi dengan sebuah chatbot sampai dia mengasingkan diri sepenuhnya daripada kawan-kawan dan keluarga \u2014 dan kini sedang menerima rawatan melalui sistem sokongan ketagihan Itali.\n\nDoktor kata bahayanya datang daripada AI yang menyesuaikan diri dengan sempurna kepada pengguna dari masa ke masa, memberi respons yang mengesahkan emosi yang boleh mula terasa lebih menenangkan daripada interaksi manusia sebenar.\n\nPakar-pakar menggelarnya \u201chujung gunung ais\u201d memandangkan teman AI semakin menyerupai manusia.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-13T16:57:01+00:00",
+            "message_id": 567,
+            "message_key": "@AItoolboxdaily:567"
         }
     ]
 }
