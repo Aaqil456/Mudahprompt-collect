@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-13T10:30:27.577427",
+    "timestamp": "2026-05-13T16:21:06.333591",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19216,6 +19216,46 @@
             "date": "2026-05-13T08:37:22+00:00",
             "message_id": 565,
             "message_key": "@AItoolboxdaily:565"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cline releases open-source agent runtime SDK for coding agents**](https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/)\n\nCline released @cline/sdk, an open-source TypeScript agent runtime rebuilt as a portable foundation for CLI, Kanban, and extensions. It decouples providers, supports durable cross-surface sessions, plugins, subagents, and broad model coverage.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Cline keluarkan SDK runtime ejen sumber terbuka untuk ejen pengekodan**](https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/)\n\nCline dah keluarkan @cline/sdk, satu runtime ejen TypeScript sumber terbuka yang dibina semula sebagai asas mudah alih untuk CLI, Kanban, dan sambungan. Ia tak terikat dengan penyedia, menyokong sesi merentas permukaan yang tahan lama, plugin, subejen, dan liputan model yang luas.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-05-13T15:24:46+00:00",
+            "message_id": 8081,
+            "message_key": "@testingcatalog:8081"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-13T14:35:23+00:00",
+            "message_id": 8080,
+            "message_key": "@testingcatalog:8080"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is testing a new model selector for Claude on mobile, moving it directly to the prompt area. \n\n> Bottom navigation tabs are being tested as well. \n\n> Connectors Discovery is coming to mobile too, where Claude will suggest the best connector for a given task.",
+            "translated_text": "Anthropic sedang menguji pemilih model baharu untuk Claude di telefon bimbit, memindahkannya terus ke kawasan prompt.\n\nTab navigasi bawah juga sedang diuji.\n\nCiri Penemuan Penyambung turut akan datang ke telefon bimbit, di mana Claude akan cadangkan penyambung terbaik untuk sesuatu tugasan.",
+            "date": "2026-05-13T14:35:23+00:00",
+            "message_id": 8079,
+            "message_key": "@testingcatalog:8079"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**thehype launches 24/7 AI-powered radio for founders**](https://www.testingcatalog.com/thehype-launches-24-7-ai-powered-radio-for-founders/)\n\nthehype launched a 24/7 AI-run radio station for founders, builders, and researchers, delivering rapid AI news, funding, tooling, and community analysis through five AI hosts with distinct perspectives and persistent memory.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**thehype melancarkan radio berkuasa AI 24/7 untuk pengasas**](https://www.testingcatalog.com/thehype-launches-24-7-ai-powered-radio-for-founders/)\n\nthehype dah lancarkan stesen radio yang dikendalikan AI 24/7 khas untuk pengasas, pembina, dan penyelidik. Radio ni sampaikan berita AI terkini, info pembiayaan, alatan, dan analisis komuniti dengan pantas, melalui lima hos AI yang ada pandangan berbeza dan memori yang kekal.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-05-13T13:57:49+00:00",
+            "message_id": 8078,
+            "message_key": "@testingcatalog:8078"
         }
     ]
 }
