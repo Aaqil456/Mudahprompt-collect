@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-12T22:13:40.953438",
+    "timestamp": "2026-05-13T00:01:24.366242",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19196,6 +19196,16 @@
             "date": "2026-05-12T20:57:21+00:00",
             "message_id": 8075,
             "message_key": "@testingcatalog:8075"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google brings Gemini Intelligence automation to Android devices**](https://www.testingcatalog.com/google-brings-gemini-intelligence-automation-to-android-devices/)\n\nGoogle introduced Gemini Intelligence for Android, adding context-aware app actions, Chrome assistance, smarter Autofill, and custom widgets. It launches first on new Samsung and Pixel phones, with user control and privacy built in.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google bawa automasi Gemini Intelligence ke peranti Android**](https://www.testingcatalog.com/google-brings-gemini-intelligence-automation-to-android-devices/)\n\nGoogle dah perkenalkan Gemini Intelligence untuk Android, yang tambah fungsi aplikasi yang peka konteks, bantuan Chrome, Autofill yang lebih pintar, dan widget khas. Ia akan dilancarkan dulu dekat telefon Samsung dan Pixel yang baru, siap dengan kawalan pengguna dan privasi terbina.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-12T22:18:43+00:00",
+            "message_id": 8077,
+            "message_key": "@testingcatalog:8077"
         }
     ]
 }
