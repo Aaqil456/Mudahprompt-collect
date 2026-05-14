@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-13T22:14:26.365492",
+    "timestamp": "2026-05-14T10:20:53.466382",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19316,6 +19316,56 @@
             "date": "2026-05-13T21:18:48+00:00",
             "message_id": 8086,
             "message_key": "@testingcatalog:8086"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-14T09:58:52+00:00",
+            "message_id": 8093,
+            "message_key": "@testingcatalog:8093"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft is exploring a deal to acquire Inception, an AI lab that recently released Mercury 2, the world's first reasoning diffusion LLM, according to Reuters. \n\nImagine diffusion Copilot \ud83d\udc40",
+            "translated_text": "Microsoft sedang mempertimbangkan untuk mengambil alih Inception, sebuah makmal AI yang baru-baru ini melancarkan Mercury 2, LLM difusi penaakulan pertama di dunia, menurut Reuters.\n\nBayangkan diffusion Copilot \ud83d\udc40",
+            "date": "2026-05-14T09:58:52+00:00",
+            "message_id": 8092,
+            "message_key": "@testingcatalog:8092"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft expands Copilot in Edge with AI tools for web and mobile**](https://www.testingcatalog.com/microsoft-expands-copilot-in-edge-with-ai-tools-for-web-and-mobile/)\n\nMicrosoft is folding Copilot into Edge on desktop and mobile, adding multi-tab reasoning, history-based Journeys, Vision, Voice, study tools, writing help, and podcasts. Copilot Mode ends as these tools become part of standard Edge.\n\n\ud83d\uddde #microsoftedge @testingcatalog",
+            "translated_text": "[**Microsoft kembangkan Copilot dalam Edge dengan alatan AI untuk web dan peranti mudah alih**](https://www.testingcatalog.com/microsoft-expands-copilot-in-edge-with-ai-tools-for-web-and-mobile/)\n\nMicrosoft sedang menyatukan Copilot ke dalam Edge di desktop dan peranti mudah alih, dengan penambahan keupayaan penaakulan berbilang tab, Journeys berasaskan sejarah, Vision, Voice, alatan belajar, bantuan menulis, dan podcast. Mod Copilot akan tamat apabila alatan ini menjadi sebahagian daripada Edge standard.\n\n\ud83d\uddde #microsoftedge @testingcatalog",
+            "date": "2026-05-14T09:41:01+00:00",
+            "message_id": 8091,
+            "message_key": "@testingcatalog:8091"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenSquilla launches open-source AI agent to cut token costs**](https://www.testingcatalog.com/opensquilla-launches-open-source-ai-agent-to-cut-token-costs/)\n\nOpenSquilla launches as a self-hostable, open-source AI agent runtime focused on cutting token waste through cached context reuse, query routing, demand-loaded skills, four-tier memory, and syscall-level isolation with modular plugins.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**OpenSquilla melancarkan ejen AI sumber terbuka untuk kurangkan kos token**](https://www.testingcatalog.com/opensquilla-launches-open-source-ai-agent-to-cut-token-costs/)\n\nOpenSquilla ni dilancarkan sebagai runtime ejen AI sumber terbuka yang boleh kita host sendiri. Fokus utamanya adalah untuk kurangkan pembaziran token. Caranya? Dengan guna semula konteks yang dah disimpan dalam cache, penghalaan pertanyaan, kemahiran yang dimuatkan bila perlu, memori empat peringkat, dan pengasingan tahap syscall dengan plugin modular.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-05-14T09:19:02+00:00",
+            "message_id": 8090,
+            "message_key": "@testingcatalog:8090"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Gemini Spark AI Agent ahead of I/O launch**](https://www.testingcatalog.com/google-prepares-gemini-spark-ai-agent-ahead-of-i-o-launch/)\n\nGoogle is preparing Gemini Spark BETA, an always-on AI agent for inbox triage and multi-step web tasks with public beta likely at Google I/O.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google sedang bersedia dengan Gemini Spark AI Agent menjelang pelancaran I/O**](https://www.testingcatalog.com/google-prepares-gemini-spark-ai-agent-ahead-of-i-o-launch/)\n\nGoogle sedang menyediakan Gemini Spark BETA, ejen AI yang sentiasa aktif untuk menyusun e-mel dan tugasan web pelbagai langkah, dengan versi beta awam dijangka akan dilancarkan di Google I/O.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-14T08:46:58+00:00",
+            "message_id": 8089,
+            "message_key": "@testingcatalog:8089"
         }
     ]
 }
