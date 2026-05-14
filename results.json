@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-14T19:48:58.386682",
+    "timestamp": "2026-05-14T21:12:39.704870",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19406,6 +19406,26 @@
             "date": "2026-05-14T18:40:14+00:00",
             "message_id": 8096,
             "message_key": "@testingcatalog:8096"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI brings Codex to ChatGPT mobile app for iOS and Android**](https://www.testingcatalog.com/openai-brings-codex-to-chatgpt-mobile-app-for-ios-and-android/)\n\nOpenAI is adding Codex to ChatGPT mobile in preview on iOS and Android, letting developers monitor sessions, review outputs, approve commands, and manage remote environments from a phone while code stays on the host machine.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI Hadirkan Codex ke Aplikasi Mudah Alih ChatGPT untuk iOS dan Android**](https://www.testingcatalog.com/openai-brings-codex-to-chatgpt-mobile-app-for-ios-and-android/)\n\nOpenAI sedang memperkenalkan Codex ke aplikasi mudah alih ChatGPT untuk iOS dan Android secara pratonton. Ini membolehkan pembangun memantau sesi, menyemak output, meluluskan arahan, dan menguruskan persekitaran jauh dari telefon, sementara kod kekal pada mesin hos.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-14T21:00:12+00:00",
+            "message_id": 8098,
+            "message_key": "@testingcatalog:8098"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A new Codex with Remote Control is now available inside the ChatGPT app for mobile in selected regions. \n\n> Codex is now in the ChatGPT mobile app so you can stay in the loop from anywhere while Codex gets work done across your laptops, devboxes, or remote environments.\n\n> Codex in the ChatGPT mobile app is rolling out in preview on iOS and Android across all plans, including Free and Go, in all supported regions. Support for connecting your phone to the Codex app on Windows is coming soon.\n\nThe time has come \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Codex baharu dengan Kawalan Jauh kini boleh didapati dalam aplikasi ChatGPT untuk mudah alih di beberapa rantau terpilih.\n\n> Codex kini ada dalam aplikasi mudah alih ChatGPT, jadi anda boleh sentiasa peka dari mana-mana sahaja sementara Codex menyelesaikan kerja di seluruh komputer riba, devbox, atau persekitaran jauh anda.\n\n> Codex dalam aplikasi mudah alih ChatGPT sedang dilancarkan sebagai pratonton di iOS dan Android untuk semua pelan, termasuk Free dan Go, di semua rantau yang disokong. Sokongan untuk menyambungkan telefon anda ke aplikasi Codex di Windows akan datang tidak lama lagi.\n\nMasanya sudah tiba \ud83d\udc40",
+            "date": "2026-05-14T20:21:57+00:00",
+            "message_id": 8097,
+            "message_key": "@testingcatalog:8097"
         }
     ]
 }
