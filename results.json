@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-14T21:12:39.704870",
+    "timestamp": "2026-05-14T22:58:40.426733",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19426,6 +19426,26 @@
             "date": "2026-05-14T20:21:57+00:00",
             "message_id": 8097,
             "message_key": "@testingcatalog:8097"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-14T21:18:43+00:00",
+            "message_id": 8100,
+            "message_key": "@testingcatalog:8100"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "After a TMZ report, fans are speculating that Kanye West was spotted with a mysterious AI device last week. \n\nEarlier this year, the same device was a part of a leaked Super Bowl ad with connections to OpenAI, that they later denied.",
+            "translated_text": "Menurut laporan TMZ, peminat sedang berspekulasi yang Kanye West dilihat bersama satu peranti AI misteri minggu lepas. Awal tahun ini, peranti yang sama itu pernah muncul dalam iklan Super Bowl yang bocor, yang ada kaitan dengan OpenAI, tapi kemudiannya dinafikan oleh mereka.",
+            "date": "2026-05-14T21:18:43+00:00",
+            "message_id": 8099,
+            "message_key": "@testingcatalog:8099"
         }
     ]
 }
