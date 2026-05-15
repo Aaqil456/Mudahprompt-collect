@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-15T21:03:55.988341",
+    "timestamp": "2026-05-15T23:57:56.372630",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19546,6 +19546,26 @@
             "date": "2026-05-15T20:31:48+00:00",
             "message_id": 8107,
             "message_key": "@testingcatalog:8107"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches personal finance on ChatGPT for Pro users**](https://www.testingcatalog.com/openai-launches-personal-finance-on-chatgpt-for-pro-users/)\n\nOpenAI is previewing a ChatGPT finance dashboard for U.S. Pro users, letting them connect financial accounts via Plaid, track spending and balances, and ask account-based money questions with controls for privacy and data deletion.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI lancarkan kewangan peribadi di ChatGPT untuk pengguna Pro**](https://www.testingcatalog.com/openai-launches-personal-finance-on-chatgpt-for-pro-users/)\n\nOpenAI sedang memperkenalkan pratonton papan pemuka kewangan ChatGPT untuk pengguna Pro A.S., membolehkan mereka menghubungkan akaun kewangan melalui Plaid, menjejaki perbelanjaan dan baki, serta bertanya soalan berkaitan wang berdasarkan akaun dengan kawalan untuk privasi dan penghapusan data.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-15T23:47:01+00:00",
+            "message_id": 8110,
+            "message_key": "@testingcatalog:8110"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity connects Computer to Snowflake and Databricks**](https://www.testingcatalog.com/perplexity-connects-computer-to-snowflake-and-databricks/)\n\nPerplexity\u2019s new Computer release connects live Snowflake and Databricks data to deliver SQL-backed answers, dashboards, and automations for non-technical teams, with admin-reviewed data mapping and platform-level access controls.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity Sambungkan Computer ke Snowflake dan Databricks**](https://www.testingcatalog.com/perplexity-connects-computer-to-snowflake-and-databricks/)\n\nVersi Computer terbaru dari Perplexity ni boleh sambungkan data langsung dari Snowflake dan Databricks. Jadi, ia boleh bagi jawapan berasaskan SQL, sediakan papan pemuka, dan buat automasi untuk pasukan yang tak berapa teknikal. Semua ni datang sekali dengan pemetaan data yang dah disemak oleh pentadbir dan kawalan akses peringkat platform.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-05-15T23:45:25+00:00",
+            "message_id": 8109,
+            "message_key": "@testingcatalog:8109"
         }
     ]
 }
