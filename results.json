@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-15T07:53:35.753761",
+    "timestamp": "2026-05-15T10:26:20.086839",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19466,6 +19466,26 @@
             "date": "2026-05-15T00:15:31+00:00",
             "message_id": 8102,
             "message_key": "@testingcatalog:8102"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-15T09:23:58+00:00",
+            "message_id": 8104,
+            "message_key": "@testingcatalog:8104"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: New Gemini Spark screenshots featuring advanced tool use and Skills creation flow. \n\nIt seems like there won't be an option to import SKILL MD files besides copeing and pasting. There is also no evidence of Browser or Computer Use atm (to control users' own laptops).\n\nh/t x@Waguri_Kaoruko8",
+            "translated_text": "GOOGLE \ud83d\udd25: Tangkapan skrin baharu Gemini Spark menunjukkan penggunaan alatan canggih dan aliran penciptaan Skills.\n\nNampaknya tiada pilihan untuk import fail SKILL MD selain daripada salin dan tampal. Juga tiada bukti Penggunaan Pelayar atau Komputer buat masa ini (untuk mengawal komputer riba pengguna sendiri).\n\nKredit kepada x@Waguri_Kaoruko8",
+            "date": "2026-05-15T09:23:58+00:00",
+            "message_id": 8103,
+            "message_key": "@testingcatalog:8103"
         }
     ]
 }
