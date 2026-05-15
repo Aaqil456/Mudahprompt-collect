@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-15T12:55:30.704016",
+    "timestamp": "2026-05-15T15:17:25.933507",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19496,6 +19496,16 @@
             "date": "2026-05-15T11:44:58+00:00",
             "message_id": 8105,
             "message_key": "@testingcatalog:8105"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Claude Mythos reportedly managed to break into macOS** \u2014 one of the hardest operating systems to exploit.\n\n[Researchers say](https://www.wsj.com/tech/ai/anthropic-mythos-apple-macos-bug-339da403) the model discovered how to combine two previously unknown vulnerabilities, allowing it to corrupt memory and gain deep system-level access inside macOS.\n\nThe finding was serious enough that the researchers reportedly traveled directly to Apple\u2019s office to demonstrate the exploit in person. Apple is now investigating the issue, and no patch has been released yet.\n\nThis is exactly why many people consider models like **Mythos too dangerous to release publicly.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Claude Mythos dilaporkan berjaya menceroboh macOS** \u2014 salah satu sistem operasi yang paling sukar untuk dieksploitasi.\n\n[Penyelidik kata](https://www.wsj.com/tech/ai/anthropic-mythos-apple-macos-bug-339da403) model itu menemui cara untuk menggabungkan dua kelemahan yang tidak diketahui sebelum ini, membolehkannya merosakkan memori dan mendapat akses peringkat sistem yang mendalam dalam macOS.\n\nPenemuan ini cukup serius sehingga penyelidik dilaporkan terus pergi ke pejabat Apple untuk menunjukkan eksploitasi itu secara peribadi. Apple kini sedang menyiasat isu ini, dan tiada patch lagi yang dikeluarkan.\n\nInilah sebabnya mengapa ramai orang menganggap model seperti **Mythos** terlalu berbahaya untuk dikeluarkan secara umum.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-15T14:03:01+00:00",
+            "message_id": 569,
+            "message_key": "@AItoolboxdaily:569"
         }
     ]
 }
