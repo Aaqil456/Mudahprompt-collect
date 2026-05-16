@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T16:03:23.233626",
+    "timestamp": "2026-05-16T17:56:13.108416",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19586,6 +19586,26 @@
             "date": "2026-05-16T15:04:01+00:00",
             "message_id": 571,
             "message_key": "@AItoolboxdaily:571"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI will let Codex control other desktop devices via Computer Use**](https://www.testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use/)\n\nOpenAI is developing Codex remote control for locked or sleeping Macs, extending phone-based oversight to full desktop operation across multiple devices. The move closes a workflow gap but may face scrutiny from Apple over macOS security.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI akan benarkan Codex kawal peranti desktop lain melalui Computer Use**](https://www.testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use/)\n\nOpenAI sedang membangunkan kawalan jauh Codex untuk Mac yang terkunci atau dalam mod tidur, meluaskan pengawasan berasaskan telefon kepada operasi desktop penuh merentasi pelbagai peranti. Langkah ini menutup jurang dalam aliran kerja tetapi mungkin berdepan penelitian daripada Apple berhubung keselamatan macOS.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-05-16T17:51:57+00:00",
+            "message_id": 8112,
+            "message_key": "@testingcatalog:8112"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Most people read AI news.\n\nSmart people turn AI into workflows.\n\nAI System Agent Lab is a practical channel about AI agents, automation systems and tools that can be used by individuals, teams and businesses.\n\nYou will get:\n\u2022 AI workflows you can copy\n\u2022 agent ideas for business\n\u2022 automation stacks for real work\n\u2022 useful AI tools\n\u2022 visual breakdowns of AI systems\n\u2022 practical lessons from the latest AI news\n\nNo hype. No random reposts.\n\nEvery post answers one question:\n\nHow can this be used in real life or business?\n\nSubscribe if you want to stay ahead of the AI shift:\n[https://t.me/AISystemAgentLab](https://t.me/AISystemAgentLab)",
+            "translated_text": "Kebanyakan orang baca berita AI.\n\nOrang bijak pula tukar AI jadi aliran kerja.\n\nAI System Agent Lab ni saluran praktikal pasal ejen AI, sistem automasi, dan alatan yang boleh digunakan oleh individu, pasukan, dan juga perniagaan.\n\nAnda akan dapat:\n\u2022 Aliran kerja AI yang anda boleh tiru\n\u2022 Idea ejen untuk bisnes\n\u2022 Susunan automasi untuk kerja sebenar\n\u2022 Alatan AI yang berguna\n\u2022 Pecahan visual sistem AI\n\u2022 Pengajaran praktikal dari berita AI terkini\n\nTak ada janji kosong. Tak ada repost rambang.\n\nSetiap post jawab satu soalan:\n\nMacam mana benda ni boleh digunakan dalam kehidupan sebenar atau bisnes?\n\nLanggan kalau anda nak sentiasa ke depan dalam perubahan AI ni:\n[https://t.me/AISystemAgentLab](https://t.me/AISystemAgentLab)",
+            "date": "2026-05-16T17:27:29+00:00",
+            "message_id": 572,
+            "message_key": "@AItoolboxdaily:572"
         }
     ]
 }
