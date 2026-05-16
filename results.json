@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T21:52:44.497117",
+    "timestamp": "2026-05-16T23:55:28.599763",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19646,6 +19646,26 @@
             "date": "2026-05-16T21:03:53+00:00",
             "message_id": 8113,
             "message_key": "@testingcatalog:8113"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-16T23:35:17+00:00",
+            "message_id": 8118,
+            "message_key": "@testingcatalog:8118"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Traces of Gemini 3.2 Flash-lite-live have been spotted on Google Cloud Console. \n\nEven cheaper real-time model? \ud83d\udc40\n\nh/t x@AiBattle_",
+            "translated_text": "GOOGLE \ud83d\udd25: Jejak Gemini 3.2 Flash-lite-live dikesan di Google Cloud Console.\n\nModel masa nyata yang lagi murah? \ud83d\udc40\n\nKredit kepada x@AiBattle_",
+            "date": "2026-05-16T23:35:17+00:00",
+            "message_id": 8117,
+            "message_key": "@testingcatalog:8117"
         }
     ]
 }
