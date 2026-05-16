@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T17:56:13.108416",
+    "timestamp": "2026-05-16T21:52:44.497117",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19606,6 +19606,46 @@
             "date": "2026-05-16T17:27:29+00:00",
             "message_id": 572,
             "message_key": "@AItoolboxdaily:572"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-16T21:40:49+00:00",
+            "message_id": 8116,
+            "message_key": "@testingcatalog:8116"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Mythos model has been spotted on Google Cloud Console. \n\n-claude-mythos \ud83d\udc40\n\nIt is hard to imagine that Anthropic would change its mind and release it publicly but they could act as a model provider for those companies who have access to the model and run their stuff on GCP.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Model Claude Mythos telah dikesan di Google Cloud Console.\n\n-claude-mythos \ud83d\udc40\n\nSukar untuk dibayangkan Anthropic akan berubah fikiran dan mengeluarkannya secara umum, tetapi mereka boleh bertindak sebagai penyedia model untuk syarikat-syarikat yang mempunyai akses kepada model itu dan menjalankan kerja mereka di GCP.",
+            "date": "2026-05-16T21:40:48+00:00",
+            "message_id": 8115,
+            "message_key": "@testingcatalog:8115"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-16T21:03:53+00:00",
+            "message_id": 8114,
+            "message_key": "@testingcatalog:8114"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "HERMES \ud83d\udd25: X Premium+ accounts can now use their subscription with Grok in Hermes Agent! \n\nBesides that, they can also use X search tool, which puts Hermes into a quite unique position now. \n\nIt is not just OpenClaw vs Hermes anymore.\n\nIt is OpenAI vs xAI once again \ud83d\udc40",
+            "translated_text": "HERMES \ud83d\udd25: Akaun X Premium+ sekarang boleh guna langganan mereka dengan Grok dalam Hermes Agent!\n\nSelain tu, mereka juga boleh guna alat carian X, yang meletakkan Hermes dalam kedudukan yang agak unik sekarang.\n\nBukan lagi sekadar OpenClaw lawan Hermes.\n\nIni adalah OpenAI lawan xAI sekali lagi \ud83d\udc40",
+            "date": "2026-05-16T21:03:53+00:00",
+            "message_id": 8113,
+            "message_key": "@testingcatalog:8113"
         }
     ]
 }
