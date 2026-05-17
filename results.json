@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-17T16:04:34.856589",
+    "timestamp": "2026-05-17T17:58:59.340016",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19716,6 +19716,16 @@
             "date": "2026-05-17T15:27:58+00:00",
             "message_id": 575,
             "message_key": "@AItoolboxdaily:575"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on a dedicated \u201cPersonal CFO\u201d tab that highlights Portfolio, Transactions, and Liability sections. \n\n> Financial information provided by Financial Modeling Prep. \n\n> Options data provided by Unusual Whales. Earnings transcripts, audio, and documents provided by Quartr. \n\n> Reported revenue and EPS data from Earnings powered by Fiscal AI. Estimates provided by S&P Global. \n\n> Prediction markets data from Polymarket. All data is provided for informational purposes only, and is not intended for trading purposes or financial, investment, tax, legal, accounting or other advice.\n\nPerplexity Terminal? \ud83d\udc40",
+            "translated_text": "Perplexity sedang membangunkan tab khas \u201cPersonal CFO\u201d yang akan menonjolkan bahagian Portfolio, Transaksi, dan Liabiliti.\n\n> Maklumat kewangan disediakan oleh Financial Modeling Prep.\n\n> Data opsyen disediakan oleh Unusual Whales. Transkrip pendapatan, audio, dan dokumen disediakan oleh Quartr.\n\n> Data hasil dan EPS yang dilaporkan daripada Earnings dikuasakan oleh Fiscal AI. Anggaran disediakan oleh S&P Global.\n\n> Data pasaran ramalan daripada Polymarket. Semua data disediakan untuk tujuan maklumat sahaja, dan tidak bertujuan untuk tujuan perdagangan atau nasihat kewangan, pelaburan, cukai, undang-undang, perakaunan atau nasihat lain.\n\nPerplexity Terminal? \ud83d\udc40",
+            "date": "2026-05-17T16:04:28+00:00",
+            "message_id": 8121,
+            "message_key": "@testingcatalog:8121"
         }
     ]
 }
