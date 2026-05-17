@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-17T14:58:43.799209",
+    "timestamp": "2026-05-17T16:04:34.856589",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19706,6 +19706,16 @@
             "date": "2026-05-17T14:03:01+00:00",
             "message_id": 574,
             "message_key": "@AItoolboxdaily:574"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "Open-source AI that can control your computer and browser.\n\nUI-TARS Desktop is a native GUI agent that lets AI operate local computers, remote computers, and browsers using multimodal models.\n\nIt\u2019s built for tasks like changing app settings, browsing GitHub issues, using tools through the interface, and automating real computer workflows instead of just chatting.\n\nTry it [here for free](https://github.com/bytedance/UI-TARS-desktop)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "AI sumber terbuka yang boleh kawal komputer dan pelayar web awak.\n\nUI-TARS Desktop adalah ejen GUI asli yang membolehkan AI mengendalikan komputer tempatan, komputer jauh, dan pelayar web menggunakan model multimodal.\n\nIa dibina untuk tugasan macam ubah tetapan aplikasi, melayari isu-isu GitHub, guna alatan melalui antara muka, dan mengautomasikan aliran kerja komputer sebenar, bukan sekadar bersembang.\n\nCuba ia [di sini secara percuma](https://github.com/bytedance/UI-TARS-desktop)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-17T15:27:58+00:00",
+            "message_id": 575,
+            "message_key": "@AItoolboxdaily:575"
         }
     ]
 }
