@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T23:55:28.599763",
+    "timestamp": "2026-05-17T09:07:38.795802",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19666,6 +19666,36 @@
             "date": "2026-05-16T23:35:17+00:00",
             "message_id": 8117,
             "message_key": "@testingcatalog:8117"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-17T08:09:15+00:00",
+            "message_id": 8120,
+            "message_key": "@testingcatalog:8120"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: The next version of Grok, based on the 1.5T V9 base model has finished training. Looks like we will get a major upgrade this summer. \n\n> Next, we are adding the Cursor data in supplemental training.\n\nSoon \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Versi Grok seterusnya, yang berdasarkan model asas 1.5T V9, dah selesai dilatih. Nampaknya kita akan dapat *upgrade* besar musim panas ni.\n\n> Seterusnya, kita akan masukkan data Cursor dalam latihan tambahan.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-05-17T08:09:15+00:00",
+            "message_id": 8119,
+            "message_key": "@testingcatalog:8119"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Prompt for Better Content Ideas\n**\n\u201cFind the content ideas my audience would actually stop scrolling for.\u201d\nUse this command:\n\n```Based on my niche and audience below, generate content ideas that feel specific, relevant, and worth saving.\nAvoid generic topics and focus on angles that would catch attention, start discussion, or make people think, \u201cI need this.\u201d\nExplain briefly why each idea could work.\nNiche and audience: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt untuk Idea Kandungan Lebih Baik**\n\n\u201cCari idea kandungan yang audiens saya betul-betul akan berhenti *scroll* untuk tengok.\u201d\nGunakan arahan ini:\n\n```Berdasarkan niche dan audiens saya di bawah, jana idea kandungan yang rasa spesifik, relevan, dan berbaloi untuk disimpan.\nElakkan topik umum dan fokus pada sudut pandang yang boleh menarik perhatian, mencetuskan perbincangan, atau membuat orang berfikir, \u201cSaya perlukan ini.\u201d\nTerangkan secara ringkas kenapa setiap idea boleh berfungsi.\nNiche dan audiens: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-17T07:54:42+00:00",
+            "message_id": 573,
+            "message_key": "@AItoolboxdaily:573"
         }
     ]
 }
