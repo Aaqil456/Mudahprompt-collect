@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-18T21:14:44.189015",
+    "timestamp": "2026-05-18T23:04:25.172799",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19796,6 +19796,26 @@
             "date": "2026-05-18T20:21:02+00:00",
             "message_id": 8125,
             "message_key": "@testingcatalog:8125"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor released Composer 2.5 with up to 10x cost efficiency**](https://www.testingcatalog.com/cursor-released-composer-2-5-with-up-to-10x-cost-efficiency/)\n\nCursor launched Composer 2.5 for all users, with stronger coding performance, higher reliability, and support for long tasks. It adds refined training and lower-cost pricing, with a faster default variant available.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "translated_text": "[**Cursor keluarkan Composer 2.5, lebih jimat kos sehingga 10 kali ganda**](https://www.testingcatalog.com/cursor-released-composer-2-5-with-up-to-10x-cost-efficiency/)\n\nCursor dah lancarkan Composer 2.5 untuk semua pengguna. Versi baru ni datang dengan prestasi coding yang lebih mantap, kebolehpercayaan yang lebih tinggi, dan sokongan untuk tugasan yang panjang. Ia juga disertakan dengan latihan yang diperhalusi dan harga yang lebih jimat, serta ada varian lalai yang lebih pantas.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "date": "2026-05-18T21:39:20+00:00",
+            "message_id": 8128,
+            "message_key": "@testingcatalog:8128"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus AI released Scheduled Tasks 2.0 upgrade for all users**](https://www.testingcatalog.com/manus-ai-released-scheduled-tasks-2-0-upgrade-for-all-users/)\n\nManus Scheduled Tasks 2.0 brings context-aware automation to tasks, Projects, and Manus web apps. It keeps recurring work in the same workspace and adds schedule controls, history, calendars, connectors, and execution settings.\n\n\ud83d\uddde #manus @testingcatalog",
+            "translated_text": "[Manus AI melancarkan naik taraf Scheduled Tasks 2.0 untuk semua pengguna](https://www.testingcatalog.com/manus-ai-released-scheduled-tasks-2-0-upgrade-for-all-users/)\n\nManus Scheduled Tasks 2.0 memperkenalkan automasi peka konteks kepada tugasan, Projek, dan aplikasi web Manus. Ia mengekalkan kerja berulang dalam ruang kerja yang sama serta menambah kawalan jadual, sejarah, kalendar, penyambung, dan tetapan pelaksanaan.\n\n\ud83d\uddde #manus @testingcatalog",
+            "date": "2026-05-18T21:35:06+00:00",
+            "message_id": 8127,
+            "message_key": "@testingcatalog:8127"
         }
     ]
 }
