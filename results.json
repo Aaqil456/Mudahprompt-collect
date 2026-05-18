@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-18T14:31:31.586332",
+    "timestamp": "2026-05-18T17:31:34.145684",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19736,6 +19736,46 @@
             "date": "2026-05-18T12:41:31+00:00",
             "message_id": 8122,
             "message_key": "@testingcatalog:8122"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "CURSOR \ud83d\udd25: A newly released Composer 2.5 performs on par with Opus 4.7 and comes with up to 10x better cost efficiency. \n\n> It's more intelligent, better at sustained work on long-running tasks, and more reliable at following complex instructions.  \n\n> Together with SpaceXAI, we're training a significantly larger model from scratch, using 10x more total compute. With Colossus 2's million H100-equivalents and our combined data and training techniques, we expect this to be a major leap in model capability.\n\nUsage limits will be doubled for Composer 2.5 over the next week.",
+            "translated_text": "CURSOR \ud83d\udd25: Composer 2.5 yang baru dilancarkan prestasinya setanding dengan Opus 4.7 dan datang dengan kecekapan kos sehingga 10 kali ganda lebih baik.\n\n> Ia lebih pintar, lebih baik dalam kerja berterusan untuk tugasan yang panjang, dan lebih boleh diharap dalam mengikuti arahan yang kompleks.\n\n> Bersama-sama dengan SpaceXAI, kami sedang melatih model yang jauh lebih besar dari awal, menggunakan 10 kali ganda lebih banyak jumlah kuasa pengkomputeran. Dengan sejuta H100-equivalents dari Colossus 2 dan gabungan data serta teknik latihan kami, kami menjangkakan ini akan menjadi satu lonjakan besar dalam keupayaan model.\n\nHad penggunaan untuk Composer 2.5 akan digandakan sepanjang minggu depan.",
+            "date": "2026-05-18T16:50:27+00:00",
+            "message_id": 8124,
+            "message_key": "@testingcatalog:8124"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Manus AI released Scheduled Tasks 2.0, introducing web apps that can self-update their data on a schedule, task continuation, and new ways to observe ongoing tasks.\n\n> Scheduled Tasks is now available to all users.",
+            "translated_text": "Manus AI dah keluarkan Scheduled Tasks 2.0, memperkenalkan aplikasi web yang boleh kemas kini data sendiri ikut jadual, sambungan tugas, dan cara baru untuk pantau tugas yang sedang berjalan.\n\nScheduled Tasks dah boleh digunakan oleh semua pengguna.",
+            "date": "2026-05-18T15:47:27+00:00",
+            "message_id": 8123,
+            "message_key": "@testingcatalog:8123"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**AI skill that can turn almost any document into a real editable PowerPoint.**\n\nPPT Master is an open-source tool that generates PPTX decks from PDFs, DOCX files, URLs, or Markdown \u2014 but unlike most AI slide tools, it doesn\u2019t export slides as images. Every text box, shape, chart, and animation stays editable in PowerPoint.\n\nIt works locally with AI agents like Claude Code, Cursor, Copilot, or Codex, so you can create decks from reports, articles, research papers, or client materials without manual formatting.\n\nTry it [here for free](https://github.com/hugohe3/ppt-master)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Kemahiran AI yang boleh tukar hampir mana-mana dokumen jadi PowerPoint yang betul-betul boleh diedit.**\n\nPPT Master ni alat sumber terbuka yang boleh hasilkan slaid PPTX dari PDF, fail DOCX, URL, atau Markdown \u2014 tapi tak macam kebanyakan alat slaid AI lain, ia tak eksport slaid sebagai imej. Setiap kotak teks, bentuk, carta, dan animasi kekal boleh diedit dalam PowerPoint.\n\nIa berfungsi secara tempatan dengan ejen AI macam Claude Code, Cursor, Copilot, atau Codex, jadi, awak boleh buat slaid dari laporan, artikel, kertas penyelidikan, atau bahan pelanggan tanpa perlu format secara manual.\n\nBoleh cuba [di sini secara percuma](https://github.com/hugohe3/ppt-master)\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-18T17:01:58+00:00",
+            "message_id": 577,
+            "message_key": "@AItoolboxdaily:577"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83e\udde0 SMSBulk SMS Verification API for AI & Tech Builders\n\nBuilt for developers building AI agents, automation tools, and SaaS products.\n\n\u2705 REST API for 200+ countries, 56+ services WhatsApp, Telegram, Google +more approval.\n\u2705 Perfect for: AI agent testing, OTP automation, multi-account workflows\n\u2705 Python/Node/PHP code samples\n\u2705 Webhook-verified crypto payments (USDT/BTC)\n\u2705 Auto-refund in 20 min if no SMS arrives\n\u2705 From $0.015 per number\n\n\ud83c\udfaf Use cases:\n\u2022 Test OTP flows in AI agents\n\u2022 Build automated sign-up tools\n\u2022 Verify multiple accounts for testing\n\u2022 Privacy-focused number provisioning\n\n\ud83d\udc49 Join: [https://t.me/smsbulkverify](https://t.me/smsbulkverify)",
+            "translated_text": "\ud83e\udde0 SMSBulk SMS Verification API untuk Pembangun AI & Teknologi\n\nDibina untuk pembangun yang membina ejen AI, alatan automasi, dan produk SaaS.\n\n\u2705 REST API untuk lebih 200 negara, lebih 56 perkhidmatan WhatsApp, Telegram, Google dan lain-lain sokongan.\n\u2705 Sesuai untuk: ujian ejen AI, automasi OTP, aliran kerja berbilang akaun\n\u2705 Contoh kod Python/Node/PHP\n\u2705 Pembayaran kripto disahkan melalui webhook (USDT/BTC)\n\u2705 Bayaran balik automatik dalam 20 minit jika tiada SMS diterima\n\u2705 Bermula dari $0.015 setiap nombor\n\n\ud83c\udfaf Contoh kegunaan:\n\u2022 Uji aliran OTP dalam ejen AI\n\u2022 Bina alatan pendaftaran automatik\n\u2022 Sahkan berbilang akaun untuk tujuan ujian\n\u2022 Penyediaan nombor yang mementingkan privasi\n\n\ud83d\udc49 Sertai: [https://t.me/smsbulkverify](https://t.me/smsbulkverify)",
+            "date": "2026-05-18T15:35:02+00:00",
+            "message_id": 576,
+            "message_key": "@AItoolboxdaily:576"
         }
     ]
 }
