@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-17T17:58:59.340016",
+    "timestamp": "2026-05-18T14:31:31.586332",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19726,6 +19726,16 @@
             "date": "2026-05-17T16:04:28+00:00",
             "message_id": 8121,
             "message_key": "@testingcatalog:8121"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Early look at the next Gemini desktop upgrade**](https://www.testingcatalog.com/exclusive-early-look-at-the-next-gemini-desktop-upgrade/)\n\nLeaks suggest Google will expand Gemini for Mac with Live screen-aware voice overlay, cursor-based contextual prompts, Veo4 Omni video generation, and Spark local file control, shifting the app beyond a basic chat wrapper.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Eksklusif: Intipan awal untuk naik taraf Gemini desktop seterusnya**](https://www.testingcatalog.com/exclusive-early-look-at-the-next-gemini-desktop-upgrade/)\n\nDesas-desus mengatakan Google akan kembangkan Gemini untuk Mac dengan lapisan suara langsung yang peka skrin, arahan kontekstual berasaskan kursor, penjanaan video Veo4 Omni, dan kawalan fail tempatan Spark, mengubah aplikasi ini melangkaui sekadar pembungkus sembang asas.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-18T12:41:31+00:00",
+            "message_id": 8122,
+            "message_key": "@testingcatalog:8122"
         }
     ]
 }
