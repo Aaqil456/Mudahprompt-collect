@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-19T11:21:03.237872",
+    "timestamp": "2026-05-19T15:29:43.102016",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19866,6 +19866,66 @@
             "date": "2026-05-19T08:45:57+00:00",
             "message_id": 8131,
             "message_key": "@testingcatalog:8131"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE I/O \ud83d\udd25: More Google Flow updates! Characters and Scenes are now available there, too! \n\nUsers can create characters that can later be reused for video generation. Different character voices are also available. \n\nBesides that, the Google Flow app for Android is now available on Google Play. \n\nTESTING TIME! \ud83d\udc40",
+            "translated_text": "GOOGLE I/O \ud83d\udd25: Ada lagi update Google Flow! Karakter dan Scene pun dah ada kat sana sekarang!\n\nPengguna boleh cipta karakter yang nanti boleh guna balik untuk buat video. Suara karakter yang berbeza-beza pun ada juga.\n\nSelain tu, aplikasi Google Flow untuk Android dah boleh dapatkan di Google Play sekarang.\n\nMASA UNTUK CUBA! \ud83d\udc40",
+            "date": "2026-05-19T15:26:30+00:00",
+            "message_id": 8139,
+            "message_key": "@testingcatalog:8139"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-19T15:11:20+00:00",
+            "message_id": 8138,
+            "message_key": "@testingcatalog:8138"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Andrej Karpathy has joined Anthropic and getting back to the R&D! \n\n> I think the next few years at the frontier of LLMs will be especially formative.",
+            "translated_text": "Andrej Karpathy dah sertai Anthropic dan kembali buat R&D! Saya rasa beberapa tahun akan datang di barisan hadapan LLM akan jadi sangat penting.",
+            "date": "2026-05-19T15:11:20+00:00",
+            "message_id": 8137,
+            "message_key": "@testingcatalog:8137"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE I/O \ud83d\udd25: Google Flow is getting Gemini Omni and a new Flow Agent experience! \n\n> Your Agent is active! Ask Gemini to brainstorm concepts, generate image variations, rename assets, or answer questions about Flow. Start typing below or click the expand icon on the top right to open chat mode.\n\nCustomizable Style Tools are now available as well!",
+            "translated_text": "GOOGLE I/O \ud83d\udd25: Google Flow akan dapat Gemini Omni dan pengalaman Flow Agent yang baru!\n\n> Agent anda dah aktif! Minta Gemini untuk sumbang saran idea, jana variasi imej, namakan semula aset, atau jawab soalan tentang Flow. Mula menaip di bawah atau klik ikon kembang di kanan atas untuk buka mod sembang.\n\nAlat Gaya Boleh Ubah Suai kini dah ada juga!",
+            "date": "2026-05-19T15:05:06+00:00",
+            "message_id": 8136,
+            "message_key": "@testingcatalog:8136"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-19T12:06:31+00:00",
+            "message_id": 8135,
+            "message_key": "@testingcatalog:8135"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Your AI agent can now learn from experience.**\n\nHermes Agent is an open-source self-improving AI agent that remembers past conversations, creates skills from tasks, and improves those skills while you use it.\n\nYou can run it from the terminal, Telegram, Discord, Slack, WhatsApp, or a cloud VM \u2014 and it supports many model providers, so you\u2019re not locked into one AI stack.\n\nTry it [here for free](https://github.com/NousResearch/hermes-agent)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Ejen AI anda kini boleh belajar dari pengalaman.**\n\nHermes Agent ni adalah ejen AI sumber terbuka yang boleh perbaiki diri sendiri. Ia ingat perbualan lepas, boleh cipta kemahiran dari tugasan, dan tingkatkan kemahiran tu masa awak guna.\n\nAwak boleh jalankan ia dari terminal, Telegram, Discord, Slack, WhatsApp, atau cloud VM. Dan ia sokong banyak penyedia model, jadi awak tak terikat dengan satu AI stack je.\n\nCuba ia [di sini secara percuma](https://github.com/NousResearch/hermes-agent)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-19T14:46:01+00:00",
+            "message_id": 578,
+            "message_key": "@AItoolboxdaily:578"
         }
     ]
 }
