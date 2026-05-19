@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-18T23:04:25.172799",
+    "timestamp": "2026-05-19T03:46:18.490511",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19816,6 +19816,26 @@
             "date": "2026-05-18T21:35:06+00:00",
             "message_id": 8127,
             "message_key": "@testingcatalog:8127"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-19T00:31:27+00:00",
+            "message_id": 8130,
+            "message_key": "@testingcatalog:8130"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE I/O \ud83d\udd25: These legends are AI-generated via an upcoming Gemini Omni model. \n\n> Both videos are 8s HD samples.\n> Video with Sandar and Demis is likely generated as an image-to-video using Omni for style editing.\n> Logan's video is likely a \"Likeness\" Avatar and Omni video.\n\nAnd \"GEMINI\" means a new model release! \ud83e\udd2f",
+            "translated_text": "GOOGLE I/O \ud83d\udd25: Watak-watak hebat ini dijana oleh AI menggunakan model Gemini Omni yang akan datang.\n\n> Kedua-dua video ini adalah sampel HD berdurasi 8 saat.\n> Video yang ada Sandar dan Demis kemungkinan besar dijana dari imej ke video menggunakan Omni untuk suntingan gaya.\n> Video Logan kemungkinan besar adalah Avatar \"Likeness\" dan video Omni.\n\nDan \"GEMINI\" bermaksud pelancaran model baru! \ud83e\udd2f",
+            "date": "2026-05-19T00:31:27+00:00",
+            "message_id": 8129,
+            "message_key": "@testingcatalog:8129"
         }
     ]
 }
