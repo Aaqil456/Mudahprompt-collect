@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-19T03:46:18.490511",
+    "timestamp": "2026-05-19T11:21:03.237872",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19836,6 +19836,36 @@
             "date": "2026-05-19T00:31:27+00:00",
             "message_id": 8129,
             "message_key": "@testingcatalog:8129"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic announced self-hosted sendboxes and MCP tunnels for Claude Managed Agents during its \"Code with Claude\" event in London.\n\n> With self-hosted sandboxes, you keep sensitive files, packages, and services in your own infrastructure or with a managed sandbox provider.\n\n> With MCP tunnels, your agents reach MCP servers inside your private network without exposing them to the public internet.",
+            "translated_text": "Anthropic mengumumkan sandboxes yang dihos sendiri dan terowong MCP untuk Claude Managed Agents semasa acara \"Code with Claude\" mereka di London.\n\nDengan sandboxes yang dihos sendiri, anda boleh menyimpan fail, pakej, dan perkhidmatan sensitif dalam infrastruktur anda sendiri atau dengan penyedia sandbox terurus.\n\nDengan terowong MCP pula, ejen anda boleh mencapai pelayan MCP dalam rangkaian peribadi anda tanpa mendedahkannya kepada internet awam.",
+            "date": "2026-05-19T10:22:50+00:00",
+            "message_id": 8133,
+            "message_key": "@testingcatalog:8133"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new AI Studio mobile app is now available on Google Play for pre-registration!\n\n> \"Your next big idea is just a conversation away. Inspiration doesn't wait for you to be at your desk. It strikes on the couch, on the bus, or in the middle of the night. With Google AI Studio, you finally have a way to capture that spark and turn it into something real\u2014right from your phone.\"\n\n> \"Whether you want to create a custom tool for your business, a personalized game for your friends, or a new way to track your goals, Google AI Studio makes building as easy as describing what you want.\"\n\n APKPLZ \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Aplikasi mudah alih AI Studio yang baru dah boleh pra-daftar di Google Play!\n\n> \"Idea besar korang yang seterusnya cuma perlukan satu perbualan. Inspirasi tak tunggu korang depan meja kerja. Ia boleh datang masa korang tengah santai atas sofa, dalam bas, atau tengah malam buta. Dengan Google AI Studio, akhirnya korang ada cara nak tangkap percikan idea tu dan jadikan ia sesuatu yang nyata\u2014terus dari telefon korang.\"\n\n> \"Sama ada korang nak buat alat khas untuk bisnes, game peribadi untuk kawan-kawan, atau cara baru nak jejak matlamat korang, Google AI Studio buat proses membina tu semudah korang terangkan apa yang korang nak.\"\n\nAPKPLZ \ud83d\udc40",
+            "date": "2026-05-19T08:52:31+00:00",
+            "message_id": 8132,
+            "message_key": "@testingcatalog:8132"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A new UI experience is being rolled out on Gemini ahead of today's Google I/O. \n\nIt also comes along with a Thinking effort selector and a new Usage Limits tab in settings. \n\nGoogleDeepMind theme \ud83d\udd25",
+            "translated_text": "Pengalaman UI baharu sedang dilancarkan di Gemini menjelang Google I/O hari ini.\n\nIa juga disertakan dengan pemilih usaha Berfikir dan tab Had Penggunaan baharu dalam tetapan.\n\nTema GoogleDeepMind \ud83d\udd25",
+            "date": "2026-05-19T08:45:57+00:00",
+            "message_id": 8131,
+            "message_key": "@testingcatalog:8131"
         }
     ]
 }
