@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-19T20:46:09.703606",
+    "timestamp": "2026-05-20T00:09:09.323257",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -19986,6 +19986,46 @@
             "date": "2026-05-19T18:17:01+00:00",
             "message_id": 579,
             "message_key": "@AItoolboxdaily:579"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google unveils 24/7 Gemini Spark AI Agent for advanced tasks**](https://www.testingcatalog.com/google-unveils-24-7-gemini-spark-ai-agent-for-advanced-tasks/)\n\nGoogle unveiled Gemini Spark, a cloud-based AI agent built on Gemini 3.5 that automates complex tasks across Workspace apps, supports recurring workflows and app integrations, and requires consent for high-stakes actions.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google memperkenalkan Ejen AI Gemini Spark 24/7 untuk tugasan kompleks**](https://www.testingcatalog.com/google-unveils-24-7-gemini-spark-ai-agent-for-advanced-tasks/)\n\nGoogle dah lancarkan Gemini Spark, ejen AI berasaskan awan yang dibina atas Gemini 3.5. Ejen ni boleh automatikkan tugasan kompleks dalam aplikasi Workspace, sokong aliran kerja berulang dan integrasi aplikasi, dan perlukan persetujuan untuk tindakan yang berisiko tinggi.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-19T23:56:30+00:00",
+            "message_id": 8158,
+            "message_key": "@testingcatalog:8158"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 3.5 Flash AI model to all users**](https://www.testingcatalog.com/google-launches-gemini-3-5-flash-ai-model-to-all-users/)\n\nGoogle launched Gemini 3.5 Flash worldwide as its new default AI model, offering faster output, stronger coding and multimodal performance, enterprise-ready workflows, broad API access, and added safety controls.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google melancarkan model AI Gemini 3.5 Flash kepada semua pengguna**](https://www.testingcatalog.com/google-launches-gemini-3-5-flash-ai-model-to-all-users/)\n\nGoogle telah melancarkan Gemini 3.5 Flash di seluruh dunia sebagai model AI lalai baharunya, menawarkan output yang lebih pantas, prestasi pengekodan dan multimodal yang lebih mantap, aliran kerja sedia perusahaan, akses API yang luas, dan kawalan keselamatan tambahan.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-19T23:52:18+00:00",
+            "message_id": 8157,
+            "message_key": "@testingcatalog:8157"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google rolls out Gemini Omni AI for video generation and editing**](https://www.testingcatalog.com/google-rolls-out-gemini-omni-ai-for-video-generation-and-editing/)\n\nGoogle launched Gemini Omni, a multimodal AI model for creating and editing video from text, images, audio, and video. Omni Flash is live for AI subscribers and YouTube creators, with API and enterprise access due within weeks.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google memperkenalkan Gemini Omni AI untuk penjanaan dan penyuntingan video**](https://www.testingcatalog.com/google-rolls-out-gemini-omni-ai-for-video-generation-and-editing/)\n\nGoogle telah melancarkan Gemini Omni, sebuah model AI multimodal untuk mencipta dan menyunting video daripada teks, imej, audio, dan video. Omni Flash kini tersedia untuk pelanggan AI dan pencipta kandungan YouTube, dengan akses API dan perusahaan dijangka dalam beberapa minggu lagi.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-19T23:43:03+00:00",
+            "message_id": 8156,
+            "message_key": "@testingcatalog:8156"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches new secure tools for Claude Managed Agents**](https://www.testingcatalog.com/anthropic-launches-new-secure-tools-for-claude-managed-agents/)\n\nAnthropic added self-hosted sandboxes and MCP tunnels to Claude Managed Agents, letting enterprises run agents within their own secure environments with private service access, audit controls, custom runtimes, and stricter data governance.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic melancarkan alatan keselamatan baharu untuk Claude Managed Agents**](https://www.testingcatalog.com/anthropic-launches-new-secure-tools-for-claude-managed-agents/)\n\nAnthropic telah menambah sandboxes dihos sendiri dan terowong MCP kepada Claude Managed Agents. Ini membolehkan syarikat menjalankan ejen dalam persekitaran selamat mereka sendiri, lengkap dengan akses perkhidmatan peribadi, kawalan audit, runtime tersuai, dan tadbir urus data yang lebih ketat.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-19T23:42:29+00:00",
+            "message_id": 8155,
+            "message_key": "@testingcatalog:8155"
         }
     ]
 }
