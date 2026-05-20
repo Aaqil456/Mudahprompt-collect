@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-20T16:28:24.910779",
+    "timestamp": "2026-05-20T19:27:37.865808",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20076,6 +20076,26 @@
             "date": "2026-05-20T14:32:58+00:00",
             "message_id": 580,
             "message_key": "@AItoolboxdaily:580"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Google just **[**announced**](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud)** a massive wave of AI updates for Google Cloud at I/O 2026.**\n\nThe company introduced new AI agents, upgraded Gemini models, AI-powered coding tools, video generation improvements, and deeper integrations across Workspace and enterprise products.\n\nOne of the biggest trends: Google is pushing toward \u201cAI coworkers\u201d that can research, code, automate workflows, and interact with business data almost autonomously.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Google baru saja [mengumumkan](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud) gelombang besar kemas kini AI untuk Google Cloud di I/O 2026.**\n\nSyarikat itu memperkenalkan ejen AI baharu, model Gemini yang dinaik taraf, alat pengekodan berkuasa AI, penambahbaikan penjanaan video, dan integrasi yang lebih mendalam merentasi Workspace serta produk perusahaan.\n\nSalah satu trend terbesar: Google sedang bergerak ke arah \u201crakan sekerja AI\u201d yang boleh membuat penyelidikan, pengekodan, mengautomasikan aliran kerja, dan berinteraksi dengan data perniagaan secara hampir autonomi.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-20T19:15:09+00:00",
+            "message_id": 582,
+            "message_key": "@AItoolboxdaily:582"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Figma Agent is here \u2014 and it can now design interfaces inside Figma for you.**\n\nThe [new AI agent](https://www.figma.com/blog/the-figma-agent-is-here/) can generate layouts, edit existing designs, create components, write UI copy, and help iterate on screens directly from prompts inside Figma.\n\nInstead of manually moving layers around, designers can now describe what they want and let the agent handle a big part of the workflow automatically. Join the beta [here](https://www.figma.com/join-waitlist/).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Figma Agent dah ada \u2014 dan sekarang ia boleh reka antaramuka dalam Figma untuk anda.**\n\nEjen AI baru ini boleh jana susun atur, ubah suai rekaan sedia ada, cipta komponen, tulis teks UI, dan bantu perbaiki skrin terus dari arahan dalam Figma.\n\nDaripada gerakkan lapisan secara manual, pereka kini boleh terangkan apa yang mereka mahu dan biarkan ejen itu uruskan sebahagian besar aliran kerja secara automatik. Sertai beta di sini.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-20T16:56:08+00:00",
+            "message_id": 581,
+            "message_key": "@AItoolboxdaily:581"
         }
     ]
 }
