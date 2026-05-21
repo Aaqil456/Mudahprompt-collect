@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-21T18:01:48.271856",
+    "timestamp": "2026-05-21T20:51:54.800376",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20196,6 +20196,16 @@
             "date": "2026-05-21T16:01:01+00:00",
             "message_id": 584,
             "message_key": "@AItoolboxdaily:584"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Composer 2.5 just made AI coding much more autonomous.**\n\nThe new [update](https://cursor.com/blog/composer-2-5) adds background agents that can work on multiple tasks in parallel, better context understanding across large codebases, and smarter planning before changing files.\n\nCursor is slowly turning from an \u201cAI autocomplete\u201d into a **real coding coworker that can handle entire development** workflows almost on its own.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Composer 2.5 baru saja menjadikan pengekodan AI lebih autonomi.**\n\n[Update](https://cursor.com/blog/composer-2-5) baru ni ada ejen latar belakang yang boleh buat banyak kerja serentak, pemahaman konteks yang lebih baik untuk kod yang besar, dan perancangan yang lebih bijak sebelum ubah fail.\n\nCursor perlahan-lahan bertukar dari \"AI autocomplete\" kepada **rakan sekerja pengekodan sebenar yang boleh menguruskan keseluruhan** aliran kerja pembangunan hampir secara sendiri.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-21T18:31:01+00:00",
+            "message_id": 585,
+            "message_key": "@AItoolboxdaily:585"
         }
     ]
 }
