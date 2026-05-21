@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-20T23:18:42.849122",
+    "timestamp": "2026-05-21T11:33:59.392200",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20116,6 +20116,26 @@
             "date": "2026-05-20T23:08:05+00:00",
             "message_id": 8163,
             "message_key": "@testingcatalog:8163"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-21T11:15:49+00:00",
+            "message_id": 8166,
+            "message_key": "@testingcatalog:8166"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Alibaba released Qwen 3.7 Max, its latest proprietary model for agentic coding.\n\nQwen 3.7 Max scores 56.6 on the Artificial Analysis Intelligence Index, outperforming recently released Gemini 3.5 Flash and Kimi K2.6.",
+            "translated_text": "Alibaba melancarkan Qwen 3.7 Max, model proprietari terbarunya untuk pengekodan agentik. Qwen 3.7 Max mencatat skor 56.6 dalam Artificial Analysis Intelligence Index, mengatasi Gemini 3.5 Flash dan Kimi K2.6 yang baru dilancarkan.",
+            "date": "2026-05-21T11:15:49+00:00",
+            "message_id": 8165,
+            "message_key": "@testingcatalog:8165"
         }
     ]
 }
