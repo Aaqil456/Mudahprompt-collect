@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-21T15:33:45.478459",
+    "timestamp": "2026-05-21T18:01:48.271856",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20186,6 +20186,16 @@
             "date": "2026-05-21T13:24:01+00:00",
             "message_id": 583,
             "message_key": "@AItoolboxdaily:583"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**GitHub is investigating a major breach after hackers claimed access to nearly 4,000 internal repositories.**\n\nAccording to [reports](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html), the breach may have started from a malicious VS Code extension installed on an employee\u2019s computer, allowing attackers to steal access credentials.\n\nGitHub says user repositories and customer data were not affected, but the incident highlights how dangerous modern software supply-chain attacks are becoming.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**GitHub sedang siasat satu insiden pencerobohan besar lepas penggodam dakwa dapat akses ke hampir 4,000 repositori dalaman.**\n\nMenurut sumber laporan: [https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html], pencerobohan ni mungkin bermula dari satu sambungan VS Code yang berniat jahat yang dipasang kat komputer seorang pekerja, yang membolehkan penyerang curi kelayakan akses.\n\nGitHub kata repositori pengguna dengan data pelanggan tak terjejas, tapi insiden ni tunjukkan betapa bahayanya serangan rantaian bekalan perisian moden sekarang.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-21T16:01:01+00:00",
+            "message_id": 584,
+            "message_key": "@AItoolboxdaily:584"
         }
     ]
 }
