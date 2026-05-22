@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T21:12:57.390440",
+    "timestamp": "2026-05-22T23:02:10.455072",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20306,6 +20306,26 @@
             "date": "2026-05-22T20:25:53+00:00",
             "message_id": 8178,
             "message_key": "@testingcatalog:8178"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-22T22:22:19+00:00",
+            "message_id": 8180,
+            "message_key": "@testingcatalog:8180"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Mythos class models are expected to become generally available after getting stronger safeguards, according to the latest Project Glasswing update. \n\n> And in the near future, once we\u2019ve developed the far stronger safeguards we need, we look forward to making Mythos-class models available through a general release.\n\nSoon? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Model kelas Mythos dijangka akan tersedia untuk kegunaan umum selepas mendapat perlindungan yang lebih kukuh, mengikut kemas kini terkini Project Glasswing.\n\n> Dan dalam masa terdekat, sebaik sahaja kami berjaya membangunkan perlindungan yang jauh lebih kukuh yang kami perlukan, kami berharap dapat menyediakan model kelas Mythos melalui keluaran umum.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-05-22T22:22:19+00:00",
+            "message_id": 8179,
+            "message_key": "@testingcatalog:8179"
         }
     ]
 }
