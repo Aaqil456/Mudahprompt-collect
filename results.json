@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T15:50:06.505063",
+    "timestamp": "2026-05-22T17:56:04.613309",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20266,6 +20266,36 @@
             "date": "2026-05-22T13:54:01+00:00",
             "message_id": 586,
             "message_key": "@AItoolboxdaily:586"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-22T17:16:33+00:00",
+            "message_id": 8177,
+            "message_key": "@testingcatalog:8177"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek permanently reduced pricing for DeepSeek V4 Pro by 75%!\n\n> $0.003625 per million input tokens (with cache)\n> $0.435 per million input tokens. \n> $0.87 per million output tokens. \n\nCache is almost free \ud83d\udc40",
+            "translated_text": "DeepSeek dah turunkan harga DeepSeek V4 Pro secara kekal sebanyak 75%!\n\n*   $0.003625 setiap juta token input (dengan cache)\n*   $0.435 setiap juta token input.\n*   $0.87 setiap juta token output.\n\nCache ni dah macam percuma je \ud83d\udc40",
+            "date": "2026-05-22T17:16:33+00:00",
+            "message_id": 8176,
+            "message_key": "@testingcatalog:8176"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Google Search as we know it may be coming to an end.**\n\nAccording to [TechCrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/), Google is rapidly shifting from traditional \u201c10 blue links\u201d search into AI-generated answers, agents, and conversational interfaces.\n\nInstead of clicking through websites, users are increasingly getting full responses directly from AI \u2014 changing how people discover content, products, and even businesses online.\n\n**The internet is slowly moving from \u201csearching the web\u201d to \u201casking an AI.\u201d**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "",
+            "date": "2026-05-22T17:48:01+00:00",
+            "message_id": 587,
+            "message_key": "@AItoolboxdaily:587"
         }
     ]
 }
