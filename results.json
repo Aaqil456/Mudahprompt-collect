@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23T15:02:54.772369",
+    "timestamp": "2026-05-23T19:13:38.621228",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20376,6 +20376,16 @@
             "date": "2026-05-23T14:34:01+00:00",
             "message_id": 589,
             "message_key": "@AItoolboxdaily:589"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**ChatGPT is becoming much more personal.**\n\nChatGPT Plus can now use your memories, past chats, and connected files to give smarter answers \u2014 without you repeating context every time.\n\nOpenAI also added controls to manage, update, or delete what ChatGPT remembers. AI assistants are slowly turning into real long-term digital companions.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**ChatGPT makin peribadi.**\n\nChatGPT Plus kini boleh guna memori anda, sembang lepas, dan fail yang disambungkan untuk bagi jawapan yang lebih bijak \u2014 tanpa anda perlu ulang konteks setiap kali.\n\nOpenAI juga dah tambah kawalan untuk urus, kemas kini, atau padam apa yang ChatGPT ingat. Pembantu AI perlahan-lahan bertukar jadi teman digital jangka panjang yang sebenar.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-23T18:12:01+00:00",
+            "message_id": 590,
+            "message_key": "@AItoolboxdaily:590"
         }
     ]
 }
