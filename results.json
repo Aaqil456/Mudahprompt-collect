@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-22T23:02:10.455072",
+    "timestamp": "2026-05-23T09:02:37.448814",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20326,6 +20326,16 @@
             "date": "2026-05-22T22:22:19+00:00",
             "message_id": 8179,
             "message_key": "@testingcatalog:8179"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity open-sources Bumblebee security scanner**](https://www.testingcatalog.com/perplexity-open-sources-bumblebee-security-scanner/)\n\nPerplexity released Bumblebee, an open-source, read-only scanner for macOS and Linux that inventories risky packages, extensions, and AI tool configs on developer machines to help security teams spot supply-chain exposure fast.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity buka sumber pengimbas keselamatan Bumblebee**](https://www.testingcatalog.com/perplexity-open-sources-bumblebee-security-scanner/)\n\nPerplexity melancarkan Bumblebee, sebuah pengimbas sumber terbuka, baca sahaja untuk macOS dan Linux yang menyenaraikan pakej berisiko, sambungan, dan konfigurasi alat AI pada mesin pembangun untuk membantu pasukan keselamatan mengesan pendedahan rantaian bekalan dengan cepat.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-05-23T07:23:17+00:00",
+            "message_id": 8181,
+            "message_key": "@testingcatalog:8181"
         }
     ]
 }
