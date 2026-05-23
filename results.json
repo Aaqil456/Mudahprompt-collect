@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23T21:57:55.303222",
+    "timestamp": "2026-05-23T23:00:01.278056",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20396,6 +20396,16 @@
             "date": "2026-05-23T21:43:45+00:00",
             "message_id": 8184,
             "message_key": "@testingcatalog:8184"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares Mythos 1 for Claude Code and Claude Security**](https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/)\n\nAnthropic signals broader access for Claude Mythos, shifting from prior restrictions. Project Glasswing now covers wider organizations, while Mythos 1 preview and new Claude Security tools point to an upcoming guarded release.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic mempersiapkan Mythos 1 untuk Claude Code dan Claude Security**](https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/)\n\nAnthropic menunjukkan akses yang lebih meluas untuk Claude Mythos, beralih daripada sekatan sebelum ini. Project Glasswing kini merangkumi lebih banyak organisasi, manakala pratonton Mythos 1 dan alatan Claude Security yang baharu memberi petunjuk kepada pelancaran terkawal yang akan datang.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-23T22:59:42+00:00",
+            "message_id": 8185,
+            "message_key": "@testingcatalog:8185"
         }
     ]
 }
