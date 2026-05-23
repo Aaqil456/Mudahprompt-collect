@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23T11:14:04.847639",
+    "timestamp": "2026-05-23T13:39:48.255031",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20346,6 +20346,16 @@
             "date": "2026-05-23T11:00:04+00:00",
             "message_id": 588,
             "message_key": "@AItoolboxdaily:588"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Gemini in Chrome is being available in Europe.\n\nI finally got Gemini for Chrome feature here in Germany on my Canary build, with Gemini 3.5 Flash and Gemini Live.\n\nDoes it work for you too?",
+            "translated_text": "Sekadar info \ud83d\udc40: Gemini dalam Chrome dah mula ada di Eropah.\n\nSaya dah dapat pun akhirnya ciri Gemini untuk Chrome kat sini, di Jerman, dekat Canary build saya, lengkap dengan Gemini 3.5 Flash dan Gemini Live.\n\nDah boleh guna juga ke?",
+            "date": "2026-05-23T11:32:50+00:00",
+            "message_id": 8182,
+            "message_key": "@testingcatalog:8182"
         }
     ]
 }
