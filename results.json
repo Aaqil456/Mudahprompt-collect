@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23T09:02:37.448814",
+    "timestamp": "2026-05-23T11:14:04.847639",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20336,6 +20336,16 @@
             "date": "2026-05-23T07:23:17+00:00",
             "message_id": 8181,
             "message_key": "@testingcatalog:8181"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Qwen3.7-Max** just [dropped](https://qwen.ai/blog?id=qwen3.7) \u2014 and Alibaba is positioning it as a true long-running AI agent model.\n\nThe new version massively improves coding, reasoning, and autonomous workflows. It can handle up to 1M tokens of context and reportedly sustain agent-style execution for hours across complex multi-step tasks.\n\nQwen3.7-Max is already competing with top frontier models in coding and reasoning benchmarks, while focusing heavily on autonomous \u201cAI coworker\u201d workflows instead of simple chat.\n\nTry it [here for free](https://chat.qwen.ai/).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Qwen3.7-Max** [baru saja dilancarkan](https://qwen.ai/blog?id=qwen3.7) \u2014 dan Alibaba meletakkannya sebagai model agen AI yang benar-benar boleh beroperasi secara berterusan.\n\nVersi baru ini meningkatkan keupayaan pengekodan, penaakulan, dan aliran kerja autonomi secara besar-besaran. Ia boleh mengendalikan sehingga 1 juta token konteks dan dilaporkan boleh mengekalkan pelaksanaan gaya agen selama berjam-jam merentasi tugas berbilang langkah yang kompleks.\n\nQwen3.7-Max sudah bersaing dengan model-model canggih terkemuka dalam penanda aras pengekodan dan penaakulan, sambil memberi tumpuan berat kepada aliran kerja autonomi \u201crakan sekerja AI\u201d dan bukannya sembang biasa.\n\nBoleh cuba [di sini secara percuma](https://chat.qwen.ai/).\n\n[\ud83e\udde0 Kotak Peralatan AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-23T11:00:04+00:00",
+            "message_id": 588,
+            "message_key": "@AItoolboxdaily:588"
         }
     ]
 }
