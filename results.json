@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-24T14:25:15.314347",
+    "timestamp": "2026-05-24T16:02:48.266404",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20426,6 +20426,26 @@
             "date": "2026-05-24T13:52:01+00:00",
             "message_id": 591,
             "message_key": "@AItoolboxdaily:591"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude will soon receive a new file-based memory upgrade, offering users the option to choose between Memory Files and Classic memory.\n\n> Organized notes Claude writes as you chat and reads when they're relevant. Browse and edit them anytime.\n\nThis feature appears to be a new iteration of the previously discovered \"Knowledge Bases\" and more closely resembles what memory works in always-on agents like OpenClaw and Hermes. \n\nConsidering a potential future debut of Claude Conway, Memory Files feature is likely an important preparation step.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude tak lama lagi akan dapat upgrade memori berasaskan fail yang baru, yang akan beri pilihan kepada pengguna untuk pilih antara Memory Files dengan Classic memory.\n\n> Nota-nota tersusun yang Claude tulis semasa anda bersembang dan dia akan baca bila ia relevan. Boleh tengok dan edit bila-bila masa.\n\nCiri ni nampak macam versi baru untuk \"Knowledge Bases\" yang pernah ditemui sebelum ni dan lebih kurang sama dengan cara memori berfungsi dalam ejen-ejen sentiasa aktif macam OpenClaw dan Hermes.\n\nKalau fikirkan kemungkinan Claude Conway akan diperkenalkan nanti, ciri Memory Files ni mungkin satu langkah persediaan yang penting.",
+            "date": "2026-05-24T15:55:05+00:00",
+            "message_id": 8189,
+            "message_key": "@testingcatalog:8189"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic plans Claude memory update with new Memory Files**](https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/)\n\nAnthropic appears set to revamp Claude\u2019s memory with optional file-based \u201cMemory Files,\u201d replacing one rolling note with structured records by topic. \n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic Merancang Kemas Kini Memori Claude dengan Memory Files Baharu**](https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/)\n\nNampaknya Anthropic akan ubah suai memori Claude, dengan memperkenalkan \"Memory Files\" berasaskan fail yang boleh dipilih. Ini akan menggantikan nota yang sebelum ni sentiasa ada dengan rekod yang lebih tersusun mengikut topik.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-24T15:40:52+00:00",
+            "message_id": 8188,
+            "message_key": "@testingcatalog:8188"
         }
     ]
 }
