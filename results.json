@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25T14:09:18.104204",
+    "timestamp": "2026-05-25T17:08:13.717386",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20496,6 +20496,16 @@
             "date": "2026-05-25T13:07:24+00:00",
             "message_id": 8192,
             "message_key": "@testingcatalog:8192"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Figure AI just showed how close humanoid robots are getting to human workers.**\n\nTheir Figure 03 robot worked nonstop for 200 hours, sorted 250,000 packages, and reportedly completed the entire test without a single breakdown. The whole process was streamed live on YouTube for more than a week.\n\nOne employee even tried competing against the robot in speed: the human averaged 2.79 seconds per package, while the robot reached 2.83 seconds \u2014 almost identical performance.\n\nThe scary part is that robots are no longer \u201cfuture tech\u201d \u2014 **they\u2019re starting to match humans in real warehouse work right now.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Figure AI baru saja tunjuk betapa dekatnya robot humanoid dengan pekerja manusia.**\n\nRobot Figure 03 mereka bekerja tanpa henti selama 200 jam, mengasingkan 250,000 bungkusan, dan dilaporkan berjaya selesaikan keseluruhan ujian tanpa sebarang kerosakan. Keseluruhan proses itu disiarkan secara langsung di YouTube selama lebih seminggu.\n\nSeorang pekerja pun cuba bersaing dengan robot itu dari segi kelajuan: manusia purata 2.79 saat untuk setiap bungkusan, manakala robot pula capai 2.83 saat \u2014 prestasi yang hampir sama.\n\nYang menakutkan ialah robot bukan lagi \u201cteknologi masa depan\u201d \u2014 **mereka dah mula setanding dengan manusia dalam kerja gudang sebenar, sekarang ni.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-25T15:18:01+00:00",
+            "message_id": 593,
+            "message_key": "@AItoolboxdaily:593"
         }
     ]
 }
