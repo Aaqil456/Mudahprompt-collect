@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25T10:11:24.217495",
+    "timestamp": "2026-05-25T14:09:18.104204",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20476,6 +20476,26 @@
             "date": "2026-05-25T06:40:37+00:00",
             "message_id": 8190,
             "message_key": "@testingcatalog:8190"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-25T13:07:24+00:00",
+            "message_id": 8193,
+            "message_key": "@testingcatalog:8193"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Antigravity now has Gemini 3.5 Flash (Low) option available with a 45% fewer token consumption in comparison to Medium variant.\n\nThis addition follows Gemini quota reset as well!",
+            "translated_text": "GOOGLE \ud83d\udd25: Antigravity kini dah ada pilihan Gemini 3.5 Flash (Low) yang guna token 45% lebih rendah berbanding varian Medium. Penambahan ni dibuat selepas kuota Gemini di-reset semula juga!",
+            "date": "2026-05-25T13:07:24+00:00",
+            "message_id": 8192,
+            "message_key": "@testingcatalog:8192"
         }
     ]
 }
