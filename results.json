@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25T17:08:13.717386",
+    "timestamp": "2026-05-26T15:37:30.987254",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20506,6 +20506,36 @@
             "date": "2026-05-25T15:18:01+00:00",
             "message_id": 593,
             "message_key": "@AItoolboxdaily:593"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A new Grok Build section has started appearing in the nav bar for users. \n\nIt is not currently functional, but it may signal an upcoming release of the Grok Build web experience.\n\nSoon? \ud83d\udc40",
+            "translated_text": "Satu bahagian Grok Build yang baru dah mula muncul dekat bar navigasi untuk pengguna.\n\nBuat masa ni, ia tak berfungsi lagi, tapi ini mungkin isyarat untuk pelancaran pengalaman web Grok Build yang akan datang.\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-05-26T15:13:09+00:00",
+            "message_id": 8196,
+            "message_key": "@testingcatalog:8196"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic to introduce personal AI Fluency scorecard in Claude**](https://www.testingcatalog.com/anthropic-to-introduce-personal-ai-fluency-scorecard-in-claude/)\n\nAnthropic is testing an AI Fluency scorecard in Claude settings that analyzes user behavior across sessions, scores 11 collaboration habits, and offers targeted guidance, turning its research framework into a personal assessment tool.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic akan perkenalkan kad skor kefasihan AI peribadi dalam Claude**](https://www.testingcatalog.com/anthropic-to-introduce-personal-ai-fluency-scorecard-in-claude/)\n\nAnthropic sedang menguji kad skor kefasihan AI dalam tetapan Claude. Kad skor ni akan menganalisis tingkah laku pengguna sepanjang sesi, menilai 11 tabiat kolaborasi, dan bagi panduan yang disasarkan. Ini akan tukar rangka kerja penyelidikan mereka jadi alat penilaian peribadi.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-26T14:13:14+00:00",
+            "message_id": 8195,
+            "message_key": "@testingcatalog:8195"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Anthropic\u2019s AI found over 10,000 serious software vulnerabilities in just one month.**\n\n[Project Glasswing ](https://www.anthropic.com/research/glasswing-initial-update)uses Claude Mythos Preview to scan critical software and open-source projects for high-risk bugs before attackers can exploit them. Some partners reported finding bugs over 10x faster than before.\n\nThe scary part: finding vulnerabilities with AI is now easier than verifying, reporting, and patching them.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**AI Anthropic jumpa lebih 10,000 kelemahan perisian serius dalam masa sebulan je.**\n\n[Project Glasswing ](https://www.anthropic.com/research/glasswing-initial-update)guna Claude Mythos Preview untuk imbas perisian kritikal dan projek sumber terbuka, cari pepijat berisiko tinggi sebelum penyerang boleh eksploitasi. Ada rakan kongsi yang laporkan jumpa pepijat lebih 10 kali ganda lebih cepat dari sebelum ni.\n\nYang menakutkan: mencari kelemahan guna AI sekarang lebih mudah dari sahkan, laporkan, dan tampal kelemahan tu.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-26T15:14:56+00:00",
+            "message_id": 594,
+            "message_key": "@AItoolboxdaily:594"
         }
     ]
 }
