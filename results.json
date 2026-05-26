@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-26T15:37:30.987254",
+    "timestamp": "2026-05-26T18:28:37.941911",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20536,6 +20536,36 @@
             "date": "2026-05-26T15:14:56+00:00",
             "message_id": 594,
             "message_key": "@AItoolboxdaily:594"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-26T18:21:57+00:00",
+            "message_id": 8199,
+            "message_key": "@testingcatalog:8199"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MiniMax M3 has been teased \ud83d\udd25\n\n> MiniMax M3 will be based on a new Sparse Attention architecture\n\n> MiniMax M3 is expected to be open source\n\nSoon? \ud83d\udc40",
+            "translated_text": "MiniMax M3 dah diusik-usik \ud83d\udd25\n\n> MiniMax M3 akan guna seni bina Sparse Attention yang baru\n> MiniMax M3 dijangka akan jadi sumber terbuka\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-05-26T18:21:57+00:00",
+            "message_id": 8198,
+            "message_key": "@testingcatalog:8198"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Most people have no idea where their money actually goes. Finalytics fixes that.**\n\nFinalytics is an iOS personal finance app built around powerful analytics and zero friction \u2014 add a transaction in seconds, set smart auto-rules to categorize everything, and let the app do the rest.\n\nYou get a full financial dashboard: cashflow charts, expense breakdowns by category, income trends, balance history, and budget alerts when you're about to overspend. All your accounts and currencies in one place, with separate workspaces for personal and business.\n\nKey features:\n\u2022 Analytics \u2014 cashflow, trends, category breakdowns, balance history\n\u2022 Budgets with alerts \u2014 set limits per category, get notified before you overspend\n\u2022 Multiple accounts, currencies, and separate workspaces for personal vs business\n\u2022 Biometric lock, no third-party tracking\n\n**Try it free for 14 days on the **[**App Store**](https://apps.apple.com/app/id6760299965)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "Ramai orang tak tahu pun duit mereka pergi mana sebenarnya. Finalytics selesaikan masalah tu.\n\nFinalytics ni aplikasi kewangan peribadi untuk iOS yang dibina dengan analisis yang hebat dan sangat mudah digunakan \u2014 boleh tambah transaksi dalam beberapa saat je, tetapkan peraturan auto-pintar untuk kategorikan semua benda, dan biarkan aplikasi tu buat selebihnya.\n\nAnda akan dapat papan pemuka kewangan yang lengkap: carta aliran tunai, pecahan perbelanjaan mengikut kategori, trend pendapatan, sejarah baki, dan amaran bajet bila anda nak terlebih belanja. Semua akaun dan mata wang anda di satu tempat, dengan ruang kerja berasingan untuk kegunaan peribadi dan perniagaan.\n\nCiri-ciri utama:\n\u2022 Analisis \u2014 aliran tunai, trend, pecahan kategori, sejarah baki\n\u2022 Bajet dengan amaran \u2014 tetapkan had untuk setiap kategori, dapatkan notifikasi sebelum anda terlebih belanja\n\u2022 Pelbagai akaun, mata wang, dan ruang kerja berasingan untuk peribadi vs perniagaan\n\u2022 Kunci biometrik, tiada penjejakan pihak ketiga\n\nCuba percuma selama 14 hari di [App Store](https://apps.apple.com/app/id6760299965)\n\n[\ud83e\udde0 Kotak Peralatan AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-26T17:35:54+00:00",
+            "message_id": 595,
+            "message_key": "@AItoolboxdaily:595"
         }
     ]
 }
