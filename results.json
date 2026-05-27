@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-27T12:54:11.011025",
+    "timestamp": "2026-05-27T16:41:31.865345",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20606,6 +20606,56 @@
             "date": "2026-05-27T12:40:18+00:00",
             "message_id": 8203,
             "message_key": "@testingcatalog:8203"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini for Business will get a new experience for collaborative Projects, where teams can work in a shared environment.\n\nBesides that, Google is rolling out Workflow Agents that can work on automation tasks across various apps. The same functionality is now available on Gemini Enterprise and will become better integrated into the core Gemini for Business experience. \n\nIs it only me, or does Gemini for Business feel much better than consumer-facing Gemini?",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini for Business akan ada pengalaman baru untuk projek kerjasama, di mana pasukan boleh bekerja dalam persekitaran yang dikongsi.\n\nSelain itu, Google sedang melancarkan Workflow Agents yang boleh menguruskan tugas automasi merentasi pelbagai aplikasi. Fungsi yang sama kini tersedia di Gemini Enterprise dan akan lebih bersepadu dengan pengalaman teras Gemini for Business.\n\nSaya seorang saja ke, atau Gemini for Business rasa jauh lebih baik daripada Gemini untuk pengguna biasa?",
+            "date": "2026-05-27T15:51:08+00:00",
+            "message_id": 8207,
+            "message_key": "@testingcatalog:8207"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google expands Gemini for Business with shareable Projects**](https://www.testingcatalog.com/google-expands-gemini-for-business-with-shareable-projects/)\n\nGoogle is bringing Projects and workflow agents to Gemini for Business. Teams get shared workspaces with files, chat history, instructions, color tags, and scheduled automations, narrowing the gap with Enterprise.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google kembangkan Gemini for Business dengan Projek yang boleh dikongsi**](https://www.testingcatalog.com/google-expands-gemini-for-business-with-shareable-projects/)\n\nGoogle kini membawa Projek dan ejen aliran kerja ke Gemini for Business. Pasukan akan dapat ruang kerja yang dikongsi bersama fail, sejarah sembang, arahan, tag warna, dan automasi berjadual, sekali gus merapatkan jurang dengan Enterprise.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-27T15:45:07+00:00",
+            "message_id": 8206,
+            "message_key": "@testingcatalog:8206"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Voice mode on Claude mobile apps is about to get an upgrade with 18 new supported languages! \n\n> Claude will be able to change language on the fly  \n> All languages have 1-2 new voices \n> Voice Mode UI will get a new look\n> A new push-to-talk functionality will be added\n> It is powered by Claude Haiku 4.5, but still TTS\n\nSoon? \ud83d\udc40\n\nP.S. Some users may already see it as a part of an A/B test",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Mod suara pada aplikasi mudah alih Claude bakal dinaik taraf dengan sokongan 18 bahasa baharu!\n\n> Claude akan boleh tukar bahasa secara spontan\n> Semua bahasa ada 1-2 suara baharu\n> UI Mod Suara akan ada wajah baharu\n> Fungsi 'push-to-talk' baharu akan diperkenalkan\n> Ia dikuasakan oleh Claude Haiku 4.5, tapi masih TTS\n\nTak lama lagi ke? \ud83d\udc40\n\nP.S. Sesetengah pengguna mungkin dah nampak ia sebagai sebahagian daripada ujian A/B.",
+            "date": "2026-05-27T14:42:03+00:00",
+            "message_id": 8205,
+            "message_key": "@testingcatalog:8205"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic plans expanding Claude Voice Mode to more languages**](https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/)\n\nAnthropic is preparing a major Claude mobile voice update with a redesigned UI, push-to-talk, and support for 18 languages. Claude may switch languages mid-conversation, likely via an orchestration layer atop current speech partners.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic merancang untuk mengembangkan Mod Suara Claude ke lebih banyak bahasa**](https://www.testingcatalog.com/anthropic-plans-expanding-claude-voice-mode-to-more-languages/)\n\nAnthropic sedang menyediakan kemas kini utama untuk suara mudah alih Claude, yang akan datang dengan UI yang direka semula, fungsi tekan-untuk-bercakap, dan sokongan untuk 18 bahasa. Claude mungkin boleh bertukar bahasa di tengah perbualan, kemungkinan besar melalui lapisan orkestrasi yang berada di atas rakan kongsi pertuturan sedia ada.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-27T14:40:41+00:00",
+            "message_id": 8204,
+            "message_key": "@testingcatalog:8204"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Prompt for Personal Brand Clarity**\n\n**\u201cFind the message people should remember me for.\u201d**\nUse this command:\n\n```Based on the details below, help me clarify my personal brand message.\nIdentify what makes me different, what people should associate with me, and how I can explain my work in a sharper, more memorable way.\nMake it sound clear, human, and specific \u2014 not generic or corporate.\nAbout me: [paste skills, niche, audience, values, content topics]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Panduan untuk Jenama Peribadi yang Jelas**\n\n**\u201cCari mesej yang orang patut ingat pasal saya.\u201d**\nGuna arahan ini:\n\n```Berdasarkan butiran di bawah, bantu saya jelaskan mesej jenama peribadi saya.\nKenal pasti apa yang membezakan saya, apa yang orang patut kaitkan dengan saya, dan bagaimana saya boleh terangkan kerja saya dengan cara yang lebih jelas dan mudah diingat.\nPastikan ia kedengaran jelas, personal, dan spesifik \u2014 bukan yang umum atau macam syarikat.\nTentang saya: [tampal kemahiran, niche, audiens, nilai, topik kandungan]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 Alat AI Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-27T14:34:01+00:00",
+            "message_id": 596,
+            "message_key": "@AItoolboxdaily:596"
         }
     ]
 }
