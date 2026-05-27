@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-26T18:28:37.941911",
+    "timestamp": "2026-05-27T00:08:26.750584",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20566,6 +20566,26 @@
             "date": "2026-05-26T17:35:54+00:00",
             "message_id": 595,
             "message_key": "@AItoolboxdaily:595"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Helio launches AI-powered team workspace in Beta**](https://www.testingcatalog.com/helio-launches-ai-powered-team-workspace-in-beta/)\n\nHelio\u2019s public beta turns plain-language goals into AI teams in under 60 seconds. These AI colleagues work in existing channels, handle multi-step tasks, log decisions, learn nightly, and require human approval for high-stakes actions.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Helio Lancarkan Ruang Kerja Pasukan Berkuasa AI dalam Beta**](https://www.testingcatalog.com/helio-launches-ai-powered-team-workspace-in-beta/)\n\nVersi beta awam Helio boleh tukarkan matlamat yang dinyatakan dalam bahasa biasa jadi pasukan AI dalam masa tak sampai 60 saat. Rakan sekerja AI ini berfungsi dalam saluran sedia ada, boleh uruskan tugas yang ada banyak langkah, catat keputusan, belajar setiap malam, dan perlukan persetujuan manusia untuk tindakan yang berisiko tinggi.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-05-26T23:06:52+00:00",
+            "message_id": 8201,
+            "message_key": "@testingcatalog:8201"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: AI Studio Build will soon get support for Themes, where users will be able to choose between 8 pre-defined presets or create their own. \n\nDesign MD support would be nice \ud83d\udc40\nh/t @Thomasguka",
+            "translated_text": "GOOGLE \ud83d\udd25: AI Studio Build tak lama lagi akan disokong dengan Themes, di mana pengguna boleh pilih antara 8 preset yang dah ditetapkan atau cipta sendiri.\n\nSokongan Design MD mesti best ni \ud83d\udc40\nKredit kepada @Thomasguka",
+            "date": "2026-05-26T23:00:16+00:00",
+            "message_id": 8200,
+            "message_key": "@testingcatalog:8200"
         }
     ]
 }
