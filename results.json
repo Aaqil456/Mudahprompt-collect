@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-27T09:55:44.502207",
+    "timestamp": "2026-05-27T12:54:11.011025",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20596,6 +20596,16 @@
             "date": "2026-05-27T05:56:26+00:00",
             "message_id": 8202,
             "message_key": "@testingcatalog:8202"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Alook launches open-source platform for AI team orchestration**](https://www.testingcatalog.com/alook-launches-open-source-platform-for-ai-team-orchestration/)\n\nAlook is an open-source platform for running a local team of AI agents through an org chart. Tasks cascade by email, memory is shared, SOPs form from past work, and the system runs persistently without vendor lock-in.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Alook melancarkan platform sumber terbuka untuk orkestrasi pasukan AI**](https://www.testingcatalog.com/alook-launches-open-source-platform-for-ai-team-orchestration/)\n\nAlook adalah platform sumber terbuka untuk mengendalikan pasukan ejen AI tempatan melalui carta organisasi. Tugasan disalurkan melalui e-mel, memori dikongsi, SOP terbentuk daripada kerja lepas, dan sistem ini berjalan secara berterusan tanpa terikat kepada satu vendor.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-05-27T12:40:18+00:00",
+            "message_id": 8203,
+            "message_key": "@testingcatalog:8203"
         }
     ]
 }
