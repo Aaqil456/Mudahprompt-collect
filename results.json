@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-27T16:41:31.865345",
+    "timestamp": "2026-05-27T19:27:39.595083",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20656,6 +20656,26 @@
             "date": "2026-05-27T14:34:01+00:00",
             "message_id": 596,
             "message_key": "@AItoolboxdaily:596"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI started sending invitations to its advertising platform to more users! \n\n> Advertisers can target free ChatGPT users in the US, Canada, Australia, and New Zealand. \n\n> Minimum daily budget is $25, suggested CPC is $3.5.\n\nADGI testing time \ud83d\udc40",
+            "translated_text": "OpenAI dah mula hantar jemputan untuk platform pengiklanan mereka kepada lebih ramai pengguna!\n> Pengiklan boleh sasarkan pengguna ChatGPT percuma di US, Kanada, Australia, dan New Zealand.\n> Bajet harian minimum adalah $25, dan CPC yang dicadangkan adalah $3.5.\nADGI tengah buat ujian ni \ud83d\udc40",
+            "date": "2026-05-27T19:13:52+00:00",
+            "message_id": 8208,
+            "message_key": "@testingcatalog:8208"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**\u058e New: ChatGPT users can now build real apps directly from chat**\n\n[ChatGPT's app store](https://chatgpt.com/apps/appdeploy/asdk_app_6956e6ff740481919946ceae8e5d6304) just added [AppDeploy](https://appdeploy.ai/?utm_source=tg&utm_medium=feed&utm_campaign=ww22&utm_id=AIToolboxDaily), and it works with free accounts too.\n\nDescribe what you want to build, ChatGPT writes the code, AppDeploy handles deployment automatically inside the same chat, and you get a working link back right away.\n\nAppDeploy includes the infrastructure needed for real apps:\n\ud83d\udd10 User login and permissions\n\ud83d\uddc4 Storage, database, realtime sync and notifications\n\ud83e\udd16 Built in AI capabilities\n\u2601\ufe0f Full backend, background jobs and scheduled tasks\n\ud83e\uddea Automatic QA for every change and built in versioning\n\ud83c\udf10 Custom domains, secrets management [and more](https://appdeploy.ai/features?utm_source=tg&utm_medium=feed&utm_campaign=ww22&utm_id=AIToolboxDaily)\n\n**Free to use. No subscription or credit card required.**\n\n\ud83d\udc49 [Install AppDeploy in ChatGPT](https://chatgpt.com/apps/appdeploy/asdk_app_6956e6ff740481919946ceae8e5d6304) and launch your first app in a few minutes",
+            "translated_text": "**\u058e Terkini: Pengguna ChatGPT kini boleh bina aplikasi sebenar terus dari chat**\n\n[App Store ChatGPT](https://chatgpt.com/apps/appdeploy/asdk_app_6956e6ff740481919946ceae8e5d6304) baru saja tambah [AppDeploy](https://appdeploy.ai/?utm_source=tg&utm_medium=feed&utm_campaign=ww22&utm_id=AIToolboxDaily), dan ia boleh guna dengan akaun percuma juga.\n\nTerangkan apa yang anda nak bina, ChatGPT akan tulis kodnya, AppDeploy akan uruskan proses 'deployment' secara automatik dalam chat yang sama, dan anda terus dapat pautan yang berfungsi.\n\nAppDeploy datang dengan infrastruktur yang diperlukan untuk aplikasi sebenar:\n\ud83d\udd10 Log masuk pengguna dan kebenaran\n\ud83d\uddc4 Storan, pangkalan data, penyegerakan masa nyata dan notifikasi\n\ud83e\udd16 Keupayaan AI terbina dalam\n\u2601\ufe0f Backend penuh, tugas latar belakang dan tugas berjadual\n\ud83e\uddea QA automatik untuk setiap perubahan dan versi terbina dalam\n\ud83c\udf10 Domain tersuai, pengurusan rahsia [dan banyak lagi](https://appdeploy.ai/features?utm_source=tg&utm_medium=feed&utm_campaign=ww22&utm_id=AIToolboxDaily)\n\n**Boleh guna secara percuma. Tak perlu langganan atau kad kredit.**\n\n\ud83d\udc49 [Pasang AppDeploy dalam ChatGPT](https://chatgpt.com/apps/appdeploy/asdk_app_6956e6ff740481919946ceae8e5d6304) dan lancarkan aplikasi pertama anda dalam beberapa minit",
+            "date": "2026-05-27T17:31:04+00:00",
+            "message_id": 597,
+            "message_key": "@AItoolboxdaily:597"
         }
     ]
 }
