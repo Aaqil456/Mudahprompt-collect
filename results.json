@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-27T19:27:39.595083",
+    "timestamp": "2026-05-27T21:58:00.223742",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20676,6 +20676,16 @@
             "date": "2026-05-27T17:31:04+00:00",
             "message_id": 597,
             "message_key": "@AItoolboxdaily:597"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udea8: Sesame just released HER\n\n> Sesam iOS app is now available in Preview, offering a collection of 4 personal voice agents.\n> Sesame Agents are powered by a SOTA real-time voice mode.\n> Agents can search the web, manage reminders, and have memory.\n> iOS app rollout is gradual and has a whitelist.\n> Android is only available as a beta waitlist.\n> A new eyewear product (glasses) is expected to drop in 2027.\n\nNothing stands even close ATM \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udea8: Sesame baru je lancarkan HER\n\n*   Aplikasi iOS Sesame dah ada dalam Pratonton, menawarkan koleksi 4 ejen suara peribadi.\n*   Ejen-ejen Sesame ni dikuasakan oleh mod suara masa nyata SOTA.\n*   Ejen-ejen ni boleh cari maklumat di web, uruskan peringatan, dan ada memori.\n*   Pelancaran aplikasi iOS akan dibuat secara berperingkat dan ada senarai putih (whitelist).\n*   Untuk Android, ia cuma ada dalam senarai menunggu beta.\n*   Produk cermin mata baru dijangka akan keluar pada tahun 2027.\n\nBuat masa ni, tak ada apa-apa pun yang setanding \ud83d\udc40",
+            "date": "2026-05-27T21:28:16+00:00",
+            "message_id": 8209,
+            "message_key": "@testingcatalog:8209"
         }
     ]
 }
