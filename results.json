@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-27T23:22:05.608434",
+    "timestamp": "2026-05-28T03:50:18.840138",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20706,6 +20706,16 @@
             "date": "2026-05-27T23:03:52+00:00",
             "message_id": 8210,
             "message_key": "@testingcatalog:8210"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Sesame debuts iOS app in preview with 4 personal voice agents**](https://www.testingcatalog.com/sesame-debutes-ios-app-in-preview-with-personal-voice-agents/)\n\nSesame launched an iOS preview in 39 countries, offering four AI conversation agents with distinct voices and personalities. The app includes search, notes, text mode, memory, and incognito, with free access during preview.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Sesame lancarkan aplikasi iOS dalam pratonton dengan 4 ejen suara peribadi**](https://www.testingcatalog.com/sesame-debutes-ios-app-in-preview-with-personal-voice-agents/)\n\nSesame dah lancarkan pratonton iOS di 39 negara, menawarkan empat ejen perbualan AI dengan suara dan personaliti yang berbeza. Aplikasi ni ada fungsi carian, nota, mod teks, memori, dan inkognito, dan boleh guna percuma sepanjang tempoh pratonton.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-05-27T23:28:24+00:00",
+            "message_id": 8212,
+            "message_key": "@testingcatalog:8212"
         }
     ]
 }
