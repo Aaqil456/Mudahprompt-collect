@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-28T16:55:50.867354",
+    "timestamp": "2026-05-28T19:37:59.129014",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20776,6 +20776,56 @@
             "date": "2026-05-28T14:48:56+00:00",
             "message_id": 598,
             "message_key": "@AItoolboxdaily:598"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-28T19:06:15+00:00",
+            "message_id": 8223,
+            "message_key": "@testingcatalog:8223"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYIM \ud83d\udc40: Codex on ChatGPT for Android now supports Pets! Users can enable chat bubbles to follow remote Codex threads in the overlay. \n\n> Pet avatar is expected to sync with the one configured on the desktop.\n\n h/t @AntiIkindaloveGemini",
+            "translated_text": "Sekadar info \ud83d\udc40: Codex di ChatGPT untuk Android sekarang dah sokong Pets! Pengguna boleh aktifkan chat bubbles untuk ikut thread Codex dari jauh dalam overlay.\n\n> Avatar Pets dijangka akan selari dengan yang dikonfigurasi di desktop.\n\nKredit kepada @AntiIkindaloveGemini",
+            "date": "2026-05-28T19:06:14+00:00",
+            "message_id": 8222,
+            "message_key": "@testingcatalog:8222"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Code now supports \"Dynamic Workflows\", allowing Claude to complete challenging tasks end-to-end.\n\n> Claude dynamically writes orchestration scripts that run tens to hundreds of parallel subagents in a single session, checking its work before anything reaches you.\n\n> Some problems are too big for one pass by a single agent, especially in complex, legacy codebases: a bug hunt across an entire service, a migration that touches hundreds of files, a plan you want stress-tested from every angle before you commit to it.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Code kini menyokong \"Dynamic Workflows\", membolehkan Claude menyiapkan tugasan yang mencabar dari awal hingga akhir.\n\n> Claude secara dinamik menulis skrip orkestrasi yang menjalankan puluhan hingga ratusan subagen selari dalam satu sesi, menyemak kerjanya sebelum apa-apa sampai kepada anda.\n\n> Sesetengah masalah terlalu besar untuk diselesaikan dalam satu percubaan oleh satu agen, terutamanya dalam pangkalan kod yang kompleks dan lama: contohnya, mencari pepijat di seluruh perkhidmatan, migrasi yang melibatkan ratusan fail, atau pelan yang anda mahu diuji dari setiap sudut sebelum anda komited dengannya.",
+            "date": "2026-05-28T17:06:41+00:00",
+            "message_id": 8221,
+            "message_key": "@testingcatalog:8221"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Opus 4.8 achieves 69.2% score on SWE Bench Pro against 64.3% for Opus 4.7. \n\nBenchmarks \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Opus 4.8 mencapai skor 69.2% dalam SWE Bench Pro berbanding 64.3% untuk Opus 4.7.\nPenanda Aras \ud83d\udc40",
+            "date": "2026-05-28T16:58:00+00:00",
+            "message_id": 8220,
+            "message_key": "@testingcatalog:8220"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Generate AI voices from text with no limits \u2014 fully locally.**\n\nNew version of Supertonic 3 \u2014 open-source voice generator that can create realistic speech with emotions, tone changes, and natural delivery directly on your device. Supports 30+ languages including English, French, Korean, Japanese, and more.\n\nIt runs fast even on weaker hardware and can work completely offline from a PC or even a smartphone \u2014 no cloud APIs or subscriptions required.\n\nTry it [here for free](https://github.com/supertone-inc/supertonic)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Jana suara AI daripada teks tanpa had \u2014 sepenuhnya secara tempatan.**\n\nVersi baharu Supertonic 3 \u2014 penjana suara sumber terbuka yang boleh hasilkan pertuturan realistik dengan emosi, perubahan nada, dan penyampaian semula jadi terus pada peranti anda. Sokong lebih 30 bahasa termasuk Inggeris, Perancis, Korea, Jepun, dan banyak lagi.\n\nIa berjalan pantas walaupun pada perkakasan yang kurang berkuasa dan boleh berfungsi sepenuhnya di luar talian dari PC atau pun telefon pintar \u2014 tak perlu API awan atau langganan.\n\nBoleh cuba [di sini secara percuma](https://github.com/supertone-inc/supertonic)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-28T18:27:01+00:00",
+            "message_id": 599,
+            "message_key": "@AItoolboxdaily:599"
         }
     ]
 }
