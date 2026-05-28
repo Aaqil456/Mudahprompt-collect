@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-28T21:56:55.877797",
+    "timestamp": "2026-05-28T23:21:26.649958",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20856,6 +20856,16 @@
             "date": "2026-05-28T21:37:08+00:00",
             "message_id": 8224,
             "message_key": "@testingcatalog:8224"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ElevenLabs introduced a new Dubbing v2 Alpha model that can translate speech across all languages while preserving the emotional tone of the original content. \n\nBig for creators \ud83d\udc40",
+            "translated_text": "ElevenLabs dah perkenalkan model baru, Dubbing v2 Alpha, yang boleh terjemah pertuturan dalam semua bahasa sambil kekalkan nada emosi kandungan asal. Memang penting untuk pencipta kandungan \ud83d\udc40",
+            "date": "2026-05-28T22:42:23+00:00",
+            "message_id": 8227,
+            "message_key": "@testingcatalog:8227"
         }
     ]
 }
