@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-28T03:50:18.840138",
+    "timestamp": "2026-05-28T16:55:50.867354",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20716,6 +20716,66 @@
             "date": "2026-05-27T23:28:24+00:00",
             "message_id": 8212,
             "message_key": "@testingcatalog:8212"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: CLAUDE OPUS 4.8 IS ROLLING OUT TO ALL USERS.\n\nThe release also includes an updated Thinking effort selector with Low, Medium, High, Extra, and Max options available.\n\n> Switch to Opus 4.8 for your most ambitious work - and now you can set the effort level for thoroughness or speed.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: CLAUDE OPUS 4.8 sedang dilancarkan kepada semua pengguna.\n\nVersi baru ini juga ada pemilih tahap usaha 'Thinking' yang dah dikemaskini, dengan pilihan Rendah, Sederhana, Tinggi, Tambahan, dan Maksimum.\n\n- Gunakan Opus 4.8 untuk projek-projek anda yang paling mencabar - dan sekarang anda boleh tetapkan tahap usaha untuk ketelitian atau kelajuan.",
+            "date": "2026-05-28T16:53:24+00:00",
+            "message_id": 8219,
+            "message_key": "@testingcatalog:8219"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-28T16:10:15+00:00",
+            "message_id": 8218,
+            "message_key": "@testingcatalog:8218"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Apple prepares to announce a major Siri revamp soon, along with a  new dedicated Siri app, according to Bloomberg. \n\n> These are preview renders prepared by Bloomberg\n\n> A new Siri will likely be released in early September \n\nExpectations x100 \ud83d\udc40",
+            "translated_text": "Apple bersedia untuk mengumumkan pembaharuan besar Siri tidak lama lagi, bersama dengan aplikasi Siri khusus yang baharu, menurut Bloomberg.\n\nIni adalah rekaan pratonton yang disediakan oleh Bloomberg.\n\nSiri baharu kemungkinan besar akan dikeluarkan pada awal September.\n\nJangkaan memang tinggi melangit! \ud83d\udc40",
+            "date": "2026-05-28T16:10:15+00:00",
+            "message_id": 8217,
+            "message_key": "@testingcatalog:8217"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-28T15:09:59+00:00",
+            "message_id": 8216,
+            "message_key": "@testingcatalog:8216"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Opus 4.8 has been spotted in the source code. \n\nWould it drop today? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Opus 4.8 dah terlihat dalam kod sumber.\n\nAgak-agak, dia keluar hari ni ke? \ud83d\udc40",
+            "date": "2026-05-28T15:09:59+00:00",
+            "message_id": 8215,
+            "message_key": "@testingcatalog:8215"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Give your AI coding agent a design system in one markdown file.**\n\nAwesome DESIGN .md is a collection of design files inspired by real developer-focused websites. You drop one into your project, tell your AI agent what to build, and it uses that file as a visual style guide.\n\nNo Figma export. No complex setup. Just markdown that tells the agent how the UI should look and feel.\n\nTry it [here for free](https://github.com/VoltAgent/awesome-design-md)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Berikan ejen pengekodan AI anda sistem reka bentuk dalam satu fail markdown.**\n\nAwesome DESIGN .md adalah koleksi fail reka bentuk yang diinspirasikan daripada laman web yang fokus kepada pembangun sebenar. Anda masukkan satu ke dalam projek anda, beritahu ejen AI anda apa yang perlu dibina, dan ia akan menggunakan fail itu sebagai panduan gaya visual.\n\nTiada eksport Figma. Tiada persediaan yang rumit. Hanya markdown yang memberitahu ejen bagaimana UI sepatutnya kelihatan dan berfungsi.\n\nCuba ia [di sini secara percuma](https://github.com/VoltAgent/awesome-design-md)\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-28T14:48:56+00:00",
+            "message_id": 598,
+            "message_key": "@AItoolboxdaily:598"
         }
     ]
 }
