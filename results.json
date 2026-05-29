@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-29T21:09:27.536842",
+    "timestamp": "2026-05-29T23:14:56.063301",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20976,6 +20976,26 @@
             "date": "2026-05-29T20:35:09+00:00",
             "message_id": 8235,
             "message_key": "@testingcatalog:8235"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-05-29T22:20:51+00:00",
+            "message_id": 8238,
+            "message_key": "@testingcatalog:8238"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft \u2764\ufe0f NVIDIA\n\n> NVIDIA GTC Keynote is happening on June 1\n\n> Microsoft Build Keynote event is happening on June 2\n\n> Both Windows and NVIDIA accounts teased an upcoming announcement, saying \"A new era of PC.\"\n\nA new Windows hardware is coming \ud83d\udc40",
+            "translated_text": "Microsoft \u2764\ufe0f NVIDIA\n\nKeynote NVIDIA GTC akan berlangsung pada 1 Jun.\n\nAcara Keynote Microsoft Build pula akan diadakan pada 2 Jun.\n\nAkaun Windows dan NVIDIA kedua-duanya dah beri bayangan tentang pengumuman akan datang, dengan kata-kata \"Era baru PC.\"\n\nPerkakasan Windows baru akan datang tak lama lagi \ud83d\udc40",
+            "date": "2026-05-29T22:20:51+00:00",
+            "message_id": 8237,
+            "message_key": "@testingcatalog:8237"
         }
     ]
 }
