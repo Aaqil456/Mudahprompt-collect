@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-28T23:21:26.649958",
+    "timestamp": "2026-05-29T11:38:25.686275",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -20866,6 +20866,56 @@
             "date": "2026-05-28T22:42:23+00:00",
             "message_id": 8227,
             "message_key": "@testingcatalog:8227"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Explee launches AutoGTM AI Agent for outbound sales**](https://www.testingcatalog.com/explee-launches-autogtm-ai-agent-for-outbound-sales/)\n\nExplee launched AutoGTM, a 24/7 AI sales agent that turns a website URL into a live outbound pipeline in about two minutes. It finds prospects, verifies contacts, writes personalized emails, and sends sequenced outreach at $0.03 per email.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Explee melancarkan Ejen AI AutoGTM untuk jualan keluar**](https://www.testingcatalog.com/explee-launches-autogtm-ai-agent-for-outbound-sales/)\n\nExplee telah melancarkan AutoGTM, ejen jualan AI 24/7 yang boleh menukar URL laman web menjadi saluran jualan keluar yang aktif dalam masa lebih kurang dua minit. Ia mencari prospek, mengesahkan kenalan, menulis e-mel yang diperibadikan, dan menghantar jangkauan berurutan pada harga $0.03 setiap e-mel.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-05-29T11:06:44+00:00",
+            "message_id": 8232,
+            "message_key": "@testingcatalog:8232"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches dynamic workflows for Claude Code**](https://www.testingcatalog.com/anthropic-launches-dynamic-workflows-for-claude-code/)\n\nAnthropic added dynamic workflows to Claude Code, enabling parallel subagents to plan, execute, verify, and recover large coding projects. Available on Max, Team, and API, with admin controls for Enterprise access.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic perkenalkan aliran kerja dinamik untuk Claude Code**](https://www.testingcatalog.com/anthropic-launches-dynamic-workflows-for-claude-code/)\n\nAnthropic dah tambah aliran kerja dinamik pada Claude Code, membolehkan subagen selari untuk merancang, melaksanakan, mengesahkan, dan memulihkan projek pengekodan berskala besar. Boleh didapati di Max, Team, dan API, dengan kawalan admin untuk akses Enterprise.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-29T10:23:25+00:00",
+            "message_id": 8231,
+            "message_key": "@testingcatalog:8231"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Nano Banana 2 and Nano Banana Pro are now in General Availability**](https://www.testingcatalog.com/nano-banana-2-and-nano-banana-pro-are-now-in-general-availability/)\n\nGoogle Cloud has made Nano Banana 2 and Pro generally available for enterprise image generation and editing, offering secure, scalable output up to 2K, 4K preview, and video-to-image prompts for creative, retail, and media workflows.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Nano Banana 2 dan Nano Banana Pro kini sudah boleh didapati secara umum**](https://www.testingcatalog.com/nano-banana-2-and-nano-banana-pro-are-now-in-general-availability/)\n\nGoogle Cloud telah menjadikan Nano Banana 2 dan Pro boleh didapati secara umum untuk penjanaan dan penyuntingan imej bagi kegunaan perusahaan, menawarkan output yang selamat, boleh skala sehingga 2K, pratonton 4K, dan arahan video-ke-imej untuk aliran kerja kreatif, runcit, dan media.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-05-29T10:12:27+00:00",
+            "message_id": 8230,
+            "message_key": "@testingcatalog:8230"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Opus 4.8 and new effort selector**](https://www.testingcatalog.com/anthropic-launches-claude-opus-4-8-and-new-effort-selector/)\n\nAnthropic released Claude Opus 4.8 globally at the same price as 4.7, with gains in coding, reasoning, agentic work, and reliability. Fast mode is 2.5x faster at one-third the prior cost, with new effort control and workflow tools.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic Melancarkan Claude Opus 4.8 dan Pemilih Usaha Baharu**](https://www.testingcatalog.com/anthropic-launches-claude-opus-4-8-and-new-effort-selector/)\n\nAnthropic dah keluarkan Claude Opus 4.8 di seluruh dunia dengan harga yang sama macam versi 4.7. Ada banyak peningkatan dalam pengekodan, penaakulan, kerja ejen, dan kebolehpercayaan. Mod Fast pula 2.5 kali ganda lebih pantas dengan kos sepertiga daripada kos sebelum ni, siap ada kawalan usaha baharu dan alatan aliran kerja.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-29T10:10:01+00:00",
+            "message_id": 8229,
+            "message_key": "@testingcatalog:8229"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft announced a major redesign of its 365 Copilot, which now looks a lot like ChatGPT.\n\nWhich makes total sense, considering the amount of user research hours put into the current UX.\n\nChatGPTfy \ud83d\udc40",
+            "translated_text": "Microsoft mengumumkan reka bentuk semula yang besar untuk 365 Copilot mereka, yang kini nampak sangat mirip ChatGPT.\n\nIni memang masuk akal, kalau fikirkan berapa banyak masa penyelidikan pengguna yang dilaburkan untuk UX sekarang.\n\nChatGPT-kan \ud83d\udc40",
+            "date": "2026-05-29T09:54:27+00:00",
+            "message_id": 8228,
+            "message_key": "@testingcatalog:8228"
         }
     ]
 }
