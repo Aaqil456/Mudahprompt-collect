@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30T09:19:46.770489",
+    "timestamp": "2026-05-30T13:43:21.544311",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21026,6 +21026,16 @@
             "date": "2026-05-30T06:49:29+00:00",
             "message_id": 8241,
             "message_key": "@testingcatalog:8241"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity tests daily Digest feature for its Computer agent**](https://www.testingcatalog.com/perplexity-tests-daily-digest-feature-for-its-computer-agent/)\n\nRecent Perplexity builds point to a daily digest for Computer, drawing from email, drives, GitHub, Linear, and Notion. Memory-based context and Slack delivery are planned, with production testing hinting at a launch within weeks.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity menguji ciri ringkasan harian untuk ejen Komputer mereka**](https://www.testingcatalog.com/perplexity-tests-daily-digest-feature-for-its-computer-agent/)\n\nVersi Perplexity terkini menunjukkan adanya ringkasan harian untuk Computer, mengambil maklumat dari e-mel, pemacu, GitHub, Linear, dan Notion. Konteks berasaskan memori dan penghantaran melalui Slack dirancang, dengan ujian produksi memberi bayangan akan dilancarkan dalam beberapa minggu.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-05-30T13:01:52+00:00",
+            "message_id": 8242,
+            "message_key": "@testingcatalog:8242"
         }
     ]
 }
