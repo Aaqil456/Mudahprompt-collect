@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30T21:00:51.877240",
+    "timestamp": "2026-05-30T22:58:53.043106",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21076,6 +21076,16 @@
             "date": "2026-05-30T19:23:44+00:00",
             "message_id": 8243,
             "message_key": "@testingcatalog:8243"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft readies new MAI voice and image models for Build 2026**](https://www.testingcatalog.com/microsoft-readies-new-mai-voice-and-image-models-for-build-2026/)\n\nMicrosoft is set to unveil MAI-Transcribe-1.5, MAI-Image-2.5 and 2.5e, and MAI-Voice-2 at Build, expanding speech, image editing, and multilingual voice for Copilot, Teams, and Azure as it reduces reliance on OpenAI.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Microsoft Bersedia dengan Model Suara dan Imej MAI Baharu untuk Build 2026**](https://www.testingcatalog.com/microsoft-readies-new-mai-voice-and-image-models-for-build-2026/)\n\nMicrosoft dijangka akan memperkenalkan MAI-Transcribe-1.5, MAI-Image-2.5 dan 2.5e, serta MAI-Voice-2 di Build. Ini akan mengembangkan keupayaan pertuturan, penyuntingan imej, dan suara berbilang bahasa untuk Copilot, Teams, dan Azure, sambil mengurangkan kebergantungan mereka pada OpenAI.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-05-30T22:36:18+00:00",
+            "message_id": 8245,
+            "message_key": "@testingcatalog:8245"
         }
     ]
 }
