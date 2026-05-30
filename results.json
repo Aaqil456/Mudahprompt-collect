@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30T19:20:40.579957",
+    "timestamp": "2026-05-30T21:00:51.877240",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21056,6 +21056,26 @@
             "date": "2026-05-30T18:45:58+00:00",
             "message_id": 603,
             "message_key": "@AItoolboxdaily:603"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Prompt in comments. \nModel reveal later today.",
+            "translated_text": "Prompt dalam komen. Model akan didedahkan lewat hari ini.",
+            "date": "2026-05-30T20:46:00+00:00",
+            "message_id": 8244,
+            "message_key": "@testingcatalog:8244"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**3 upcoming NotebookLM features we all should be waiting for**](https://www.testingcatalog.com/3-upcoming-notebooklm-features-we-all-should-be-waiting-for/)\n\nRecent NotebookLM builds point to three incoming features: Personal Preferences, Connectors, and Canvas. Soon?\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**3 ciri NotebookLM akan datang yang kita semua patut nantikan**](https://www.testingcatalog.com/3-upcoming-notebooklm-features-we-all-should-be-waiting-for/)\n\nVersi NotebookLM terkini menunjukkan ada tiga ciri baru yang akan datang: Personal Preferences, Connectors, dan Canvas. Tak lama lagi ke?\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-05-30T19:23:44+00:00",
+            "message_id": 8243,
+            "message_key": "@testingcatalog:8243"
         }
     ]
 }
