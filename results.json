@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T16:11:58.905158",
+    "timestamp": "2026-05-31T18:04:32.940609",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21136,6 +21136,16 @@
             "date": "2026-05-31T15:36:41+00:00",
             "message_id": 8249,
             "message_key": "@testingcatalog:8249"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**YouTube Premium just dropped **[**3 huge updates**](https://blog.youtube/news-and-events/new-youtube-premium-features-podcast-fans/)** for podcast fans**.\n\nYouTube is rolling out an \"On-the-go mode\" for Premium subscribers, which simplifies the video player into a clean interface with massive, easy-to-tap buttons for commuting. It also adds an AI \"Auto-speed\" feature that intelligently speeds up during slow speech or awkward silences, alongside conversational AI recommendations to help you find niche shows instantly.\n\n**The update hits Android first, with iOS coming soon.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**YouTube Premium baru saja melancarkan [3 kemas kini besar](https://blog.youtube/news-and-events/new-youtube-premium-features-podcast-fans/) untuk peminat podcast.**\n\nYouTube sedang memperkenalkan \"Mod On-the-go\" untuk pelanggan Premium, yang memudahkan pemain video menjadi antara muka yang ringkas dengan butang besar yang mudah ditekan untuk perjalanan. Ia juga menambah ciri AI \"Auto-speed\" yang mempercepatkan secara bijak semasa pertuturan perlahan atau kesunyian janggal, bersama cadangan AI perbualan untuk membantu anda mencari rancangan khusus dengan serta-merta.\n\n**Kemas kini ini mula-mula tiba di Android, dengan iOS akan menyusul tidak lama lagi.**\n\n[\ud83e\udde0 AI Toolbox Daily | Alatan AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-31T17:58:58+00:00",
+            "message_id": 605,
+            "message_key": "@AItoolboxdaily:605"
         }
     ]
 }
