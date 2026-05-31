@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T08:48:28.486588",
+    "timestamp": "2026-05-31T14:47:52.467680",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21096,6 +21096,36 @@
             "date": "2026-05-31T07:06:06+00:00",
             "message_id": 8246,
             "message_key": "@testingcatalog:8246"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**What releases to expect from Anthropic in coming weeks**](https://www.testingcatalog.com/what-releases-to-expect-from-anthropic-in-coming-weeks/)\n\nAnthropic\u2019s rapid model cadence and large funding coincide with a wider Claude expansion: Conway agent workspaces, file based memory, Orbit proactive assistance, Operon for life sciences, BugCrawl for software issues, plus voice and security updates.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Apa keluaran yang boleh dijangka dari Anthropic dalam beberapa minggu akan datang**](https://www.testingcatalog.com/what-releases-to-expect-from-anthropic-in-coming-weeks/)\n\nKeluaran model Anthropic yang pantas dan dana yang besar bertepatan dengan pengembangan Claude yang lebih meluas: ruang kerja ejen Conway, memori berasaskan fail, bantuan proaktif Orbit, Operon untuk sains hayat, BugCrawl untuk masalah perisian, serta kemas kini suara dan keselamatan.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-05-31T13:48:36+00:00",
+            "message_id": 8248,
+            "message_key": "@testingcatalog:8248"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: New screenshots of upcoming Copilot Super App**](https://www.testingcatalog.com/exclusive-new-screenshots-of-upcoming-copilot-super-app/)\n\nLeaked screenshots suggest Microsoft will preview a unified Copilot app at Build, combining chat, coding, Autopilot, and Cowork tools in one shell. The redesign targets weak adoption, with launch planned for late summer.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Eksklusif: Tangkapan skrin baharu untuk Copilot Super App yang akan datang**](https://www.testingcatalog.com/exclusive-new-screenshots-of-upcoming-copilot-super-app/)\n\nTangkapan skrin yang bocor menunjukkan Microsoft akan memperkenalkan pratonton aplikasi Copilot yang disatukan di Build, menggabungkan alat chat, coding, Autopilot, dan Cowork dalam satu platform. Reka bentuk semula ini bertujuan untuk mengatasi masalah penggunaan yang rendah, dengan pelancaran yang dirancang pada akhir musim panas.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-05-31T12:29:37+00:00",
+            "message_id": 8247,
+            "message_key": "@testingcatalog:8247"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Stop waiting for voiceovers: ElevenLabs drops Dubbing v2 to instantly clone voices into 90+ languages**\n\nTranslate and localize your videos into over 90 languages while keeping the original speaker\u2019s exact voice, emotion, and performance style. Instead of generating flat translations, it analyzes the original audio directly so that if a speaker gets excited, whispers, or laughs, that exact emotional delivery carries over perfectly into the new language.\n\nThe tool automatically separates background music, detects multiple speakers, and syncs the translated phrasing with the video\u2019s timing. \n\nTry it [here for free](https://elevenlabs.io/dubbing-studio)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Tak perlu tunggu voiceover lagi: ElevenLabs lancarkan Dubbing v2 untuk klon suara serta-merta ke lebih 90 bahasa**\n\nTerjemah dan sesuaikan video anda ke lebih 90 bahasa sambil kekalkan suara asal, emosi, dan gaya penyampaian penceramah asal. Daripada hasilkan terjemahan biasa-biasa, ia menganalisis audio asal secara terus. Jadi, kalau penceramah tu teruja, berbisik, atau ketawa, emosi penyampaian tu akan dibawa terus dengan sempurna ke bahasa baharu.\n\nAlat ni secara automatik asingkan muzik latar, kesan banyak penceramah, dan selaraskan frasa yang diterjemah dengan masa video.\n\nBoleh cuba [di sini secara percuma](https://elevenlabs.io/dubbing-studio)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-05-31T13:52:58+00:00",
+            "message_id": 604,
+            "message_key": "@AItoolboxdaily:604"
         }
     ]
 }
