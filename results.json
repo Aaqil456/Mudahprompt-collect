@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T14:47:52.467680",
+    "timestamp": "2026-05-31T16:11:58.905158",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21126,6 +21126,16 @@
             "date": "2026-05-31T13:52:58+00:00",
             "message_id": 604,
             "message_key": "@AItoolboxdaily:604"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BUILD \ud83d\udd25: Exclusive, an early look at Copilot Code and Copilot Cowork tabs of the upcoming super app from Microsoft, following earlier leaked screenshot of the Scout 24/7 Agent. \n\nDevelopers \ud83d\udc4f\n\n* Article is now public",
+            "translated_text": "PEMBANGUNAN \ud83d\udd25: Eksklusif, intipan awal untuk tab Copilot Code dan Copilot Cowork bagi aplikasi super Microsoft yang akan datang, selepas tangkapan skrin Scout 24/7 Agent yang bocor sebelum ni.\n\nPembangun \ud83d\udc4f\n\n* Artikel ni dah boleh diakses umum.",
+            "date": "2026-05-31T15:36:41+00:00",
+            "message_id": 8249,
+            "message_key": "@testingcatalog:8249"
         }
     ]
 }
