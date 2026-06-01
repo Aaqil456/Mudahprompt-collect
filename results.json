@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T18:04:32.940609",
+    "timestamp": "2026-06-01T06:05:39.844423",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21146,6 +21146,26 @@
             "date": "2026-05-31T17:58:58+00:00",
             "message_id": 605,
             "message_key": "@AItoolboxdaily:605"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MiniMax M3 scores 59% on SWE Bench Pro (on par with GPT-5.5), supports a 1M context window via MiniMax Sparse Attention, and is natively multimodal.",
+            "translated_text": "MiniMax M3 mencapai 59% dalam SWE Bench Pro (setanding dengan GPT-5.5), menyokong jendela konteks 1 juta melalui MiniMax Sparse Attention, dan ia memang multimodal.",
+            "date": "2026-06-01T05:17:26+00:00",
+            "message_id": 8251,
+            "message_key": "@testingcatalog:8251"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MINIMAX \ud83d\udd25: A new open-weights model, MiniMax M3, has been released to the public on APIs and MiniMax Agent.\n\nMiniMax Agent Updates \ud83d\udc40\n> Meet M3: Our most intelligent and responsive model designed to handle any task. \n> Persistent Memory: Your Agent remembers what you've shared, so you never have to repeat yourself. \n> Evolving Skills: It learns as you collaborate, turning complex tasks into skills made just for you. \n> Unified Billing: Fully integrated with Token Plan for a smoother, more consistent experience.",
+            "translated_text": "MINIMAX \ud83d\udd25: Model 'open-weights' baru, MiniMax M3, telah dilancarkan kepada umum melalui API dan MiniMax Agent.\n\nKemas Kini MiniMax Agent \ud83d\udc40\n> Kenali M3: Model kami yang paling pintar dan responsif, direka untuk mengendalikan apa jua tugas.\n> Memori Kekal: Agent anda ingat apa yang anda kongsikan, jadi anda tak perlu ulang lagi.\n> Kemahiran Berkembang: Ia belajar sambil anda bekerjasama, menukar tugas yang rumit menjadi kemahiran yang dibuat khas untuk anda.\n> Pengebilan Bersepadu: Bersepadu sepenuhnya dengan Token Plan untuk pengalaman yang lebih lancar dan konsisten.",
+            "date": "2026-06-01T05:17:19+00:00",
+            "message_id": 8250,
+            "message_key": "@testingcatalog:8250"
         }
     ]
 }
