@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-02T10:27:56.936456",
+    "timestamp": "2026-06-02T18:42:11.558631",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21256,6 +21256,76 @@
             "date": "2026-06-02T07:31:45+00:00",
             "message_id": 8258,
             "message_key": "@testingcatalog:8258"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: A new Copilot super app has been announced! \n\nIt arrives with a concept of Autopilots, long-running, always-on agents, with Scout being the first Agent coming out of the box. More Autopilot Agents will be added later.",
+            "translated_text": "MICROSOFT \ud83d\udd25: Aplikasi super Copilot baru dah diumumkan! Ia datang dengan konsep Autopilots, ejen yang berjalan lama dan sentiasa aktif, dengan Scout sebagai Ejen pertama yang akan dikeluarkan. Lebih banyak Ejen Autopilot akan ditambah kemudian.",
+            "date": "2026-06-02T18:27:08+00:00",
+            "message_id": 8268,
+            "message_key": "@testingcatalog:8268"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MAI Thinking 1 Benchmarks \ud83d\udc40",
+            "translated_text": "MAI Thinking 1 Penanda Aras \ud83d\udc40",
+            "date": "2026-06-02T17:58:48+00:00",
+            "message_id": 8267,
+            "message_key": "@testingcatalog:8267"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: New MAI Code 1 Flash and MAI Thinking 1 models have been revealed on the official MAI website!\n\nAlso, MAI Image 2.5, MAI Voice 2, and MAI Transcribe 1.5 are there too. \n\n> MAI-Code-1-Flash plans and reasons through complex coding tasks from start to finish, so you spend less time debugging and more time building.\n\n> MAI-Thinking-1 (35B active, ~1T total parameters, MoE) has a smaller inference footprint than much larger models, yet is competitive with Claude Opus 4.6 on SWE-Bench Pro.",
+            "translated_text": "MICROSOFT \ud83d\udd25: Model MAI Code 1 Flash dan MAI Thinking 1 yang baru dah didedahkan dekat laman web rasmi MAI!\n\nSelain tu, MAI Image 2.5, MAI Voice 2, dan MAI Transcribe 1.5 pun ada sekali.\n\n> MAI-Code-1-Flash merancang dan berfikir melalui tugasan pengekodan yang kompleks dari mula sampai habis, jadi tak perlu buang banyak masa untuk debug dan boleh fokus lebih pada pembangunan.\n\n> MAI-Thinking-1 (35B active, ~1T total parameters, MoE) ada jejak inferens yang lebih kecil berbanding model yang jauh lebih besar, tapi masih boleh bersaing dengan Claude Opus 4.6 dalam SWE-Bench Pro.",
+            "date": "2026-06-02T17:58:26+00:00",
+            "message_id": 8266,
+            "message_key": "@testingcatalog:8266"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft \u2764\ufe0f OpenClaw\n\nMicrosoft is launching the OpenClaw Companion app, a built-in, always-on OpenClaw agent, deeply integrated into the Windows ecosystem.",
+            "translated_text": "Microsoft \u2764\ufe0f OpenClaw\n\nMicrosoft sedang melancarkan aplikasi OpenClaw Companion, iaitu ejen OpenClaw yang terbina dalam dan sentiasa aktif, yang disepadukan secara mendalam ke dalam ekosistem Windows.",
+            "date": "2026-06-02T17:49:49+00:00",
+            "message_id": 8265,
+            "message_key": "@testingcatalog:8265"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**TinyFish Bigset turns text prompts into live datasets from web**](https://www.testingcatalog.com/tinyfish-bigset-turns-text-prompts-into-live-datasets-from-web/)\n\nTinyFish launched Bigset, an open-source, self-hosted multi-agent system that turns plain-language prompts into live web datasets. It infers schema, verifies sources, deduplicates rows, supports scheduled refreshes, and exports CSV/XLSX.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**TinyFish Bigset menukar arahan teks menjadi set data langsung dari web**](https://www.testingcatalog.com/tinyfish-bigset-turns-text-prompts-into-live-datasets-from-web/)\n\nTinyFish melancarkan Bigset, sebuah sistem multi-agen sumber terbuka yang dihos sendiri, yang menukar arahan bahasa biasa menjadi set data web langsung. Ia mengesan skema, mengesahkan sumber, menyingkirkan baris duplikat, menyokong kemas kini berjadual, dan mengeksport CSV/XLSX.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-06-02T17:36:55+00:00",
+            "message_id": 8264,
+            "message_key": "@testingcatalog:8264"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**The AI IPO race is officially on!**\n\nAnthropic has confidentially filed for an IPO after recently reaching a staggering **$965 billion valuation** \u2014 making it more valuable than OpenAI and the most valuable startup in the world. Anthropic could hit the stock market as early as this fall.\n\nMeanwhile, OpenAI is also reportedly preparing for a public listing, but Sam Altman says the company won't rush just because competitors move first.\n\nFor the first time ever, Anthropic, OpenAI, and SpaceX could all go public within the same year \u2014 **potentially creating the biggest IPO battle in tech history.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Perlumbaan IPO AI dah rasmi bermula!**\n\nAnthropic dah failkan IPO secara sulit lepas baru-baru ni capai nilai yang sangat menakjubkan, **$965 bilion** \u2014 buatkan dia lebih bernilai dari OpenAI dan startup paling bernilai kat dunia. Anthropic mungkin akan masuk pasaran saham seawal musim luruh ni.\n\nSementara tu, OpenAI pun dilaporkan sedang bersedia untuk disenaraikan secara awam, tapi Sam Altman cakap syarikat dia takkan tergesa-gesa semata-mata sebab pesaing bergerak dulu.\n\nBuat pertama kalinya, Anthropic, OpenAI, dan SpaceX mungkin akan disenaraikan secara awam dalam tahun yang sama \u2014 **berpotensi cipta pertempuran IPO terbesar dalam sejarah teknologi.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-02T16:00:17+00:00",
+            "message_id": 608,
+            "message_key": "@AItoolboxdaily:608"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "\ud83c\udfb0 Welcome Bonus 1200% \u2014 Maczo Crypto Casino\n\ud83c\udfae Crypto exchange \u00b7 Sports \u00b7 Live casino \u2014 all in one place\n\ud83d\udcb3 USDT instant deposit & withdrawal\n\u2192 [https://tglink.io/b63e9b0986ef84](https://tglink.io/b63e9b0986ef84)",
+            "translated_text": "\ud83c\udfb0 Bonus Selamat Datang 1200% \u2014 Maczo Crypto Casino\n\ud83c\udfae Pertukaran kripto \u00b7 Sukan \u00b7 Kasino langsung \u2014 semua ada di sini\n\ud83d\udcb3 USDT deposit & pengeluaran segera\n\u2192 [https://tglink.io/b63e9b0986ef84](https://tglink.io/b63e9b0986ef84)",
+            "date": "2026-06-02T14:58:02+00:00",
+            "message_id": 607,
+            "message_key": "@AItoolboxdaily:607"
         }
     ]
 }
