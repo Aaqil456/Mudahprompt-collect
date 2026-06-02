@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-02T21:49:31.367701",
+    "timestamp": "2026-06-02T23:47:49.074791",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21336,6 +21336,26 @@
             "date": "2026-06-02T19:11:06+00:00",
             "message_id": 609,
             "message_key": "@AItoolboxdaily:609"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "HERMES \ud83d\udd25: A new Hermes Desktop app from Nous Research is now available on macOS, Windows, and Linux! \n\nTesting time \ud83d\udc40",
+            "translated_text": "HERMES \ud83d\udd25: Aplikasi desktop Hermes yang baru dari Nous Research dah tersedia untuk macOS, Windows, dan Linux!\n\nJom cuba \ud83d\udc40",
+            "date": "2026-06-02T22:55:55+00:00",
+            "message_id": 8270,
+            "message_key": "@testingcatalog:8270"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Planning Mode for NotebookLM Video Overviews**](https://www.testingcatalog.com/google-tests-planning-mode-for-notebooklm-video-overviews/)\n\nGoogle is testing a planning mode for NotebookLM Video Overviews that lets users review and edit a draft outline before generation. The feature points to tighter editorial control and a possible shift from Veo to Gemini Omni.\n\nh/t @Thomasguka\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**Google sedang menguji Mod Perancangan untuk Ringkasan Video NotebookLM**](https://www.testingcatalog.com/google-tests-planning-mode-for-notebooklm-video-overviews/)\n\nGoogle sedang menguji satu mod perancangan untuk Ringkasan Video NotebookLM yang membolehkan pengguna menyemak dan menyunting draf rangka kerja sebelum ia dijana. Ciri ini menunjukkan kawalan editorial yang lebih ketat dan kemungkinan peralihan dari Veo ke Gemini Omni.\n\nKredit kepada @Thomasguka\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-06-02T22:07:25+00:00",
+            "message_id": 8269,
+            "message_key": "@testingcatalog:8269"
         }
     ]
 }
