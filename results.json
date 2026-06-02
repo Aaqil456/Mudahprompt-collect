@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-02T18:42:11.558631",
+    "timestamp": "2026-06-02T21:49:31.367701",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21326,6 +21326,16 @@
             "date": "2026-06-02T14:58:02+00:00",
             "message_id": 607,
             "message_key": "@AItoolboxdaily:607"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**AI is getting smarter \u2014 but not necessarily more truthful.**\n\nA new [Axios report](https://www.axios.com/2026/05/30/ai-accuracy-chatbots-hallucinations) warns that while modern chatbots hallucinate less often, they now present mistakes with much more confidence, making errors harder to spot.\n\nResearchers found that AI models often defend incorrect answers instead of admitting uncertainty. As more people rely on AI for research, education, healthcare, and work, the risk of trusting a convincing but wrong answer keeps growing.\n\n**The biggest AI skill in 2026 might not be prompting \u2014 it might be fact-checking.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**AI makin pandai \u2014 tapi tak semestinya lebih jujur.**\n\nSatu [laporan baharu Axios](https://www.axios.com/2026/05/30/ai-accuracy-chatbots-hallucinations) memberi amaran bahawa walaupun chatbot moden kurang 'berhalusinasi', mereka kini menyampaikan kesilapan dengan lebih yakin, menjadikan kesilapan lebih sukar dikesan.\n\nPenyelidik mendapati model AI sering mempertahankan jawapan yang salah daripada mengakui ketidakpastian. Semakin ramai orang bergantung pada AI untuk penyelidikan, pendidikan, penjagaan kesihatan, dan kerja, risiko mempercayai jawapan yang meyakinkan tetapi salah terus meningkat.\n\n**Kemahiran AI terbesar pada tahun 2026 mungkin bukan 'prompting' \u2014 ia mungkin 'fact-checking'.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-02T19:11:06+00:00",
+            "message_id": 609,
+            "message_key": "@AItoolboxdaily:609"
         }
     ]
 }
