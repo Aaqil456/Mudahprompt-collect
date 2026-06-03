@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-03T18:47:36.065224",
+    "timestamp": "2026-06-03T21:51:18.457880",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21436,6 +21436,26 @@
             "date": "2026-06-03T17:15:13+00:00",
             "message_id": 610,
             "message_key": "@AItoolboxdaily:610"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Reve 2.0 is now available, and it landed in second place in the text-to-image arena, outranking Nano Banana 2. \n\n> We invented a new way to generate and edit any image using precise layouts. For the first time, it\u2019s possible to create images you can touch. \n\n> Images are represented as code, so every part of an image becomes addressable, editable, and manipulable.\n\n> Every image in Reve is segmented and labeled, giving you precise control over every region and element.",
+            "translated_text": "Reve 2.0 dah boleh guna sekarang, dan ia berada di tempat kedua dalam arena text-to-image, mengatasi Nano Banana 2.\n\n> Kami dah cipta cara baru untuk hasilkan dan edit apa-apa imej guna susun atur yang tepat. Buat pertama kalinya, kita boleh hasilkan imej yang boleh disentuh.\n\n> Imej diwakili sebagai kod, jadi setiap bahagian pada imej jadi boleh diakses, diedit, dan dimanipulasi.\n\n> Setiap imej dalam Reve dibahagikan dan dilabel, bagi anda kawalan tepat pada setiap kawasan dan elemen.",
+            "date": "2026-06-03T21:32:31+00:00",
+            "message_id": 8279,
+            "message_key": "@testingcatalog:8279"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft Build 2026 recap, from Windows to Copilot, all AI**](https://www.testingcatalog.com/microsoft-build-2026-recap-from-windows-to-copilot-all-ai/)\n\nMicrosoft used Build 2026 to push MAI as the in-house model stack for reasoning, coding, image, voice, and transcription. The key shift is strategic: less reliance on OpenAI, tighter integration across Copilot, Windows, and enterprise agents.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Rumusan Microsoft Build 2026: Dari Windows ke Copilot, Semuanya AI**](https://www.testingcatalog.com/microsoft-build-2026-recap-from-windows-to-copilot-all-ai/)\n\nMicrosoft menggunakan Build 2026 untuk mengetengahkan MAI sebagai rangkaian model dalaman mereka untuk penaakulan, pengekodan, imej, suara, dan transkripsi. Perubahan penting ini bersifat strategik: kurang bergantung pada OpenAI, dan integrasi yang lebih ketat merentasi Copilot, Windows, serta ejen perusahaan.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-06-03T20:16:28+00:00",
+            "message_id": 8278,
+            "message_key": "@testingcatalog:8278"
         }
     ]
 }
