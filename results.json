@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-03T14:42:28.339849",
+    "timestamp": "2026-06-03T18:47:36.065224",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21386,6 +21386,56 @@
             "date": "2026-06-03T12:10:14+00:00",
             "message_id": 8273,
             "message_key": "@testingcatalog:8273"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Dreambeans experiment is now available in Google Labs for US-based Google AI Ultra users on the waitlist. \n\nThis experiment uses Personal Intelligence to deliver daily stories based on the user's data context. \n\nNot a testing time for the most \ud83d\udc40",
+            "translated_text": "GOOGLE: Ada satu eksperimen Dreambeans baru dah boleh guna dekat Google Labs, tapi untuk pengguna Google AI Ultra di AS yang ada dalam senarai menunggu je. Eksperimen ni akan guna Personal Intelligence untuk bagi cerita harian, ikut konteks data pengguna tu sendiri. Bukan semua orang boleh cuba lagi ni.",
+            "date": "2026-06-03T16:32:22+00:00",
+            "message_id": 8277,
+            "message_key": "@testingcatalog:8277"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Ideogram announced Ideogram 4.0, a new SOTA open image generation model!\n\n> Ideogram 4.0 lands in the 8th spot on LM Arena and the 5th spot on Design Arena in the text-to-image category, and is getting close to Nano Banana Pro's performance.\n\n> Ideogram 4.0 features dense, accurate text rendering, native 2K resolution, active background transparency, and precise layout control.",
+            "translated_text": "Ideogram dah umumkan Ideogram 4.0, model penjana imej terbuka SOTA yang baru!\n\n> Ideogram 4.0 menduduki tempat ke-8 di LM Arena dan tempat ke-5 di Design Arena dalam kategori teks-ke-imej, dan prestasinya makin hampir dengan Nano Banana Pro.\n\n> Ideogram 4.0 menampilkan paparan teks yang padat dan tepat, resolusi 2K asli, ketelusan latar belakang aktif, dan kawalan susun atur yang jitu.",
+            "date": "2026-06-03T16:21:40+00:00",
+            "message_id": 8276,
+            "message_key": "@testingcatalog:8276"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Gemma 4 12B is now available on Huggingface under Apache 2.0 license!\n\n> Built with the same multimodal functionality as Gemma 4 E2B and E4B (text, audio, image, and video inputs), it brings native audio and vision understanding directly to local environments without the need for separate encoders. \n\n> This unified approach to multimodality makes the model encoder-free, offering a deployment size that is perfect for consumer devices and streamlined local execution.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemma 4 12B yang baru kini dah boleh didapati di Huggingface di bawah lesen Apache 2.0!\n\n> Dibina dengan fungsi multimodal yang sama macam Gemma 4 E2B dan E4B (input teks, audio, imej, dan video), ia membawa pemahaman audio dan visual secara asli terus ke persekitaran tempatan tanpa perlukan pengekod berasingan.\n\n> Pendekatan bersepadu untuk multimodality ni menjadikan model ini bebas pengekod, menawarkan saiz penggunaan yang sangat sesuai untuk peranti pengguna dan pelaksanaan tempatan yang lebih lancar.",
+            "date": "2026-06-03T16:08:30+00:00",
+            "message_id": 8275,
+            "message_key": "@testingcatalog:8275"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Personal Computer is now available to Max and Enterprise Max users on Windows!\n\nWaitlist below \ud83d\udc40",
+            "translated_text": "Perplexity Personal Computer kini boleh didapati untuk pengguna Max dan Enterprise Max di Windows!\n\nSenarai menunggu di bawah \ud83d\udc40",
+            "date": "2026-06-03T15:50:21+00:00",
+            "message_id": 8274,
+            "message_key": "@testingcatalog:8274"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**People can now be identified through Wi-Fi with nearly 100% accuracy.**\n\n[Researchers](https://dl.acm.org/doi/epdf/10.1145/3719027.3765062) developed a system called BFID that recognizes individuals based on their body characteristics and movement patterns using ordinary Wi-Fi signals. No cameras or special hardware required.\n\n**The scary part? These signals can be captured by almost any modern device nearby.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Orang dah boleh dikenal pasti guna Wi-Fi dengan ketepatan hampir 100%.**\n\n[Penyelidik](https://dl.acm.org/doi/epdf/10.1145/3719027.3765062) bangunkan satu sistem nama BFID yang boleh kenal pasti individu berdasarkan ciri-ciri badan dan corak pergerakan diorang guna isyarat Wi-Fi biasa je. Tak perlu kamera atau perkakasan khas pun.\n\n**Apa yang menakutkan? Isyarat ni boleh ditangkap oleh hampir semua peranti moden yang ada berdekatan.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-03T17:15:13+00:00",
+            "message_id": 610,
+            "message_key": "@AItoolboxdaily:610"
         }
     ]
 }
