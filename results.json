@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-04T18:20:16.926188",
+    "timestamp": "2026-06-04T20:57:51.352064",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21496,6 +21496,16 @@
             "date": "2026-06-04T15:54:01+00:00",
             "message_id": 611,
             "message_key": "@AItoolboxdaily:611"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NVIDIA \ud83d\udd25: Nemotron 3 Ultra has been released on Huggingface with 5x faster inference and 30% lower costs in comparison to other open models. \n\n> Nemotron-3-Ultra-550B-A55B-NVFP4 is a frontier-scale large language model (LLM) trained by NVIDIA, designed to deliver strong agentic, reasoning, and conversational capabilities.",
+            "translated_text": "NVIDIA \ud83d\udd25: Nemotron 3 Ultra dah dikeluarkan di Huggingface, dengan inferens 5 kali lebih pantas dan kos 30% lebih rendah berbanding model-model terbuka lain.\n\n> Nemotron-3-Ultra-550B-A55B-NVFP4 adalah model bahasa besar (LLM) berskala terkini yang dilatih oleh NVIDIA, direka untuk memberikan keupayaan ejen, penaakulan, dan perbualan yang mantap.",
+            "date": "2026-06-04T19:57:30+00:00",
+            "message_id": 8283,
+            "message_key": "@testingcatalog:8283"
         }
     ]
 }
