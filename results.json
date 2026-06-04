@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-04T20:57:51.352064",
+    "timestamp": "2026-06-04T22:25:49.689428",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21506,6 +21506,16 @@
             "date": "2026-06-04T19:57:30+00:00",
             "message_id": 8283,
             "message_key": "@testingcatalog:8283"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Troubleshooting mode has been spotted on Gemini. \n\nIn this mode, Gemini will explain troubleshooting process via text responses and interactive widgets. Even though it is working and available, it still looks like an unintended release and might get reverted soon. \n\nModels for Troubleshooting \ud83d\udc40\nh/t @AntiIkindaloveGemini",
+            "translated_text": "GOOGLE \ud83d\udd25: Mod Penyelesaian Masalah yang baru telah dikesan pada Gemini.\n\nDalam mod ini, Gemini akan menerangkan proses penyelesaian masalah melalui respons teks dan widget interaktif. Walaupun ia berfungsi dan tersedia, ia masih kelihatan seperti keluaran yang tidak disengajakan dan mungkin akan ditarik balik tidak lama lagi.\n\nModel untuk Penyelesaian Masalah \ud83d\udc40\nKredit kepada @AntiIkindaloveGemini",
+            "date": "2026-06-04T22:22:40+00:00",
+            "message_id": 8284,
+            "message_key": "@testingcatalog:8284"
         }
     ]
 }
