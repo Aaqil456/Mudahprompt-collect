@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-05T12:40:04.595980",
+    "timestamp": "2026-06-05T16:02:35.571799",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21526,6 +21526,46 @@
             "date": "2026-06-05T11:26:07+00:00",
             "message_id": 8285,
             "message_key": "@testingcatalog:8285"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early Look: Microsoft rolls out Scout AI agent to Frontier users**](https://www.testingcatalog.com/early-look-microsoft-rolls-out-scout-ai-agent-to-frontier-users/)\n\nMicrosoft is rolling out Scout to Frontier organizations, previewing an always-on Autopilot agent for Microsoft 365. It runs on Windows and macOS, automates multi-step work, and operates under admin and tenant controls.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Tinjauan Awal: Microsoft memperkenalkan ejen AI Scout kepada pengguna Frontier**](https://www.testingcatalog.com/early-look-microsoft-rolls-out-scout-ai-agent-to-frontier-users/)\n\nMicrosoft sedang melancarkan Scout kepada organisasi Frontier, memperkenalkan pratonton ejen Autopilot yang sentiasa aktif untuk Microsoft 365. Ia berfungsi pada Windows dan macOS, mengautomasikan kerja berbilang langkah, dan beroperasi di bawah kawalan pentadbir serta penyewa.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-06-05T15:49:44+00:00",
+            "message_id": 8288,
+            "message_key": "@testingcatalog:8288"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MYTHOS \ud83d\udd25: Another early preview of recently spotted \"Oceanus\" checkpoint output. \n\n\"Oceanus\" is rumored to be a version of the upcoming Mythos model, which is planned for public release within \"weeks\", according to Anthropic. \n\n\"Oceanus\" prompt \ud83d\udc40",
+            "translated_text": "MYTHOS \ud83d\udd25: Satu lagi pratonton awal hasil checkpoint \"Oceanus\" yang baru dikesan.\n\n\"Oceanus\" dikhabarkan adalah satu versi model Mythos yang akan datang, yang dirancang untuk dikeluarkan kepada umum dalam masa \"beberapa minggu\", menurut Anthropic.\n\n\"Oceanus\" prompt \ud83d\udc40",
+            "date": "2026-06-05T15:22:15+00:00",
+            "message_id": 8287,
+            "message_key": "@testingcatalog:8287"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic started red teaming new Mythos models, first results**](https://www.testingcatalog.com/anthropic-started-red-teaming-new-mythos-models-first-results/)\n\nAnthropic\u2019s Claude Oceanus preview points to a near-term release, centered on reasoning, coding, cybersecurity, and agentic tasks. Early reports suggest a sharp capability jump, as Anthropic also warns AI progress is accelerating AI research.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic mula menguji secara kritikal model Mythos baharu, keputusan awal**](https://www.testingcatalog.com/anthropic-started-red-teaming-new-mythos-models-first-results/)\n\nPratonton Claude Oceanus dari Anthropic menunjukkan pelancaran tidak lama lagi, yang berpusat pada penaakulan, pengekodan, keselamatan siber, dan tugas-tugas ejen. Laporan awal menunjukkan peningkatan keupayaan yang mendadak, memandangkan Anthropic turut memberi amaran bahawa kemajuan AI sedang mempercepatkan penyelidikan AI.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-05T13:27:35+00:00",
+            "message_id": 8286,
+            "message_key": "@testingcatalog:8286"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Remove AI censorship from local models with a single command.**\n\nHeretic is an open-source tool that automatically removes safety restrictions from models like Qwen, Gemma, Llama, and others \u2014 without retraining or manually tweaking model weights.\n\nThe goal is to create a less restrictive version of the model while preserving as much of its original intelligence and reasoning ability as possible. Just point it at a model and let it do the rest.\n\nTry it [here for free](https://github.com/p-e-w/heretic)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "",
+            "date": "2026-06-05T14:58:01+00:00",
+            "message_id": 612,
+            "message_key": "@AItoolboxdaily:612"
         }
     ]
 }
