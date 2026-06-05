@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-04T22:25:49.689428",
+    "timestamp": "2026-06-05T12:40:04.595980",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21516,6 +21516,16 @@
             "date": "2026-06-04T22:22:40+00:00",
             "message_id": 8284,
             "message_key": "@testingcatalog:8284"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenSquilla lets AI agents organize their own skills**](https://www.testingcatalog.com/opensquilla-lets-ai-agents-organize-their-own-skills/)\n\nOpenSquilla shifts agent gains from bigger models to orchestration, using cost-aware routing and MetaSkill to discover and compose skills into validated workflows. \n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**OpenSquilla membolehkan ejen AI menyusun kemahiran mereka sendiri**](https://www.testingcatalog.com/opensquilla-lets-ai-agents-organize-their-own-skills/)\n\nOpenSquilla mengubah cara ejen AI mendapat manfaat, beralih daripada model yang lebih besar kepada pengurusan sistem. Ia menggunakan penghalaan yang peka kos dan MetaSkill untuk mencari serta menyusun kemahiran menjadi aliran kerja yang disahkan.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-06-05T11:26:07+00:00",
+            "message_id": 8285,
+            "message_key": "@testingcatalog:8285"
         }
     ]
 }
