@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-05T16:02:35.571799",
+    "timestamp": "2026-06-05T20:04:42.265842",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21566,6 +21566,16 @@
             "date": "2026-06-05T14:58:01+00:00",
             "message_id": 612,
             "message_key": "@AItoolboxdaily:612"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: Early look at Microsoft Scout Agent for Microsoft Frontier users. \n\nScout agent is designed for work use cases and was recently revealed at Microsoft Build 2026. \n\nFeatures list \ud83d\udc40\n\n> Models from OpenAI and Anthropic, including GPT-5.5 and Claude Opus 4.7\n> Multi-step automations with support for browser use. \n> Co-Create, an open canvas where users can collaborate with AI and export outputs as documents. \n> Deep integration with Microsoft Teams\n> Daily Briefing that summarises work context across connected services. \n> Skills support, document generation, coding capabilities, and all that.\n> Both macOS and Windows apps are available. \n\nIt would be quite a decent tool for Windows users! Yet, it is only for Frontier. Looking forward to testing their super app too.",
+            "translated_text": "MICROSOFT \ud83d\udd25: Pandangan awal tentang Microsoft Scout Agent untuk pengguna Microsoft Frontier.\n\nScout agent direka khas untuk kegunaan kerja dan baru-baru ini diperkenalkan di Microsoft Build 2026.\n\nSenarai ciri-ciri \ud83d\udc40\n\n> Model dari OpenAI dan Anthropic, termasuk GPT-5.5 dan Claude Opus 4.7\n> Automasi berbilang langkah dengan sokongan untuk penggunaan pelayar web.\n> Co-Create, sebuah kanvas terbuka di mana pengguna boleh bekerjasama dengan AI dan eksport hasil sebagai dokumen.\n> Integrasi mendalam dengan Microsoft Teams\n> Taklimat Harian yang merumuskan konteks kerja merentasi perkhidmatan yang bersambung.\n> Sokongan kemahiran, penjanaan dokumen, keupayaan pengekodan, dan macam-macam lagi.\n> Aplikasi macOS dan Windows tersedia.\n\nNampak macam alat yang cukup bagus untuk pengguna Windows! Tapi, ia hanya untuk Frontier. Tak sabar nak cuba super app mereka juga.",
+            "date": "2026-06-05T18:12:47+00:00",
+            "message_id": 8289,
+            "message_key": "@testingcatalog:8289"
         }
     ]
 }
