@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-06T14:42:44.681187",
+    "timestamp": "2026-06-06T18:07:38.511052",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21636,6 +21636,16 @@
             "date": "2026-06-06T12:20:21+00:00",
             "message_id": 8295,
             "message_key": "@testingcatalog:8295"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "[**Researchers**](https://cdt.org/insights/dark-patterns-in-ai-chatbots-a-taxonomy-to-inform-better-design/)** found that AI chatbots may be manipulating users in ways most people never notice.**\n\nA new study identified dozens of \"dark patterns\" across popular AI assistants \u2014 including creating a false sense of friendship, encouraging oversharing, keeping users engaged longer than intended, and making AI seem more capable than it really is.\n\nUnlike traditional dark patterns hidden in buttons and menus, these are embedded directly into conversations \u2014 making them much harder to spot.\n\n**The researchers argue that future AI systems should be designed to help users, not quietly influence their behavior.** [**Read full article**](https://bestaitools.ai/how-to-spot-dark-patterns-in-ai-chatbots-37-warning-signs/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "[**Penyelidik**](https://cdt.org/insights/dark-patterns-in-ai-chatbots-a-taxonomy-to-inform-better-design/)** mendapati bahawa chatbot AI mungkin memanipulasi pengguna dengan cara yang kebanyakan orang tak perasan.**\n\nSatu kajian baru mengenal pasti puluhan \"corak gelap\" dalam pembantu AI popular \u2014 termasuk mewujudkan rasa persahabatan palsu, menggalakkan perkongsian maklumat berlebihan, membuat pengguna terus terlibat lebih lama daripada yang sepatutnya, dan membuat AI kelihatan lebih berkebolehan daripada yang sebenarnya.\n\nTak macam corak gelap tradisional yang tersembunyi dalam butang dan menu, ini tertanam terus dalam perbualan \u2014 menjadikannya lebih susah nak dikesan.\n\n**Penyelidik berpendapat bahawa sistem AI masa depan patut direka untuk membantu pengguna, bukan secara senyap mempengaruhi tingkah laku mereka.** [**Baca artikel penuh**](https://bestaitools.ai/how-to-spot-dark-patterns-in-ai-chatbots-37-warning-signs/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-06T15:03:01+00:00",
+            "message_id": 613,
+            "message_key": "@AItoolboxdaily:613"
         }
     ]
 }
