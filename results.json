@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T17:57:20.952159",
+    "timestamp": "2026-06-08T20:23:12.338258",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21746,6 +21746,46 @@
             "date": "2026-06-08T15:33:55+00:00",
             "message_id": 8301,
             "message_key": "@testingcatalog:8301"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-08T20:07:08+00:00",
+            "message_id": 8308,
+            "message_key": "@testingcatalog:8308"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "iOS 27 Beta testing time \ud83d\udc40",
+            "translated_text": "Waktu testing iOS 27 Beta \ud83d\udc40",
+            "date": "2026-06-08T20:07:08+00:00",
+            "message_id": 8307,
+            "message_key": "@testingcatalog:8307"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "WWDC \ud83d\udd25: A new Apple Intelligence powered by Gemini, conversational Siri AI, updated image editing, and loads of AI features across many Apple apps. \n\nSiri AI will launch in beta later this year. Initially, Siri AI won't be available in the EU.",
+            "translated_text": "WWDC \ud83d\udd25: Apple Intelligence baharu yang dikuasakan oleh Gemini, Siri AI yang boleh bersembang, suntingan imej yang dikemas kini, dan pelbagai ciri AI dalam banyak aplikasi Apple.\n\nSiri AI akan dilancarkan dalam versi beta akhir tahun ini. Pada mulanya, Siri AI tidak akan tersedia di EU.",
+            "date": "2026-06-08T18:10:57+00:00",
+            "message_id": 8306,
+            "message_key": "@testingcatalog:8306"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Prompt for Difficult Conversations**\n\n**\u201cWrite a message that says exactly what I mean without sounding rude.\u201d**\nUse this command:\n\n```Help me write a clear, confident message for the situation below.\nKeep it honest and direct, but also respectful and professional.\nAvoid passive-aggressive language, unnecessary apologies, or emotional reactions.\nThe goal is to communicate my point effectively while maintaining a good relationship.\nSituation: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Panduan untuk Perbualan Sukar**\n\n**\u201cTulis mesej yang menyampaikan apa yang saya maksudkan tanpa kedengaran biadab.\u201d**\nGunakan arahan ini:\n\n```Bantu saya tulis mesej yang jelas dan yakin untuk situasi di bawah.\nPastikan ia jujur dan terus terang, tapi juga hormat dan profesional.\nElakkan bahasa pasif-agresif, minta maaf yang tak perlu, atau reaksi emosi.\nMatlamatnya adalah untuk sampaikan maksud saya dengan berkesan sambil kekalkan hubungan baik.\nSituasi: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Harian | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-08T18:23:01+00:00",
+            "message_id": 617,
+            "message_key": "@AItoolboxdaily:617"
         }
     ]
 }
