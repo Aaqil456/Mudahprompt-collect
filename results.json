@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T14:09:47.418405",
+    "timestamp": "2026-06-08T17:57:20.952159",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21696,6 +21696,56 @@
             "date": "2026-06-08T13:39:01+00:00",
             "message_id": 616,
             "message_key": "@AItoolboxdaily:616"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "WWDC \ud83d\udd25: Apple has announced a new Siri AI, along with a dedicated app, customizable voices, screen and visual understanding, and more!\n \nThe Siri app is supported across most platforms, including VisionOS!",
+            "translated_text": "WWDC \ud83d\udd25: Apple dah umumkan Siri AI baru, sekali dengan aplikasi khusus, suara yang boleh disesuaikan, pemahaman skrin dan visual, dan banyak lagi!\n\nAplikasi Siri tu disokong di kebanyakan platform, termasuklah VisionOS!",
+            "date": "2026-06-08T17:49:09+00:00",
+            "message_id": 8305,
+            "message_key": "@testingcatalog:8305"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Apple #WWDC26 has started \ud83c\udf7f",
+            "translated_text": "Apple #WWDC26 dah mula \ud83c\udf7f",
+            "date": "2026-06-08T17:02:21+00:00",
+            "message_id": 8304,
+            "message_key": "@testingcatalog:8304"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Users can now generate interactive charts from data and comparisons in ChatGPT for web and mobile. \n\nTesting time \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Pengguna dah boleh hasilkan carta interaktif daripada data dan perbandingan dalam ChatGPT, untuk versi web dan mudah alih.\nMasa untuk cuba ni \ud83d\udc40",
+            "date": "2026-06-08T16:26:32+00:00",
+            "message_id": 8303,
+            "message_key": "@testingcatalog:8303"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: NotebookLM now supports advanced agentic reasoning in chat and new output formats, including Excel sheets and images. \n\nOnly Ultra subscribers for now \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: NotebookLM kini menyokong penaakulan ejenik lanjutan dalam sembang dan format output baharu, termasuk helaian Excel dan imej.\n\nBuat masa ini, hanya untuk pelanggan Ultra \ud83d\udc40",
+            "date": "2026-06-08T16:17:57+00:00",
+            "message_id": 8302,
+            "message_key": "@testingcatalog:8302"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-08T15:33:55+00:00",
+            "message_id": 8301,
+            "message_key": "@testingcatalog:8301"
         }
     ]
 }
