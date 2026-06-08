@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T20:23:12.338258",
+    "timestamp": "2026-06-08T22:29:20.752018",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21786,6 +21786,46 @@
             "date": "2026-06-08T18:23:01+00:00",
             "message_id": 617,
             "message_key": "@AItoolboxdaily:617"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-08T22:15:01+00:00",
+            "message_id": 8312,
+            "message_key": "@testingcatalog:8312"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A \u201cconfidential S-1\u201d application for an upcoming IPO has been submitted. No timeline so far. \n\nEverything is leaking \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Permohonan \"S-1 sulit\" untuk IPO yang akan datang sudah dihantar. Belum ada jangka masa lagi.\nSemuanya bocor \ud83d\udc40",
+            "date": "2026-06-08T22:15:01+00:00",
+            "message_id": 8311,
+            "message_key": "@testingcatalog:8311"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-08T20:47:20+00:00",
+            "message_id": 8310,
+            "message_key": "@testingcatalog:8310"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A new image Playground on iOS 27 Beta says that image model behind the scenes is from Google. \n\nHowever, on test prompts results look quite different from Nano Banana and Imagen. \n\nThis Liquid Glass bubble is cool \ud83d\udc40",
+            "translated_text": "Ada Playground imej baru dekat iOS 27 Beta ni cakap yang model imej di belakang tabir tu dari Google. Tapi, bila guna prompt ujian, hasilnya nampak lain sangat dari Nano Banana dan Imagen. Bubble Liquid Glass ni memang best \ud83d\udc40",
+            "date": "2026-06-08T20:47:20+00:00",
+            "message_id": 8309,
+            "message_key": "@testingcatalog:8309"
         }
     ]
 }
