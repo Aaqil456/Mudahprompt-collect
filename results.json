@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-09T09:50:09.169748",
+    "timestamp": "2026-06-09T15:57:23.310919",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21846,6 +21846,16 @@
             "date": "2026-06-09T07:02:33+00:00",
             "message_id": 8313,
             "message_key": "@testingcatalog:8313"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**OpenAI is giving away ChatGPT Pro to open-source developers.**\n\nThrough the new **Codex for Open Source** program, maintainers of popular open-source projects can get **6 months of ChatGPT Pro**, API credits, and access to Codex-powered coding and security tools.\n\nThe goal is to reduce the workload of reviewing pull requests, fixing issues, maintaining releases, and keeping critical projects secure.\n\nIf your project is widely used or important to the ecosystem, you can [apply here](https://openai.com/form/codex-for-oss/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**OpenAI sedang menghadiahkan ChatGPT Pro kepada pembangun sumber terbuka.**\n\nMelalui program baharu **Codex for Open Source**, penyelenggara projek sumber terbuka yang popular boleh dapat **6 bulan ChatGPT Pro**, kredit API, dan akses kepada alatan pengekodan dan keselamatan yang dikuasakan oleh Codex.\n\nMatlamatnya adalah untuk mengurangkan beban kerja menyemak permintaan tarik (pull requests), membaiki isu, menyelenggara keluaran, dan memastikan projek kritikal selamat.\n\nKalau projek anda digunakan secara meluas atau penting kepada ekosistem, anda boleh [mohon di sini](https://openai.com/form/codex-for-oss/)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-09T13:50:09+00:00",
+            "message_id": 618,
+            "message_key": "@AItoolboxdaily:618"
         }
     ]
 }
