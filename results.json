@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-10T14:24:50.898928",
+    "timestamp": "2026-06-10T18:06:47.602075",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21966,6 +21966,56 @@
             "date": "2026-06-10T13:06:01+00:00",
             "message_id": 620,
             "message_key": "@AItoolboxdaily:620"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released DiffusionGemma, a new open model with up to 4x faster output!\n\n> Instead of predicting word-by-word, it generates entire blocks of text simultaneously. This lets the model self-correct and format complex markdown in real time.\n\nSame performance as Gemma 4 is a big deal. Wondering if it is based on the model previewed last year.",
+            "translated_text": "",
+            "date": "2026-06-10T16:43:55+00:00",
+            "message_id": 8330,
+            "message_key": "@testingcatalog:8330"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**NoimosAI launches autonomous AI marketing team**](https://www.testingcatalog.com/noimosai-launches-autonomous-ai-marketing-team/)\n\nNoimosAI launched an autonomous AI marketing platform that runs strategy, execution, and optimization across SEO, social, outreach, and analytics, using connected data to deliver finished campaigns, learn from results, and cut team costs.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**NoimosAI melancarkan pasukan pemasaran AI autonomi**](https://www.testingcatalog.com/noimosai-launches-autonomous-ai-marketing-team/)\n\nNoimosAI telah melancarkan platform pemasaran AI autonomi yang menguruskan strategi, pelaksanaan, dan pengoptimuman merangkumi SEO, media sosial, jangkauan, dan analitik. Ia menggunakan data yang saling berkaitan untuk menyampaikan kempen yang lengkap, belajar daripada hasil, dan mengurangkan kos pasukan.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-06-10T16:02:45+00:00",
+            "message_id": 8329,
+            "message_key": "@testingcatalog:8329"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is working on support for Custom Instructions for Meta AI on the web.",
+            "translated_text": "Meta sedang usahakan sokongan untuk Custom Instructions bagi Meta AI di web.",
+            "date": "2026-06-10T15:51:50+00:00",
+            "message_id": 8328,
+            "message_key": "@testingcatalog:8328"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-10T14:50:23+00:00",
+            "message_id": 8327,
+            "message_key": "@testingcatalog:8327"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Voice Mode on Claude will soon include a model selector. \n\n> Earlier, a language selector was added as well. \n> Currently, it says that Claude Haiku 4.5 is being used, regardless of the selected model. \n\nThis may mean we have hope for a non-TTS voice mode, too, as it seems Anthropic is preparing a major upgrade. \n\nFingers crossed \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Mod Suara di Claude tak lama lagi akan ada pemilih model.\n\n> Sebelum ni, pemilih bahasa pun dah ditambah juga.\n> Sekarang ni, ia tunjuk yang Claude Haiku 4.5 sedang digunakan, tak kira model apa yang dipilih.\n\nIni mungkin maksudnya kita ada harapan untuk mod suara bukan-TTS juga, sebab nampak gayanya Anthropic sedang siapkan kemas kini besar.\n\nHarap-haraplah \ud83d\udc40",
+            "date": "2026-06-10T14:50:23+00:00",
+            "message_id": 8326,
+            "message_key": "@testingcatalog:8326"
         }
     ]
 }
