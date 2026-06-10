@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-10T18:06:47.602075",
+    "timestamp": "2026-06-10T22:53:06.308014",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22016,6 +22016,26 @@
             "date": "2026-06-10T14:50:23+00:00",
             "message_id": 8326,
             "message_key": "@testingcatalog:8326"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: NotebookLM will soon support textbooks as a source!\n\nGoogle Play Books and Text Books, all there. \nh/t @Thomasguka",
+            "translated_text": "GOOGLE \ud83d\udd25: NotebookLM tak lama lagi akan sokong buku teks sebagai sumber!\n\nGoogle Play Books dan Text Books, semuanya ada kat situ.\nKredit kepada @Thomasguka",
+            "date": "2026-06-10T18:39:50+00:00",
+            "message_id": 8331,
+            "message_key": "@testingcatalog:8331"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Reduce AI costs by up to 95% with a single layer.**\n\nHeadroom is an open-source tool that compresses prompts, conversation history, files, and tool outputs before they reach the LLM \u2014 cutting token usage while keeping response quality nearly unchanged.\n\n**It works with Claude Code, Codex, Cursor, Copilot, and custom AI agents.**\n\nIf you're burning through context windows and API credits, this might be one of the most useful AI infrastructure tools on GitHub right now. Try it [here for free](https://github.com/chopratejas/headroom)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Kurangkan kos AI sehingga 95% dengan satu lapisan sahaja.**\n\nHeadroom ni satu alat sumber terbuka yang memampatkan prompts, sejarah perbualan, fail, dan output alat sebelum ia sampai ke LLM \u2014 mengurangkan penggunaan token sambil mengekalkan kualiti respons hampir tak berubah.\n\n**Ia berfungsi dengan Claude Code, Codex, Cursor, Copilot, dan ejen AI tersuai.**\n\nKalau anda selalu habiskan context windows dan kredit API, ini mungkin salah satu alat infrastruktur AI paling berguna di GitHub sekarang. Boleh cuba [di sini secara percuma](https://github.com/chopratejas/headroom)\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-10T18:45:12+00:00",
+            "message_id": 621,
+            "message_key": "@AItoolboxdaily:621"
         }
     ]
 }
