@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-09T21:00:03.180468",
+    "timestamp": "2026-06-10T14:24:50.898928",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -21946,6 +21946,26 @@
             "date": "2026-06-09T18:18:21+00:00",
             "message_id": 8322,
             "message_key": "@testingcatalog:8322"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude Code Managed Agents and model selector for Voice Mode**](https://www.testingcatalog.com/claude-code-managed-agents-and-model-selector-for-voice-mode/)\n\nAnthropic launched Claude Fable 5, its first public Mythos-class model, with benchmark gains over Opus but strict safety blocks. iOS code points to model fallback, voice model switching, and Claude Code support for managed agents.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Ejen Terurus Kod Claude dan Pemilih Model untuk Mod Suara**](https://www.testingcatalog.com/claude-code-managed-agents-and-model-selector-for-voice-mode/)\n\nAnthropic dah lancarkan Claude Fable 5, model kelas Mythos awam pertama mereka, dengan prestasi yang lebih baik dari Opus tapi ada sekatan keselamatan yang ketat. Kod iOS ada tunjuk tentang fallback model, penukaran model suara, dan sokongan Kod Claude untuk ejen terurus.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-10T13:51:40+00:00",
+            "message_id": 8325,
+            "message_key": "@testingcatalog:8325"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**The US National Security Agency is now using Anthropic's Mythos AI for cyber operations.**\n\nAccording to the Financial Times, Anthropic has placed a team of employees inside the NSA to help deploy its most advanced models for cybersecurity and intelligence work.\n\nThe irony? Mythos is considered so powerful that Anthropic has restricted public access to it \u2014 yet government agencies are already using it for offensive and defensive cyber missions.\n\n**AI is rapidly becoming part of national security infrastructure, not just a productivity tool.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Agensi Keselamatan Negara (NSA) Amerika Syarikat sekarang guna Mythos AI dari Anthropic untuk operasi siber.**\n\nMenurut Financial Times, Anthropic dah tempatkan satu pasukan pekerja dalam NSA untuk bantu pasang model paling canggih mereka bagi kerja-kerja keselamatan siber dan perisikan.\n\nIroninya? Mythos ni dianggap sangat berkuasa sampai Anthropic sekat akses awam kepadanya \u2014 tapi agensi kerajaan dah pun guna untuk misi siber serangan dan pertahanan.\n\n**AI cepat sangat jadi sebahagian dari infrastruktur keselamatan negara, bukan sekadar alat produktiviti.**\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-10T13:06:01+00:00",
+            "message_id": 620,
+            "message_key": "@AItoolboxdaily:620"
         }
     ]
 }
