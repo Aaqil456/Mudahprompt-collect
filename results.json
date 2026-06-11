@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-11T18:17:22.541895",
+    "timestamp": "2026-06-11T21:24:27.491133",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22126,6 +22126,16 @@
             "date": "2026-06-11T17:52:01+00:00",
             "message_id": 623,
             "message_key": "@AItoolboxdaily:623"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Deep Research is now available on Perplexity Computer as a native skill. \n\n> Computer breaks the hardest questions into subtasks, routes them across 20+ frontier models, and returns work-ready reports, decks, and dashboards.\n\n> Available now to Pro and Max subscribers.\n\nEven Deep Research is a Computer \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-06-11T19:04:14+00:00",
+            "message_id": 8339,
+            "message_key": "@testingcatalog:8339"
         }
     ]
 }
