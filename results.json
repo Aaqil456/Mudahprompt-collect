@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-11T14:39:07.750318",
+    "timestamp": "2026-06-11T18:17:22.541895",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22086,6 +22086,46 @@
             "date": "2026-06-11T13:25:07+00:00",
             "message_id": 622,
             "message_key": "@AItoolboxdaily:622"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Maket launches floor plan upload for residential design**](https://www.testingcatalog.com/maket-launches-floor-plan-upload-for-residential-design/)\n\nMaket\u2019s beta floor plan upload converts PDFs, JPGs, and PNGs into editable layouts in under a minute, tracing key elements and flagging low-confidence areas. The paid v2 feature supports renovation workflows and 3D viewing.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Maket melancarkan fungsi muat naik pelan lantai untuk reka bentuk kediaman**](https://www.testingcatalog.com/maket-launches-floor-plan-upload-for-residential-design/)\n\nFungsi muat naik pelan lantai beta Maket ini boleh menukar fail PDFs, JPGs, dan PNGs kepada susun atur yang boleh diedit dalam masa kurang seminit. Ia juga mengesan elemen-elemen penting dan menandakan kawasan yang kurang tepat. Ciri v2 berbayar ini menyokong aliran kerja pengubahsuaian dan paparan 3D.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-06-11T17:15:12+00:00",
+            "message_id": 8338,
+            "message_key": "@testingcatalog:8338"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-11T15:40:27+00:00",
+            "message_id": 8337,
+            "message_key": "@testingcatalog:8337"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI \u2764\ufe0f Ona\n\nOpenAI acquired Ona, a cloud execution platform for AI agents. \n\n> Its secure cloud execution technology will help Codex take on longer-running work, even when laptops are closed, and help more organizations deploy agents securely in production.\n\nManaged OpenAI Agents soon?",
+            "translated_text": "OpenAI kini bersama Ona!\n\nOpenAI dah ambil alih Ona, sebuah platform pelaksanaan awan untuk ejen AI.\n\n> Teknologi pelaksanaan awan yang selamat ini akan bantu Codex mengendalikan kerja yang mengambil masa lebih lama, walaupun laptop dah tutup, dan bantu lebih banyak organisasi guna ejen dengan selamat dalam pengeluaran.\n\nEjen OpenAI Terurus tak lama lagi?",
+            "date": "2026-06-11T15:40:27+00:00",
+            "message_id": 8336,
+            "message_key": "@testingcatalog:8336"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Google just launched what may be the closest thing to a universal translator.**\n\nGemini 3.5 Live Translate can translate conversations in real time across **70+ languages**, while preserving the speaker's voice, tone, and speaking style. It even works continuously without waiting for someone to finish talking.\n\nThe technology is rolling out to Google Translate, Google Meet, and the Gemini API, enabling over **2,000 language combinations**.\n\nLanguage barriers are starting to look more like a software problem than a human one.\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "Google baru saja memperkenalkan sesuatu yang mungkin paling dekat dengan penterjemah universal.\n\nGemini 3.5 Live Translate boleh menterjemah perbualan secara langsung merentasi lebih 70 bahasa, sambil mengekalkan suara, nada, dan gaya percakapan orang yang bercakap. Ia malah berfungsi secara berterusan tanpa perlu menunggu seseorang selesai bercakap.\n\nTeknologi ini akan tersedia di Google Translate, Google Meet, dan Gemini API, membolehkan lebih 2,000 kombinasi bahasa.\n\nNampaknya, halangan bahasa ni dah mula jadi macam masalah perisian, bukan lagi masalah manusia.\n\n[\ud83e\udde0 AI Toolbox Daily | Alat AI Terbaik](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-11T17:52:01+00:00",
+            "message_id": 623,
+            "message_key": "@AItoolboxdaily:623"
         }
     ]
 }
