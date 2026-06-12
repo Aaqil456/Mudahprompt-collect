@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T12:26:43.425904",
+    "timestamp": "2026-06-12T16:22:13.923985",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22166,6 +22166,56 @@
             "date": "2026-06-12T07:03:48+00:00",
             "message_id": 8342,
             "message_key": "@testingcatalog:8342"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NVIDIA \u2764\ufe0f MiniMax\n\nMiniMax M3 weights are now available on Huggingface, and NVIDIA now offers a Free Endpoint on its platform for testing. \n\nTesting time \ud83d\udc40",
+            "translated_text": "NVIDIA \u2764\ufe0f MiniMax\n\nMiniMax M3 weights dah ada dekat Huggingface, dan NVIDIA pulak sekarang ada tawarkan Free Endpoint dekat platform diorang untuk testing.\n\nMasa untuk testing \ud83d\udc40",
+            "date": "2026-06-12T16:19:04+00:00",
+            "message_id": 8348,
+            "message_key": "@testingcatalog:8348"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-12T14:38:03+00:00",
+            "message_id": 8347,
+            "message_key": "@testingcatalog:8347"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEX \ud83d\udd25: $SPCX GOING PUBLIC TODAY WITH A $1.77 TRILLION MARKET CAP AT $135 A SHARE! \n\nConsidering that xAI is now a part of it, it is becoming one of the biggest AI events of the year. \n\nWHOIS IN? \ud83d\udc40",
+            "translated_text": "SPACEX \ud83d\udd25: $SPCX akan disenaraikan di bursa saham hari ini dengan nilai pasaran $1.77 trilion pada harga $135 sesaham!\n\nMemandangkan xAI kini sebahagian daripadanya, ini akan menjadi salah satu acara AI terbesar tahun ini.\n\nSiapa yang berminat? \ud83d\udc40",
+            "date": "2026-06-12T14:38:02+00:00",
+            "message_id": 8346,
+            "message_key": "@testingcatalog:8346"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is preparing to add 3 new modes for Meta AI: Deep Research, Presentations, and Social. \n\nAll these features are already working, but users can now explicitly select what they want. \n\nClosing gaps \ud83d\udc40",
+            "translated_text": "Meta sedang bersedia untuk menambah 3 mod baru untuk Meta AI: Deep Research, Presentations, dan Social.\nSemua ciri ni dah berfungsi, tapi pengguna sekarang boleh pilih secara spesifik apa yang mereka nak.\nMenutup jurang.",
+            "date": "2026-06-12T13:37:25+00:00",
+            "message_id": 8345,
+            "message_key": "@testingcatalog:8345"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta AI to get new modes for Deep Research, Social, and Slides**](https://www.testingcatalog.com/meta-ai-to-get-new-modes-for-deep-research-social-and-slides/)\n\nMeta is testing three web modes for Meta AI: Deep Research for source-based summaries, Presentation for shareable slide decks, and Social for cross-app post discovery. Together, they widen its scope beyond chat and lean on Meta\u2019s social graph.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta AI akan dapat mod baharu untuk Penyelidikan Mendalam, Sosial, dan Slaid**](https://www.testingcatalog.com/meta-ai-to-get-new-modes-for-deep-research-social-and-slides/)\n\nMeta sedang menguji tiga mod web untuk Meta AI: Deep Research untuk ringkasan berasaskan sumber, Presentation untuk slaid yang boleh dikongsi, dan Social untuk mencari kiriman dari pelbagai aplikasi. Secara keseluruhannya, mod-mod ini meluaskan fungsinya lebih dari sekadar chat dan menggunakan rangkaian sosial Meta.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-06-12T13:28:19+00:00",
+            "message_id": 8344,
+            "message_key": "@testingcatalog:8344"
         }
     ]
 }
