@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T16:22:13.923985",
+    "timestamp": "2026-06-12T19:06:44.250648",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22216,6 +22216,16 @@
             "date": "2026-06-12T13:28:19+00:00",
             "message_id": 8344,
             "message_key": "@testingcatalog:8344"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**MiniMax M3 launches on NVIDIA platform with Free Endpoint**](https://www.testingcatalog.com/minimax-m3-launches-on-nvidia-platform-with-free-endpoint/)\n\nMiniMax M3 is now on NVIDIA infrastructure, offering multimodal text, image, and video reasoning with 428B parameters and 1M-token context. Built for enterprise workloads, it delivers faster inference and native multimodal training.\n\n\ud83d\uddde #nvidia @testingcatalog",
+            "translated_text": "[**MiniMax M3 Dilancarkan di Platform NVIDIA dengan Endpoint Percuma**](https://www.testingcatalog.com/minimax-m3-launches-on-nvidia-platform-with-free-endpoint/)\n\nMiniMax M3 kini tersedia di infrastruktur NVIDIA, menawarkan penaakulan teks, imej, dan video multimodal dengan 428 bilion parameter dan konteks 1 juta token. Dibina untuk beban kerja perusahaan, ia memberikan inferens yang lebih pantas dan latihan multimodal asli.\n\n\ud83d\uddde #nvidia @testingcatalog",
+            "date": "2026-06-12T17:51:37+00:00",
+            "message_id": 8349,
+            "message_key": "@testingcatalog:8349"
         }
     ]
 }
