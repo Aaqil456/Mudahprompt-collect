@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T07:54:06.465339",
+    "timestamp": "2026-06-13T10:31:48.792714",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22246,6 +22246,26 @@
             "date": "2026-06-13T05:08:49+00:00",
             "message_id": 8350,
             "message_key": "@testingcatalog:8350"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic suspends Fable 5 and Mythos 5 after export order**](https://www.testingcatalog.com/anthropic-suspends-fable-5-and-mythos-5-after-export-order/)\n\nAnthropic suspended Fable 5 and Mythos 5 after a US export control order tied to safeguard bypass concerns. The halt affects all users, including foreign national staff, despite Anthropic saying the flaws were limited and industry-wide.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic Menggantung Fable 5 dan Mythos 5 Selepas Perintah Eksport**](https://www.testingcatalog.com/anthropic-suspends-fable-5-and-mythos-5-after-export-order/)\n\nAnthropic telah menggantung Fable 5 dan Mythos 5 selepas perintah kawalan eksport AS yang berkaitan dengan kebimbangan tentang pintasan ciri keselamatan. Penggantungan ini menjejaskan semua pengguna, termasuk kakitangan warga asing, walaupun Anthropic menyatakan kelemahan itu terhad dan berlaku di seluruh industri.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-13T10:03:28+00:00",
+            "message_id": 8353,
+            "message_key": "@testingcatalog:8353"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google is working on Skills Marketplace for Gemini Business**](https://www.testingcatalog.com/google-is-working-on-skills-marketplace-for-gemini-business/)\n\nGoogle is folding Android Studio and a Skills Marketplace into Gemini Enterprise, pointing to a unified workspace for building apps and internal tools. Early signs suggest tiered access and a broader push to centralize scattered Google tools.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google sedang usahakan Pasaran Kemahiran untuk Gemini Business**](https://www.testingcatalog.com/google-is-working-on-skills-marketplace-for-gemini-business/)\n\nGoogle sedang menggabungkan Android Studio dan Pasaran Kemahiran ke dalam Gemini Enterprise, menunjukkan satu ruang kerja yang bersatu untuk membina aplikasi dan alatan dalaman. Tanda-tanda awal menunjukkan akses berperingkat dan usaha yang lebih besar untuk memusatkan alatan Google yang berselerak.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-06-13T09:57:26+00:00",
+            "message_id": 8352,
+            "message_key": "@testingcatalog:8352"
         }
     ]
 }
