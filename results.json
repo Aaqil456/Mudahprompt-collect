@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T19:06:44.250648",
+    "timestamp": "2026-06-13T07:54:06.465339",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22226,6 +22226,26 @@
             "date": "2026-06-12T17:51:37+00:00",
             "message_id": 8349,
             "message_key": "@testingcatalog:8349"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-13T05:08:49+00:00",
+            "message_id": 8351,
+            "message_key": "@testingcatalog:8351"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: US government directed Anthropic to ban access to Claude Fable 5 and Claude Mythos 5 to non US citizens and organisations. \n\nPresumably, as these models are still vulnerable to jailbreaks. According to Anthropic, no universal jailbreak has been found so far, only specific ones, which yet may still pose some risks. \n\nThat\u2019s new \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Kerajaan AS mengarahkan Anthropic untuk menyekat akses kepada Claude Fable 5 dan Claude Mythos 5 untuk warganegara dan organisasi bukan AS.\n\nDipercayai, ini kerana model-model ini masih terdedah kepada 'jailbreak'. Menurut Anthropic, tiada 'jailbreak' universal yang ditemui setakat ini, hanya yang spesifik sahaja, yang mana masih boleh menimbulkan beberapa risiko.\n\nIni sesuatu yang baru \ud83d\udc40",
+            "date": "2026-06-13T05:08:49+00:00",
+            "message_id": 8350,
+            "message_key": "@testingcatalog:8350"
         }
     ]
 }
