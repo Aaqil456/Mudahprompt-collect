@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T10:31:48.792714",
+    "timestamp": "2026-06-13T23:07:47.621509",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22266,6 +22266,16 @@
             "date": "2026-06-13T09:57:26+00:00",
             "message_id": 8352,
             "message_key": "@testingcatalog:8352"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "`\ud83e\udde9 `Local AI is no longer just a toy project.\n\n**In 2026, you can run a practical AI stack on a laptop**: small LLMs, local embeddings, RAG, Jupyter/IDE integration, and no token bill.\n\nThis post breaks down what is actually usable right now: Qwen, Gemma, Llama, Ollama, Chroma/LanceDB, local RAG, Jupyter AI, hardware limits, and where local video still hurts.\n\n[Read the local stack](https://t.me/howaihelps/212)",
+            "translated_text": "`\ud83e\udde9 `AI tempatan bukan lagi sekadar projek main-main.\n\n**Menjelang 2026, kita dah boleh jalankan sistem AI yang praktikal atas laptop**: LLM kecil, *local embeddings*, RAG, integrasi Jupyter/IDE, dan tak perlu bayar bil token.\n\nPost ini cerita apa yang betul-betul boleh guna sekarang: Qwen, Gemma, Llama, Ollama, Chroma/LanceDB, RAG tempatan, Jupyter AI, had perkakasan, dan apa cabaran untuk video tempatan.\n\n[Baca tentang sistem tempatan ini](https://t.me/howaihelps/212)",
+            "date": "2026-06-13T21:29:13+00:00",
+            "message_id": 624,
+            "message_key": "@AItoolboxdaily:624"
         }
     ]
 }
