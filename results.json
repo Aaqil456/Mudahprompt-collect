@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-14T16:24:17.421981",
+    "timestamp": "2026-06-14T18:14:47.146432",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22326,6 +22326,26 @@
             "date": "2026-06-14T16:03:41+00:00",
             "message_id": 8357,
             "message_key": "@testingcatalog:8357"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-14T16:28:33+00:00",
+            "message_id": 8359,
+            "message_key": "@testingcatalog:8359"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The upcoming Perplexity Digest feature will likely be powered by Deep Research. \n\nUsers will be able to schedule and customize periodic updates from a wide range of connected sources that will also be sent to their email.\n\n* Not available yet \n\nDeep Digest \ud83d\udc40",
+            "translated_text": "Ciri Perplexity Digest yang akan datang kemungkinan besar akan dikuasakan oleh Deep Research.\n\nPengguna boleh menjadualkan dan menyesuaikan kemas kini berkala daripada pelbagai sumber yang bersambung, yang juga akan dihantar ke e-mel mereka.\n\n* Belum tersedia lagi\n\nDeep Digest \ud83d\udc40",
+            "date": "2026-06-14T16:28:33+00:00",
+            "message_id": 8358,
+            "message_key": "@testingcatalog:8358"
         }
     ]
 }
