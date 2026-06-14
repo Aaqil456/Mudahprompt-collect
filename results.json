@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-14T04:18:22.986903",
+    "timestamp": "2026-06-14T14:07:36.038625",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22306,6 +22306,16 @@
             "date": "2026-06-13T23:27:04+00:00",
             "message_id": 8354,
             "message_key": "@testingcatalog:8354"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Prompt for Better Questions**\n\n**\u201cTell me the questions I should be asking.\u201d**\nUse this command:\n\n```Review the topic, project, or problem below and generate the most important questions I should be asking.\nFocus on questions that uncover risks, opportunities, assumptions, blind spots, and deeper insights.\nPrioritize questions that lead to better decisions rather than more information.\nTopic: [paste here]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "**Prompt untuk Soalan yang Lebih Bagus**\n\n**\u201cApa soalan yang saya patut tanya?\u201d**\nGuna arahan ini:\n\n```Semak topik, projek, atau masalah kat bawah ni, lepas tu hasilkan soalan-soalan paling penting yang saya patut tanya.\nFokus pada soalan yang boleh bongkar risiko, peluang, andaian, benda yang kita tak nampak (blind spots), dan pemahaman yang lebih mendalam.\nUtamakan soalan yang bantu buat keputusan lebih baik, bukan cuma dapatkan lebih banyak info.\nTopik: [tampal di sini]```\n\n#AIPrompts #WorkSmarter #AIWorkflow\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-14T13:26:01+00:00",
+            "message_id": 625,
+            "message_key": "@AItoolboxdaily:625"
         }
     ]
 }
