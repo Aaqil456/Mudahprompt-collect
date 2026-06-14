@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T23:07:47.621509",
+    "timestamp": "2026-06-14T04:18:22.986903",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22276,6 +22276,36 @@
             "date": "2026-06-13T21:29:13+00:00",
             "message_id": 624,
             "message_key": "@AItoolboxdaily:624"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenRouter announced Fusion, a new mode in which multiple AI models can run side by side to \"fuse\" into a better result. It arrives with significant improvements across various tasks, comparable to Fable 5 in certain areas. \n\n> By testing different combinations of models, we found that roughly three-quarters of the lift that Fusion provides comes from synthesis, and one-quarter from diversity.\n\nTesting time \ud83d\udc40",
+            "translated_text": "OpenRouter dah umumkan Fusion, satu mod baru di mana beberapa model AI boleh jalan serentak untuk 'gabung' jadi hasil yang lebih baik. Ia datang dengan peningkatan ketara dalam pelbagai tugasan, setanding dengan Fable 5 dalam beberapa aspek.\n\n> Dengan menguji pelbagai kombinasi model, kami dapati lebih kurang tiga perempat daripada peningkatan yang Fusion tawarkan datang daripada sintesis, dan satu perempat lagi daripada kepelbagaian.\n\nMasa untuk uji cuba ni \ud83d\udc40",
+            "date": "2026-06-13T23:44:41+00:00",
+            "message_id": 8356,
+            "message_key": "@testingcatalog:8356"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-13T23:27:04+00:00",
+            "message_id": 8355,
+            "message_key": "@testingcatalog:8355"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Z AI released GLM-5.2 for all users on GLM Coding Plans. \n\n> As our new flagship model, GLM-5.2 delivers powerful coding capabilities, usable 1M-context support, and continued strengths in long-horizon tasks.\n\nOpen-source and API support are planned for next week.",
+            "translated_text": "Sekadar info \ud83d\udc40: Z AI dah keluarkan GLM-5.2 untuk semua pengguna yang langgan GLM Coding Plans.\n\nSebagai model utama terbaru kami, GLM-5.2 ni menawarkan kebolehan coding yang mantap, sokongan konteks 1M yang boleh digunakan, dan masih kuat untuk tugasan jangka panjang.\n\nSokongan sumber terbuka dan API akan ada minggu depan.",
+            "date": "2026-06-13T23:27:04+00:00",
+            "message_id": 8354,
+            "message_key": "@testingcatalog:8354"
         }
     ]
 }
