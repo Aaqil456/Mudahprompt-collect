@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-14T22:13:25.654673",
+    "timestamp": "2026-06-15T18:28:27.192482",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22366,6 +22366,26 @@
             "date": "2026-06-14T21:03:28+00:00",
             "message_id": 8360,
             "message_key": "@testingcatalog:8360"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google develops Personalization controls for Gemini**](https://www.testingcatalog.com/google-develops-personalization-controls-for-gemini/)\n\nHidden Gemini notices suggest Google will use paid subscriptions and connected apps as answer context, with planned per-app controls to review or limit what Gemini uses. \n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google bangunkan kawalan pemperibadian untuk Gemini**](https://www.testingcatalog.com/google-develops-personalization-controls-for-gemini/)\n\nNotis Gemini yang tersembunyi menunjukkan Google akan menggunakan langganan berbayar dan aplikasi yang disambungkan sebagai konteks jawapan, dengan kawalan setiap aplikasi yang dirancang untuk menyemak atau mengehadkan apa yang Gemini gunakan.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-06-15T15:09:09+00:00",
+            "message_id": 8364,
+            "message_key": "@testingcatalog:8364"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI is working on Automations feature for Grok**](https://www.testingcatalog.com/xai-is-working-on-automations-feature-for-grok/)\n\nxAI appears to be folding Grok Tasks into a wider automations system, keeping scheduling while adding skill and model selection. \n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**xAI sedang usahakan ciri Automations untuk Grok**](https://www.testingcatalog.com/xai-is-working-on-automations-feature-for-grok/)\n\nxAI nampaknya sedang menyatukan Grok Tasks ke dalam sistem automasi yang lebih luas, mengekalkan fungsi penjadualan sambil menambah pilihan kemahiran dan model.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-06-15T13:44:16+00:00",
+            "message_id": 8363,
+            "message_key": "@testingcatalog:8363"
         }
     ]
 }
