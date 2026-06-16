@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-16T15:57:02.529073",
+    "timestamp": "2026-06-16T19:40:26.512253",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22466,6 +22466,56 @@
             "date": "2026-06-16T11:41:16+00:00",
             "message_id": 8370,
             "message_key": "@testingcatalog:8370"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ZAI \ud83d\udd25: GLM-5.2 is now available on huggingface!\n\n> It comes with a 1M context window and 2 levels of reasoning effort, max and high. MIT license and same pricing as GLM-5.1. \n\n> GLM-5.2 scores 46.2% on DeepSWE, the SOTA score among open-weight models.",
+            "translated_text": "ZAI \ud83d\udd25: GLM-5.2 dah boleh didapati di huggingface!\n\n> Ia datang dengan 1M context window dan 2 tahap usaha penaakulan, iaitu maksimum dan tinggi. Lesen MIT dan harga yang sama macam GLM-5.1.\n\n> GLM-5.2 mencatat 46.2% di DeepSWE, markah SOTA dalam kalangan model open-weight.",
+            "date": "2026-06-16T17:48:54+00:00",
+            "message_id": 8381,
+            "message_key": "@testingcatalog:8381"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-16T16:46:03+00:00",
+            "message_id": 8380,
+            "message_key": "@testingcatalog:8380"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MISTRAL \ud83d\udd25: A new \u201cfat\u201d model family has been teased to arrive this summer! \n\nThe model will be open-weight and initially released in early access for key partners. \n\n> This will be the start of a new family of models, fat indeed, but sparse. We're opening up an early access program in July for key partners in research, government and the industry.\n\n> This model and upcoming ones will be open-weight. We believe this is critical for our customer confidence and for the research and developer communities.\n\nLe Chaton Fat soon? \ud83d\udc40",
+            "translated_text": "MISTRAL \ud83d\udd25: Keluarga model \"fat\" baru dah diumumkan akan tiba musim panas ni!\n\nModel ni nanti akan bersifat open-weight dan pada mulanya akan dikeluarkan dalam akses awal untuk rakan kongsi utama.\n\n> Ini akan jadi permulaan untuk keluarga model baru, memang \"fat\" tapi sparse. Kami akan buka program akses awal pada bulan Julai untuk rakan kongsi utama dalam penyelidikan, kerajaan, dan industri.\n\n> Model ni dan yang akan datang nanti akan bersifat open-weight. Kami percaya ini sangat penting untuk keyakinan pelanggan kami dan untuk komuniti penyelidik serta pembangun.\n\nLe Chaton Fat tak lama lagi? \ud83d\udc40",
+            "date": "2026-06-16T16:46:03+00:00",
+            "message_id": 8379,
+            "message_key": "@testingcatalog:8379"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-16T16:24:01+00:00",
+            "message_id": 8378,
+            "message_key": "@testingcatalog:8378"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT is about to get a voice mode upgrade as a new \u201cgpt-bidi-1\u201d model has been spotted along with announcement updates. \n\nSoon \ud83d\udc40\n\nh/t x@M1Astra via DevMode",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT bakal dapat naik taraf mod suara, dengan model baru \u201cgpt-bidi-1\u201d dah muncul sekali dengan kemas kini pengumuman.\nTak lama lagi \ud83d\udc40\nh/t x@M1Astra melalui DevMode",
+            "date": "2026-06-16T16:24:01+00:00",
+            "message_id": 8377,
+            "message_key": "@testingcatalog:8377"
         }
     ]
 }
