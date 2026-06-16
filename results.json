@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-15T18:28:27.192482",
+    "timestamp": "2026-06-16T04:25:37.313041",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22386,6 +22386,36 @@
             "date": "2026-06-15T13:44:16+00:00",
             "message_id": 8363,
             "message_key": "@testingcatalog:8363"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Codex now supports Chrome DevTools Protocol for browser use. This is a huge superpower that will allow Codex to inspect and modify any website.\n\nIt is still a very early implementation, but I bet that in several years this will be a default browser capability. If websites are loaded through AI, users will be able to customize their UX on the fly.\n\nThis is the way \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Codex sekarang dah sokong Chrome DevTools Protocol untuk kegunaan pelayar web. Ini satu keupayaan yang sangat hebat yang akan membolehkan Codex periksa dan ubah suai mana-mana laman web.\n\nIni masih lagi peringkat awal, tapi saya rasa dalam beberapa tahun lagi, ini akan jadi keupayaan standard untuk pelayar web. Kalau laman web dimuatkan melalui AI, pengguna boleh ubah suai pengalaman guna (UX) mereka dengan mudah.\n\nIni memang caranya \ud83d\udc40",
+            "date": "2026-06-16T00:54:06+00:00",
+            "message_id": 8367,
+            "message_key": "@testingcatalog:8367"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-16T00:09:27+00:00",
+            "message_id": 8366,
+            "message_key": "@testingcatalog:8366"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A limited number of slots for Gemini Trusted Testers are open! \n\nGet it fast \ud83d\udc40",
+            "translated_text": "Slot terhad untuk Gemini Trusted Testers dah dibuka! Cepat dapatkan! \ud83d\udc40",
+            "date": "2026-06-16T00:09:27+00:00",
+            "message_id": 8365,
+            "message_key": "@testingcatalog:8365"
         }
     ]
 }
