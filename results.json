@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-16T04:25:37.313041",
+    "timestamp": "2026-06-16T15:57:02.529073",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22416,6 +22416,56 @@
             "date": "2026-06-16T00:09:27+00:00",
             "message_id": 8365,
             "message_key": "@testingcatalog:8365"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MISTRAL AI \ud83d\udd25: Le Chaton Fat is now real \ud83d\udc40\n\nA huge cat is being featured on the Vibe in both Chat and Work modes. Le Chaton Fat also wears a tie in Work Mode. \n\n> \"Le Chaton Fat\" has become the most trending meme in AI this week on X, exploding on the expectation from Mistral to release an above Mythos grade model. \n\n> There is no evidence of such ambitions; however, Emmanuel Macron identifies Mistral as the only AI company in the EU capable of competing with US giants such as OpenAI and Anthropic.\n\nLe Chaton Fat Vibes \u2764\ufe0f",
+            "translated_text": "MISTRAL AI \ud83d\udd25: Le Chaton Fat dah jadi kenyataan \ud83d\udc40\n\nKucing besar ni muncul di Vibe, dalam mod Chat dan Work. Le Chaton Fat juga pakai tali leher dalam Mod Work.\n\n> \"Le Chaton Fat\" dah jadi meme paling tular dalam AI minggu ni di X, jadi viral sebab jangkaan Mistral akan keluarkan model yang lebih hebat dari Mythos.\n\n> Tak ada bukti pun pasal cita-cita tu; tapi, Emmanuel Macron kenal pasti Mistral sebagai satu-satunya syarikat AI di EU yang mampu bersaing dengan gergasi US macam OpenAI dan Anthropic.\n\nLe Chaton Fat Vibe \u2764\ufe0f",
+            "date": "2026-06-16T13:54:06+00:00",
+            "message_id": 8374,
+            "message_key": "@testingcatalog:8374"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-16T13:33:29+00:00",
+            "message_id": 8373,
+            "message_key": "@testingcatalog:8373"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Looks like a Voice Mode upgrade has started rolling out on Claude mobile apps. Voice mode is getting multilingual! \n\nIt is likely just a first step ahead of a broader upgrade. Upcoming model selector appearance may signal an underlying model improvement coming. \n\nBesides that, the voice mode icon has a new \u201cphone call\u201d variant in the latest iOS build. Sus! \n\nTesting time if you got it \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Nampaknya, kemas kini Mod Suara dah mula dilancarkan dekat aplikasi mudah alih Claude. Mod Suara ni dah jadi berbilang bahasa!\n\nIni mungkin baru langkah pertama sebelum kemas kini yang lebih besar. Kemunculan pemilih model yang akan datang mungkin menandakan ada peningkatan model asas yang akan tiba.\n\nSelain tu, ikon mod suara ada varian baru 'panggilan telefon' dalam binaan iOS terbaru. Mencurigakan!\n\nMasa untuk cuba kalau dah dapat akses \ud83d\udc40",
+            "date": "2026-06-16T13:33:29+00:00",
+            "message_id": 8372,
+            "message_key": "@testingcatalog:8372"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-16T11:41:16+00:00",
+            "message_id": 8371,
+            "message_key": "@testingcatalog:8371"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceX \ud83d\udd25 Cursor\n\nSpaceX has signed a definitive agreement to acquire Cursor for $60 billion, as per SEC filing.\n\nAI M&As are huge \ud83d\udc40",
+            "translated_text": "SpaceX \ud83d\udd25 Cursor\n\nSpaceX dah tandatangan perjanjian muktamad untuk ambil alih Cursor dengan harga $60 bilion, mengikut fail SEC.\n\nM&A AI memang besar \ud83d\udc40",
+            "date": "2026-06-16T11:41:16+00:00",
+            "message_id": 8370,
+            "message_key": "@testingcatalog:8370"
         }
     ]
 }
