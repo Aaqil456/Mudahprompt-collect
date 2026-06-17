@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-17T11:51:25.449706",
+    "timestamp": "2026-06-17T15:37:34.571660",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22586,6 +22586,26 @@
             "date": "2026-06-17T07:12:34+00:00",
             "message_id": 8386,
             "message_key": "@testingcatalog:8386"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI readies ChatGPT for Science subscription plan**](https://www.testingcatalog.com/openai-readies-chatgpt-for-science-subscription-plan/)\n\nOPENAI \ud83d\udd25: A new ChatGPT plan for Science is being developed, according to the latest additions on the web build. \n\n> OpenAI has been announcing various projects related to \"Accelerating scientific progress\" over the past year, including an open form for institutions to \"Get involved with OpenAI for Science\"\n\n> The addition of a dedicated \"ChatGPT for Science\" plan may enable a broad range of institutions to benefit from OpenAI's offering. \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI sedang siapkan pelan langganan ChatGPT untuk Sains**](https://www.testingcatalog.com/openai-readies-chatgpt-for-science-subscription-plan/)\n\nOPENAI \ud83d\udd25: Pelan ChatGPT baru untuk Sains sedang dibangunkan, mengikut penambahan terbaru pada binaan web mereka.\n\n> OpenAI dah umumkan pelbagai projek berkaitan \"Mempercepatkan kemajuan saintifik\" sepanjang tahun lepas, termasuk borang terbuka untuk institusi \"Terlibat dengan OpenAI untuk Sains\".\n\n> Penambahan pelan \"ChatGPT untuk Sains\" yang khusus ini mungkin membolehkan pelbagai institusi mendapat manfaat daripada tawaran OpenAI.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-17T15:15:03+00:00",
+            "message_id": 8391,
+            "message_key": "@testingcatalog:8391"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Personalization and AI Editing for NotebookLM**](https://www.testingcatalog.com/google-prepares-personalization-and-ai-editing-for-notebooklm/)\n\nNotebookLM is testing Personal Intelligence to retain context from past notebook activity with user controls, plus AI Editing for notes to revise selected text via chat, signaling a near-term push toward memory and personalized research workflows.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**Google sedang sediakan Pemperibadian dan Penyuntingan AI untuk NotebookLM**](https://www.testingcatalog.com/google-prepares-personalization-and-ai-editing-for-notebooklm/)\n\nNotebookLM sedang menguji Kepintaran Peribadi untuk mengekalkan konteks daripada aktiviti buku nota yang lepas, lengkap dengan kawalan pengguna. Selain itu, ada juga Penyuntingan AI untuk nota, yang membolehkan pengguna menyemak semula teks terpilih melalui chat. Ini menunjukkan Google akan lebih fokus pada memori dan aliran kerja penyelidikan yang diperibadikan dalam masa terdekat.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-06-17T13:31:49+00:00",
+            "message_id": 8389,
+            "message_key": "@testingcatalog:8389"
         }
     ]
 }
