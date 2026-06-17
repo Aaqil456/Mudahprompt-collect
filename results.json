@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-16T22:13:46.565765",
+    "timestamp": "2026-06-17T00:18:36.778461",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22546,6 +22546,16 @@
             "date": "2026-06-16T21:47:46+00:00",
             "message_id": 8382,
             "message_key": "@testingcatalog:8382"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares major ChatGPT voice upgrade with GPT-Bidi-1**](https://www.testingcatalog.com/openai-prepares-major-chatgpt-voice-upgrade-with-gpt-bidi-1/)\n\nOPENAI \ud83d\udd25: More details about the upcoming voice mode upgrade for ChatGPT. \n\n> It will be advertised as a \"major leap in intelligence\". Factoring that current experience is powered by 4o it is quite expected. \n\n> Users will be able to choose between Instant, Medium and High levels.\n\n> It will likely be rolled out gradually and EEA, UK, Switzerland users will get it later as always. \n\n> Bidi stands for \"Bi-directional\", meaning it can listen and speak at the same time. \n\nSoon? \ud83d\udc40\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI sedang siapkan naik taraf suara ChatGPT yang besar dengan GPT-Bidi-1**](https://www.testingcatalog.com/openai-prepares-major-chatgpt-voice-upgrade-with-gpt-bidi-1/)\n\nOPENAI \ud83d\udd25: Ada lagi butiran tentang naik taraf mod suara untuk ChatGPT yang akan datang.\n\n> Ia akan diiklankan sebagai \"lonjakan besar dalam kecerdasan\". Memandangkan pengalaman sekarang dikuasakan oleh 4o, ini memang dijangka.\n\n> Pengguna boleh pilih antara tahap Instant, Medium, dan High.\n\n> Kemungkinan besar ia akan dilancarkan secara berperingkat, dan pengguna di EEA, UK, Switzerland akan dapat kemudian, macam biasa.\n\n> Bidi bermaksud \"Bi-directional\", iaitu ia boleh mendengar dan bercakap serentak.\n\nTak lama lagi ke? \ud83d\udc40\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-16T23:03:38+00:00",
+            "message_id": 8385,
+            "message_key": "@testingcatalog:8385"
         }
     ]
 }
