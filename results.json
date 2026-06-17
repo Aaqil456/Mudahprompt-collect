@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-17T15:37:34.571660",
+    "timestamp": "2026-06-17T18:21:05.894682",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22606,6 +22606,26 @@
             "date": "2026-06-17T13:31:49+00:00",
             "message_id": 8389,
             "message_key": "@testingcatalog:8389"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-17T16:52:03+00:00",
+            "message_id": 8393,
+            "message_key": "@testingcatalog:8393"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BYTEDANCE \ud83d\udd25: Seedance 2.5 is expected to be released in early July! Seedance 2.0 is also expected to receive 4k support already very soon. \n\nUPD: Actual planned date for 4k release is June 22.\n\nh/t x@MarsForTech via Dev Mode",
+            "translated_text": "BYTEDANCE \ud83d\udd25: Seedance 2.5 dijangka akan dikeluarkan pada awal Julai! Seedance 2.0 pun dijangka akan dapat sokongan 4k tak lama lagi.\n\nUPD: Tarikh sebenar yang dirancang untuk keluaran 4k adalah 22 Jun.\n\nh/t x@MarsForTech melalui Dev Mode",
+            "date": "2026-06-17T16:52:02+00:00",
+            "message_id": 8392,
+            "message_key": "@testingcatalog:8392"
         }
     ]
 }
