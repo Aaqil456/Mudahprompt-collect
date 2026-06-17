@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-17T18:21:05.894682",
+    "timestamp": "2026-06-17T21:09:43.109400",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22626,6 +22626,26 @@
             "date": "2026-06-17T16:52:02+00:00",
             "message_id": 8392,
             "message_key": "@testingcatalog:8392"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Design has been updated with broader design system support, a canvas editor, and Claude Code sync. \n\n> Claude builds with your real components and checks its own output against your design system before you see it.\n\n> New layout controls let you drag, resize, and align elements directly on the canvas.\n\n> Claude Design and Claude Code can now work together in both directions.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Design dah dikemaskini dengan sokongan sistem reka bentuk yang lebih luas, editor kanvas, dan penyegerakan Claude Code.\n\n> Claude bina guna komponen sebenar awak dan semak hasil kerjanya sendiri berdasarkan sistem reka bentuk awak sebelum awak tengok.\n\n> Kawalan susun atur baru membolehkan awak seret, ubah saiz, dan selaraskan elemen terus atas kanvas.\n\n> Claude Design dan Claude Code sekarang boleh bekerjasama dua hala.",
+            "date": "2026-06-17T20:30:57+00:00",
+            "message_id": 8395,
+            "message_key": "@testingcatalog:8395"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Scheduled tasks on ChatGPT got an upgrade along with a new dedicated page. \n\nAdditionally, OpenAI is sunsetting the ChatGPT Pulse feature available to Pro users. \n\n> A better way to schedule tasks.  Scheduled tasks are faster, more reliable, and easier to manage \n\n> The new scheduled tasks experience is rolling out to Go, Plus, Pro, Business, and Enterprise users on web and mobile.",
+            "translated_text": "OPENAI \ud83d\udd25: Tugasan berjadual di ChatGPT dah dinaik taraf, dan ada halaman khas baru untuknya.\n\nSelain itu, OpenAI akan menamatkan ciri ChatGPT Pulse yang tersedia untuk pengguna Pro.\n\nCara menjadualkan tugasan yang lebih baik. Tugasan berjadual kini lebih pantas, lebih boleh dipercayai, dan lebih mudah diurus.\n\nPengalaman tugasan berjadual yang baru ini sedang dilancarkan kepada pengguna Go, Plus, Pro, Business, dan Enterprise di web dan mudah alih.",
+            "date": "2026-06-17T18:59:18+00:00",
+            "message_id": 8394,
+            "message_key": "@testingcatalog:8394"
         }
     ]
 }
