@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-18T19:31:45.302073",
+    "timestamp": "2026-06-18T22:12:12.915409",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22766,6 +22766,26 @@
             "date": "2026-06-18T16:44:32+00:00",
             "message_id": 8404,
             "message_key": "@testingcatalog:8404"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Code users on Team and Enterprise plans gained access to Artifacts, new interactive pages that can be built based on their Claude Code sessions. \n\nEvery session is an Artifact now \ud83d\udc40",
+            "translated_text": "Pengguna Claude Code yang melanggan pelan Team dan Enterprise kini dah boleh akses Artifacts, iaitu halaman interaktif baru yang boleh dibina berdasarkan sesi Claude Code mereka. Setiap sesi kini adalah Artifact \ud83d\udc40",
+            "date": "2026-06-18T20:31:15+00:00",
+            "message_id": 8410,
+            "message_key": "@testingcatalog:8410"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares GPT-5.6 models for the upcoming release**](https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/)\n\nOpenAI may launch GPT-5.6, Mini, and Pro next week, with early tests pointing to stronger coding, larger context, and lower pricing than Anthropic. A new bidirectional voice model, GPT-Bidi-1, is also expected.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI sedang bersedia dengan model GPT-5.6 untuk pelancaran akan datang**](https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/)\n\nOpenAI mungkin akan melancarkan GPT-5.6, Mini, dan Pro minggu depan. Ujian awal menunjukkan kemampuan pengekodan yang lebih mantap, konteks yang lebih luas, dan harga yang lebih rendah berbanding Anthropic. Model suara dua hala baharu, GPT-Bidi-1, juga dijangka akan diperkenalkan.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-18T20:15:58+00:00",
+            "message_id": 8409,
+            "message_key": "@testingcatalog:8409"
         }
     ]
 }
