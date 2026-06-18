@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-18T04:13:01.407895",
+    "timestamp": "2026-06-18T12:55:44.219080",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22676,6 +22676,16 @@
             "date": "2026-06-18T00:27:31+00:00",
             "message_id": 8396,
             "message_key": "@testingcatalog:8396"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral AI to get Code and Apps features on Vibe**](https://www.testingcatalog.com/mistral-ai-to-get-code-and-apps-features-on-vibe/)\n\nMISTRAL AI \ud83d\udd25: Vibe is being prepared to get a new Code section, likely mirroring functionality of Vibe CLI, and a new Apps section. \n\n> It is still unclear whether we will get a desktop app as well, but it would be really cool. Purely referencing the UI that mirrors the Claude app (Which is about to change soon, btw) \n\n> A new Apps section is marked as \"Work in progress\" and is likely to be a version of AI-powered artifacts that can be deployed and shared. \n\nOnly Le Chaton Fat is remaining \ud83d\udc40\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral AI akan dapat ciri Kod dan Aplikasi di Vibe**](https://www.testingcatalog.com/mistral-ai-to-get-code-and-apps-features-on-vibe/)\n\nMISTRAL AI \ud83d\udd25: Vibe sedang bersiap sedia untuk dapat bahagian Kod yang baru, mungkin akan sama fungsi dengan Vibe CLI, dan juga bahagian Aplikasi yang baru.\n\n> Masih tak jelas lagi sama ada kita akan dapat aplikasi desktop juga, tapi kalau dapat memang best. Ini berdasarkan UI yang nampak macam aplikasi Claude (yang akan berubah tak lama lagi, ngomong-ngomong).\n\n> Bahagian Aplikasi yang baru ni ditanda sebagai \"Work in progress\" dan kemungkinan besar akan jadi versi artifak berkuasa AI yang boleh digunakan dan dikongsi.\n\nTinggal Le Chaton Fat je lagi \ud83d\udc40\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-06-18T11:38:19+00:00",
+            "message_id": 8399,
+            "message_key": "@testingcatalog:8399"
         }
     ]
 }
