@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-18T16:35:40.994137",
+    "timestamp": "2026-06-18T19:31:45.302073",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22716,6 +22716,56 @@
             "date": "2026-06-18T13:24:54+00:00",
             "message_id": 8400,
             "message_key": "@testingcatalog:8400"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Computer now has a Brain, a continuously learning memory system that forms an underlying context graph. \n\nIt makes you willing to feed it with more and more context every day. \n\n> Available as a research preview for all Perplexity Max subscribers.",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Komputer sekarang ada Otak, satu sistem memori yang belajar secara berterusan yang membentuk graf konteks asas.\n\nIa buat kita rasa nak bagi dia lebih banyak konteks setiap hari.\n\n> Boleh didapati sebagai pratonton penyelidikan untuk semua pelanggan Perplexity Max.",
+            "date": "2026-06-18T17:43:14+00:00",
+            "message_id": 8408,
+            "message_key": "@testingcatalog:8408"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-18T17:24:40+00:00",
+            "message_id": 8407,
+            "message_key": "@testingcatalog:8407"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-5.6 and GPT-5.6-Pro models may potentially arrive as soon as next week. \n\nReally soon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Model GPT-5.6 dan GPT-5.6-Pro mungkin akan tiba seawal minggu depan.\n\nMemang tak lama dah \ud83d\udc40",
+            "date": "2026-06-18T17:24:40+00:00",
+            "message_id": 8406,
+            "message_key": "@testingcatalog:8406"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-18T16:44:33+00:00",
+            "message_id": 8405,
+            "message_key": "@testingcatalog:8405"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. \n\nSoon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Keluarga model GPT-5.6 sedang disiapkan untuk pelancaran akan datang, sebab GPT-5.6-Pro dah dikesan sedang diuji.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-06-18T16:44:32+00:00",
+            "message_id": 8404,
+            "message_key": "@testingcatalog:8404"
         }
     ]
 }
