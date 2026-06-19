@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-19T18:57:14.078814",
+    "timestamp": "2026-06-19T22:05:45.982595",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22896,6 +22896,36 @@
             "date": "2026-06-19T18:18:01+00:00",
             "message_id": 627,
             "message_key": "@AItoolboxdaily:627"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity releases Brain Memory System for Perplexity Computer**](https://www.testingcatalog.com/perplexity-releases-brain-memory-system-for-perplexity-computer/)\n\nICYMI: Perplexity\u2019s Brain is a shared memory layer for Search, Computer, and possibly Comet, exposing organized topics, source context, and a 3D knowledge map. It reportedly lifts correctness, recall, and task cost where prior context matters.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity lancarkan Sistem Memori Brain untuk Perplexity Computer**](https://www.testingcatalog.com/perplexity-releases-brain-memory-system-for-perplexity-computer/)\n\nSekadar info: Brain dari Perplexity ni adalah lapisan memori kongsi untuk Search, Computer, dan mungkin juga Comet, yang mendedahkan topik tersusun, konteks sumber, dan peta pengetahuan 3D. Dilaporkan, ia dapat meningkatkan ketepatan, ingatan semula, dan kos tugas di mana konteks sebelumnya penting.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-06-19T21:39:49+00:00",
+            "message_id": 8423,
+            "message_key": "@testingcatalog:8423"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches live Artifacts for Claude Code**](https://www.testingcatalog.com/anthropic-launches-live-artifacts-for-claude-code/)\n\nICYMI: Anthropic launched Artifacts in Claude Code, letting Team and Enterprise users turn coding sessions into live, shareable private web pages. It supports real-time updates, version history, and org-level access controls for technical teams.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic melancarkan Artifacts secara langsung untuk Claude Code**](https://www.testingcatalog.com/anthropic-launches-live-artifacts-for-claude-code/)\n\nUntuk makluman: Anthropic telah melancarkan Artifacts dalam Claude Code, membolehkan pengguna Team dan Enterprise menukar sesi pengekodan mereka menjadi laman web peribadi yang interaktif dan boleh dikongsi. Ia menyokong kemas kini masa nyata, sejarah versi, dan kawalan akses peringkat organisasi untuk pasukan teknikal.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-19T21:38:24+00:00",
+            "message_id": 8422,
+            "message_key": "@testingcatalog:8422"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches managed connector access with Okta**](https://www.testingcatalog.com/anthropic-launches-managed-connector-access-with-okta/)\n\nICYMI: Anthropic added enterprise-managed authorization for MCP connectors, starting with Okta. Admins can provision and revoke connector access through their IdP, granting teams first-login access across Claude tools with support for major providers.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic melancarkan akses penyambung terurus dengan Okta**](https://www.testingcatalog.com/anthropic-launches-managed-connector-access-with-okta/)\n\nUntuk makluman: Anthropic dah tambah kebenaran yang diuruskan di peringkat syarikat untuk penyambung MCP, bermula dengan Okta. Admin boleh beri dan tarik balik akses penyambung melalui IdP mereka, membolehkan pasukan dapat akses log masuk pertama untuk semua alatan Claude dengan sokongan daripada penyedia utama.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-19T21:33:39+00:00",
+            "message_id": 8421,
+            "message_key": "@testingcatalog:8421"
         }
     ]
 }
