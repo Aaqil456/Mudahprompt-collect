@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-18T22:12:12.915409",
+    "timestamp": "2026-06-19T01:44:40.649676",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22786,6 +22786,36 @@
             "date": "2026-06-18T20:15:58+00:00",
             "message_id": 8409,
             "message_key": "@testingcatalog:8409"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A Realtime Voice Mode on Codex will trigger a Pet or an Orb to appear!\n\n> Users will be able to invoke them with the \"Hey Chat\" command.\n\n> The Orb mentioned in the Realtime Voice settings is likely the same Orb we see on ChatGPT today. \n\n> Additionally, Codex will get a Library section in the side nav, the same section we see on ChatGPT. \n\nCodex = ChatGPT soon \ud83d\udc40\n\n* The video shows that Pet has been summoned via the Voice Mode button.",
+            "translated_text": "OPENAI \ud83d\udd25: Mod Suara Masa Nyata di Codex nanti akan buat Pet atau Orb muncul!\n\n> Pengguna boleh panggil mereka guna arahan \"Hey Chat\".\n\n> Orb yang disebut dalam tetapan Suara Masa Nyata tu mungkin Orb yang sama kita nampak dekat ChatGPT sekarang.\n\n> Selain tu, Codex nanti akan ada bahagian Library dekat navigasi sisi, sama macam bahagian yang kita nampak dekat ChatGPT.\n\nCodex = ChatGPT tak lama lagi \ud83d\udc40\n\n* Video tu tunjuk yang Pet dah dipanggil guna butang Mod Suara.",
+            "date": "2026-06-19T00:57:02+00:00",
+            "message_id": 8414,
+            "message_key": "@testingcatalog:8414"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares real-time voice mode for Pets in Codex**](https://www.testingcatalog.com/openai-prepares-real-time-voice-mode-for-pets-in-codex/)\n\nOpenAI appears close to adding real-time voice to Codex, with app clues pointing to shared design and session logic with ChatGPT. \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI sedang menyediakan mod suara masa nyata untuk haiwan peliharaan dalam Codex**](https://www.testingcatalog.com/openai-prepares-real-time-voice-mode-for-pets-in-codex/)\n\nOpenAI nampaknya hampir untuk menambah suara masa nyata ke Codex, dengan petunjuk aplikasi yang menunjukkan reka bentuk dan logik sesi yang dikongsi dengan ChatGPT.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-19T00:54:24+00:00",
+            "message_id": 8413,
+            "message_key": "@testingcatalog:8413"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Codex now has a new Record & Replay plugin that captures your actions and converts your workflow into an executable skill.\n\nMy workflow \ud83d\udc40\n\n* Not available in EEA, UK, and Switzerland yet",
+            "translated_text": "OPENAI \ud83d\udd25: Codex kini ada plugin Record & Replay baharu yang merekodkan tindakan anda dan tukarkan aliran kerja anda jadi kemahiran yang boleh dilaksanakan.\n\nAliran kerja saya \ud83d\udc40\n\n* Belum tersedia di EEA, UK, dan Switzerland lagi",
+            "date": "2026-06-18T22:25:41+00:00",
+            "message_id": 8411,
+            "message_key": "@testingcatalog:8411"
         }
     ]
 }
