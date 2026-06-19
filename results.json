@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-19T01:44:40.649676",
+    "timestamp": "2026-06-19T07:09:13.439312",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22816,6 +22816,16 @@
             "date": "2026-06-18T22:25:41+00:00",
             "message_id": 8411,
             "message_key": "@testingcatalog:8411"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Enterprise admins can now centrally authorize MCP connectors for their organizations via a new Enterprise-Managed Auth extension.\n\nMass MCP \ud83d\udc40",
+            "translated_text": "Pentadbir Claude Enterprise kini boleh memberi kebenaran secara berpusat kepada penyambung MCP untuk organisasi mereka melalui satu sambungan Pengesahan Terurus-Perusahaan yang baharu.\n\nMCP secara besar-besaran \ud83d\udc40",
+            "date": "2026-06-19T06:55:48+00:00",
+            "message_id": 8415,
+            "message_key": "@testingcatalog:8415"
         }
     ]
 }
