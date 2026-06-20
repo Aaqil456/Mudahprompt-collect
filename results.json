@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-19T22:05:45.982595",
+    "timestamp": "2026-06-20T14:19:23.019974",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -22926,6 +22926,36 @@
             "date": "2026-06-19T21:33:39+00:00",
             "message_id": 8421,
             "message_key": "@testingcatalog:8421"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on \"Schedules\" for its upcoming Claude Conway. \n\n> Recurrent triggers that wake Conway on a schedule. Survive container restarts. \n\nSuper excited to see how Conway will work with all these planned features.",
+            "translated_text": "Anthropic sedang membangunkan \"Schedules\" untuk Claude Conway mereka yang akan datang.\n\n> Pencetus berulang yang membangunkan Conway mengikut jadual. Bertahan daripada permulaan semula kontena.\n\nTak sabar nak tengok macam mana Conway akan berfungsi dengan semua ciri yang dirancang ini.",
+            "date": "2026-06-20T14:09:00+00:00",
+            "message_id": 8425,
+            "message_key": "@testingcatalog:8425"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on a new Artifact type for NotebookLM called \"Lit review\". In this mode, NotebookLM will be able to \"Generate a Literature Review Matrix\" based on your sources. \n\nConsidering upcoming additions of Google Play Books and Text Books as sources, Google is planning to push new use cases for readers and writers. \n\nWill it be able to map out all characters from \"A Song of Ice and Fire\"?",
+            "translated_text": "Google sedang usahakan satu jenis Artifact baru untuk NotebookLM yang dipanggil \"Lit review\". Dalam mod ni, NotebookLM akan boleh \"Jana Matriks Ulasan Literatur\" berdasarkan sumber-sumber awak.\n\nDengan penambahan Google Play Books dan Text Books sebagai sumber tak lama lagi, Google merancang untuk memperkenalkan kegunaan baru untuk pembaca dan penulis.\n\nMampukah ia petakan semua watak dari \"A Song of Ice and Fire\"?",
+            "date": "2026-06-20T11:55:48+00:00",
+            "message_id": 8424,
+            "message_key": "@testingcatalog:8424"
+        },
+        {
+            "channel_link": "https://t.me/AItoolboxdaily",
+            "channel_type": "AI Tools",
+            "channel_username": "@AItoolboxdaily",
+            "original_text": "**Anthropic just released a **[**free startup playbook**](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/69fe2a55b93bb0732b1fe33c_The-Founders-Playbook-05062026_v3%20(1).pdf)** written with Claude.**\n\nThe **Founders Playbook** contains practical prompts, workflows, and templates for product research, customer interviews, market analysis, hiring, fundraising, and day-to-day startup operations.\n\nInstead of asking \"how should I use AI?\", founders can now copy proven workflows used by real startups and run them directly with Claude. Read [more here](https://claude.com/blog/the-founders-playbook).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "translated_text": "Anthropic baru saja keluarkan [buku panduan startup percuma](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/69fe2a55b93bb0732b1fe33c_The-Founders-Playbook-05062026_v3%20(1).pdf) yang ditulis dengan bantuan Claude.\n\n**Founders Playbook** ni ada prompt, aliran kerja, dan templat yang praktikal untuk penyelidikan produk, temu bual pelanggan, analisis pasaran, pengambilan pekerja, pengumpulan dana, dan operasi harian startup.\n\nDaripada asyik tanya \"macam mana nak guna AI ni?\", pengasas startup sekarang boleh tiru aliran kerja yang dah terbukti yang digunakan oleh startup sebenar dan jalankan terus dengan Claude. Baca [lebih lanjut di sini](https://claude.com/blog/the-founders-playbook).\n\n[\ud83e\udde0 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+            "date": "2026-06-20T13:34:01+00:00",
+            "message_id": 628,
+            "message_key": "@AItoolboxdaily:628"
         }
     ]
 }
