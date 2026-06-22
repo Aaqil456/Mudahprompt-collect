@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-22T15:53:48.704609",
+    "timestamp": "2026-06-22T19:31:13.063374",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23036,6 +23036,26 @@
             "date": "2026-06-22T14:36:40+00:00",
             "message_id": 4,
             "message_key": "@AItoolboxdaily:4"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-22T16:33:04+00:00",
+            "message_id": 8433,
+            "message_key": "@testingcatalog:8433"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude for mobile is getting Cowork support soon!\n\nUsers will be able to trigger Cowork tasks on mobile and view scheduled tasks in the app. \n\n> Keep Cowork going when you are on the go\n> Start and steer tasks directly from your phone \n> Check in from your phone, browser, or Claude desktop app\n> Work continues in the background, even when you close the app\n\nh/t DevMode\n@testingcatalog",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude versi mudah alih akan dapat sokongan Cowork tak lama lagi!\n\nPengguna akan boleh memulakan tugasan Cowork dari telefon dan melihat tugasan yang dijadualkan dalam aplikasi.\n\n> Teruskan Cowork semasa anda dalam perjalanan\n> Mulakan dan uruskan tugasan terus dari telefon anda\n> Semak dari telefon anda, pelayar, atau aplikasi desktop Claude\n> Kerja berterusan di latar belakang, walaupun anda menutup aplikasi\n\nKredit kepada DevMode\n@testingcatalog",
+            "date": "2026-06-22T16:33:04+00:00",
+            "message_id": 8432,
+            "message_key": "@testingcatalog:8432"
         }
     ]
 }
