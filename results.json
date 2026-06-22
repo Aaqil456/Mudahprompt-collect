@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-22T19:31:13.063374",
+    "timestamp": "2026-06-22T22:04:56.697188",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23056,6 +23056,36 @@
             "date": "2026-06-22T16:33:04+00:00",
             "message_id": 8432,
             "message_key": "@testingcatalog:8432"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches new security tools and updates GPT-5.5-Cyber**](https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/)\n\nOpenAI expands Daybreak from bug discovery to patch delivery with Codex Security, limited GPT-5.5-Cyber access, partner distribution, and Patch the Planet for open-source projects, targeting validated fixes across enterprise, government, and OSS.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan alatan keselamatan baharu dan mengemas kini GPT-5.5-Cyber**](https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/)\n\nOpenAI memperluaskan Daybreak, kini bukan sahaja untuk mencari pepijat, malah turut menguruskan penghantaran patch. Ini termasuklah dengan Codex Security, akses terhad kepada GPT-5.5-Cyber, pengedaran melalui rakan kongsi, dan Patch the Planet untuk projek sumber terbuka. Semua ini bertujuan untuk memastikan pembetulan yang disahkan dapat digunakan merentasi syarikat besar, kerajaan, dan projek sumber terbuka (OSS).\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-22T21:42:11+00:00",
+            "message_id": 8436,
+            "message_key": "@testingcatalog:8436"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Sakana AI releases Fugu Ultra system to rival top AI labs**](https://www.testingcatalog.com/sakana-ai-releases-fugu-ultra-system-to-rival-top-ai-labs/)\n\nSakana AI launched Fugu Ultra, a public OpenAI-compatible orchestration model for complex engineering, research, cybersecurity, and data analysis.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Sakana AI melancarkan sistem Fugu Ultra untuk menyaingi makmal AI terkemuka**](https://www.testingcatalog.com/sakana-ai-releases-fugu-ultra-system-to-rival-top-ai-labs/)\n\nSakana AI telah melancarkan Fugu Ultra, sebuah model orkestrasi yang serasi dengan OpenAI dan boleh diakses umum. Ia direka untuk kegunaan dalam bidang kejuruteraan kompleks, penyelidikan, keselamatan siber, dan analisis data.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-06-22T21:41:53+00:00",
+            "message_id": 8435,
+            "message_key": "@testingcatalog:8435"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI announces GPT-5.5-Cyber (new) model update, which scores 85.6% on CyberGym benchmark in comparison to 81.9% in its early version. \n\nCodex got a new Security plugin too \ud83d\udc40",
+            "translated_text": "OpenAI mengumumkan kemas kini model GPT-5.5-Cyber (baru), yang mencatat 85.6% dalam penanda aras CyberGym berbanding 81.9% dalam versi awalnya. Codex pun dapat plugin Keselamatan baru juga \ud83d\udc40",
+            "date": "2026-06-22T21:00:00+00:00",
+            "message_id": 8434,
+            "message_key": "@testingcatalog:8434"
         }
     ]
 }
