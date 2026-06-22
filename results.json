@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-21T19:45:27.219502",
+    "timestamp": "2026-06-22T10:40:45.160947",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23016,6 +23016,16 @@
             "date": "2026-06-21T18:20:52+00:00",
             "message_id": 8429,
             "message_key": "@testingcatalog:8429"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Sakana AI announced the Sakana Fugu and Sakana Fugu Ultra systems, which perform on par with Claude Fable 5 and Mythos 5 across many benchmarks.\n\n> Sakana AI is an AI lab from Japan, and Fugu is an orchestration model trained to operate other LLMs. \n\n> It is available as an API but not yet accessible in the EEA region. \n\nThat's a natural evolution. Orchestration multi-model systems will outperform single-model systems, and they will become much more accessible for smaller labs and companies to build. \n\nBig players will have to consider building orchestrating systems that rely on models built by competitors. It is already happening at Meta, Apple, and Microsoft, and will likely catch Google, Anthropic, and OpenAI as well eventually.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Sakana AI dah umumkan sistem Sakana Fugu dan Sakana Fugu Ultra, yang mana prestasinya setanding dengan Claude Fable 5 dan Mythos 5 dalam banyak ujian penanda aras.\n\n> Sakana AI ni makmal AI dari Jepun, dan Fugu pula adalah model orkestrasi yang dilatih untuk mengendalikan LLM lain.\n\n> Ia boleh didapati sebagai API tapi belum lagi boleh diakses di rantau EEA.\n\nItu memang satu evolusi semula jadi. Sistem multi-model orkestrasi ni nanti akan mengatasi sistem model tunggal, dan ia akan jadi lebih mudah diakses untuk makmal dan syarikat kecil bina.\n\nPemain-pemain besar nanti kena fikirkan untuk bina sistem orkestrasi yang bergantung pada model yang dibina oleh pesaing. Benda ni dah pun berlaku dekat Meta, Apple, dan Microsoft, dan kemungkinan besar akan melibatkan Google, Anthropic, dan OpenAI juga akhirnya.",
+            "date": "2026-06-22T08:02:25+00:00",
+            "message_id": 8431,
+            "message_key": "@testingcatalog:8431"
         }
     ]
 }
