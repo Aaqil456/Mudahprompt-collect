@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-22T22:04:56.697188",
+    "timestamp": "2026-06-23T00:08:47.640971",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23086,6 +23086,26 @@
             "date": "2026-06-22T21:00:00+00:00",
             "message_id": 8434,
             "message_key": "@testingcatalog:8434"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests literature review matrix tool for NotebookLM**](https://www.testingcatalog.com/google-tests-literature-review-matrix-tool-for-notebooklm/)\n\nGoogle is developing a NotebookLM \u201cLit Review\u201d artifact that turns uploaded sources into a literature review matrix. Aimed at research-heavy reading, it may connect with Play Books, but launch timing and citation reliability remain unclear.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**Google sedang menguji alat matriks ulasan literatur untuk NotebookLM**](https://www.testingcatalog.com/google-tests-literature-review-matrix-tool-for-notebooklm/)\n\nGoogle sedang membangunkan satu artifak \u201cLit Review\u201d untuk NotebookLM yang boleh menukar sumber yang dimuat naik menjadi matriks ulasan literatur. Ia direka khas untuk bacaan yang banyak melibatkan penyelidikan, dan mungkin boleh disambungkan dengan Play Books. Tapi, bila akan dilancarkan dan sejauh mana kebolehpercayaan rujukan masih belum pasti.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-06-22T22:41:07+00:00",
+            "message_id": 8438,
+            "message_key": "@testingcatalog:8438"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Flashcards are now editable on NotebookLM \ud83d\udc40\n\nUsers can adjust the text of questions and answers, plus add new cards to the stack. \n\nFlashcardLM \u26a1\ufe0f",
+            "translated_text": "Flashcard dah boleh diedit di NotebookLM \ud83d\udc40\n\nPengguna boleh ubah teks soalan dan jawapan, lepas tu boleh tambah kad baru dalam set tu.\n\nFlashcardLM \u26a1\ufe0f",
+            "date": "2026-06-22T22:17:49+00:00",
+            "message_id": 8437,
+            "message_key": "@testingcatalog:8437"
         }
     ]
 }
