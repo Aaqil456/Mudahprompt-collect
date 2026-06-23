@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T17:58:50.572122",
+    "timestamp": "2026-06-23T20:17:12.036320",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23196,6 +23196,16 @@
             "date": "2026-06-23T16:36:17+00:00",
             "message_id": 8447,
             "message_key": "@testingcatalog:8447"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ClickUp rolls out Brain\u00b2 AI with deep workspace context**](https://www.testingcatalog.com/clickup-rolls-out-brain2-ai-with-deep-workspace-context/)\n\nClickUp relaunched Brain\u00b2 as a context-aware AI coworker that acts across workspace data, picks models per task, creates deliverables and agents, cites sources, and supports secure, permission-aware work management.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**ClickUp Perkenalkan Brain\u00b2 AI dengan Pemahaman Mendalam Konteks Ruang Kerja**](https://www.testingcatalog.com/clickup-rolls-out-brain2-ai-with-deep-workspace-context/)\n\nClickUp melancarkan semula Brain\u00b2 sebagai rakan sekerja AI yang peka konteks. Ia boleh beroperasi merentasi data ruang kerja, memilih model mengikut tugas, mencipta hasil kerja dan ejen, menyebut sumber, dan menyokong pengurusan kerja yang selamat serta peka kebenaran.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-06-23T19:44:58+00:00",
+            "message_id": 8449,
+            "message_key": "@testingcatalog:8449"
         }
     ]
 }
