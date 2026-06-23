@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T00:08:47.640971",
+    "timestamp": "2026-06-23T05:03:18.108656",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23106,6 +23106,26 @@
             "date": "2026-06-22T22:17:49+00:00",
             "message_id": 8437,
             "message_key": "@testingcatalog:8437"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OpenAI is preparing \"Bidi 1\" for the upcoming web release! \n\n> A new voice model will be available in settings, alongside standard and advanced options. \n> Voice mode bubble will have a Yellow color instead of blue. \n\nHow soon? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OpenAI sedang siapkan \"Bidi 1\" untuk pelancaran web yang akan datang!\n\n> Model suara baru akan tersedia dalam tetapan, bersama pilihan standard dan lanjutan.\n> Gelembung mod suara akan berwarna Kuning, bukan biru.\n\nBila agaknya? \ud83d\udc40",
+            "date": "2026-06-23T00:45:44+00:00",
+            "message_id": 8440,
+            "message_key": "@testingcatalog:8440"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares Cowork support for mobile apps**](https://www.testingcatalog.com/anthropic-prepares-cowork-support-for-mobile-apps/)\n\nAnthropic\u2019s iOS app hints at Cowork shifting from desktop-tethered Dispatch to cloud and web, enabling mobile task runs and a unified scheduled-actions view. App code also points to a selectable voice model, suggesting a coming refresh.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic sedang menyediakan sokongan Cowork untuk aplikasi mudah alih**](https://www.testingcatalog.com/anthropic-prepares-cowork-support-for-mobile-apps/)\n\nAplikasi iOS Anthropic memberi bayangan bahawa Cowork akan beralih daripada Dispatch yang terikat dengan desktop kepada awan dan web, membolehkan tugasan dijalankan melalui mudah alih dan paparan tindakan berjadual yang seragam. Kod aplikasi juga menunjukkan model suara yang boleh dipilih, menandakan kemas kini akan datang.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-23T00:13:21+00:00",
+            "message_id": 8439,
+            "message_key": "@testingcatalog:8439"
         }
     ]
 }
