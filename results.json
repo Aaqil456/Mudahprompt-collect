@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T22:17:24.857283",
+    "timestamp": "2026-06-23T23:59:54.703334",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23226,6 +23226,26 @@
             "date": "2026-06-23T21:46:16+00:00",
             "message_id": 8450,
             "message_key": "@testingcatalog:8450"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches AI glasses with three new styles from $299**](https://www.testingcatalog.com/meta-launches-ai-glasses-with-three-new-styles-from-299/)\n\nMeta launched AI-powered Meta Glasses with EssilorLuxottica, offering 26 prescription-compatible styles from $299. Features include open-ear audio, hands-free capture, 8-hour battery life, and Meta AI with live translation support.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Meta lancarkan cermin mata AI dengan tiga gaya baharu bermula dari $299**](https://www.testingcatalog.com/meta-launches-ai-glasses-with-three-new-styles-from-299/)\n\nMeta dah lancarkan Meta Glasses berkuasa AI bersama EssilorLuxottica, menawarkan 26 gaya yang serasi dengan preskripsi bermula dari $299. Ciri-cirinya termasuklah audio telinga terbuka, rakaman tanpa guna tangan, hayat bateri 8 jam, dan Meta AI dengan sokongan terjemahan langsung.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-06-23T22:37:34+00:00",
+            "message_id": 8453,
+            "message_key": "@testingcatalog:8453"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Tag on Team and Enterprise plans**](https://www.testingcatalog.com/anthropic-launches-claude-tag-on-team-and-enterprise-plans/)\n\nAnthropic launched Claude Tag, a Slack-based team agent for Claude Enterprise and Team users. It works in shared channels, uses channel-scoped permissions and admin controls, and shifts Slack work billing from individuals to organizations.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic lancarkan Claude Tag untuk pelan Team dan Enterprise**](https://www.testingcatalog.com/anthropic-lunches-claude-tag-on-team-and-enterprise-plans/)\n\nAnthropic dah lancarkan Claude Tag, ejen pasukan berasaskan Slack untuk pengguna Claude Enterprise dan Team. Ia berfungsi dalam saluran yang dikongsi, guna kebenaran skop saluran dan kawalan admin, dan alihkan bil kerja Slack daripada individu kepada organisasi.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-23T22:24:03+00:00",
+            "message_id": 8452,
+            "message_key": "@testingcatalog:8452"
         }
     ]
 }
