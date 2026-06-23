@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T20:17:12.036320",
+    "timestamp": "2026-06-23T22:17:24.857283",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23206,6 +23206,26 @@
             "date": "2026-06-23T19:44:58+00:00",
             "message_id": 8449,
             "message_key": "@testingcatalog:8449"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral launches OCR 4 for multilingual document extraction**](https://www.testingcatalog.com/mistral-launches-ocr-4-for-multilingual-document-extraction/)\n\nMistral OCR 4 targets enterprise document understanding with structured extraction, block classification, confidence scoring, and support for 170 languages. It posts strong benchmark results, lower cost, faster processing, and flexible deployment.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral melancarkan OCR 4 untuk pengekstrakkan dokumen pelbagai bahasa**](https://www.testingcatalog.com/mistral-launches-ocr-4-for-multilingual-document-extraction/)\n\nMistral OCR 4 menyasarkan pemahaman dokumen perusahaan dengan pengekstrakkan berstruktur, pengelasan blok, skor keyakinan, dan sokongan untuk 170 bahasa. Ia mencatat keputusan penanda aras yang mantap, kos yang lebih rendah, pemprosesan yang lebih pantas, dan penggunaan yang fleksibel.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-06-23T22:03:59+00:00",
+            "message_id": 8451,
+            "message_key": "@testingcatalog:8451"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta announced a new series of Meta Glasses in partnership with EssilorLuxottica.\n\n> Compatible with prescription lenses.\n> 26 styles across a range of colors, lenses, and frames.\n> Launching with Meta AI powered by Muse Spark from day one.\n\nWhile my Meta HSTN still didn't get Muse Spark, tho",
+            "translated_text": "Meta mengumumkan siri baru Meta Glasses dengan kerjasama EssilorLuxottica.\n\n> Boleh pakai dengan kanta preskripsi.\n> Ada 26 gaya dengan pelbagai warna, jenis kanta, dan bingkai.\n> Dilancarkan dengan Meta AI yang dikuasakan oleh Muse Spark dari hari pertama lagi.\n\nWalaupun Meta HSTN saya masih belum dapat Muse Spark lagi.",
+            "date": "2026-06-23T21:46:16+00:00",
+            "message_id": 8450,
+            "message_key": "@testingcatalog:8450"
         }
     ]
 }
