@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T05:03:18.108656",
+    "timestamp": "2026-06-23T09:45:17.973279",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23126,6 +23126,46 @@
             "date": "2026-06-23T00:13:21+00:00",
             "message_id": 8439,
             "message_key": "@testingcatalog:8439"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: An upcoming Bidi 1 voice model will be able to translate in real-time! \n\nThis will unlock a huge pile of use cases to be built on top of when it lands on the APIs.",
+            "translated_text": "OPENAI \ud83d\udd25: Model suara Bidi 1 yang bakal keluar nanti akan dapat menterjemah secara langsung!\n\nIni akan membuka banyak sangat kes penggunaan untuk dibangunkan bila ia dah ada dekat API nanti.",
+            "date": "2026-06-23T09:27:05+00:00",
+            "message_id": 8444,
+            "message_key": "@testingcatalog:8444"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares bidirectional voice mode for rollout on ChatGPT**](https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/)\n\nOpenAI is testing Bidi 1, a bidirectional voice model for ChatGPT that can listen and speak at once, handle interruptions, retain context, and reduce unwanted cut-ins. A wider web and mobile rollout may begin soon.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI sedang siapkan mod suara dua hala untuk dilancarkan di ChatGPT**](https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/)\n\nOpenAI sedang menguji Bidi 1, satu model suara dua hala untuk ChatGPT. Model ni boleh dengar dan bercakap serentak, uruskan gangguan, ingat balik konteks perbualan, dan kurangkan percakapan yang tak sengaja terpotong. Pelancaran yang lebih meluas untuk web dan aplikasi mudah alih mungkin akan bermula tak lama lagi.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-23T09:00:11+00:00",
+            "message_id": 8443,
+            "message_key": "@testingcatalog:8443"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: First tests of \"Bidi 1\", an upcoming bidirectional voice model from OpenAI. This upgrade will arrive in ChatGPT and, potentially, in Codex soon as well. \n\n> Bidi 1 can speak over while you are talking and keep listening. \n> Bidi 1 can switch between tasks back and force mid-sentence.\n> Bidi 1 is much better at handling interruptions and pauses. \n> Bidi 1 can better keep and memorize the context while you speak. \n\nThere is still a cap on how long it can keep speaking, which is expected, but it easily counted to 23 without pausing. \n\n* Bidi 1 is not available yet, but given all the recent preparations, we will get it very, very soon.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Ujian pertama untuk \"Bidi 1\", model suara dwiarah yang akan datang dari OpenAI. Peningkatan ini akan tiba di ChatGPT dan, mungkin, di Codex tak lama lagi.\n\n> Bidi 1 boleh bercakap walaupun anda sedang bercakap, dan ia akan terus mendengar.\n> Bidi 1 boleh bertukar-tukar tugas di tengah-tengah ayat.\n> Bidi 1 lebih baik dalam mengendalikan gangguan dan jeda.\n> Bidi 1 boleh menyimpan dan mengingati konteks dengan lebih baik semasa anda bercakap.\n\nMasih ada had berapa lama ia boleh terus bercakap, dan ini memang dijangka, tapi ia boleh mengira sampai 23 dengan mudah tanpa henti.\n\n* Bidi 1 belum tersedia lagi, tapi dengan semua persiapan yang dibuat baru-baru ini, kita akan dapatkannya tak lama lagi, sangat-sangat tak lama lagi.",
+            "date": "2026-06-23T08:09:07+00:00",
+            "message_id": 8442,
+            "message_key": "@testingcatalog:8442"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BYTEDANCE \ud83d\udd25: Seedance 2.5 has been officially announced, along with an updated Seedance 2.0. \n\n- Seedance 2.0 now supports 4k output\n- Seedance 2.5 will be able to generate 30-second videos in one go\n- ByteDance also announced a new AI copyright commercialization platform\n\nThis video ad is stunning \ud83d\udc40",
+            "translated_text": "BYTEDANCE \ud83d\udd25: Seedance 2.5 dah diumumkan secara rasmi, bersama dengan Seedance 2.0 yang dikemaskini.\n\n- Seedance 2.0 sekarang dah sokong output 4k\n- Seedance 2.5 nanti boleh hasilkan video 30 saat dalam satu kali jalan je\n- ByteDance pun umumkan platform komersialisasi hak cipta AI yang baru\n\nIklan video ni memang gempak \ud83d\udc40",
+            "date": "2026-06-23T06:20:19+00:00",
+            "message_id": 8441,
+            "message_key": "@testingcatalog:8441"
         }
     ]
 }
