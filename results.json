@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T15:51:01.218944",
+    "timestamp": "2026-06-23T17:58:50.572122",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23176,6 +23176,26 @@
             "date": "2026-06-23T15:22:32+00:00",
             "message_id": 8445,
             "message_key": "@testingcatalog:8445"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic launched Claude Tag for Team and Enterprise users. \n\nClaude Tag works in Slack and can tackle more complex tasks, break them down into smaller milestones, and integrate with connected tools. \n\nA new AI coworker \ud83d\udc40",
+            "translated_text": "Anthropic dah lancarkan Claude Tag untuk pengguna Team dan Enterprise.\n\nClaude Tag boleh guna dalam Slack, dan boleh selesaikan tugas yang lebih kompleks, pecahkan kepada langkah-langkah kecil, serta berhubung dengan alatan lain.\n\nRakan sekerja AI yang baru \ud83d\udc40",
+            "date": "2026-06-23T17:40:41+00:00",
+            "message_id": 8448,
+            "message_key": "@testingcatalog:8448"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI launched OCR 4 \ud83d\udc40\n\n> Win rates averaging 72%, alongside the top overall score on OlmOCRBench (85.20).\n> Alongside the extracted text, OCR 4 returns bounding boxes, typed-block classification, and inline confidence scores.\n> OCR 4 is an ingestion component of Search Toolkit, Mistral's open-source, composable search framework.\n> Support for 170 languages across 10 language groups.\n> OCR 4 is compact enough to run in a single container.",
+            "translated_text": "Mistral AI dah lancarkan OCR 4 \ud83d\udc40\n\n> Purata kadar kemenangan 72%, serta skor keseluruhan tertinggi di OlmOCRBench (85.20).\n> Selain teks yang diekstrak, OCR 4 berikan kotak sempadan, klasifikasi blok bertaip, dan skor keyakinan sebaris.\n> OCR 4 adalah komponen pengambilan data untuk Search Toolkit, rangka kerja carian sumber terbuka dan boleh gubah dari Mistral.\n> Menyokong 170 bahasa merentasi 10 kumpulan bahasa.\n> OCR 4 cukup padat untuk dijalankan dalam satu kontena.",
+            "date": "2026-06-23T16:36:17+00:00",
+            "message_id": 8447,
+            "message_key": "@testingcatalog:8447"
         }
     ]
 }
