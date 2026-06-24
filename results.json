@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-24T19:49:18.028573",
+    "timestamp": "2026-06-24T23:05:19.766361",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23306,6 +23306,16 @@
             "date": "2026-06-24T18:45:42+00:00",
             "message_id": 8459,
             "message_key": "@testingcatalog:8459"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google Flow Agent can now use Google Maps Street View grounding to generate images and videos. Only works with US locations at this moment.\n\n> \"Your Google Flow Agent can now generate images and videos grounded in Google Maps Street View, giving your scenes real-world details and accuracy, whether you are placing characters in a local scene, stylizing a city landmark, or reimagining your favorite neighborhood.\"\n\n> \"To use the feature, enable Agent mode and use a named location or a street address in your prompt. This feature is available globally, but currently only for US locations.\"",
+            "translated_text": "Google Flow Agent kini boleh guna Google Maps Street View sebagai asas untuk hasilkan imej dan video. Buat masa ni, ia cuma berfungsi untuk lokasi di AS.\n\n\"Google Flow Agent anda kini boleh hasilkan imej dan video yang berasaskan Google Maps Street View. Ini akan berikan adegan anda butiran dan ketepatan dunia sebenar, tak kira sama ada anda letakkan watak dalam pemandangan tempatan, gayakan mercu tanda bandar, atau bayangkan semula kejiranan kegemaran anda.\"\n\n\"Untuk guna ciri ni, aktifkan mod Agent dan gunakan lokasi bernama atau alamat jalan dalam arahan anda. Ciri ni tersedia di seluruh dunia, tapi buat masa ni hanya untuk lokasi di AS.\"",
+            "date": "2026-06-24T21:53:59+00:00",
+            "message_id": 8460,
+            "message_key": "@testingcatalog:8460"
         }
     ]
 }
