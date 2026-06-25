@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-24T23:05:19.766361",
+    "timestamp": "2026-06-25T07:47:29.534673",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23316,6 +23316,26 @@
             "date": "2026-06-24T21:53:59+00:00",
             "message_id": 8460,
             "message_key": "@testingcatalog:8460"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-25T07:20:51+00:00",
+            "message_id": 8462,
+            "message_key": "@testingcatalog:8462"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: OpenAI upgraded its GPT-5.5-Instant model on ChatGPT for paid users and free users are getting it as well, shortly. \n\n> It handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive.\n\nMost of you won\u2019t use it but there are also loads of free users who will.",
+            "translated_text": "ICYMI \ud83d\udc40: OpenAI dah *upgrade* model GPT-5.5-Instant di ChatGPT untuk pengguna berbayar. Pengguna percuma pun akan dapat tak lama lagi.\n\nModel ni boleh menguruskan batasan yang rumit dengan lebih baik, dan buat cadangan beli-belah serta tempatan jadi lebih berguna dan tersusun.\n\nMungkin ramai yang takkan guna, tapi ada juga ramai pengguna percuma yang akan manfaatkan.",
+            "date": "2026-06-25T07:20:51+00:00",
+            "message_id": 8461,
+            "message_key": "@testingcatalog:8461"
         }
     ]
 }
