@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-25T21:45:39.461529",
+    "timestamp": "2026-06-25T23:20:17.242643",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23436,6 +23436,16 @@
             "date": "2026-06-25T21:13:22+00:00",
             "message_id": 8470,
             "message_key": "@testingcatalog:8470"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MISTRAL \ud83d\udd25: Mistral reinforces its executive leadership team in order to scale its global expansion. \n\n> Johan Bergqvist is appointed Chief Financial Officer\n\n> Brian Hall is appointed Chief Marketing Officer\n\n> Kamal Brar is appointed SVP, Partners & Alliances",
+            "translated_text": "MISTRAL \ud83d\udd25: Mistral memperkukuh pasukan kepimpinan eksekutifnya untuk mengembangkan operasi globalnya.\n\n> Johan Bergqvist dilantik sebagai Ketua Pegawai Kewangan\n> Brian Hall dilantik sebagai Ketua Pegawai Pemasaran\n> Kamal Brar dilantik sebagai Naib Presiden Kanan, Rakan Kongsi & Perikatan",
+            "date": "2026-06-25T21:53:05+00:00",
+            "message_id": 8473,
+            "message_key": "@testingcatalog:8473"
         }
     ]
 }
