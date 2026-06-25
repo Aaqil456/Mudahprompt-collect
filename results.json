@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-25T16:27:32.304468",
+    "timestamp": "2026-06-25T19:06:26.271339",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23396,6 +23396,16 @@
             "date": "2026-06-25T13:45:20+00:00",
             "message_id": 8464,
             "message_key": "@testingcatalog:8464"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini app for macOS will get Computer Use support and will be able to operate other desktop devices remotely. \n\nUsers will have an option to \"Connect another Mac\" from the attachment menu on the prompt bar. \n\nClosing feature gaps \ud83e\udd16",
+            "translated_text": "GOOGLE \ud83d\udd25: Aplikasi Gemini untuk macOS akan dapat sokongan 'Computer Use' dan boleh kawal peranti desktop lain dari jauh.\n\nPengguna boleh pilih untuk 'Connect another Mac' dari menu lampiran pada bar prompt.\n\nMelengkapkan lagi ciri-ciri \ud83e\udd16",
+            "date": "2026-06-25T17:24:25+00:00",
+            "message_id": 8469,
+            "message_key": "@testingcatalog:8469"
         }
     ]
 }
