@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T16:19:42.772999",
+    "timestamp": "2026-06-26T18:53:55.614598",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23476,6 +23476,26 @@
             "date": "2026-06-26T14:57:31+00:00",
             "message_id": 8476,
             "message_key": "@testingcatalog:8476"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GPT-5.6 Sol reaches Mythos Preview level at cybersecurity tasks. \n\n> It shifts the performance-efficiency frontier for long-horizon security tasks, including vulnerability research and exploitation.\n\nIs this line between Mythos Preview and Mythos 5 what gets you banned by the government if you cross it?",
+            "translated_text": "GPT-5.6 Sol dah sampai tahap Mythos Preview untuk tugasan keselamatan siber.\n\n> Ia mengubah sempadan prestasi-kecekapan untuk tugasan keselamatan jangka panjang, termasuk penyelidikan kerentanan dan eksploitasi.\n\nGarisan antara Mythos Preview dengan Mythos 5 ni ke yang akan buat kau kena ban dengan kerajaan kalau kau langgar?",
+            "date": "2026-06-26T17:40:26+00:00",
+            "message_id": 8478,
+            "message_key": "@testingcatalog:8478"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OPENAI LAUNCHED GPT-5.6 MODEL FAMILY UNDER NEW SOL, TERRA, AND LUNA MODEL NAMES.\n\n> Sol is a new flagship model \ud83e\udd16\n> Terra is a performance model with 2x lower cost.  \n> Luna is the most cost-efficient model.\n\nGPT-5.6 models are introduced as a \"limited preview\".",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OPENAI dah lancarkan keluarga model GPT-5.6 dengan nama model baharu Sol, Terra, dan Luna.\n\n- Sol ni model utama yang baru \ud83e\udd16\n- Terra pula model berprestasi dengan kos 2 kali ganda lebih rendah.\n- Luna ni model paling jimat kos.\n\nModel-model GPT-5.6 ni diperkenalkan sebagai \"pratonton terhad\".",
+            "date": "2026-06-26T17:35:14+00:00",
+            "message_id": 8477,
+            "message_key": "@testingcatalog:8477"
         }
     ]
 }
