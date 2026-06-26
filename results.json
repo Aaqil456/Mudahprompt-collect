@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T10:54:28.629882",
+    "timestamp": "2026-06-26T16:19:42.772999",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23466,6 +23466,16 @@
             "date": "2026-06-26T09:49:45+00:00",
             "message_id": 8475,
             "message_key": "@testingcatalog:8475"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is working on enhanced use of PowerPoint and Excel with Computer Use on Codex via add-ons. \n\n> Let Codex use Microsoft Excel add-in for additional control\n> Let Codex use Microsoft PowerPoint add-in for additional control\n\nComputer Use is expanding as a general interface between AI agents and other software.",
+            "translated_text": "OpenAI sedang usahakan penggunaan PowerPoint dan Excel yang lebih baik dengan Computer Use pada Codex melalui add-on.\n\n> Biar Codex guna Microsoft Excel add-in untuk kawalan tambahan.\n> Biar Codex guna Microsoft PowerPoint add-in untuk kawalan tambahan.\n\nComputer Use semakin berkembang sebagai antaramuka umum antara ejen AI dan perisian lain.",
+            "date": "2026-06-26T14:57:31+00:00",
+            "message_id": 8476,
+            "message_key": "@testingcatalog:8476"
         }
     ]
 }
