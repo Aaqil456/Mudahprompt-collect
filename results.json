@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T18:53:55.614598",
+    "timestamp": "2026-06-26T22:16:35.878689",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23496,6 +23496,36 @@
             "date": "2026-06-26T17:35:14+00:00",
             "message_id": 8477,
             "message_key": "@testingcatalog:8477"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released Design Variations for AI Studio! \n\nThis feature would generate several design proposals when selected, so users can apply them to their Build apps. \n\nThemes support planned as well \ud83d\udc40",
+            "translated_text": "Google dah keluarkan Design Variations untuk AI Studio!\n\nFungsi ni akan hasilkan beberapa cadangan reka bentuk bila dipilih, jadi pengguna boleh terus pakai untuk aplikasi Build diorang.\n\nSokongan tema pun dirancang jugak \ud83d\udc40",
+            "date": "2026-06-26T22:07:53+00:00",
+            "message_id": 8481,
+            "message_key": "@testingcatalog:8481"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.6 Sol preview for select partners**](https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-preview-for-select-partners/)\n\nOpenAI began a limited GPT-5.6 preview with Sol, Terra, and Luna. Sol matches GPT-5.5 pricing with stronger coding, biology, and cyber results; Terra cuts cost in half. Broader API, Codex, and ChatGPT access is planned soon.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan pratonton GPT-5.6 Sol untuk rakan kongsi terpilih**](https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-preview-for-select-partners/)\n\nOpenAI telah memulakan pratonton terhad GPT-5.6 bersama Sol, Terra, dan Luna. Sol menawarkan harga yang setanding dengan GPT-5.5, tetapi dengan hasil yang lebih mantap dalam pengekodan, biologi, dan siber; manakala Terra pula mengurangkan kos separuh. Akses API, Codex, dan ChatGPT yang lebih meluas dirancang tidak lama lagi.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-26T21:16:48+00:00",
+            "message_id": 8480,
+            "message_key": "@testingcatalog:8480"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft adds Copilot finance tools to Excel for M365 users**](https://www.testingcatalog.com/microsoft-adds-copilot-finance-tools-to-excel-for-m365-users/)\n\nMicrosoft is adding Copilot for Excel features for finance teams, including custom skills, new data connectors, and traceable changes. The update supports repeatable workflows, trusted data access, and review across key financial tasks.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "translated_text": "[**Microsoft menambah alat kewangan Copilot ke Excel untuk pengguna M365**](https://www.testingcatalog.com/microsoft-adds-copilot-finance-tools-to-excel-for-m365-users/)\n\nMicrosoft sedang menambah ciri-ciri Copilot untuk Excel bagi pasukan kewangan, termasuk kemahiran tersuai, penyambung data baharu, dan perubahan yang boleh dikesan. Kemaskini ini menyokong aliran kerja yang boleh diulang, akses data yang dipercayai, dan semakan merentasi tugas kewangan utama.\n\n\ud83d\uddde #microsoftcopilot @testingcatalog",
+            "date": "2026-06-26T21:13:35+00:00",
+            "message_id": 8479,
+            "message_key": "@testingcatalog:8479"
         }
     ]
 }
