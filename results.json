@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T03:55:20.412808",
+    "timestamp": "2026-06-26T10:54:28.629882",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23456,6 +23456,16 @@
             "date": "2026-06-26T00:12:03+00:00",
             "message_id": 8474,
             "message_key": "@testingcatalog:8474"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google has a hidden MCP integration config on Gemini for macOS but it is yet unclear if MCPs will ever become available over there. \n\nTbh, I am not getting why it is that challenging to simply enable MCPs across Gemini products. \n\nIt is quite an essential feature that opens up a ton of use cases. \n\nIt would also let Google to get more data about tool use for training. \n\nWhy? \ud83d\udc40",
+            "translated_text": "Google ada konfigurasi integrasi MCP tersembunyi pada Gemini untuk macOS, tapi masih tak jelas sama ada MCPs akan tersedia di sana.\n\nJujurnya, saya tak faham kenapa susah sangat nak aktifkan MCPs pada semua produk Gemini.\n\nIni ciri yang penting sangat dan boleh buka banyak sangat kegunaan.\n\nIa juga akan bagi Google dapat lebih banyak data tentang penggunaan alat untuk latihan.\n\nKenapa? \ud83d\udc40",
+            "date": "2026-06-26T09:49:45+00:00",
+            "message_id": 8475,
+            "message_key": "@testingcatalog:8475"
         }
     ]
 }
