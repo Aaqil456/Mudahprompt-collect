@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-27T14:43:34.311388",
+    "timestamp": "2026-06-27T18:06:10.622322",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23536,6 +23536,26 @@
             "date": "2026-06-27T12:42:40+00:00",
             "message_id": 8482,
             "message_key": "@testingcatalog:8482"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft launches MAI-Code-1-Flash on GitHub Copilot**](https://www.testingcatalog.com/microsoft-launches-mai-code-1-flash-on-github-copilot/)\n\nMicrosoft has made MAI-Code-1-Flash generally available to GitHub Copilot Business and Enterprise users, offering fast, low-latency code generation for large teams, with access controlled by admin policy and usage-based pricing.\n\n\ud83d\uddde #github @testingcatalog",
+            "translated_text": "[**Microsoft Lancarkan MAI-Code-1-Flash di GitHub Copilot**](https://www.testingcatalog.com/microsoft-launches-mai-code-1-flash-on-github-copilot/)\n\nMicrosoft kini telah menyediakan MAI-Code-1-Flash secara umum kepada pengguna GitHub Copilot Business dan Enterprise, menawarkan penjanaan kod yang pantas dan responsif untuk pasukan besar, dengan akses dikawal oleh dasar pentadbir dan harga berdasarkan penggunaan.\n\n\ud83d\uddde #github @testingcatalog",
+            "date": "2026-06-27T17:57:31+00:00",
+            "message_id": 8484,
+            "message_key": "@testingcatalog:8484"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Google adds Computer Use to Gemini 3.5 Flash**](https://www.testingcatalog.com/icymi-google-adds-computer-use-to-gemini-3-5-flash/)\n\nGoogle has integrated computer use into Gemini 3.5 Flash, giving developers and enterprises native agentic automation across browser, mobile, and desktop, with security controls for sensitive actions and prompt injection defense.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "translated_text": "[**Kalau korang terlepas pandang: Google tambah fungsi penggunaan komputer pada Gemini 3.5 Flash**](https://www.testingcatalog.com/icymi-google-adds-computer-use-to-gemini-3-5-flash/)\n\nGoogle dah gabungkan fungsi penggunaan komputer ke dalam Gemini 3.5 Flash. Ini memberi keupayaan kepada pembangun dan syarikat untuk automasi berasaskan ejen secara asli merentasi pelayar, mudah alih, dan desktop, siap dengan kawalan keselamatan untuk tindakan sensitif dan pertahanan suntikan prompt.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "date": "2026-06-27T17:48:54+00:00",
+            "message_id": 8483,
+            "message_key": "@testingcatalog:8483"
         }
     ]
 }
