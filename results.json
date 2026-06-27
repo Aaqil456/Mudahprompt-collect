@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-26T22:16:35.878689",
+    "timestamp": "2026-06-27T14:43:34.311388",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23526,6 +23526,16 @@
             "date": "2026-06-26T21:13:35+00:00",
             "message_id": 8479,
             "message_key": "@testingcatalog:8479"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests notebook collections for NotebookLM**](https://www.testingcatalog.com/google-tests-notebook-collections-for-notebooklm/)\n\nGoogle is reportedly testing NotebookLM collections to group notebooks under one heading, addressing a long-missing top-level organization gap. If released, the feature could reduce navigation strain for users managing large notebook libraries.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**Google sedang menguji koleksi buku nota untuk NotebookLM**](https://www.testingcatalog.com/google-tests-notebook-collections-for-notebooklm/)\n\nGoogle dilaporkan sedang menguji koleksi NotebookLM. Ini untuk mengumpulkan buku nota di bawah satu tajuk, bagi mengisi jurang organisasi peringkat atasan yang sudah lama tiada. Jika dilancarkan, ciri ini boleh mengurangkan kesukaran navigasi untuk pengguna yang mengurus perpustakaan buku nota yang besar.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-06-27T12:42:40+00:00",
+            "message_id": 8482,
+            "message_key": "@testingcatalog:8482"
         }
     ]
 }
