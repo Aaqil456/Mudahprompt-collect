@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-28T00:05:07.952707",
+    "timestamp": "2026-06-28T08:55:20.367454",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23596,6 +23596,26 @@
             "date": "2026-06-28T00:01:55+00:00",
             "message_id": 8486,
             "message_key": "@testingcatalog:8486"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares upgraded Excel and PowerPoint controls for Codex**](https://www.testingcatalog.com/openai-prepares-upgraded-excel-and-powerpoint-controls-for-codex/)\n\nOpenAI may add Office-specific controls to Codex via Microsoft add-ins for Excel and PowerPoint, giving it structured access to slides and spreadsheets. \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI Sediakan Kawalan Excel dan PowerPoint Yang Dinaik Taraf Untuk Codex**](https://www.testingcatalog.com/openai-prepares-upgraded-excel-and-powerpoint-controls-for-codex/)\n\nOpenAI mungkin akan masukkan kawalan khusus untuk Office ke dalam Codex, melalui add-in Microsoft bagi Excel dan PowerPoint. Ini akan beri Codex akses berstruktur kepada slaid dan spreadsheet.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-28T08:28:01+00:00",
+            "message_id": 8491,
+            "message_key": "@testingcatalog:8491"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI tests gifting Codex credits as new growth strategy**](https://www.testingcatalog.com/openai-tests-gifting-codex-credits-as-new-growth-strategy/)\n\nOpenAI appears to be laying groundwork for Codex credit gifting, with hidden UI and a dead link hinting at future rollout plans. \n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI uji pemberian kredit Codex sebagai strategi pertumbuhan baharu**](https://www.testingcatalog.com/openai-tests-gifting-codex-credits-as-new-growth-strategy/)\n\nOpenAI nampaknya sedang merancang untuk bagi-bagi kredit Codex, dengan UI tersembunyi dan pautan yang tak berfungsi memberi bayangan tentang rancangan pelancaran akan datang.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-06-28T08:23:13+00:00",
+            "message_id": 8490,
+            "message_key": "@testingcatalog:8490"
         }
     ]
 }
