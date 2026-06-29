@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T17:39:51.150304",
+    "timestamp": "2026-06-29T20:00:42.031091",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23736,6 +23736,26 @@
             "date": "2026-06-29T16:33:47+00:00",
             "message_id": 8501,
             "message_key": "@testingcatalog:8501"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-29T18:01:01+00:00",
+            "message_id": 8507,
+            "message_key": "@testingcatalog:8507"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Update: Cursor iOS app is now available in EU as well!",
+            "translated_text": "Update: Aplikasi Cursor iOS sudah tersedia di EU juga!",
+            "date": "2026-06-29T18:01:01+00:00",
+            "message_id": 8506,
+            "message_key": "@testingcatalog:8506"
         }
     ]
 }
