@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T21:41:35.462318",
+    "timestamp": "2026-06-29T23:00:08.964267",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23776,6 +23776,16 @@
             "date": "2026-06-29T21:37:27+00:00",
             "message_id": 8508,
             "message_key": "@testingcatalog:8508"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor releases its iOS app for vibe coding on the go**](https://www.testingcatalog.com/cursor-releases-its-ios-app-for-vibe-coding-on-the-go/)\n\nCursor\u2019s iOS app, now in public beta for paid users, turns iPhones into control hubs for coding agents. It supports repo selection, voice commands, diff review, PR merges, cloud VMs, and remote control of local sessions.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "translated_text": "[**Cursor melancarkan aplikasi iOS mereka untuk coding santai di mana-mana sahaja**](https://www.testingcatalog.com/cursor-releases-its-ios-app-for-vibe-coding-on-the-go/)\n\nAplikasi iOS Cursor, yang kini dalam beta awam untuk pengguna berbayar, mengubah iPhone menjadi hab kawalan untuk ejen pengekodan. Ia menyokong pemilihan repo, arahan suara, semakan diff, penggabungan PR, VM awan, dan kawalan jauh sesi tempatan.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "date": "2026-06-29T22:34:27+00:00",
+            "message_id": 8510,
+            "message_key": "@testingcatalog:8510"
         }
     ]
 }
