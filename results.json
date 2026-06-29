@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T04:08:21.747736",
+    "timestamp": "2026-06-29T17:39:51.150304",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23686,6 +23686,56 @@
             "date": "2026-06-28T23:37:49+00:00",
             "message_id": 8498,
             "message_key": "@testingcatalog:8498"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor released an iOS app \ud83d\udd25\n\n> Users will be able to check live activities and follow up on ongoing tasks. \n\n> PR reviews with diff viewer will be supported as well. \n\nLooks like it is not available in the EU though.",
+            "translated_text": "Cursor dah keluarkan aplikasi iOS \ud83d\udd25\n\nPengguna boleh semak aktiviti secara langsung dan ikut perkembangan tugasan yang sedang berjalan.\n\nSemakan PR dengan 'diff viewer' pun akan disokong juga.\n\nTapi, nampaknya ia tak tersedia di EU.",
+            "date": "2026-06-29T17:27:00+00:00",
+            "message_id": 8505,
+            "message_key": "@testingcatalog:8505"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI and Work Louder are about to announce a mechanical keyboard for Codex on July 15!\n\nSoon \ud83d\udc40",
+            "translated_text": "OpenAI dan Work Louder akan umumkan papan kekunci mekanikal untuk Codex pada 15 Julai!\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-06-29T17:08:03+00:00",
+            "message_id": 8504,
+            "message_key": "@testingcatalog:8504"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cline has launched ClinePass, a flat monthly subscription that opens access to a curated set of open-weight coding models across its IDE extensions, CLI, and SDK.\n\nThe current lineup includes GLM 5.2, Kimi K2.7 Code, DeepSeek V4 Pro, MiniMax-M3, and Qwen3.7, with a subscription replacing separate API keys across providers.",
+            "translated_text": "Cline dah lancarkan ClinePass, satu langganan bulanan tetap yang buka akses kepada koleksi model pengekodan 'open-weight' yang terpilih melalui sambungan IDE, CLI, dan SDK mereka. Barisan model yang ada sekarang termasuklah GLM 5.2, Kimi K2.7 Code, DeepSeek V4 Pro, MiniMax-M3, dan Qwen3.7, dan langganan ini akan ganti kunci API yang berasingan dari setiap penyedia.",
+            "date": "2026-06-29T16:35:00+00:00",
+            "message_id": 8503,
+            "message_key": "@testingcatalog:8503"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-29T16:33:47+00:00",
+            "message_id": 8502,
+            "message_key": "@testingcatalog:8502"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek app for iOS has been updated and now supports Vision mode, too. \n\n> Vision capability was added to the web version earlier this year. \n\nDo you use DeepSeek app? \ud83d\udc40",
+            "translated_text": "DeepSeek app untuk iOS dah dikemaskini dan sekarang sokong mod Vision jugak.\n\nFungsi Vision ni dah ditambah pada versi web awal tahun ni.\n\nAwak guna DeepSeek app tak? \ud83d\udc40",
+            "date": "2026-06-29T16:33:47+00:00",
+            "message_id": 8501,
+            "message_key": "@testingcatalog:8501"
         }
     ]
 }
