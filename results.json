@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-30T17:57:40.158560",
+    "timestamp": "2026-06-30T20:06:25.123254",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23906,6 +23906,56 @@
             "date": "2026-06-30T15:39:39+00:00",
             "message_id": 8520,
             "message_key": "@testingcatalog:8520"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Sonnet 5 model on Claude and APIs**](https://www.testingcatalog.com/anthropic-launches-claude-sonnet-5-model-on-claude-and-apis/)\n\nAnthropic launched Claude Sonnet 5 with stronger reasoning, coding, and autonomous tool use. Available across all Claude plans and API access, it offers near-Opus performance at lower cost, with pricing from $2/$10 per million tokens.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic melancarkan model Claude Sonnet 5 di Claude dan API**](https://www.testingcatalog.com/anthropic-launches-claude-sonnet-5-model-on-claude-and-apis/)\n\nAnthropic telah melancarkan Claude Sonnet 5 dengan keupayaan penaakulan, pengekodan, dan penggunaan alat autonomi yang lebih mantap. Model ini boleh didapati untuk semua pelan Claude dan akses API, menawarkan prestasi hampir setanding Opus pada kos yang lebih rendah, dengan harga bermula dari $2/$10 untuk setiap juta token.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-30T18:34:06+00:00",
+            "message_id": 8530,
+            "message_key": "@testingcatalog:8530"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Sonnet 5 has been officially announced, offering a close to Opus 4.8 performance at a lower price. \n\nSonnet 5 scored 63.2% on SWE Bench Pro, up from 58.1% for Sonnet 4.6. \n\nHave you tried it already? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Sonnet 5 dah diumumkan secara rasmi, menawarkan prestasi yang hampir sama dengan Opus 4.8 tapi dengan harga lebih rendah.\n\nSonnet 5 dapat skor 63.2% dekat SWE Bench Pro, naik dari 58.1% untuk Sonnet 4.6.\n\nDah cuba ke belum? \ud83d\udc40",
+            "date": "2026-06-30T18:21:50+00:00",
+            "message_id": 8529,
+            "message_key": "@testingcatalog:8529"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-30T18:01:37+00:00",
+            "message_id": 8528,
+            "message_key": "@testingcatalog:8528"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Benchmarks \ud83d\udc40",
+            "translated_text": "Penanda Aras \ud83d\udc40",
+            "date": "2026-06-30T18:01:37+00:00",
+            "message_id": 8527,
+            "message_key": "@testingcatalog:8527"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Claude Sonnet 5 is rolling out to all users on Claude and APIs!\n\n> Smarter and more efficient for everyday work.\n\nThe time has come \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Claude Sonnet 5 sedang dilancarkan kepada semua pengguna di Claude dan API!\nLebih pintar dan lebih cekap untuk kerja harian.\nMasanya sudah tiba \ud83d\udc40",
+            "date": "2026-06-30T17:57:54+00:00",
+            "message_id": 8526,
+            "message_key": "@testingcatalog:8526"
         }
     ]
 }
