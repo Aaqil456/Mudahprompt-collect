@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T23:00:08.964267",
+    "timestamp": "2026-06-30T09:40:14.117134",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23786,6 +23786,16 @@
             "date": "2026-06-29T22:34:27+00:00",
             "message_id": 8510,
             "message_key": "@testingcatalog:8510"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meituan released LongCat-2.0, a new 1.6T parameter model with 1M context window! \n\n> Both the full training run and the large-scale deployment are built entirely on AI ASIC superpods.\n\nIt is also available for testing on OpenRouter under the Owl Alpha name.",
+            "translated_text": "Meituan dah keluarkan LongCat-2.0, satu model parameter 1.6T baru yang ada tetingkap konteks 1M.\n\nProses latihan penuh dan penggunaan berskala besar untuk model ni, semuanya dibina sepenuhnya atas superpod AI ASIC.\n\nModel ni pun boleh dicuba di OpenRouter, bawah nama Owl Alpha.",
+            "date": "2026-06-30T07:55:01+00:00",
+            "message_id": 8511,
+            "message_key": "@testingcatalog:8511"
         }
     ]
 }
