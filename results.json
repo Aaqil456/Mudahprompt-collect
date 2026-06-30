@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-30T15:32:45.502100",
+    "timestamp": "2026-06-30T17:57:40.158560",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23856,6 +23856,56 @@
             "date": "2026-06-30T14:57:34+00:00",
             "message_id": 8518,
             "message_key": "@testingcatalog:8518"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-30T17:38:12+00:00",
+            "message_id": 8525,
+            "message_key": "@testingcatalog:8525"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Sonnet 5 is being prepared for the release on OpenRouter under a 20260630 slug which points at today\u2019s release. \n\nSoon? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Sonnet 5 sedang disiapkan untuk dilancarkan di OpenRouter di bawah slug 20260630 yang merujuk kepada pelancaran hari ini.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-06-30T17:38:12+00:00",
+            "message_id": 8524,
+            "message_key": "@testingcatalog:8524"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Besides Nano Banana 2 Lite, Google also announced Gemini Omni Flash Preview on APIs and Google AI Studio!\n\n> Omni Flash is SOTA at video editing at $0.10 / sec, same as Veo 3.1 Fast!\n\nFlashes everywhere \u26a1\ufe0f",
+            "translated_text": "GOOGLE \ud83d\udd25: Selain Nano Banana 2 Lite, Google turut mengumumkan Gemini Omni Flash Preview pada API dan Google AI Studio!\n\n> Omni Flash adalah SOTA dalam penyuntingan video pada harga $0.10 / saat, sama seperti Veo 3.1 Fast!\n\nFlash di mana-mana \u26a1\ufe0f",
+            "date": "2026-06-30T16:21:11+00:00",
+            "message_id": 8523,
+            "message_key": "@testingcatalog:8523"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Desktop app is finally available to Linux users in Beta. \n\n> Both Claude Code and Cowork are included.\n> Computer Use is not available yet. \n\nIt happened! \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Aplikasi desktop Claude akhirnya dah boleh guna untuk pengguna Linux dalam versi Beta.\n\n> Claude Code dan Cowork, dua-dua sekali ada.\n> Fungsi Computer Use belum ada lagi.\n\nDah jadi pun! \ud83d\udc40",
+            "date": "2026-06-30T16:13:59+00:00",
+            "message_id": 8522,
+            "message_key": "@testingcatalog:8522"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: gemini-3.1-flash-lite-image (Nano Banana 2 Lite) is now available on Google AI Studio! \n\n> Our smallest and most cost-effective image generation and editing model, built for at-scale usage.\n> Image Input: $0.25 / Output: $0.0336. \n\nTiny banana \ud83c\udf4c",
+            "translated_text": "GOOGLE \ud83d\udd25: gemini-3.1-flash-lite-image (Nano Banana 2 Lite) dah ada dekat Google AI Studio!\n\n> Model kami yang paling kecil dan paling jimat kos untuk jana dan edit imej, dibina untuk kegunaan secara meluas.\n> Untuk input imej: $0.25 / Untuk output: $0.0336.\n\nPisang comel \ud83c\udf4c",
+            "date": "2026-06-30T15:39:39+00:00",
+            "message_id": 8520,
+            "message_key": "@testingcatalog:8520"
         }
     ]
 }
