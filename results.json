@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-30T09:40:14.117134",
+    "timestamp": "2026-06-30T12:11:03.352020",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23796,6 +23796,56 @@
             "date": "2026-06-30T07:55:01+00:00",
             "message_id": 8511,
             "message_key": "@testingcatalog:8511"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-30T11:49:07+00:00",
+            "message_id": 8516,
+            "message_key": "@testingcatalog:8516"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5 is being prepared to run on usage credits that would also require identity verification. Sonnet 5 is being prepared for the release as well. \n\n> Your credits will be added once your identity is verified.\n\n> Fable 5 runs on usage credits, billed separately from your plan.\n\nWith this in mind, it is highly likely that we will see \u201cUS only\u201d access restrictions.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5 sedang disiapkan untuk beroperasi menggunakan kredit penggunaan yang juga memerlukan pengesahan identiti. Sonnet 5 pun sedang disiapkan untuk pelancaran.\n\n> Kredit anda akan ditambah sebaik sahaja identiti anda disahkan.\n\n> Fable 5 beroperasi menggunakan kredit penggunaan, yang dibilkan secara berasingan daripada pelan anda.\n\nDengan ini, kemungkinan besar kita akan melihat sekatan akses 'US only'.",
+            "date": "2026-06-30T11:49:07+00:00",
+            "message_id": 8515,
+            "message_key": "@testingcatalog:8515"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-30T11:20:32+00:00",
+            "message_id": 8514,
+            "message_key": "@testingcatalog:8514"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Nano Banana 2 Lite image generation model is on the horizon!\n\n> \"Introducing Nano Banana 2 Lite for ultra-fast, cost-efficient image generation, and Gemini Omni Flash for powerful video creation with conversational, step-by-step editing\"",
+            "translated_text": "GOOGLE \ud83d\udd25: Model penjanaan imej baru, Nano Banana 2 Lite, dah nak muncul!\n\n> \"Memperkenalkan Nano Banana 2 Lite untuk hasilkan imej dengan super pantas dan jimat kos, dan Gemini Omni Flash untuk buat video yang power dengan suntingan interaktif, langkah demi langkah.\"",
+            "date": "2026-06-30T11:20:32+00:00",
+            "message_id": 8513,
+            "message_key": "@testingcatalog:8513"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meituan launches LongCat-2.0 1.6T parameter model on APIs**](https://www.testingcatalog.com/meituan-launches-longcat-2-0-1-6t-parameter-model-on-apis/)\n\nMeituan launched LongCat-2.0, a 1.6T-parameter MoE model for coding, tool use, long-context tasks, and complex workflows. It offers a 1M-token context via API, with public docs and pricing live, while model weights are still pending.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Meituan Lancarkan Model Parameter 1.6T LongCat-2.0 Melalui API**](https://www.testingcatalog.com/meituan-launches-longcat-2-0-1-6t-parameter-model-on-apis/)\n\nMeituan telah melancarkan LongCat-2.0, sebuah model MoE dengan parameter 1.6T untuk pengekodan, penggunaan alatan, tugasan konteks panjang, dan aliran kerja yang kompleks. Ia menawarkan konteks 1M-token melalui API, dengan dokumen awam dan harga yang sudah tersedia, manakala berat model masih belum dikeluarkan.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-06-30T10:52:22+00:00",
+            "message_id": 8512,
+            "message_key": "@testingcatalog:8512"
         }
     ]
 }
