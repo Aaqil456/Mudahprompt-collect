@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T15:44:32.993252",
+    "timestamp": "2026-07-01T20:05:58.997874",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24086,6 +24086,16 @@
             "date": "2026-07-01T14:02:40+00:00",
             "message_id": 8540,
             "message_key": "@testingcatalog:8540"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Claude Fable 5 is back!!!\n\n> Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. If you hit your limit, you can continue on Fable 5 with usage credits. Fable 5 draws down usage faster than Opus 4.8.\n\nPaid Claude users can access Fable 5 on the web, desktop, and on mobile!",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Claude Fable 5 dah kembali!!!\n\n> Sehingga 7 Julai, anda boleh guna sehingga 50% daripada had penggunaan mingguan pelan anda di Fable 5. Kalau dah capai had, anda masih boleh teruskan guna Fable 5 dengan kredit penggunaan. Fable 5 guna penggunaan lebih cepat berbanding Opus 4.8.\n\nPengguna Claude berbayar boleh akses Fable 5 melalui web, desktop, dan juga di telefon bimbit!",
+            "date": "2026-07-01T19:40:26+00:00",
+            "message_id": 8544,
+            "message_key": "@testingcatalog:8544"
         }
     ]
 }
