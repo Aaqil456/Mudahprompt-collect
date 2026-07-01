@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-30T22:16:08.920077",
+    "timestamp": "2026-07-01T00:10:14.896657",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -23966,6 +23966,46 @@
             "date": "2026-06-30T22:09:22+00:00",
             "message_id": 8531,
             "message_key": "@testingcatalog:8531"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic may impose KYC restrictions for Fable 5 access**](https://www.testingcatalog.com/anthropic-may-impose-kyc-restrictions-for-fable-5-access/)\n\nClaude Fable 5 may return under paid usage credits with identity verification, likely to meet US export limits. Anthropic has not confirmed timing or final access terms.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic mungkin akan kenakan sekatan KYC untuk akses Fable 5**](https://www.testingcatalog.com/anthropic-may-impose-kyc-restrictions-for-fable-5-access/)\n\nClaude Fable 5 mungkin akan kembali dengan kredit penggunaan berbayar bersama pengesahan identiti, kemungkinan besar untuk memenuhi had eksport AS. Anthropic belum sahkan masa atau syarat akses akhir.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-06-30T22:52:05+00:00",
+            "message_id": 8535,
+            "message_key": "@testingcatalog:8535"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-06-30T22:40:11+00:00",
+            "message_id": 8534,
+            "message_key": "@testingcatalog:8534"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Export Controls might be lifted from Claude Fable 5 as early as today, according to Politico. \n\nLifted for US users? Monitoring \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-06-30T22:40:11+00:00",
+            "message_id": 8533,
+            "message_key": "@testingcatalog:8533"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Early look at Claude Science, a new app designed for scientific research. \n\n> \"Artifacts traced to their code, environments managed on demand, and 60+ optional scientific databases that you can connect.\"\n\nClaude Science was named \"Operon\" during development and is now being distributed as a desktop app. Interestingly, the app acts as a local web server, and its UI runs in your browser. \n\nSome unique features include the ability to create dedicated \"Categories\" in Memory and to create custom agents, called \"Specialists\".\n\nWe need this on consumer version too \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-06-30T22:27:05+00:00",
+            "message_id": 8532,
+            "message_key": "@testingcatalog:8532"
         }
     ]
 }
