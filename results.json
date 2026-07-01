@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T09:51:31.813908",
+    "timestamp": "2026-07-01T15:44:32.993252",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24046,6 +24046,46 @@
             "date": "2026-07-01T06:06:32+00:00",
             "message_id": 8538,
             "message_key": "@testingcatalog:8538"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI announced a new Voice Agent Builder available on xAI Console. \n\nUsers can use the conversational agent builder to power their solutions with Grok voices, connectors, and more!",
+            "translated_text": "xAI dah umumkan Voice Agent Builder baharu yang boleh didapati dekat xAI Console. Pengguna boleh guna pembina ejen perbualan ni untuk kuasakan penyelesaian diorang dengan suara Grok, penyambung, dan macam-macam lagi!",
+            "date": "2026-07-01T15:40:58+00:00",
+            "message_id": 8543,
+            "message_key": "@testingcatalog:8543"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-01T14:09:54+00:00",
+            "message_id": 8542,
+            "message_key": "@testingcatalog:8542"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Gemini Flash checkpoint is being tested on LM Arena and may be released under a different version number. \n\nGemini 3.6 Flash and even Gemini 4 Flash are among the possible options. \n\nSoon? \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Checkpoint Gemini Flash yang baru sedang diuji di LM Arena dan mungkin akan dikeluarkan dengan nombor versi yang berbeza.\n\nGemini 3.6 Flash dan juga Gemini 4 Flash adalah antara pilihan yang mungkin.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-07-01T14:09:54+00:00",
+            "message_id": 8541,
+            "message_key": "@testingcatalog:8541"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google might be testing Gemini Flash upgrade on LM Arena**](https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/)\n\nA Gemini Flash checkpoint on LM Arena appears modestly stronger than the current app version, hinting at an upcoming Google release. If real, it could reach the Gemini app, AI Studio, and API first, offering a near-term upgrade while Pro remains delayed.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google mungkin sedang menguji peningkatan Gemini Flash di LM Arena**](https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/)\n\nSatu 'checkpoint' Gemini Flash di LM Arena nampak sedikit lebih kuat berbanding versi aplikasi sekarang, memberi bayangan tentang pelancaran baharu dari Google. Kalau betul, ia mungkin akan sampai ke aplikasi Gemini, AI Studio, dan API dulu, menawarkan peningkatan segera sementara Pro masih tertangguh.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-07-01T14:02:40+00:00",
+            "message_id": 8540,
+            "message_key": "@testingcatalog:8540"
         }
     ]
 }
