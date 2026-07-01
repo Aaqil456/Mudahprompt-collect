@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T00:10:14.896657",
+    "timestamp": "2026-07-01T05:22:59.304929",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24006,6 +24006,26 @@
             "date": "2026-06-30T22:27:05+00:00",
             "message_id": 8532,
             "message_key": "@testingcatalog:8532"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-01T04:27:05+00:00",
+            "message_id": 8537,
+            "message_key": "@testingcatalog:8537"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Anthropic will be restoring access to Claude Fable 5 globally for all paid users on Wednesday! \n\n> Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits.\n\nAdditionally,\n\n> In the near term, some routine tasks like coding and debugging will fall back to Opus 4.8.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Anthropic akan mengembalikan akses kepada Claude Fable 5 di seluruh dunia untuk semua pengguna berbayar pada hari Rabu!\n\n> Fable 5 akan disertakan sehingga 50% daripada had penggunaan mingguan sehingga 7 Julai, selepas itu ia akan tersedia melalui kredit penggunaan.\n\nSelain itu,\n\n> Dalam masa terdekat, beberapa tugas rutin seperti pengekodan dan penyahpepijatan akan kembali menggunakan Opus 4.8.",
+            "date": "2026-07-01T04:27:05+00:00",
+            "message_id": 8536,
+            "message_key": "@testingcatalog:8536"
         }
     ]
 }
