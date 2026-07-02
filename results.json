@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T20:05:58.997874",
+    "timestamp": "2026-07-02T00:10:00.465348",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24096,6 +24096,26 @@
             "date": "2026-07-01T19:40:26+00:00",
             "message_id": 8544,
             "message_key": "@testingcatalog:8544"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early look at Anthropic's Claude Science app for researchers**](https://www.testingcatalog.com/early-look-at-anthropics-claude-science-app-for-researchers/)\n\nAnthropic launched Claude Science in beta, a research workbench for life sciences with 60+ scientific tools, HPC and SSH support, reproducible artifact tracing, and reviewer agents for validation on macOS and Linux.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Tinjauan awal aplikasi Claude Science dari Anthropic untuk penyelidik**](https://www.testingcatalog.com/early-look-at-anthropics-claude-science-app-for-researchers/)\n\nAnthropic telah melancarkan Claude Science dalam versi beta, sebuah platform kerja penyelidikan untuk sains hayat yang dilengkapi dengan lebih 60 alat saintifik, sokongan HPC dan SSH, penjejakan artifak yang boleh dihasilkan semula, serta ejen penyemak untuk pengesahan pada macOS dan Linux.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-07-01T22:29:07+00:00",
+            "message_id": 8546,
+            "message_key": "@testingcatalog:8546"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Nano Banana 2 Lite and Gemini Omni Flash**](https://www.testingcatalog.com/google-launches-nano-banana-2-lite-and-gemini-omni-flash/)\n\nICYMI: Google launched Nano Banana 2 Lite and Gemini Omni Flash for fast, low-cost image and video creation. Nano Banana 2 Lite delivers images in under 4 seconds, while Omni Flash supports multimodal video editing up to 10 seconds.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "translated_text": "Google lancarkan Nano Banana 2 Lite dan Gemini Omni Flash\n\nUntuk yang mungkin terlepas: Google dah lancarkan Nano Banana 2 Lite dan Gemini Omni Flash untuk hasilkan imej dan video dengan pantas, pada kos yang rendah. Nano Banana 2 Lite boleh hasilkan imej dalam masa kurang 4 saat, manakala Omni Flash pula sokong suntingan video multimodal sehingga 10 saat.\n\n\ud83d\uddde #aistudio @testingcatalog",
+            "date": "2026-07-01T22:28:51+00:00",
+            "message_id": 8545,
+            "message_key": "@testingcatalog:8545"
         }
     ]
 }
