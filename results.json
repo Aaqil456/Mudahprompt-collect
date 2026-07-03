@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-03T00:07:43.980172",
+    "timestamp": "2026-07-03T14:09:42.520393",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24176,6 +24176,16 @@
             "date": "2026-07-02T22:52:14+00:00",
             "message_id": 8553,
             "message_key": "@testingcatalog:8553"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Condense launches proxy to cut AI coding agent bills by up to 72%**](https://www.testingcatalog.com/condense-launches-proxy-to-cut-ai-coding-agent-bills-by-up-to-72/)\n\nCondense.chat opened public access to a proxy that compresses coding-agent context before billing. In tests, it cut costs about 66\u201372% on deep sessions while preserving core prompts and reporting 94.2% answer faithfulness.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Condense memperkenalkan proksi untuk kurangkan bil ejen pengekodan AI sehingga 72%**](https://www.testingcatalog.com/condense-launches-proxy-to-cut-ai-coding-agent-bills-by-up-to-72/)\n\nCondense.chat dah buka akses awam untuk satu proksi yang boleh mampatkan konteks ejen pengekodan sebelum bil dikeluarkan. Bila diuji, ia berjaya kurangkan kos sekitar 66\u201372% untuk sesi yang kompleks, sambil kekalkan arahan utama dan melaporkan ketepatan jawapan 94.2%.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-07-03T13:06:52+00:00",
+            "message_id": 8555,
+            "message_key": "@testingcatalog:8555"
         }
     ]
 }
