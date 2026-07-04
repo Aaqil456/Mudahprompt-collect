@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T16:04:07.026200",
+    "timestamp": "2026-07-04T18:03:22.752028",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24256,6 +24256,36 @@
             "date": "2026-07-04T15:48:49+00:00",
             "message_id": 8562,
             "message_key": "@testingcatalog:8562"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares Scheduled tasks for Meta AI users on web**](https://www.testingcatalog.com/meta-prepares-scheduled-tasks-for-meta-ai-users-on-web/)\n\nICYMI: Meta is testing scheduled tasks for Meta AI on the web, letting users run recurring prompts in-app. At this moment, Meta races rivals, amid claims its next model nears GPT-5.5 on internal tests.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta sedang siapkan tugasan berjadual untuk pengguna Meta AI di web**](https://www.testingcatalog.com/meta-prepares-scheduled-tasks-for-meta-ai-users-on-web/)\n\nSekadar info: Meta sedang menguji tugasan berjadual untuk Meta AI di web, membolehkan pengguna jalankan arahan berulang dalam aplikasi. Sekarang ni, Meta sedang berlumba dengan pesaing, dengan dakwaan model seterusnya hampir setanding GPT-5.5 berdasarkan ujian dalaman.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-07-04T17:59:27+00:00",
+            "message_id": 8565,
+            "message_key": "@testingcatalog:8565"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-04T17:54:25+00:00",
+            "message_id": 8564,
+            "message_key": "@testingcatalog:8564"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is rolling out Dynamic Photo feature for Meta Glasses to more users. \n\nThis feature allows glasses to capture additional frames so you can select the best one later if needed.\n\nMedia templates have also been added to the Media tab recently. \n\nAdditionally, a Fitness section is now visible in the settings but doesn\u2019t seem operational yet. \n\n> Log a workout on your connected device to get insights.",
+            "translated_text": "Meta sedang melancarkan ciri Dynamic Photo untuk Meta Glasses kepada lebih ramai pengguna.\nCiri ini membolehkan cermin mata merakam bingkai tambahan, jadi nanti boleh pilih yang terbaik kalau perlu.\nTemplat media juga dah ditambah ke tab Media baru-baru ini.\nSelain itu, seksyen Fitness dah boleh nampak dalam tetapan tapi macam belum berfungsi lagi.\n> Rekod senaman pada peranti yang bersambung untuk dapatkan info.",
+            "date": "2026-07-04T17:54:25+00:00",
+            "message_id": 8563,
+            "message_key": "@testingcatalog:8563"
         }
     ]
 }
