@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T14:39:05.246616",
+    "timestamp": "2026-07-04T16:04:07.026200",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24246,6 +24246,16 @@
             "date": "2026-07-04T12:42:00+00:00",
             "message_id": 8559,
             "message_key": "@testingcatalog:8559"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests new Gemini Inbox section for Workspace triage**](https://www.testingcatalog.com/google-tests-new-gemini-inbox-section-for-workspace-triage/)\n\nRecent Gemini builds point to an inbox for Workspace users, with follow-up, done, and review filters. The move suggests Google is shifting Gemini from chatbot to task-focused workspace for email triage and automation.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "translated_text": "[**Google sedang uji bahagian Peti Masuk Gemini baharu untuk pengurusan Workspace**](https://www.testingcatalog.com/google-tests-new-gemini-inbox-section-for-workspace-triage/)\n\nVersi Gemini terkini menunjukkan adanya peti masuk untuk pengguna Workspace, lengkap dengan penapis untuk susulan, selesai, dan semakan. Langkah ini membayangkan Google sedang mengubah Gemini daripada chatbot kepada ruang kerja yang fokus pada tugasan untuk pengurusan e-mel dan automasi.\n\n\ud83d\uddde #gemini @testingcatalog",
+            "date": "2026-07-04T15:48:49+00:00",
+            "message_id": 8562,
+            "message_key": "@testingcatalog:8562"
         }
     ]
 }
