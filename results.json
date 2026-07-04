@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-03T16:26:23.823844",
+    "timestamp": "2026-07-04T10:12:16.962653",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24196,6 +24196,26 @@
             "date": "2026-07-03T14:22:09+00:00",
             "message_id": 8556,
             "message_key": "@testingcatalog:8556"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-04T08:57:41+00:00",
+            "message_id": 8558,
+            "message_key": "@testingcatalog:8558"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BYTEDANCE \ud83d\udd25: Dreamina Seedance 2.5 is set for an upcoming release on CupCut and partner apps, potentially as soon as next week. \n\nAdditionally, Seedance 2.5 will be able to generate cinematic videos up to 30 seconds in standard mode, with a beta long-video mode extending clips to 180 seconds.\n\nThat would be huge \ud83d\udc40\n\nh/t x@MarsForTech via DevMode",
+            "translated_text": "BYTEDANCE \ud83d\udd25: Dreamina Seedance 2.5 akan dikeluarkan tidak lama lagi di CupCut dan aplikasi rakan kongsi, mungkin seawal minggu depan.\n\nSelain itu, Seedance 2.5 boleh menjana video sinematik sehingga 30 saat dalam mod standard, dengan mod video panjang beta yang memanjangkan klip sehingga 180 saat.\n\nItu memang hebat \ud83d\udc40\n\nSumber: x@MarsForTech melalui DevMode",
+            "date": "2026-07-04T08:57:41+00:00",
+            "message_id": 8557,
+            "message_key": "@testingcatalog:8557"
         }
     ]
 }
