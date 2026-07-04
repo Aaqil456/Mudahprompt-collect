@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T10:12:16.962653",
+    "timestamp": "2026-07-04T14:39:05.246616",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24216,6 +24216,36 @@
             "date": "2026-07-04T08:57:41+00:00",
             "message_id": 8557,
             "message_key": "@testingcatalog:8557"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI might be preparing GPT-5.6 for next week's release**](https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/)\n\nOpenAI\u2019s GPT-5.6 remains in limited Codex/API preview, with Sol, Terra, and Luna as new tiered models. Codex builds point to a new slider for reasoning depth, while wider release depends on US government review.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI mungkin sedang bersiap sedia untuk melancarkan GPT-5.6 minggu depan**](https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/)\n\nGPT-5.6 dari OpenAI masih dalam pratonton Codex/API yang terhad, dengan Sol, Terra, dan Luna sebagai model berperingkat baharu. Versi binaan Codex menunjukkan satu peluncur baharu untuk kedalaman penaakulan, manakala pelancaran yang lebih meluas bergantung kepada semakan kerajaan AS.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-07-04T14:08:11+00:00",
+            "message_id": 8561,
+            "message_key": "@testingcatalog:8561"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral releases Leanstral 1.5 open model for proof engineering**](https://www.testingcatalog.com/mistral-releases-leanstral-1-5-open-model-for-proof-engineering/)\n\nMistral released Leanstral 1.5, an open-source Lean 4 code agent for formal proofs and verified software. Available via API, Vibe, and Hugging Face, it posts strong benchmark results and found new bugs in 57 Rust repositories.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral Lancarkan Model Terbuka Leanstral 1.5 untuk Kejuruteraan Bukti**](https://www.testingcatalog.com/mistral-releases-leanstral-1-5-open-model-for-proof-engineering/)\n\nMistral telah melancarkan Leanstral 1.5, ejen kod Lean 4 sumber terbuka untuk bukti formal dan perisian yang disahkan. Boleh didapati melalui API, Vibe, dan Hugging Face, ia mencatatkan keputusan penanda aras yang memberangsangkan dan menemui pepijat baharu dalam 57 repositori Rust.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-07-04T12:52:17+00:00",
+            "message_id": 8560,
+            "message_key": "@testingcatalog:8560"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: xAI debuts Grok Voice Agent Builder for Enterprises**](https://www.testingcatalog.com/icymi-xai-debuts-grok-voice-agent-builder-for-enterprises/)\n\nxAI launched Grok Voice Agent Builder, a beta no-code platform for production phone agents. It combines speech, reasoning, tools, guardrails, telephony, and monitoring, with setup in under two minutes from $0.05 per minute.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**Untuk Makluman: xAI Perkenalkan Grok Voice Agent Builder untuk Perniagaan**](https://www.testingcatalog.com/icymi-xai-debuts-grok-voice-agent-builder-for-enterprises/)\n\nxAI dah lancarkan Grok Voice Agent Builder, satu platform no-code versi beta untuk bangunkan ejen telefon. Ia gabungkan ucapan, penaakulan, alatan, kawalan keselamatan, sistem telefon, dan pemantauan, dengan persediaan kurang dari dua minit dan kos bermula dari $0.05 seminit.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-07-04T12:42:00+00:00",
+            "message_id": 8559,
+            "message_key": "@testingcatalog:8559"
         }
     ]
 }
