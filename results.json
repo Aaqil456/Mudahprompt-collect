@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T18:03:22.752028",
+    "timestamp": "2026-07-04T20:09:52.500507",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24286,6 +24286,16 @@
             "date": "2026-07-04T17:54:25+00:00",
             "message_id": 8563,
             "message_key": "@testingcatalog:8563"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ByteDance set to launch Seedance 2.5 with 3-minute AI video output**](https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/)\n\nByteDance appears close to launching Dreamina Seedance 2.5, possibly on July 9. Public pages point to 30-second standard generation, extension to 180 seconds, and rollout across Dreamina, CapCut, and partner platforms.\n\n\ud83d\uddde #bytedance @testingcatalog",
+            "translated_text": "[**ByteDance akan lancarkan Seedance 2.5 dengan output video AI 3 minit**](https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/)\n\nByteDance nampaknya hampir melancarkan Dreamina Seedance 2.5, mungkin pada 9 Julai. Maklumat dari laman awam menunjukkan penjanaan standard 30 saat, lanjutan sehingga 180 saat, dan pelancaran di seluruh Dreamina, CapCut, serta platform rakan kongsi.\n\n\ud83d\uddde #bytedance @testingcatalog",
+            "date": "2026-07-04T19:34:09+00:00",
+            "message_id": 8566,
+            "message_key": "@testingcatalog:8566"
         }
     ]
 }
