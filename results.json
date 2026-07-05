@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T20:09:52.500507",
+    "timestamp": "2026-07-05T14:45:11.646311",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24296,6 +24296,26 @@
             "date": "2026-07-04T19:34:09+00:00",
             "message_id": 8566,
             "message_key": "@testingcatalog:8566"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-05T13:31:41+00:00",
+            "message_id": 8568,
+            "message_key": "@testingcatalog:8568"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "xAI is preparing to promote its Voice Agent Builder on Grok, allowing users to build custom agents that can answer their phone calls. \n\n> Let Grok answer your phone\n\n> I\u2019ll help you deploy your first agent in just a few minutes without a single line of code.\n\n> Create an AI that picks up your calls and talks in a natural voice. Tell it what to handle \u2014 questions, bookings, messages \u2014 and we'll give you a free number so it can start taking real calls in minutes.\n\nThat would be interesting \ud83d\udc40",
+            "translated_text": "xAI akan memperkenalkan Voice Agent Builder mereka di Grok, membolehkan pengguna membina ejen tersuai yang boleh menjawab panggilan telefon mereka.\n\n> Biar Grok angkat telefon anda\n\n> Saya akan bantu anda sediakan ejen pertama anda dalam masa beberapa minit sahaja, tanpa perlu tulis satu baris kod pun.\n\n> Buat satu AI yang angkat panggilan anda dan bercakap dengan suara semula jadi. Beritahu ia apa yang perlu dikendalikan \u2014 soalan, tempahan, mesej \u2014 dan kami akan berikan anda nombor percuma supaya ia boleh mula menerima panggilan sebenar dalam beberapa minit.\n\nMenarik juga tu \ud83d\udc40",
+            "date": "2026-07-05T13:31:41+00:00",
+            "message_id": 8567,
+            "message_key": "@testingcatalog:8567"
         }
     ]
 }
