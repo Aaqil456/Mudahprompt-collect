@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-06T00:08:18.355265",
+    "timestamp": "2026-07-06T14:27:47.448719",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24336,6 +24336,16 @@
             "date": "2026-07-05T22:17:02+00:00",
             "message_id": 8569,
             "message_key": "@testingcatalog:8569"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Tencent released Hy3 (non-preview), a 295B-parameter MoE open model with 21B active and 3.8B MTP layer params. \n\n> This Hy3 release follows the Hy3 Preview launch in late April.\n> Hy3 scored 2.67/4 on benchmarks, outperforming GLM-5.1 at 2.51/4. The advantage was clearest in frontend development, CI/CD, and data & storage.\n\nMore players are catching up \ud83d\udc40",
+            "translated_text": "Tencent dah keluarkan Hy3 (bukan pratonton), satu model terbuka MoE dengan 295 bilion parameter, yang ada 21 bilion parameter aktif dan 3.8 bilion parameter lapisan MTP.\n\n> Pelancaran Hy3 ni menyusul selepas Hy3 Preview dilancarkan pada hujung April lepas.\n> Hy3 dapat skor 2.67/4 dalam ujian penanda aras, mengatasi GLM-5.1 yang dapat 2.51/4. Kelebihan dia paling ketara dalam pembangunan frontend, CI/CD, dan data & penyimpanan.\n\nRamai lagi pemain lain tengah cuba kejar \ud83d\udc40",
+            "date": "2026-07-06T12:24:18+00:00",
+            "message_id": 8571,
+            "message_key": "@testingcatalog:8571"
         }
     ]
 }
