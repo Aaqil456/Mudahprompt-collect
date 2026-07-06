@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-06T17:45:30.521838",
+    "timestamp": "2026-07-06T20:00:32.359454",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24366,6 +24366,36 @@
             "date": "2026-07-06T17:24:44+00:00",
             "message_id": 8572,
             "message_key": "@testingcatalog:8572"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: TRACES OF GROK 4.5 HAVE BEEN SPOTTED ON THE GROK WEB!\n\n> Unlock the full power of Chat with Grok 4.5\n\nSOON \ud83d\udc40\n\nh/t @goodiers",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: JEJAK GROK 4.5 TELAH DIKESAN DI WEB GROK!\n\n> Manfaatkan kuasa penuh berbual dengan Grok 4.5\n\nAKAN DATANG \ud83d\udc40\n\nkredit kepada @goodiers",
+            "date": "2026-07-06T19:31:29+00:00",
+            "message_id": 8576,
+            "message_key": "@testingcatalog:8576"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-06T19:02:03+00:00",
+            "message_id": 8575,
+            "message_key": "@testingcatalog:8575"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "An upcoming Claude Voice Mode UI got updated again. Model selector is still present at the bottom while other UI elements are scattered around the screen. \n\n> While Claude is speaking, the same Anthropic glow appears as on the desktop. \n\n> Seems like voice samples got updated as well. \n\nCurios to see how non Haiku models will perform there! \n\nSoon? \ud83d\udc40",
+            "translated_text": "UI untuk Claude Voice Mode yang akan datang dah dikemaskini lagi. Pemilih model masih ada di bahagian bawah, manakala elemen UI lain bertaburan di skrin.\n\n> Masa Claude bercakap, cahaya Anthropic yang sama muncul macam kat desktop.\n\n> Nampaknya sampel suara pun dah dikemaskini juga.\n\nTak sabar nak tengok macam mana model bukan Haiku akan berfungsi kat sana!\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-07-06T19:02:03+00:00",
+            "message_id": 8574,
+            "message_key": "@testingcatalog:8574"
         }
     ]
 }
