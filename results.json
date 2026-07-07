@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-07T14:39:33.595086",
+    "timestamp": "2026-07-07T20:00:09.099339",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24486,6 +24486,56 @@
             "date": "2026-07-07T12:16:10+00:00",
             "message_id": 8583,
             "message_key": "@testingcatalog:8583"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: DID CLAUDE FABLE 5 LIMIT JUST RESET??? Do you have the same?\n\n> You haven't used Fable yet\n\nI've tested it to 100% before Jul 7, and now it is full again!\n\n5 more testing days! \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Limit Claude Fable 5 baru je reset ke? Awak pun sama ke?\n\n> Awak belum guna Fable lagi\n\nSaya dah test sampai 100% sebelum 7 Julai, dan sekarang dah penuh balik!\n\nTinggal 5 hari lagi untuk test! \ud83d\udc40",
+            "date": "2026-07-07T19:26:03+00:00",
+            "message_id": 8590,
+            "message_key": "@testingcatalog:8590"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Image, the first image-gen model from MSL, is now available on Meta AI. \n\n> It uses advanced reasoning to understand complex prompts, seamlessly blending multiple photos into high-quality creations you can download and share anywhere.\n\nUsers can also access Presets, mention images in the prompt, and edit images directly.  \n\nMuse Image is also available on WhatsApp and Instagram and is planned to arrive on Messenger and Facebook later. \n\nTesting time \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Muse Image, model penjana imej pertama dari MSL, kini dah ada di Meta AI.\n\n> Ia guna penaakulan canggih untuk faham arahan yang kompleks, gabungkan beberapa gambar dengan lancar jadi hasil yang berkualiti tinggi yang anda boleh muat turun dan kongsi kat mana-mana.\n\nPengguna juga boleh akses Presets, nyatakan imej dalam arahan, dan edit gambar terus.\n\nMuse Image pun ada juga di WhatsApp dan Instagram dan dirancang akan sampai ke Messenger dan Facebook nanti.\n\nMasa untuk cuba \ud83d\udc40",
+            "date": "2026-07-07T19:11:13+00:00",
+            "message_id": 8589,
+            "message_key": "@testingcatalog:8589"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-07T17:42:28+00:00",
+            "message_id": 8588,
+            "message_key": "@testingcatalog:8588"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5 will remain included in all paid plans until July 12! \n\n5 more Testing days \ud83d\udc40\n\nCan we also get a Fable 5 reset please?",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5 masih akan disertakan dalam semua pelan berbayar sehingga 12 Julai!\nTinggal 5 hari lagi untuk ujian \ud83d\udc40\nBoleh tak kami dapatkan reset Fable 5 juga?",
+            "date": "2026-07-07T17:42:28+00:00",
+            "message_id": 8587,
+            "message_key": "@testingcatalog:8587"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Cowork for mobile and web is now rolling out to Claude Max subscribers! Other plans will get it within the coming weeks.  \n\nCowork on mobile and web will let users trigger and follow up on Cowork tasks. Scheduled Cowork tasks will also be supported. \n\nThe first one is out! Voice mode upgrade and Conway are left.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Cowork untuk mudah alih dan web kini mula diperkenalkan kepada pelanggan Claude Max! Pelan lain akan mendapatkannya dalam beberapa minggu akan datang.\n\nCowork pada mudah alih dan web akan membolehkan pengguna memulakan dan menindaklanjuti tugas Cowork. Tugas Cowork yang dijadualkan turut akan disokong.\n\nYang pertama sudah keluar! Naik taraf mod suara dan Conway masih tinggal.",
+            "date": "2026-07-07T17:27:12+00:00",
+            "message_id": 8586,
+            "message_key": "@testingcatalog:8586"
         }
     ]
 }
