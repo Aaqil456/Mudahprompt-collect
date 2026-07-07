@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-06T23:10:25.408713",
+    "timestamp": "2026-07-07T07:40:55.546694",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24426,6 +24426,16 @@
             "date": "2026-07-06T22:23:46+00:00",
             "message_id": 8579,
             "message_key": "@testingcatalog:8579"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Digest summary will also appear on Perplexity homepage. \n\n> Your digest is coming soon: Digest runs twice a day. Your first report will appear here when the next one is ready.\n\nFrom there, users will also have the chance to browse its past runs and further customize it in Settings.",
+            "translated_text": "Ringkasan Perplexity Digest akan turut dipaparkan di laman utama Perplexity.\n\nRingkasan anda akan tiba tidak lama lagi: Ringkasan ini dikeluarkan dua kali sehari. Laporan pertama anda akan muncul di sini apabila laporan seterusnya siap.\n\nDari situ, pengguna juga berpeluang untuk melihat laporan-laporan sebelumnya dan menyesuaikannya lagi dalam Tetapan.",
+            "date": "2026-07-07T07:25:05+00:00",
+            "message_id": 8580,
+            "message_key": "@testingcatalog:8580"
         }
     ]
 }
