@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-07T11:09:02.868798",
+    "timestamp": "2026-07-07T14:39:33.595086",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24456,6 +24456,36 @@
             "date": "2026-07-07T07:46:07+00:00",
             "message_id": 8581,
             "message_key": "@testingcatalog:8581"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-07T14:17:12+00:00",
+            "message_id": 8585,
+            "message_key": "@testingcatalog:8585"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic continues working on the Conway tab for Claude on iOS, where 2 new icons have appeared in recent builds. \n\n> Conway is expected to be released as Anthropic's own always-on AI agent, running in a separate cloud container. \n\n> The 4-tile icon likely would open a screen with Apps, \"custom UI tabs\" extensions, potentially a new upcoming standard from Anthropic (Similar to Skills and MCPs)\n\n> The Scroll icon may refer to Memory with \"Dreams\", a feature released for Claude Managed Agents recently. \n\nWhat are your guesses? \ud83d\udc40",
+            "translated_text": "Anthropic masih lagi sibuk membangunkan tab Conway untuk Claude di iOS, dan baru-baru ni ada 2 ikon baru muncul dalam versi terkini.\n\n> Conway dijangka akan dikeluarkan sebagai ejen AI Anthropic sendiri yang sentiasa aktif, berjalan dalam kontena awan yang berasingan.\n\n> Ikon 4-petak tu mungkin akan buka skrin dengan Apps, sambungan \"custom UI tabs\", dan mungkin juga standard baru yang akan datang dari Anthropic (Macam Skills dan MCPs)\n\n> Ikon Skrol tu pula mungkin merujuk kepada Memori dengan \"Dreams\", satu ciri yang baru saja dikeluarkan untuk Claude Managed Agents.\n\nApa agaknya tekaan anda semua? \ud83d\udc40",
+            "date": "2026-07-07T14:17:12+00:00",
+            "message_id": 8584,
+            "message_key": "@testingcatalog:8584"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI launches 21 new Grok Voices on xAI Console**](https://www.testingcatalog.com/spacexai-launches-21-new-grok-voices-on-xai-console/)\n\nxAI added 21 Grok Voice voices, taking the total to 26 across real-time, TTS, and no-code tools. The rollout adds multilingual support, custom voice cloning, and production features for call centers, sales, support, and media.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**SpaceXAI melancarkan 21 Grok Voices baharu di xAI Console**](https://www.testingcatalog.com/spacexai-launches-21-new-grok-voices-on-xai-console/)\n\nxAI telah menambah 21 Grok Voices, menjadikan jumlah keseluruhan 26 merangkumi alatan masa nyata, TTS, dan tanpa kod. Pelancaran ini menambah sokongan pelbagai bahasa, pengklonan suara tersuai, dan ciri-ciri pengeluaran untuk pusat panggilan, jualan, sokongan, dan media.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-07-07T12:16:10+00:00",
+            "message_id": 8583,
+            "message_key": "@testingcatalog:8583"
         }
     ]
 }
