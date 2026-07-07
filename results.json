@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-07T07:40:55.546694",
+    "timestamp": "2026-07-07T11:09:02.868798",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24436,6 +24436,26 @@
             "date": "2026-07-07T07:25:05+00:00",
             "message_id": 8580,
             "message_key": "@testingcatalog:8580"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT Bidi 1, an upcoming bidirectional voice mode for ChatGPT, has been renamed to GPT Live 1! \n\nOpenAI naming is healing \ud83d\udc40\nh/t @wrg133",
+            "translated_text": "OPENAI \ud83d\udd25: GPT Bidi 1, mod suara dua hala yang akan datang untuk ChatGPT, dah tukar nama jadi GPT Live 1!\n\nCara OpenAI menamakan sesuatu makin elok \ud83d\udc40\nKredit kepada @wrg133",
+            "date": "2026-07-07T08:01:59+00:00",
+            "message_id": 8582,
+            "message_key": "@testingcatalog:8582"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI gearing up for upcoming Grok 4.5 release**](https://www.testingcatalog.com/spacexai-gearing-up-for-upcoming-grok-4-5-release/)\n\nReferences in SpaceXAI products suggest Grok 4.5 may launch soon, with upgrade prompts in the web client and Grok Build CLI. The 1.5T V9 model is in private beta, likely debuting first for Heavy subscribers, with benchmarks still absent.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**SpaceXAI sedang bersiap sedia untuk keluaran Grok 4.5 yang akan datang**](https://www.testingcatalog.com/spacexai-gearing-up-for-upcoming-grok-4-5-release/)\n\nPetunjuk dalam produk SpaceXAI menunjukkan Grok 4.5 mungkin akan dilancarkan tidak lama lagi, dengan notifikasi kemas kini dalam klien web dan Grok Build CLI. Model 1.5T V9 itu sedang dalam fasa beta peribadi, kemungkinan besar akan diperkenalkan dahulu untuk pelanggan Heavy, dengan data penanda aras masih tiada.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-07-07T07:46:07+00:00",
+            "message_id": 8581,
+            "message_key": "@testingcatalog:8581"
         }
     ]
 }
