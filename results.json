@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-08T14:15:49.014559",
+    "timestamp": "2026-07-08T16:41:37.779843",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24606,6 +24606,36 @@
             "date": "2026-07-08T13:20:54+00:00",
             "message_id": 8596,
             "message_key": "@testingcatalog:8596"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: New voice samples and orbs for an upcoming ChatGPT voice mode upgrade. \n\nOrb color is bound to an accent color you choose in settings. \n\n* Not available yet\n\nThanks to @wrg133 for filming it",
+            "translated_text": "OPENAI \ud83d\udd25: Sampel suara dan 'orb' baru untuk naik taraf mod suara ChatGPT yang akan datang.\n\nWarna 'orb' tu akan ikut warna aksen yang anda pilih dalam tetapan.\n\n* Belum tersedia lagi\n\nTerima kasih kepada @wrg133 sebab rakam ni.",
+            "date": "2026-07-08T15:20:13+00:00",
+            "message_id": 8601,
+            "message_key": "@testingcatalog:8601"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-08T15:08:13+00:00",
+            "message_id": 8600,
+            "message_key": "@testingcatalog:8600"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: An upgraded Voice Mode for ChatGPT will be announced today during the OpenAI Livestream! \n\n> GPT Live 1, a new bidirectional voice model will likely be announced \n> ChatGPT voice mode orb will get new colors too\n\nVery soon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Mod Suara yang dinaik taraf untuk ChatGPT akan diumumkan hari ini semasa Livestream OpenAI!\n\n> GPT Live 1, model suara dua hala baharu kemungkinan besar akan diumumkan\n> Orb mod suara ChatGPT akan dapat warna baharu juga\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-07-08T15:08:12+00:00",
+            "message_id": 8599,
+            "message_key": "@testingcatalog:8599"
         }
     ]
 }
