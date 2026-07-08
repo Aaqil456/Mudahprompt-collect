@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-08T16:41:37.779843",
+    "timestamp": "2026-07-08T18:20:09.302870",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24636,6 +24636,56 @@
             "date": "2026-07-08T15:08:12+00:00",
             "message_id": 8599,
             "message_key": "@testingcatalog:8599"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok 4.5 performs on par with GPT 5.5 and close to Opus 4.8 on coding benchmarks. \n\n> Grok 4.5 can handle difficult, long-running tasks that require creatively using tools to solve problems, whether in software engineering, data science, finance, legal work, or anything else you do on a computer.\n\nThis is a huge upgrade over Grok 4.3 \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok 4.5 berprestasi setanding dengan GPT 5.5 dan hampir sama dengan Opus 4.8 dalam ujian pengekodan.\n\n> Grok 4.5 mampu menguruskan tugasan yang sukar dan berpanjangan, yang memerlukan kreativiti dalam penggunaan alatan untuk menyelesaikan masalah, sama ada dalam kejuruteraan perisian, sains data, kewangan, kerja perundangan, atau apa-apa sahaja yang anda lakukan di komputer.\n\nIni adalah naik taraf yang sangat besar berbanding Grok 4.3 \ud83d\udc40",
+            "date": "2026-07-08T17:53:52+00:00",
+            "message_id": 8606,
+            "message_key": "@testingcatalog:8606"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: GROK 4.5 IS ROLLING OUT ON GROK BUILD, APIS AND XAI CONSOLE!\n\n> Context window - 500K tokens\n> Modalities - Text, Image \u2192 Text\n> Pricing - Input $2.00 / 1M, Output $6.00 / 1M\n\nV9 is finally here \ud83e\udd16",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: GROK 4.5 sedang dilancarkan di GROK BUILD, APIS dan XAI CONSOLE!\n\n*   Jendela konteks - 500K token\n*   Modaliti - Teks, Imej \u2192 Teks\n*   Harga - Input $2.00 / 1M, Output $6.00 / 1M\n\nV9 dah sampai pun \ud83e\udd16",
+            "date": "2026-07-08T17:46:30+00:00",
+            "message_id": 8605,
+            "message_key": "@testingcatalog:8605"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-08T17:41:18+00:00",
+            "message_id": 8604,
+            "message_key": "@testingcatalog:8604"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT\u2011Live\u20111 offers significant improvements over AVM across almost all dimensions. \n\n> GPQA: GPT\u2011Live\u20111 substantially outperforms Advanced Voice Mode on GPQA, which tests expert-level scientific reasoning across biology, chemistry, and physics.\n\n> BrowseComp: GPT\u2011Live\u20111 shows strong gains over Advanced Voice Mode on BrowseComp, which tests agentic web search and the ability to find difficult-to-locate information.\n\n> \u03c4\u00b3-Voice Telecom (internal variant)**: GPT\u2011Live\u20111 outperforms Advanced Voice Mode on \u03c4\u00b3-Voice Telecom, which tests voice agents on realistic, multi-turn telecom support tasks.",
+            "translated_text": "OPENAI \ud83d\udd25: GPT\u2011Live\u20111 menawarkan peningkatan yang ketara berbanding AVM dalam hampir semua aspek.\n\n> GPQA: GPT\u2011Live\u20111 jauh lebih baik daripada Advanced Voice Mode dalam GPQA, yang menguji penaakulan saintifik tahap pakar merentasi biologi, kimia, dan fizik.\n\n> BrowseComp: GPT\u2011Live\u20111 menunjukkan peningkatan yang ketara berbanding Advanced Voice Mode dalam BrowseComp, yang menguji carian web beragen dan keupayaan untuk mencari maklumat yang sukar ditemui.\n\n> \u03c4\u00b3-Voice Telecom (internal variant)**: GPT\u2011Live\u20111 mengatasi Advanced Voice Mode dalam \u03c4\u00b3-Voice Telecom, yang menguji ejen suara dalam tugas sokongan telekomunikasi yang realistik dan berbilang giliran.",
+            "date": "2026-07-08T17:41:17+00:00",
+            "message_id": 8603,
+            "message_key": "@testingcatalog:8603"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OPEANAI LAUNCHED GPT LIVE 1, A NEW FULL DUPLEX VOICE MODEL FOR CHATGPT!\n\nIt comes in 2 versions: GPT\u2011Live\u20111 and GPT\u2011Live\u20111 mini, and is rolling out to everyone in the coming days! API support is coming soon too. \n\n> GPT\u2011Live is built on a full-duplex architecture, meaning it can listen and speak at the same time. During conversations, GPT\u2011Live can show it\u2019s paying attention with phrases like \u201cmhmm\u201d or \u201cyeah\u201d, engage in quick back-and-forth, or just stay quiet when you need a moment to think. \n\n> GPT\u2011Live is also our smartest voice model yet. For questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it\u2019s ready.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OPEANAI DAH LANCARKAN GPT LIVE 1, MODEL SUARA FULL DUPLEX BARU UNTUK CHATGPT!\n\nIa ada 2 versi: GPT\u2011Live\u20111 dan GPT\u2011Live\u20111 mini, dan akan mula tersedia untuk semua orang dalam beberapa hari lagi! Sokongan API pun akan datang tak lama lagi.\n\n> GPT\u2011Live dibina atas seni bina full-duplex, maksudnya ia boleh mendengar dan bercakap serentak. Masa berbual, GPT\u2011Live boleh tunjuk yang ia sedang beri perhatian dengan frasa macam \u201cmhmm\u201d atau \u201cyeah\u201d, boleh berbalas cakap dengan cepat, atau senyap je bila kita perlukan masa untuk berfikir.\n\n> GPT\u2011Live juga model suara kami yang paling pintar setakat ini. Untuk soalan yang perlukan carian web, pemikiran yang lebih mendalam, atau kerja yang lebih kompleks, ia akan serahkan kepada model frontier terbaru kami di belakang tabir dan bawa balik hasilnya ke dalam perbualan bila dah siap.",
+            "date": "2026-07-08T17:31:03+00:00",
+            "message_id": 8602,
+            "message_key": "@testingcatalog:8602"
         }
     ]
 }
