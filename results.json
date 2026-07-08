@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-08T08:31:59.034860",
+    "timestamp": "2026-07-08T14:15:49.014559",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24576,6 +24576,36 @@
             "date": "2026-07-08T06:55:00+00:00",
             "message_id": 8594,
             "message_key": "@testingcatalog:8594"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic brings Claude Cowork to web and mobile for Max users**](https://www.testingcatalog.com/anthropic-brings-claude-cowork-to-web-and-mobile-for-max-users/)\n\nAnthropic is bringing Claude Cowork to web and mobile in beta, starting with Max users. Users can start tasks on desktop, let Claude continue in the background, and review or redirect work from phones, with approval still required.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic bawa Claude Cowork ke web dan mudah alih untuk pengguna Max**](https://www.testingcatalog.com/anthropic-brings-claude-cowork-to-web-and-mobile-for-max-users/)\n\nAnthropic sedang membawa Claude Cowork ke web dan mudah alih dalam versi beta, bermula dengan pengguna Max. Pengguna boleh mula tugasan di desktop, biarkan Claude teruskan di latar belakang, dan semak atau alihkan kerja dari telefon, dengan kelulusan masih diperlukan.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-07-08T14:00:55+00:00",
+            "message_id": 8598,
+            "message_key": "@testingcatalog:8598"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BYTEDANCE \ud83d\udd25: Seedream 5.0 Pro has been officially announced! \n\n> Seedream 5.0 Pro is a multimodal image generation model that features advanced reasoning, efficient content creation, and professional production capabilities.\n\n> Compared to previous versions, Seedream 5.0 Pro delivers across-the-board improvements in foundational capabilities such as image-text alignment, structural coherence, text rendering, and visual aesthetics.\n\nFeatures supported \ud83d\udc40\n- Complex information visualization\n- Interactive precision editing\n- Realistic imagery and portrait textures\n- Native multilingual input and generation",
+            "translated_text": "BYTEDANCE \ud83d\udd25: Seedream 5.0 Pro dah diumumkan secara rasmi!\n\n> Seedream 5.0 Pro ni model penjanaan imej multimodal yang ada ciri penaakulan canggih, penciptaan kandungan yang cekap, dan keupayaan produksi profesional.\n\n> Berbanding versi sebelum ni, Seedream 5.0 Pro ni ada peningkatan menyeluruh dalam keupayaan asas macam penjajaran imej-teks, keselarasan struktur, paparan teks, dan estetika visual.\n\nCiri-ciri yang disokong \ud83d\udc40\n- Visualisasi maklumat kompleks\n- Penyuntingan ketepatan interaktif\n- Imej realistik dan tekstur potret\n- Input dan penjanaan berbilang bahasa asli",
+            "date": "2026-07-08T13:54:45+00:00",
+            "message_id": 8597,
+            "message_key": "@testingcatalog:8597"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Digest summary will also appear on the Perplexity homepage. \n\n> Your digest is coming soon: Digest runs twice a day. Your first report will appear here when the next one is ready.\n\nFrom there, users will also have the chance to browse its past runs and further customize it in Settings.",
+            "translated_text": "Ringkasan Perplexity Digest juga akan muncul di halaman utama Perplexity.\n\n> Ringkasan anda akan tiba tidak lama lagi: Ringkasan ini dikeluarkan dua kali sehari. Laporan pertama anda akan muncul di sini apabila laporan seterusnya siap.\n\nDari situ, pengguna juga berpeluang untuk melihat laporan-laporan sebelumnya dan menyesuaikannya lagi dalam Tetapan.",
+            "date": "2026-07-08T13:20:54+00:00",
+            "message_id": 8596,
+            "message_key": "@testingcatalog:8596"
         }
     ]
 }
