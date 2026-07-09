@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-09T18:03:41.079150",
+    "timestamp": "2026-07-09T20:48:32.860255",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24856,6 +24856,56 @@
             "date": "2026-07-09T16:27:51+00:00",
             "message_id": 8624,
             "message_key": "@testingcatalog:8624"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-09T20:21:59+00:00",
+            "message_id": 8633,
+            "message_key": "@testingcatalog:8633"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "How to know if the model launch is a success. \n\n> We are investigating an issue causing users to receive \u201cSelected model is at capacity. Please try a different model.\u201d errors across multiple models. We are working to identify the cause and restore normal service.\n\nLoad testing is testing too \ud83d\udd25",
+            "translated_text": "Macam mana nak tahu pelancaran model tu berjaya ke tak.\n\nKami sedang menyiasat satu isu yang menyebabkan pengguna menerima ralat \u201cSelected model is at capacity. Please try a different model.\u201d pada beberapa model. Kami sedang berusaha untuk mengenal pasti puncanya dan memulihkan perkhidmatan seperti biasa.\n\nLoad testing pun satu ujian juga \ud83d\udd25",
+            "date": "2026-07-09T20:21:59+00:00",
+            "message_id": 8632,
+            "message_key": "@testingcatalog:8632"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI upgraded Computer Use for ChatGPT Work with picture-in-picture mode and faster execution. \n\nSo users can see what it is doing \ud83d\udc40",
+            "translated_text": "OpenAI dah kemas kini fungsi Komputer untuk ChatGPT. Sekarang ni dah ada mod picture-in-picture dan lagi laju buat kerja. Jadi, pengguna boleh nampak apa yang dia tengah buat \ud83d\udc40",
+            "date": "2026-07-09T19:14:36+00:00",
+            "message_id": 8631,
+            "message_key": "@testingcatalog:8631"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Vellum launches Plugin Hub for personal AI assistants**](https://www.testingcatalog.com/vellum-launches-plugin-hub-for-personal-ai-assistants/)\n\nVellum launched Plugin Hub, an open catalog for installable assistant capabilities. Plugins run locally, keep credentials on-device, support cross-platform use, and can be built in TypeScript or generated from plain-language prompts.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Vellum memperkenalkan Plugin Hub untuk pembantu AI peribadi**](https://www.testingcatalog.com/vellum-launches-plugin-hub-for-personal-ai-assistants/)\n\nVellum melancarkan Plugin Hub, sebuah katalog terbuka untuk fungsi pembantu yang boleh dipasang. Plugin-plugin ini berjalan secara tempatan, menyimpan kelayakan pada peranti, menyokong penggunaan merentas platform, dan boleh dibina menggunakan TypeScript atau dihasilkan daripada arahan bahasa biasa.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-07-09T18:06:45+00:00",
+            "message_id": 8630,
+            "message_key": "@testingcatalog:8630"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-09T18:05:58+00:00",
+            "message_id": 8629,
+            "message_key": "@testingcatalog:8629"
         }
     ]
 }
