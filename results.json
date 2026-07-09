@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-09T08:34:29.252865",
+    "timestamp": "2026-07-09T12:05:57.281369",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24756,6 +24756,16 @@
             "date": "2026-07-09T07:57:47+00:00",
             "message_id": 8613,
             "message_key": "@testingcatalog:8613"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Ultra-Long Video (Beta), powered by SeeDance 2.5 has been spotted on Jimeng. \n\nThis mode has been announced earlier and will allow users to generate 180 second long videos!\n\nh/t x@MarsForTech",
+            "translated_text": "Ultra-Long Video (Beta), yang dikuasakan oleh SeeDance 2.5, dah muncul kat Jimeng.\n\nMod ni dah diumumkan awal-awal lagi dan akan benarkan pengguna hasilkan video sepanjang 180 saat!\n\nKredit kepada x@MarsForTech",
+            "date": "2026-07-09T10:10:12+00:00",
+            "message_id": 8614,
+            "message_key": "@testingcatalog:8614"
         }
     ]
 }
