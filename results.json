@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-09T20:48:32.860255",
+    "timestamp": "2026-07-09T22:30:13.050532",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24906,6 +24906,46 @@
             "date": "2026-07-09T18:05:58+00:00",
             "message_id": 8629,
             "message_key": "@testingcatalog:8629"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPANAI \ud83d\udc40: ChatGPT Work arrived as a new AI Agent, along with a completely new app based on Codex Desktop. \n\n> Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.  It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.  It\u2019s a whole new way to get work done.\n\nA merge into a Super App is complete \ud83e\udd16",
+            "translated_text": "OPANAI \ud83d\udc40: ChatGPT Work hadir sebagai Ejen AI baru, bersama aplikasi baru sepenuhnya yang berasaskan Codex Desktop.\n\nMemperkenalkan ChatGPT Work, ejen baru dalam ChatGPT yang dikuasakan oleh Codex dan GPT-5.6. Ia boleh bertindak merentasi aplikasi dan fail anda, kekal dengan sesuatu projek berjam-jam lamanya jika perlu, dan menukar matlamat menjadi kerja yang siap. Ini cara baru sepenuhnya untuk siapkan kerja.\n\nPenggabungan ke dalam Super App sudah selesai \ud83e\udd16",
+            "date": "2026-07-09T22:00:22+00:00",
+            "message_id": 8637,
+            "message_key": "@testingcatalog:8637"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches ChatGPT Work for Pro, Enterprise, and Edu plans**](https://www.testingcatalog.com/openai-launches-chatgpt-work-for-pro-enterprise-and-edu-plans/)\n\nOpenAI launched ChatGPT Work, a GPT-5.6 and Codex-powered agent that executes multi-step projects across apps, files, desktop tools, and the web, with enterprise controls, Sites beta, and a unified desktop app rollout.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan ChatGPT Work untuk pelan Pro, Enterprise, dan Edu**](https://www.testingcatalog.com/openai-launches-chatgpt-work-for-pro-enterprise-and-edu-plans/)\n\nOpenAI dah lancarkan ChatGPT Work, ia adalah ejen yang dikuasakan oleh GPT-5.6 dan Codex. Ejen ni boleh laksanakan projek pelbagai langkah merentasi aplikasi, fail, alatan desktop, dan web, lengkap dengan kawalan peringkat enterprise, Sites beta, dan pelancaran aplikasi desktop bersepadu.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-07-09T21:54:18+00:00",
+            "message_id": 8636,
+            "message_key": "@testingcatalog:8636"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udc40: GPT-5.6 is a good candidate to be a daily driver for most agentic tasks. \n\n> On Agents' Last Exam, GPT\u20115.6 Sol sets a new high of 53.6 points. \n\nAt the moment, many users are getting access to Luna and Terra first, and these models are rolling out separately for each application. \n\nTesting time has started \ud83e\udd16",
+            "translated_text": "OPENAI \ud83d\udc40: GPT-5.6 sesuai sangat untuk jadi kegunaan harian bagi kebanyakan kerja-kerja ejen.\n\n> Masa Ujian Akhir Ejen, GPT\u20115.6 Sol capai markah tertinggi baru 53.6 mata.\n\nBuat masa ni, ramai pengguna dapat akses Luna dan Terra dulu, dan model-model ni sedang dikeluarkan secara berasingan untuk setiap aplikasi.\n\nMasa ujian dah bermula \ud83e\udd16",
+            "date": "2026-07-09T21:27:11+00:00",
+            "message_id": 8635,
+            "message_key": "@testingcatalog:8635"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-5.6 Sol, Terra, and Luna on apps and API**](https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-terra-and-luna-on-apps-and-api/)\n\nOpenAI launched GPT-5.6 for ChatGPT, Work, Codex, and the API, adding Sol, Terra, and Luna tiers. The release brings general availability, multi-agent ultra mode, artifact creation tools, and updated API pricing and caching.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI lancarkan GPT-5.6 Sol, Terra, dan Luna pada aplikasi dan API**](https://www.testingcatalog.com/openai-launches-gpt-5-6-sol-terra-and-luna-on-apps-and-api/)\n\nOpenAI dah lancarkan GPT-5.6 untuk ChatGPT, Work, Codex, dan API, dengan tambahan peringkat Sol, Terra, dan Luna. Pelancaran ni bawa ketersediaan umum, mod ultra berbilang ejen, alatan penciptaan artifak, serta harga dan caching API yang dikemas kini.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-07-09T21:04:58+00:00",
+            "message_id": 8634,
+            "message_key": "@testingcatalog:8634"
         }
     ]
 }
