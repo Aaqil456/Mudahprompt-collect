@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-08T22:08:23.606202",
+    "timestamp": "2026-07-09T00:12:51.091511",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24706,6 +24706,36 @@
             "date": "2026-07-08T20:35:39+00:00",
             "message_id": 8607,
             "message_key": "@testingcatalog:8607"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI rolls out GPT-Live voice for ChatGPT on web and mobile**](https://www.testingcatalog.com/openai-rolls-out-gpt-live-voice-for-chatgpt-on-web-and-mobile/)\n\nOpenAI launched GPT-Live for ChatGPT Voice, rolling out globally from July 8, 2026. Its full-duplex design supports simultaneous listening and speaking, interruptions, and background task handling, with GPT-5.5 for harder requests.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI Perkenalkan Suara GPT-Live untuk ChatGPT di Web dan Mudah Alih**](https://www.testingcatalog.com/openai-rolls-out-gpt-live-voice-for-chatgpt-on-web-and-mobile/)\n\nOpenAI dah lancarkan GPT-Live untuk ChatGPT Voice, dan ia akan mula diperkenalkan secara global bermula 8 Julai 2026. Reka bentuk full-duplex dia membolehkan kita mendengar dan bercakap serentak, boleh menyampuk, dan uruskan tugasan latar belakang, dengan GPT-5.5 untuk permintaan yang lebih susah.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-07-09T00:11:32+00:00",
+            "message_id": 8611,
+            "message_key": "@testingcatalog:8611"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ByteDance debuts Seedream 5.0 Pro with advanced reasoning**](https://www.testingcatalog.com/bytedance-debuts-seedream-5-0-pro-with-advanced-reasoning/)\n\nByteDance Seed launched Seedream 5.0 Pro, a multimodal image model for production design. It supports dense layouts, region-specific edits, reusable assets, realistic visuals, and native text generation across 14 languages via partners and APIs.\n\n\ud83d\uddde #bytedance @testingcatalog",
+            "translated_text": "[**ByteDance perkenalkan Seedream 5.0 Pro dengan keupayaan penaakulan yang lebih canggih**](https://www.testingcatalog.com/bytedance-debuts-seedream-5-0-pro-with-advanced-reasoning/)\n\nByteDance Seed dah lancarkan Seedream 5.0 Pro, satu model imej multimodal untuk reka bentuk produksi. Model ni boleh sokong susun atur padat, suntingan ikut kawasan tertentu, aset yang boleh diguna semula, visual yang realistik, dan penjanaan teks asli dalam 14 bahasa melalui rakan kongsi dan API.\n\n\ud83d\uddde #bytedance @testingcatalog",
+            "date": "2026-07-09T00:06:06+00:00",
+            "message_id": 8610,
+            "message_key": "@testingcatalog:8610"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches Muse Image across its apps and previews Muse Video**](https://www.testingcatalog.com/meta-launches-muse-image-across-its-apps-and-previews-muse-video/)\n\nICYMI: Meta has rolled out Muse Image in Meta AI, bringing image generation, editing, and social creation to its apps. The model uses Instagram context, search, and coding tools, with wider rollout, ad access, and watermarking planned.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta lancarkan Muse Image di semua aplikasi mereka dan beri pratonton Muse Video**](https://www.testingcatalog.com/meta-launches-muse-image-across-its-apps-and-previews-muse-video/)\n\nUntuk pengetahuan korang: Meta dah mula keluarkan Muse Image dalam Meta AI, yang bawa fungsi jana imej, suntingan, dan ciptaan sosial ke aplikasi-aplikasi mereka. Model ni guna konteks Instagram, carian, dan alatan pengekodan, dengan pelan untuk keluaran lebih meluas, akses iklan, dan penanda air (watermarking) akan datang.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-07-08T23:43:10+00:00",
+            "message_id": 8609,
+            "message_key": "@testingcatalog:8609"
         }
     ]
 }
