@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-09T00:12:51.091511",
+    "timestamp": "2026-07-09T05:00:01.097503",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24736,6 +24736,16 @@
             "date": "2026-07-08T23:43:10+00:00",
             "message_id": 8609,
             "message_key": "@testingcatalog:8609"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI launches Grok 4.5 model on Grok Build and APIs**](https://www.testingcatalog.com/spacexai-launches-grok-4-5-model-on-grok-build-and-apis/)\n\nSpaceXAI launched Grok 4.5 for coding, agents, and knowledge work, now live in Grok Build, Cursor, and its API. It supports 500K context, tool use, code execution, and configurable reasoning, with EU access expected mid-July.\n\n\ud83d\uddde #grok @testingcatalog",
+            "translated_text": "[**SpaceXAI Melancarkan Model Grok 4.5 di Grok Build dan API**](https://www.testingcatalog.com/spacexai-launches-grok-4-5-model-on-grok-build-and-apis/)\n\nSpaceXAI telah melancarkan Grok 4.5 untuk pengekodan, agen, dan kerja berasaskan pengetahuan, kini boleh didapati di Grok Build, Cursor, dan API-nya. Ia menyokong konteks 500K, penggunaan alatan, pelaksanaan kod, dan penaakulan yang boleh dikonfigurasi, dengan akses di EU dijangka pada pertengahan Julai.\n\n\ud83d\uddde #grok @testingcatalog",
+            "date": "2026-07-09T00:26:03+00:00",
+            "message_id": 8612,
+            "message_key": "@testingcatalog:8612"
         }
     ]
 }
