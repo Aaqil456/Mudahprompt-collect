@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-09T12:05:57.281369",
+    "timestamp": "2026-07-09T15:58:06.213424",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -24766,6 +24766,56 @@
             "date": "2026-07-09T10:10:12+00:00",
             "message_id": 8614,
             "message_key": "@testingcatalog:8614"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceXAI started rolling out Grok for its X Ads platform in early access. \n\n> Ask Grok about your campaigns and get instant answers.\n> Inline AI tooltips and insights across the manager.\n> Generate ad creatives with AI.\n\nGrok is the best AI for working with X content; I'm curious to see how it will perform there.",
+            "translated_text": "SpaceXAI dah mula melancarkan Grok untuk platform X Ads mereka secara akses awal.\n\n> Tanya Grok pasal kempen awak dan dapatkan jawapan segera.\n> Ada petua dan pandangan AI yang terintegrasi terus dalam pengurus.\n> Jana bahan kreatif iklan guna AI.\n\nGrok adalah AI terbaik untuk bekerja dengan kandungan X; saya tak sabar nak tengok macam mana prestasinya nanti.",
+            "date": "2026-07-09T15:33:25+00:00",
+            "message_id": 8623,
+            "message_key": "@testingcatalog:8623"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic adds usage reflection dashboard to Claude for all users**](https://www.testingcatalog.com/anthropic-adds-usage-reflection-dashboard-to-claude-for-all-users/)\n\nAnthropic is rolling out a beta reflection dashboard for Claude that summarizes usage by topic, task, and timing, adds quiet hours and break prompts, and keeps reports private for Free, Pro, and Max users with Memory enabled.\n\n\ud83d\uddde #claude @testingcatalog",
+            "translated_text": "[**Anthropic tambah papan pemuka refleksi penggunaan untuk Claude bagi semua pengguna**](https://www.testingcatalog.com/anthropic-adds-usage-reflection-dashboard-to-claude-for-all-users/)\n\nAnthropic sedang melancarkan papan pemuka refleksi beta untuk Claude yang meringkaskan penggunaan mengikut topik, tugasan, dan masa, menambah waktu senyap dan peringatan rehat, serta memastikan laporan kekal peribadi untuk pengguna Free, Pro, dan Max yang mengaktifkan Memory.\n\n\ud83d\uddde #claude @testingcatalog",
+            "date": "2026-07-09T15:29:24+00:00",
+            "message_id": 8622,
+            "message_key": "@testingcatalog:8622"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta debuts Muse Spark 1.1 model and opens API for developers**](https://www.testingcatalog.com/meta-debuts-muse-spark-1-1-model-and-opens-api-for-developers/)\n\nMeta launched Muse Spark 1.1 and the Meta Model API public preview, expanding access to its multimodal reasoning model with stronger agentic workflows, coding, computer use, long-context tasks, and added safety safeguards.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta memperkenalkan model Muse Spark 1.1 dan membuka API untuk pembangun**](https://www.testingcatalog.com/meta-debuts-muse-spark-1-1-model-and-opens-api-for-developers/)\n\nMeta telah melancarkan Muse Spark 1.1 dan pratonton awam Meta Model API, meluaskan akses kepada model penaakulan multimodal mereka dengan aliran kerja agen yang lebih kukuh, pengekodan, penggunaan komputer, tugasan konteks panjang, dan perlindungan keselamatan tambahan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-07-09T15:10:28+00:00",
+            "message_id": 8621,
+            "message_key": "@testingcatalog:8621"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: A new GLM 5.2-powered preview orchestrator model is now available on Perplexity Computer. \n\nThe model delivers the same performance as Opus 4.8 at 0.344x the cost. \n\nTokensaving \ud83d\udc40",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Model orkestrator pratonton baharu yang dikuasakan oleh GLM 5.2 kini boleh didapati di Perplexity Computer.\n\nModel ini memberikan prestasi yang sama seperti Opus 4.8 dengan kos 0.344 kali ganda lebih rendah.\n\nTokensaving \ud83d\udc40",
+            "date": "2026-07-09T14:57:03+00:00",
+            "message_id": 8620,
+            "message_key": "@testingcatalog:8620"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Spark 1.1 is now listed on Meta Model API website. \n\n> It comes with a big improvement over Muse Spark 1, with a 43-point difference on DeepSWE.\n\n> However, the Meta Model API is not yet available in the EU. \n\nOverall, Meta is one of the companies that can scale their AI to billions of users in a very short amount of time. \n\nThe fact that we saw a 1.1 upgrade coming so fast means only one thing: Meta is back \ud83e\udd16",
+            "translated_text": "META \ud83d\udd25: Muse Spark 1.1 kini disenaraikan di laman web Meta Model API.\n> Ia hadir dengan penambahbaikan yang ketara berbanding Muse Spark 1, dengan perbezaan 43 mata pada DeepSWE.\n> Namun begitu, Meta Model API belum lagi tersedia di EU.\nSecara keseluruhannya, Meta adalah salah satu syarikat yang boleh mengembangkan AI mereka kepada berbilion pengguna dalam masa yang sangat singkat.\nKita nampak kemas kini 1.1 datang begitu pantas bermakna hanya satu perkara: Meta sudah kembali \ud83e\udd16",
+            "date": "2026-07-09T14:30:31+00:00",
+            "message_id": 8619,
+            "message_key": "@testingcatalog:8619"
         }
     ]
 }
