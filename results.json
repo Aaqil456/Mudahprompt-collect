@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-10T16:57:32.963145",
+    "timestamp": "2026-07-10T18:27:04.370673",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25016,6 +25016,26 @@
             "date": "2026-07-10T15:44:58+00:00",
             "message_id": 8643,
             "message_key": "@testingcatalog:8643"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude desktop app got a built-in web browser for Claude Code. \n\nThis feature allows Claude to open and debug URLs directly inside the app. \n\nBrowsers are now secondary, AI first \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Aplikasi desktop Claude kini ada pelayar web terbina dalam untuk Claude Code.\nCiri ini membolehkan Claude buka dan nyahpepijat URL terus dalam aplikasi.\nPelayar web kini nombor dua, AI yang utama \ud83d\udc40",
+            "date": "2026-07-10T17:54:06+00:00",
+            "message_id": 8648,
+            "message_key": "@testingcatalog:8648"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Apps built on AI Studio can now get personalized domain URLs under ai[.]studio domain name!\n\nDo you remember Google Websites from 2010? \n\nThe history is repeating itself \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Aplikasi yang dibangunkan dengan AI Studio kini boleh dapat URL domain tersuai di bawah nama domain ai[.]studio!\n\nIngat tak Google Websites dari tahun 2010?\n\nSejarah berulang kembali \ud83d\udc40",
+            "date": "2026-07-10T17:07:29+00:00",
+            "message_id": 8646,
+            "message_key": "@testingcatalog:8646"
         }
     ]
 }
