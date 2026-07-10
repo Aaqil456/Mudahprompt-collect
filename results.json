@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-10T22:05:28.506639",
+    "timestamp": "2026-07-10T23:59:44.946103",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25056,6 +25056,26 @@
             "date": "2026-07-10T21:07:34+00:00",
             "message_id": 8649,
             "message_key": "@testingcatalog:8649"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-10T22:55:18+00:00",
+            "message_id": 8652,
+            "message_key": "@testingcatalog:8652"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "This week brought one of the biggest shake-ups we\u2019ve seen on both the Arena and Artificial Analysis Index leaderboards.\n\nThe top two labs remain firmly in place, but Grok and Muse Spark made notable gains, putting pressure on Gemini and GLM. Even so, the performance gap to the top two is still significant.\n\nWhat\u2019s becoming increasingly important is the pace of intelligence improvement. It\u2019s no longer just about reaching the top once. Labs need to iterate quickly to remain competitive.\n\nMore frequent model releases are also laying the foundation for continuous learning. If that trend continues, leaderboards may eventually update hourly as models evolve independently rather than through infrequent major releases.\n\nWe\u2019ve already gone from quarterly releases to monthly ones. Could biweekly release cycles become the norm before the end of the year?",
+            "translated_text": "Minggu ini menyaksikan antara rombakan terbesar yang kita pernah lihat di kedua-dua papan pendahulu Arena dan Artificial Analysis Index.\n\nDua makmal teratas kekal kukuh di tempat mereka, tapi Grok dan Muse Spark menunjukkan peningkatan ketara, memberi tekanan kepada Gemini dan GLM. Walaupun begitu, jurang prestasi dengan dua teratas masih ketara.\n\nApa yang semakin penting ialah kadar peningkatan kepintaran. Bukan lagi sekadar mencapai puncak sekali sahaja. Makmal-makmal perlu mengulang proses dengan cepat untuk kekal berdaya saing.\n\nPelancaran model yang lebih kerap juga sedang meletakkan asas untuk pembelajaran berterusan. Kalau trend itu berterusan, papan pendahulu mungkin akhirnya akan dikemas kini setiap jam apabila model-model berkembang secara bebas berbanding melalui pelancaran utama yang jarang-jarang.\n\nKita dah beralih daripada pelancaran suku tahunan kepada bulanan. Mungkinkah kitaran pelancaran dua minggu sekali akan jadi kebiasaan sebelum hujung tahun ini?",
+            "date": "2026-07-10T22:55:17+00:00",
+            "message_id": 8651,
+            "message_key": "@testingcatalog:8651"
         }
     ]
 }
