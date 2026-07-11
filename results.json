@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-10T23:59:44.946103",
+    "timestamp": "2026-07-11T08:49:19.223661",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25076,6 +25076,26 @@
             "date": "2026-07-10T22:55:17+00:00",
             "message_id": 8651,
             "message_key": "@testingcatalog:8651"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udc40: Grok 4.5 scored the highest on WANDR with Perplexity Computer, landing at the same pricing as recently announced custom GLM-5.2 with Advisor.",
+            "translated_text": "PERPLEXITY \ud83d\udc40: Grok 4.5 mencapai markah tertinggi di WANDR dengan Perplexity Computer, pada harga yang sama seperti GLM-5.2 tersuai dengan Advisor yang baru diumumkan.",
+            "date": "2026-07-11T07:03:05+00:00",
+            "message_id": 8654,
+            "message_key": "@testingcatalog:8654"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor now lets you run side chats alongside your main thread, @\u2011mention them to pull context back in, and search agent transcripts from the Agents Window or within conversations. \n\nThis update also introduces new cloud agent hooks and redesigned project and repo pickers with scoped search and in\u2011picker project setup.",
+            "translated_text": "Cursor sekarang membolehkan anda buat sembang sisi bersama benang utama anda, @-sebut mereka untuk tarik semula konteks, dan cari transkrip ejen dari Tetingkap Ejen atau dalam perbualan. Kemaskini ini turut memperkenalkan cangkuk ejen awan baharu dan pemilih projek dan repo yang direka bentuk semula dengan carian berskop dan persediaan projek terus dalam pemilih.",
+            "date": "2026-07-11T06:50:13+00:00",
+            "message_id": 8653,
+            "message_key": "@testingcatalog:8653"
         }
     ]
 }
