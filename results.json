@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-13T20:16:32.921502",
+    "timestamp": "2026-07-13T23:03:46.332546",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25206,6 +25206,26 @@
             "date": "2026-07-13T19:49:31+00:00",
             "message_id": 8667,
             "message_key": "@testingcatalog:8667"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude users can now share artifacts publicly, edit one Claude Code artifact as a team, and use Claude Tag to do so.\n\nInteresting that Anthropic is pushing on Claude Tag, since it leaves on Slack, it provides the easiest access to AI from the place where the work happens.\n\nThat's quite a nice bet; will it pay off?  \ud83e\udd16",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Pengguna Claude kini boleh kongsi artifak secara umum, edit satu artifak Claude Code sebagai satu pasukan, dan guna Claude Tag untuk buat semua ni.\n\nMenariknya, Anthropic nampak bersungguh-sungguh dengan Claude Tag ni. Memandangkan ia ada di Slack, ia dapat sediakan akses AI paling mudah terus dari tempat kerja kita.\n\nIni satu pertaruhan yang menarik; agak-agak berbaloi tak nanti? \ud83e\udd16",
+            "date": "2026-07-13T22:25:11+00:00",
+            "message_id": 8669,
+            "message_key": "@testingcatalog:8669"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Paid ChatGPT users got one extra banked reset, as promised. \n\nRest is an asset \ud83e\udd16",
+            "translated_text": "Untuk yang terlepas pandang \ud83d\udc40: Pengguna ChatGPT berbayar dah dapat satu reset tambahan, macam yang dijanjikan.\nRehat adalah satu aset \ud83e\udd16",
+            "date": "2026-07-13T22:12:25+00:00",
+            "message_id": 8668,
+            "message_key": "@testingcatalog:8668"
         }
     ]
 }
