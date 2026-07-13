@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-12T18:00:09.271985",
+    "timestamp": "2026-07-13T10:28:41.509337",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25166,6 +25166,16 @@
             "date": "2026-07-12T17:27:45+00:00",
             "message_id": 8662,
             "message_key": "@testingcatalog:8662"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Users can now reset ChatGPT and Codex usage limits on both web and mobile. A new option is available in the usage settings tab.\n\nBesides that, looks like everyone will be getting an extra banked reset later today. \n\nBanked reset >>> any other reset \ud83e\udd16",
+            "translated_text": "Untuk makluman korang \ud83d\udc40: Pengguna kini dah boleh set semula had penggunaan ChatGPT dan Codex di web dan juga di telefon bimbit. Pilihan baru dah ada dalam tab tetapan penggunaan.\n\nSelain tu, macam semua orang akan dapat satu lagi 'banked reset' tambahan lewat hari ini.\n\n'Banked reset' jauh lebih baik dari 'reset' lain \ud83e\udd16",
+            "date": "2026-07-13T09:22:01+00:00",
+            "message_id": 8664,
+            "message_key": "@testingcatalog:8664"
         }
     ]
 }
