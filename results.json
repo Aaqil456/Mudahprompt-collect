@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-14T21:59:12.456985",
+    "timestamp": "2026-07-14T23:05:03.200947",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25266,6 +25266,26 @@
             "date": "2026-07-14T20:46:30+00:00",
             "message_id": 8677,
             "message_key": "@testingcatalog:8677"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-14T22:10:48+00:00",
+            "message_id": 8679,
+            "message_key": "@testingcatalog:8679"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: The first device from OpenAI will be a screenless smart speaker, as reported by Bloomberg. \n\n> OpenAI is developing a mobile, screen-free smart speaker to serve as a humanlike AI companion that can control smart-home appliances and tap into the capabilities of OpenAI's ChatGPT.\n\n> The device is designed to become increasingly personalized and proactive as it gains a deeper understanding of its owner over time, and its defining feature will be its personality and ability to connect on a humanlike level with users.\n\n> OpenAI's plans for the device have been complicated by a lawsuit from Apple, which accuses OpenAI of stealing trade secrets, and the company's ability to sell the device may be delayed depending on the outcome of the legal process.",
+            "translated_text": "OPENAI \ud83d\udd25: Peranti pertama daripada OpenAI akan jadi pembesar suara pintar tanpa skrin, macam yang dilaporkan oleh Bloomberg.\n\n> OpenAI sedang membangunkan pembesar suara pintar yang mudah alih dan tanpa skrin, untuk jadi teman AI yang macam manusia. Ia boleh kawal perkakas rumah pintar dan guna kebolehan ChatGPT OpenAI.\n\n> Peranti ni direka untuk jadi makin peribadi dan proaktif bila ia makin faham pemiliknya dari masa ke masa. Ciri utamanya nanti adalah personaliti dan keupayaannya untuk berhubung dengan pengguna macam manusia.\n\n> Rancangan OpenAI untuk peranti ni jadi rumit sikit sebab ada saman dari Apple. Apple tuduh OpenAI curi rahsia dagangan, dan keupayaan syarikat tu nak jual peranti ni mungkin tertangguh bergantung pada hasil proses undang-undang.",
+            "date": "2026-07-14T22:10:47+00:00",
+            "message_id": 8678,
+            "message_key": "@testingcatalog:8678"
         }
     ]
 }
