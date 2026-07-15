@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-15T16:26:27.859628",
+    "timestamp": "2026-07-15T22:03:18.580695",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25356,6 +25356,46 @@
             "date": "2026-07-15T15:00:31+00:00",
             "message_id": 8685,
             "message_key": "@testingcatalog:8685"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-15T21:59:23+00:00",
+            "message_id": 8690,
+            "message_key": "@testingcatalog:8690"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI announced GPT-Red, an internal model for finding prompt-injection vulnerabilities at scale. \n\n> GPT\u2011Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks.\n\n> We use GPT\u2011Red to adversarially train GPT\u20115.6, making it much more robust to prompt injections.",
+            "translated_text": "OpenAI mengumumkan GPT-Red, satu model dalaman untuk mengesan kelemahan suntikan prompt secara besar-besaran.\n\nGPT-Red adalah 'red-teamer' yang handal, dan model-model kami sebelum ini sangat terdedah kepada serangan suntikan promptnya.\n\nKami menggunakan GPT-Red untuk melatih GPT-5.6 secara adversarial, menjadikannya lebih teguh terhadap suntikan prompt.",
+            "date": "2026-07-15T21:59:23+00:00",
+            "message_id": 8689,
+            "message_key": "@testingcatalog:8689"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Build is now open-source! \n\nThe code is available on Github. Additionally, Grok Build usage limits have been reset for all users. \n\nThat's a move \ud83e\udd16",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Build sekarang dah *open-source*!\n\nKodnya ada kat Github. Selain tu, had penggunaan Grok Build pun dah diset semula untuk semua pengguna.\n\nSatu langkah yang bagus ni \ud83e\udd16",
+            "date": "2026-07-15T20:49:21+00:00",
+            "message_id": 8688,
+            "message_key": "@testingcatalog:8688"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Thinking Machines released Inkling, an open-weight model, available on a new Inkling Playground in the Tinker console. \n\n> Mixture-of-Experts transformer with 975B total parameters and 41B active parameters. \n\n> It supports a context window of up to 1M tokens.\n\n> Inkling scored 1257 points on Design Arena\u2019s Agentic Web Dev leaderboard (GPT-5.6-Sol got 1260).",
+            "translated_text": "Thinking Machines dah keluarkan Inkling, satu model open-weight, yang boleh didapati dekat Inkling Playground yang baru dalam konsol Tinker.\n\n*   Transformer Mixture-of-Experts dengan 975 bilion parameter keseluruhan dan 41 bilion parameter aktif.\n*   Ia boleh sokong tetingkap konteks sehingga 1 juta token.\n*   Inkling dapat 1257 mata dekat papan pendahulu Agentic Web Dev Design Arena (GPT-5.6-Sol dapat 1260).",
+            "date": "2026-07-15T20:33:48+00:00",
+            "message_id": 8687,
+            "message_key": "@testingcatalog:8687"
         }
     ]
 }
