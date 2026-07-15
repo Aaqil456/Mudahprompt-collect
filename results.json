@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-14T23:05:03.200947",
+    "timestamp": "2026-07-15T02:36:28.871304",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25286,6 +25286,36 @@
             "date": "2026-07-14T22:10:47+00:00",
             "message_id": 8678,
             "message_key": "@testingcatalog:8678"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Telegram adds rich text editor, communities, more GIFs**](https://www.testingcatalog.com/telegram-adds-rich-text-editor-communities-more-gifs/)\n\nTelegram\u2019s update adds a rich text editor for long posts, Communities for organizing related chats, private bot replies within groups, and a rebuilt GIF search indexing 350M animations across 36 languages within its own system.\n\n\ud83d\uddde #telegram @testingcatalog",
+            "translated_text": "[**Telegram perkenalkan editor teks kaya, komuniti, dan lebih banyak GIF**](https://www.testingcatalog.com/telegram-adds-rich-text-editor-communities-more-gifs/)\n\nKemaskini Telegram ini memperkenalkan editor teks kaya untuk post panjang, Komuniti untuk susun sembang berkaitan, balasan bot peribadi dalam kumpulan, dan carian GIF yang dibina semula yang mengindeks 350 juta animasi dalam 36 bahasa dalam sistemnya sendiri.\n\n\ud83d\uddde #telegram @testingcatalog",
+            "date": "2026-07-14T23:58:24+00:00",
+            "message_id": 8682,
+            "message_key": "@testingcatalog:8682"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-14T23:27:03+00:00",
+            "message_id": 8681,
+            "message_key": "@testingcatalog:8681"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sesame is working on new Calendar and Email connectors for its iOS app. \n\nUsers will be able to provide Sesame agent an access to read and potentially operate these apps. \n\nBesides that, there is an internal menu for testing custom skills where custom prompts can be added. It would be super useful if that feature will get released to the public too. \n\nCurrently, Sesame is still a \u201cgo to\u201d voice mode for me because it is both duplex but also has access to tools (reminders and note taking). I like GPT Live 1 as well but it lacks tool access unfortunat",
+            "translated_text": "Sesame sedang bangunkan penyambung Kalendar dan E-mel baru untuk aplikasi iOS-nya. Pengguna nanti boleh bagi akses kepada ejen Sesame untuk baca dan mungkin juga kendalikan aplikasi-aplikasi ni.\n\nSelain tu, ada menu dalaman untuk uji kemahiran tersuai di mana arahan tersuai boleh ditambah. Mesti sangat berguna kalau fungsi tu dikeluarkan untuk umum juga.\n\nBuat masa ni, Sesame masih jadi pilihan utama saya untuk mod suara sebab dia duplex dan juga ada akses kepada alatan (peringatan dan ambil nota). Saya suka GPT Live 1 juga tapi malangnya dia tak ada akses alatan.",
+            "date": "2026-07-14T23:27:03+00:00",
+            "message_id": 8680,
+            "message_key": "@testingcatalog:8680"
         }
     ]
 }
