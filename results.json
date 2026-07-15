@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-15T14:52:26.925838",
+    "timestamp": "2026-07-15T16:26:27.859628",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25336,6 +25336,26 @@
             "date": "2026-07-15T13:47:27+00:00",
             "message_id": 8684,
             "message_key": "@testingcatalog:8684"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Codex Micro is now officially available on the OpenAI Supply website for $230!\n\n> Designed with Work Louder, the kbd-1.0-codex-micro brings your agent workspace into reach. Keep active chats close, spot what every agent is doing through live RGB feedback, and map your most-used Codex actions to tactile controls built for the way you actually ship.\n\nThe device is available in two options: Silent and Clicky!",
+            "translated_text": "OPENAI \ud83d\udd25: Codex Micro dah rasmi boleh didapati di laman web OpenAI Supply dengan harga $230!\n\n> Direka bersama Work Louder, kbd-1.0-codex-micro ni bawa ruang kerja ejen korang dekat dengan tangan. Boleh simpan sembang aktif dekat-dekat, nampak apa setiap ejen tengah buat melalui maklum balas RGB secara langsung, dan padankan tindakan Codex yang paling kerap korang guna pada kawalan sentuhan yang dibina khas untuk cara korang bekerja.\n\nPeranti ni ada dalam dua pilihan: Silent dan Clicky!",
+            "date": "2026-07-15T16:18:50+00:00",
+            "message_id": 8686,
+            "message_key": "@testingcatalog:8686"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Kivine, a new model on Arena, is potentially an upcoming Kimi K3 model. \n\nI got lucky and caught a comparison between Fable 5 and Kimi K3 in the Universe simulation prompt. \n\n> Fable 5 finished faster, and most UX components were more robust and easy to use.\n\n> Kimi K3 was much more complex and visually appealing. At some point, if you select a planet and set the speed to x100, it will spin you around in the 1st-person pov. \n\nIt seems like they are very close \ud83d\udc40",
+            "translated_text": "Kivine, model baru di Arena, mungkin adalah model Kimi K3 yang akan datang.\n\nSaya beruntung sempat melihat perbandingan antara Fable 5 dan Kimi K3 dalam prompt simulasi Universe.\n\n> Fable 5 siap lebih cepat, dan kebanyakan komponen UX lebih mantap dan mudah digunakan.\n\n> Kimi K3 pula lebih kompleks dan menarik secara visual. Pada satu ketika, kalau anda pilih planet dan tetapkan kelajuan ke x100, ia akan pusingkan anda dalam pandangan orang pertama (1st-person pov).\n\nNampaknya mereka sangat rapat \ud83d\udc40",
+            "date": "2026-07-15T15:00:31+00:00",
+            "message_id": 8685,
+            "message_key": "@testingcatalog:8685"
         }
     ]
 }
