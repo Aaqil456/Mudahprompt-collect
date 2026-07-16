@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-16T06:20:39.236993",
+    "timestamp": "2026-07-16T11:41:14.818403",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25446,6 +25446,16 @@
             "date": "2026-07-16T05:54:04+00:00",
             "message_id": 8694,
             "message_key": "@testingcatalog:8694"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early look at Kimi K3 generations from Moonshot AI on Arena**](https://www.testingcatalog.com/early-look-at-kimi-k3-generations-from-moonshot-ai-on-arena/)\n\nMoonshot AI appears close to launching Kimi K3, with leaks, teasers, and test sightings pointing to an imminent debut. Early reports suggest frontier-level performance, strong 3D and coding output, but slower runtimes on complex tasks.\n\n\ud83d\uddde #kimi @testingcatalog",
+            "translated_text": "[**Pandangan awal generasi Kimi K3 dari Moonshot AI di Arena**](https://www.testingcatalog.com/early-look-at-kimi-k3-generations-from-moonshot-ai-on-arena/)\n\nMoonshot AI nampaknya hampir melancarkan Kimi K3, dengan kebocoran maklumat, 'teaser', dan penemuan ujian yang menunjukkan ia akan dilancarkan tak lama lagi. Laporan awal mencadangkan prestasi tahap termaju, output 3D dan pengekodan yang mantap, tapi masa jalan yang lebih perlahan untuk tugasan kompleks.\n\n\ud83d\uddde #kimi @testingcatalog",
+            "date": "2026-07-16T11:17:16+00:00",
+            "message_id": 8697,
+            "message_key": "@testingcatalog:8697"
         }
     ]
 }
