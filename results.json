@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-16T21:02:02.170789",
+    "timestamp": "2026-07-16T22:58:21.310763",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25516,6 +25516,16 @@
             "date": "2026-07-16T19:41:20+00:00",
             "message_id": 8700,
             "message_key": "@testingcatalog:8700"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is working on a native menu for Skills on Gemini desktop. These Skills will potentially become available in all chats (and not only in Spark as it is now). \n\nUsers will be able to upload, create and edit their Gemini Skills, as well as use Gemini to create them. \n\nSkill folders will be available there too, allowing users to select local folders containing necessary Skills.",
+            "translated_text": "Google sedang usahakan menu asli untuk Skills pada Gemini desktop. Skills ini mungkin akan tersedia dalam semua sembang (dan bukan hanya di Spark macam sekarang). Pengguna boleh muat naik, cipta dan sunting Gemini Skills mereka, serta guna Gemini untuk ciptanya. Folder Skills pun akan ada di sana juga, membolehkan pengguna pilih folder tempatan yang mengandungi Skills yang diperlukan.",
+            "date": "2026-07-16T22:11:49+00:00",
+            "message_id": 8706,
+            "message_key": "@testingcatalog:8706"
         }
     ]
 }
