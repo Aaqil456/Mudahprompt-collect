@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-16T11:41:14.818403",
+    "timestamp": "2026-07-16T15:40:16.020830",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25456,6 +25456,16 @@
             "date": "2026-07-16T11:17:16+00:00",
             "message_id": 8697,
             "message_key": "@testingcatalog:8697"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Kimi K3 is now available on the web and APIs! Both K3 Max and K3 Swarm Max options are available to users. \n\n> Supports up to 1M context tokens. Optimized for coding, 3D gaming, and complex knowledge tasks. See documentation for details and usage instructions.",
+            "translated_text": "TERKINI \ud83d\udd25: Kimi K3 kini dah boleh didapati di web dan API! Kedua-dua pilihan K3 Max dan K3 Swarm Max dah boleh digunakan oleh pengguna.\n\nIa menyokong sehingga 1 juta token konteks. Dioptimumkan untuk pengekodan, permainan 3D, dan tugasan pengetahuan yang kompleks. Boleh tengok dokumentasi untuk maklumat lanjut dan cara guna.",
+            "date": "2026-07-16T14:19:38+00:00",
+            "message_id": 8698,
+            "message_key": "@testingcatalog:8698"
         }
     ]
 }
