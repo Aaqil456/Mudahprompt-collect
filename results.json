@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-15T22:03:18.580695",
+    "timestamp": "2026-07-16T00:00:09.153154",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25396,6 +25396,36 @@
             "date": "2026-07-15T20:33:48+00:00",
             "message_id": 8687,
             "message_key": "@testingcatalog:8687"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Artifacts on Claude Code can now connect to MCPs to pull necessary data in real time. A similar capability was earlier introduced for Cowork Artifacts as well. \n\n> Available on Pro, Max, Team, and Enterprise plans. Not available on publicly shared artifacts.",
+            "translated_text": "Artifacts di Claude Code sekarang boleh sambung ke MCPs untuk tarik data yang diperlukan secara masa nyata. Ciri yang sama dah diperkenalkan sebelum ni untuk Cowork Artifacts juga.\n\nTersedia untuk pelan Pro, Max, Team, dan Enterprise. Tak tersedia untuk artifacts yang dikongsi secara awam.",
+            "date": "2026-07-15T23:02:57+00:00",
+            "message_id": 8693,
+            "message_key": "@testingcatalog:8693"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Kimi K3 has been teased officially \ud83d\udc40",
+            "translated_text": "Kimi K3 dah diusik secara rasmi \ud83d\udc40",
+            "date": "2026-07-15T22:41:38+00:00",
+            "message_id": 8692,
+            "message_key": "@testingcatalog:8692"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Thinking Machines debuts open-weight Inkling AI model**](https://www.testingcatalog.com/thinking-machines-debuts-open-weight-inkling-ai-model/)\n\nThinking Machines Lab released Inkling, an open-weights multimodal MoE model with 975B parameters, 1M-token context, and tunable reasoning. It supports customization, broad deployment options, and strong coding, reasoning, vision, and audio results.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Thinking Machines melancarkan model AI Inkling dengan berat terbuka**](https://www.testingcatalog.com/thinking-machines-debuts-open-weight-inkling-ai-model/)\n\nThinking Machines Lab dah keluarkan Inkling, satu model MoE multimodal dengan berat terbuka. Ia ada 975 bilion parameter, konteks 1 juta token, dan penaakulan yang boleh disesuaikan. Model ni boleh disesuaikan, ada banyak pilihan untuk digunakan, dan hasilnya memang bagus untuk pengekodan, penaakulan, penglihatan, dan audio.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-07-15T22:09:26+00:00",
+            "message_id": 8691,
+            "message_key": "@testingcatalog:8691"
         }
     ]
 }
