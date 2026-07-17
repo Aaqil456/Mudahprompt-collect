@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-17T13:41:55.539497",
+    "timestamp": "2026-07-17T15:15:03.286148",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25556,6 +25556,16 @@
             "date": "2026-07-17T11:54:12+00:00",
             "message_id": 8707,
             "message_key": "@testingcatalog:8707"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Anthropic Workbench has been updated and now belongs to the new Build section, which features a new UI. \n\n> Send a Messages API request, see Claude\u2019s response, and copy the code to ship\n\nA fallback model can also be configured for Claude Fable 5.",
+            "translated_text": "Untuk makluman \ud83d\udc40: Anthropic Workbench dah di-update dan sekarang dah ada dalam seksyen Build yang baru, yang ada UI baru.\n\n> Hantar permintaan Messages API, tengok respons Claude, dan salin kod tu untuk guna.\n\nModel fallback pun boleh dikonfigurasi untuk Claude Fable 5.",
+            "date": "2026-07-17T14:13:29+00:00",
+            "message_id": 8710,
+            "message_key": "@testingcatalog:8710"
         }
     ]
 }
