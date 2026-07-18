@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-18T14:54:47.285273",
+    "timestamp": "2026-07-18T19:07:35.695482",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25666,6 +25666,26 @@
             "date": "2026-07-18T14:19:12+00:00",
             "message_id": 8721,
             "message_key": "@testingcatalog:8721"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-18T17:17:38+00:00",
+            "message_id": 8723,
+            "message_key": "@testingcatalog:8723"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Code weekly limits will be 50% higher through August 19, for all Pro, Max, Team, and seat-based Enterprise users.\n\n> Earlier today, Anthropic announced that Claude Fable 5 will remain on Max and Team Premium plans even after July 19.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Had mingguan Claude Code akan 50% lebih tinggi sehingga 19 Ogos, untuk semua pengguna Pro, Max, Team, dan Enterprise berasaskan tempat duduk.\n\nAwal hari ini, Anthropic mengumumkan bahawa Claude Fable 5 akan kekal dalam pelan Premium Max dan Team walaupun selepas 19 Julai.",
+            "date": "2026-07-18T17:17:38+00:00",
+            "message_id": 8722,
+            "message_key": "@testingcatalog:8722"
         }
     ]
 }
