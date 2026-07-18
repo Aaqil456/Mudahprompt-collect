@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-18T11:53:54.095143",
+    "timestamp": "2026-07-18T14:54:47.285273",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25656,6 +25656,16 @@
             "date": "2026-07-18T11:41:55+00:00",
             "message_id": 8719,
             "message_key": "@testingcatalog:8719"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google preparing Skills and Gemini Live for web rollout**](https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/)\n\nGOOGLE \ud83d\udd25: Google might be preparing Gemini Live for rollout on the Gemini web. \n\n> Gemini Live is expected to arrive on the Gemini desktop as well and has recently undergone trust testing. \n\n> Besides that, we expect Skills to become available in normal chats, as well as a Gemini Flash 3.6 upgrade.\n\nh/t @Thomasguka\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang siapkan Skills dan Gemini Live untuk pelancaran di web**](https://www.testingcatalog.com/google-preparing-skills-and-gemini-live-for-web-rollout/)\n\nGOOGLE: Google mungkin sedang siapkan Gemini Live untuk dilancarkan di web Gemini.\n\n> Gemini Live dijangka akan tiba di desktop Gemini juga dan baru-baru ini telah diuji untuk kepercayaan.\n\n> Selain itu, kami menjangkakan Skills akan tersedia dalam chat biasa, serta peningkatan Gemini Flash 3.6.\n\nInfo dari @Thomasguka\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-07-18T14:19:12+00:00",
+            "message_id": 8721,
+            "message_key": "@testingcatalog:8721"
         }
     ]
 }
