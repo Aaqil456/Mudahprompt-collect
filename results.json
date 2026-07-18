@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-17T22:00:19.079233",
+    "timestamp": "2026-07-18T08:49:52.156659",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25616,6 +25616,26 @@
             "date": "2026-07-17T21:02:25+00:00",
             "message_id": 8714,
             "message_key": "@testingcatalog:8714"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-18T06:08:47+00:00",
+            "message_id": 8718,
+            "message_key": "@testingcatalog:8718"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5 will only be included in Max and Team Premium plans, starting from July 20 at 50% of limits. \n\n> Pro and Team Standard users will receive a one-time $100 credit and have access to Fable 5 via credits only.\n\n> We're continuing to invest in new capacity and will keep everyone updated as we do.\n\nCompute is all you need \ud83e\udd16",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5 akan hanya disertakan dalam pelan Max dan Team Premium, bermula 20 Julai pada 50% daripada had.\n\n> Pengguna Pro dan Team Standard akan menerima kredit $100 sekali sahaja dan boleh mengakses Fable 5 melalui kredit sahaja.\n\n> Kami akan terus melabur dalam kapasiti baharu dan akan sentiasa memaklumkan perkembangan kepada semua orang.\n\nCompute adalah semua yang anda perlukan \ud83e\udd16",
+            "date": "2026-07-18T06:08:46+00:00",
+            "message_id": 8717,
+            "message_key": "@testingcatalog:8717"
         }
     ]
 }
