@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-18T19:07:35.695482",
+    "timestamp": "2026-07-18T22:52:20.125276",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25686,6 +25686,16 @@
             "date": "2026-07-18T17:17:38+00:00",
             "message_id": 8722,
             "message_key": "@testingcatalog:8722"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Something here looks familiar \ud83d\udc40\n\n> Anthropic is testing a new position for its Chat / Cowork toggle. \n\n> Projects are being added to the side nav as well: \"Your projects now live in their own section. Pinned projects stay at the top.\"\n\n* Not available to the public yet.",
+            "translated_text": "Macam pernah nampak je ni \ud83d\udc40\n\nAnthropic tengah cuba kedudukan baru untuk suis Chat / Cowork mereka.\n\nProjek-projek pun sedang ditambah ke menu sisi: \"Projek-projek anda sekarang ada di bahagiannya sendiri. Projek yang di-pin kekal di atas.\"\n\n* Belum tersedia untuk umum lagi.",
+            "date": "2026-07-18T22:17:11+00:00",
+            "message_id": 8724,
+            "message_key": "@testingcatalog:8724"
         }
     ]
 }
