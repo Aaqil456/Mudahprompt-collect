@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-18T22:52:20.125276",
+    "timestamp": "2026-07-19T13:44:53.983037",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25696,6 +25696,16 @@
             "date": "2026-07-18T22:17:11+00:00",
             "message_id": 8724,
             "message_key": "@testingcatalog:8724"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ALIBABA \ud83d\udd25: Qwen3.8-Max-Preview is now available on Alibaba Cloud and Qwen Chat for testing. A massive 2.4T-parameter model is performing better than other models, except Fable 5, according to Qwen. \n\nWe are yet to see the benchmarks themselves, but Qwen3.8-Max-Preview is also expected to go open-weight soon!",
+            "translated_text": "ALIBABA \ud83d\udd25: Qwen3.8-Max-Preview dah boleh guna dekat Alibaba Cloud dan Qwen Chat untuk tujuan ujian. Model yang sangat besar dengan 2.4T parameter ni dikatakan berprestasi lebih baik daripada model lain, kecuali Fable 5, menurut Qwen.\n\nKita belum lagi tengok sendiri penanda arasnya, tapi Qwen3.8-Max-Preview ni dijangka akan jadi 'open-weight' tak lama lagi!",
+            "date": "2026-07-19T13:16:37+00:00",
+            "message_id": 8726,
+            "message_key": "@testingcatalog:8726"
         }
     ]
 }
