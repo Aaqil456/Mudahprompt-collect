@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-19T21:54:35.591998",
+    "timestamp": "2026-07-20T10:13:17.196434",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25766,6 +25766,16 @@
             "date": "2026-07-19T21:29:57+00:00",
             "message_id": 8731,
             "message_key": "@testingcatalog:8731"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests new placement for Projects on Claude Desktop**](https://www.testingcatalog.com/anthropic-tests-new-placement-for-projects-on-claude-desktop/)\n\nAnthropic is testing Claude desktop UI changes, including moving the Chat/Cowork toggle to the top and adding projects to the sidebar. A new Claude Code projects area is also in development, though rollout remains uncertain.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic sedang menguji penempatan baru untuk Projek pada Claude Desktop**](https://www.testingcatalog.com/anthropic-tests-new-placement-for-projects-on-claude-desktop/)\n\nAnthropic sedang menguji perubahan UI Claude desktop, termasuk memindahkan butang Chat/Cowork ke bahagian atas dan menambah projek ke bar sisi. Kawasan projek Claude Code yang baru juga sedang dibangunkan, walaupun pelancarannya masih belum pasti.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-20T08:41:00+00:00",
+            "message_id": 8733,
+            "message_key": "@testingcatalog:8733"
         }
     ]
 }
