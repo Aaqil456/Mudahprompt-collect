@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-20T22:01:14.269541",
+    "timestamp": "2026-07-20T23:57:45.077068",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25816,6 +25816,16 @@
             "date": "2026-07-20T20:56:04+00:00",
             "message_id": 8736,
             "message_key": "@testingcatalog:8736"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Notebook now supports Collections!\n\n> Users can group their themed notebooks under a common folder in order to navigate through them even faster. \n\n> Collection name and emoji are customizable. \n\n> Collections are rolling out gradually to all users.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Notebook kini menyokong Collections!\n\n> Pengguna boleh kumpulkan notebook bertema mereka dalam satu folder yang sama supaya lebih cepat nak cari.\n\n> Nama Collection dan emoji boleh diubah suai.\n\n> Collections akan dilancarkan secara berperingkat kepada semua pengguna.",
+            "date": "2026-07-20T22:19:40+00:00",
+            "message_id": 8738,
+            "message_key": "@testingcatalog:8738"
         }
     ]
 }
