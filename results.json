@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-20T10:13:17.196434",
+    "timestamp": "2026-07-20T13:07:45.713954",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25776,6 +25776,16 @@
             "date": "2026-07-20T08:41:00+00:00",
             "message_id": 8733,
             "message_key": "@testingcatalog:8733"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests Penlight for live clinical transcripts and AI research**](https://www.testingcatalog.com/anthropic-tests-penlight-for-live-clinical-transcripts-and-ai-research/)\n\nAnthropic is testing Penlight, a standalone Claude tool for clinicians that records visits, provides live transcription, parallel chat, and medical research lookup, pointing to a first-party clinical workflow still under development.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic menguji Penlight untuk transkripsi klinikal secara langsung dan penyelidikan AI**](https://www.testingcatalog.com/anthropic-tests-penlight-for-live-clinical-transcripts-and-ai-research/)\n\nAnthropic sedang menguji Penlight, satu alat Claude yang berdiri sendiri untuk pakar klinikal. Alat ini berfungsi untuk merekodkan lawatan, menyediakan transkripsi secara langsung, sembang selari, dan carian penyelidikan perubatan. Ini menunjukkan ada aliran kerja klinikal pihak pertama yang masih dalam pembangunan.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-20T12:57:47+00:00",
+            "message_id": 8734,
+            "message_key": "@testingcatalog:8734"
         }
     ]
 }
