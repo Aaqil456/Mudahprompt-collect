@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-20T13:07:45.713954",
+    "timestamp": "2026-07-20T15:51:45.221009",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25786,6 +25786,16 @@
             "date": "2026-07-20T12:57:47+00:00",
             "message_id": 8734,
             "message_key": "@testingcatalog:8734"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic set to end Conway test as wider preview expected soon**](https://www.testingcatalog.com/anthropic-set-to-end-conway-test-as-wider-preview-expected-soon/)\n\nANTHROPIC \ud83d\udd25: Internal access to Claude Conway will be cut off this Friday, July 24. \n\n\"Conway access ends Fri, July 24 at 5 pm PT. To export your data, ask Conway: \"export my data\". \n\nThis can mean two things \ud83d\udc40\n1. Conway has been completely discontinued, which would be extremely unfortunate. \n2. It is being transitioned to the broader release phase already in July. \n\n> Claude Conway is a remote, always-on Claude Agent that runs in a dedicated container. \n\n> Conway supports webhooks, connectors, plugins, and custom UI Tabs, a potential new standard from Anthropic for defining sharable UI artifacts for remote agents. \n\n> Conway has been in development since April and has undergone internal testing during the past couple of months.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic akan tamatkan ujian Conway, pratonton lebih meluas dijangka tidak lama lagi**](https://www.testingcatalog.com/anthropic-set-to-end-conway-test-as-wider-preview-expected-soon/)\n\nANTHROPIC \ud83d\udd25: Akses dalaman kepada Claude Conway akan ditamatkan Jumaat ini, 24 Julai.\n\n\"Akses Conway akan tamat Jumaat, 24 Julai jam 5 petang PT. Untuk eksport data anda, tanya Conway: \"export my data\".\"\n\nIni boleh bermakna dua perkara \ud83d\udc40\n1. Conway telah dihentikan sepenuhnya, yang mana sangatlah malang.\n2. Ia sedang beralih ke fasa keluaran yang lebih meluas seawal Julai ini.\n\n> Claude Conway adalah Ejen Claude jarak jauh yang sentiasa aktif dan berjalan dalam bekas khusus.\n\n> Conway menyokong webhooks, penyambung, pemalam, dan Tab UI tersuai, satu standard baharu yang berpotensi dari Anthropic untuk mentakrifkan artifak UI yang boleh dikongsi untuk ejen jarak jauh.\n\n> Conway telah dibangunkan sejak April dan telah menjalani ujian dalaman sepanjang beberapa bulan yang lalu.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-20T15:14:48+00:00",
+            "message_id": 8735,
+            "message_key": "@testingcatalog:8735"
         }
     ]
 }
