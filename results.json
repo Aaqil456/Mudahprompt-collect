@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-21T13:54:49.412553",
+    "timestamp": "2026-07-21T15:45:42.068878",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25836,6 +25836,36 @@
             "date": "2026-07-21T13:14:44+00:00",
             "message_id": 8739,
             "message_key": "@testingcatalog:8739"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-21T15:20:24+00:00",
+            "message_id": 8742,
+            "message_key": "@testingcatalog:8742"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Both, Gemini 3.6 Flash and Gemini 3.5 Flash Lite models are now available on Gemini apps and Antigravity as well.",
+            "translated_text": "Kedua-dua model Gemini 3.6 Flash dan Gemini 3.5 Flash Lite kini boleh didapati di aplikasi Gemini dan Antigravity juga.",
+            "date": "2026-07-21T15:20:24+00:00",
+            "message_id": 8741,
+            "message_key": "@testingcatalog:8741"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.6 Flash and Gemini 3.5 Flash Lite models are now available on Google AI Studio and Vertex API. \n\n> gemini-3.6-flash: \"Our most intelligent model yet for sustained frontier performance in agentic and coding tasks.\"\n\n> gemini-3.5-flash-lite: \"High-throughput, low-latency execution for scaling high-volume agentic tasks and subagent workflows\"\n\nGemini? \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Model Gemini 3.6 Flash dan Gemini 3.5 Flash Lite dah boleh guna sekarang dekat Google AI Studio dan Vertex API.\n\n> gemini-3.6-flash: \"Model paling pintar kami setakat ni untuk prestasi yang mantap dan berterusan dalam tugasan agen dan pengekodan.\"\n\n> gemini-3.5-flash-lite: \"Pelaksanaan dengan throughput tinggi, kependaman rendah untuk mengendalikan tugasan agen bervolume tinggi secara berskala dan aliran kerja subagen\"\n\nGemini? \ud83d\udc40",
+            "date": "2026-07-21T14:16:27+00:00",
+            "message_id": 8740,
+            "message_key": "@testingcatalog:8740"
         }
     ]
 }
