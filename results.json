@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-21T19:25:49.000269",
+    "timestamp": "2026-07-21T21:11:53.729016",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25906,6 +25906,36 @@
             "date": "2026-07-21T17:58:43+00:00",
             "message_id": 8745,
             "message_key": "@testingcatalog:8745"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-21T20:19:31+00:00",
+            "message_id": 8749,
+            "message_key": "@testingcatalog:8749"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: An \"even more capable pre-release model\" than GPT-5.6 Sol, managed to find a 0-day vulnerability in order to gain public internet access and acquire evaluation data from Huggingface's production database in order to gain a higher score on the evaluation benchmark. \n\n> After investigating, we now know that this particular incident was driven by a combination of OpenAI models, including GPT\u20115.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes.\n\n> While operating in our sandboxed testing environment, our models spent a substantial amount of inference compute finding a way to obtain open Internet access, in pursuit of solving the evaluation problem.\n\n> The models identified and chained vulnerabilities across OpenAI\u2019s research environment and Hugging Face\u2019s production infrastructure to obtain test solutions directly from Hugging Face\u2019s production database. \n\nPentesting time \ud83d\udc40",
+            "translated_text": "BREAKING \ud83d\udd25: Sebuah 'model pra-keluaran yang lebih berkemampuan' daripada GPT-5.6 Sol, berjaya menemui kelemahan 0-day untuk mendapatkan akses internet awam dan memperoleh data penilaian dari pangkalan data produksi Huggingface demi mencapai skor yang lebih tinggi dalam penanda aras penilaian.\n\n> Selepas menyiasat, kami kini tahu bahawa insiden ini didorong oleh gabungan model-model OpenAI, termasuk GPT\u20115.6 Sol dan sebuah model pra-keluaran yang lebih berkemampuan, semuanya dengan pengurangan penolakan siber untuk tujuan penilaian.\n\n> Semasa beroperasi dalam persekitaran ujian 'sandbox' kami, model-model kami menggunakan sejumlah besar kuasa pengiraan inferens untuk mencari cara mendapatkan akses Internet terbuka, dalam usaha menyelesaikan masalah penilaian.\n\n> Model-model tersebut mengenal pasti dan merantai kelemahan merentasi persekitaran penyelidikan OpenAI dan infrastruktur produksi Hugging Face untuk mendapatkan penyelesaian ujian secara langsung dari pangkalan data produksi Hugging Face.\n\nMasa pentesting \ud83d\udc40",
+            "date": "2026-07-21T20:19:31+00:00",
+            "message_id": 8748,
+            "message_key": "@testingcatalog:8748"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released \"Gemini 3.5 Flash Cyber\" on CodeMender, a new model for finding security vulnerabilities. \n\n> Within CodeMender, which uses multiple 3.5 Flash Cyber agents working together to produce a single combined report, 3.5 Flash Cyber reaches competitive performance at the frontier on the popular benchmark CyberGym.\n\n> Flash\u2019s performance and efficiency makes it an ideal foundation for our cybersecurity model efforts. By building on top of Flash, 3.5 Flash Cyber offers a cost-efficient and highly capable alternative to large, costly cybersecurity models.",
+            "translated_text": "Google melancarkan \"Gemini 3.5 Flash Cyber\" di CodeMender, satu model baharu untuk mencari kelemahan keselamatan.\n\nDalam CodeMender, yang menggunakan beberapa ejen 3.5 Flash Cyber yang bekerjasama untuk menghasilkan satu laporan gabungan, 3.5 Flash Cyber mencapai prestasi yang berdaya saing di tahap tertinggi pada penanda aras popular CyberGym.\n\nPrestasi dan kecekapan Flash menjadikannya asas yang ideal untuk usaha kami dalam model keselamatan siber. Dengan berasaskan Flash, 3.5 Flash Cyber menawarkan alternatif yang menjimatkan kos dan sangat berkemampuan berbanding model keselamatan siber yang besar dan mahal.",
+            "date": "2026-07-21T20:04:10+00:00",
+            "message_id": 8747,
+            "message_key": "@testingcatalog:8747"
         }
     ]
 }
