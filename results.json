@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-20T23:57:45.077068",
+    "timestamp": "2026-07-21T13:54:49.412553",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25826,6 +25826,16 @@
             "date": "2026-07-20T22:19:40+00:00",
             "message_id": 8738,
             "message_key": "@testingcatalog:8738"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity tests OpenRouter integration for Computer**](https://www.testingcatalog.com/perplexity-tests-openrouter-integration-for-computer/)\n\nPERPLEXITY \ud83d\udd25: OpenRouter integration might be coming to Perplexity Computer, potentially bringing a massive reduction in usage costs. \n\n> Users will be able to connect Perplexity to their OpenRouter accounts.\n\n> OpenRouter models will be used as the orchestrator for Perplexity Computer. \n\nI need to test this \ud83d\udc40\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity menguji integrasi OpenRouter untuk Komputer**](https://www.testingcatalog.com/perplexity-tests-openrouter-integration-for-computer/)\n\nPERPLEXITY \ud83d\udd25: Integrasi OpenRouter mungkin akan datang ke Perplexity Computer, berpotensi membawa pengurangan besar dalam kos penggunaan.\n\n> Pengguna akan dapat menyambungkan Perplexity ke akaun OpenRouter mereka.\n\n> Model OpenRouter akan digunakan sebagai pengatur utama untuk Perplexity Computer.\n\nSaya perlu uji ni \ud83d\udc40\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-07-21T13:14:44+00:00",
+            "message_id": 8739,
+            "message_key": "@testingcatalog:8739"
         }
     ]
 }
