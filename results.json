@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-22T19:23:21.554228",
+    "timestamp": "2026-07-22T21:10:13.774894",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26016,6 +26016,26 @@
             "date": "2026-07-22T17:29:10+00:00",
             "message_id": 8756,
             "message_key": "@testingcatalog:8756"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-22T20:03:00+00:00",
+            "message_id": 8760,
+            "message_key": "@testingcatalog:8760"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic expanded access to the Claude Security plugin for Claude Code CLI. \n\n> Scan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run.\n\nWe finally see these tools becoming more accessible to users!",
+            "translated_text": "Anthropic dah luaskan akses untuk plugin Keselamatan Claude bagi Claude Code CLI.\n\nAnda boleh imbas perubahan anda untuk cari kelemahan sebelum commit, atau buat imbasan penuh pada keseluruhan codebase anda. Semua ni boleh buat terus dari terminal anda, guna inferens Claude yang anda dah sedia pakai.\n\nAkhirnya kita nampak alat-alat ni makin mudah diakses oleh pengguna!",
+            "date": "2026-07-22T20:03:00+00:00",
+            "message_id": 8759,
+            "message_key": "@testingcatalog:8759"
         }
     ]
 }
