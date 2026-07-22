@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-22T00:02:05.282833",
+    "timestamp": "2026-07-22T11:48:53.060130",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25956,6 +25956,36 @@
             "date": "2026-07-21T23:25:19+00:00",
             "message_id": 8750,
             "message_key": "@testingcatalog:8750"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex app got various small updates around navigation, side chats, and other UI components. \n\nBesides that, Pets can now be updated in order to adapt to a wide range of new-looking directions via the Hatch skill. \n\n\"Minty\" just got to the next level \ud83d\udc40",
+            "translated_text": "Aplikasi Codex dah dapat beberapa kemas kini kecil untuk navigasi, chat tepi, dan komponen UI lain.\n\nSelain tu, Pets sekarang dah boleh di-update untuk sesuaikan diri dengan pelbagai gaya rupa baru guna skill Hatch.\n\n\"Minty\" baru je naik level seterusnya \ud83d\udc40",
+            "date": "2026-07-22T10:44:37+00:00",
+            "message_id": 8754,
+            "message_key": "@testingcatalog:8754"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic develops Claude-driven Managed Projects**](https://www.testingcatalog.com/anthropic-develops-claude-driven-managed-projects/)\n\nAnthropic is testing \u201cmanaged\u201d Claude projects: persistent workspaces that keep context, organize tasks, and may run scheduled work. Internal builds tie prior agent and memory features into one shared or personal project surface.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic Membangunkan Projek Terurus Digerakkan Claude**](https://www.testingcatalog.com/anthropic-develops-claude-driven-managed-projects/)\n\nAnthropic sedang menguji projek Claude yang \"terurus\": ruang kerja berterusan yang mengekalkan konteks, menyusun tugasan, dan mungkin menjalankan kerja mengikut jadual. Pembangunan dalaman menggabungkan ciri ejen dan memori terdahulu ke dalam satu permukaan projek yang dikongsi atau peribadi.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-22T10:32:35+00:00",
+            "message_id": 8753,
+            "message_key": "@testingcatalog:8753"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 3.6 Flash and Gemini 3.5 Flash Lite**](https://www.testingcatalog.com/google-launches-gemini-3-6-flash-and-gemini-3-5-flash-lite/)\n\nGoogle introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber for AI agents, focused on lower latency, lower token use, coding, multimodal work, and restricted cybersecurity tasks for production and enterprise use.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google melancarkan Gemini 3.6 Flash dan Gemini 3.5 Flash Lite**](https://www.testingcatalog.com/google-launches-gemini-3-6-flash-and-gemini-3-5-flash-lite/)\n\nGoogle memperkenalkan Gemini 3.6 Flash, 3.5 Flash-Lite, dan 3.5 Flash Cyber untuk ejen AI, dengan tumpuan pada latensi lebih rendah, penggunaan token lebih rendah, pengekodan, kerja multimodal, dan tugasan keselamatan siber yang terhad untuk kegunaan pengeluaran dan perusahaan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-07-22T10:31:34+00:00",
+            "message_id": 8752,
+            "message_key": "@testingcatalog:8752"
         }
     ]
 }
