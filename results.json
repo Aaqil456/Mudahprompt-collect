@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-22T11:48:53.060130",
+    "timestamp": "2026-07-22T13:59:36.714136",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -25986,6 +25986,16 @@
             "date": "2026-07-22T10:31:34+00:00",
             "message_id": 8752,
             "message_key": "@testingcatalog:8752"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: A new Managed Projects feature has been spotted in testing on Claude.\n\n> Claude takes on tasks and keeps the project organized. \n\n> A project is a home for one stream of work. Sessions share memory and instructions so context carries forward, and Claude runs more autonomously. Projects only create and manage cloud sessions.\n\nThis feature may be built on top of Claude Managed Agents, where each project gets a dedicated cloud environment so Claude can execute periodic tasks and refine project context via \"Dreams\". It could also be a successor to Conway, which is set to be removed this Friday internally.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Satu ciri baru bernama Managed Projects telah dikesan sedang diuji di Claude.\n\n> Claude menguruskan tugas dan memastikan projek tersusun rapi.\n\n> Projek adalah tempat untuk satu aliran kerja. Sesi-sesi berkongsi memori dan arahan supaya konteks dapat diteruskan, dan Claude beroperasi dengan lebih autonomi. Projek hanya mencipta dan menguruskan sesi awan.\n\nCiri ini mungkin dibina berdasarkan Claude Managed Agents, di mana setiap projek mendapat persekitaran awan khusus supaya Claude boleh melaksanakan tugas berkala dan memperhalusi konteks projek melalui \"Dreams\". Ia juga mungkin pengganti kepada Conway, yang dijadualkan akan dikeluarkan secara dalaman pada Jumaat ini.",
+            "date": "2026-07-22T13:00:21+00:00",
+            "message_id": 8755,
+            "message_key": "@testingcatalog:8755"
         }
     ]
 }
