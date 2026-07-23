@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-23T02:54:06.041335",
+    "timestamp": "2026-07-23T11:12:08.140464",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26076,6 +26076,26 @@
             "date": "2026-07-23T00:07:31+00:00",
             "message_id": 8762,
             "message_key": "@testingcatalog:8762"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic preparing for potential Claude Opus 5 rollout**](https://www.testingcatalog.com/anthropic-preparing-for-potential-claude-opus-5-rollout/)\n\nANTHROPIC \ud83d\udd25: Claude Opus 5 model is being prepared for release. \n\nThe timeline is yet to be confirmed; however, such preparations normally happen right ahead of the release. \n\nOpus release cadence \ud83d\udc40\n- 70 days from 4.6 to 4.7\n- 42 from 4.7 to 4.8\n- 56 so far since\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic sedang bersiap sedia untuk kemungkinan pelancaran Claude Opus 5**](https://www.testingcatalog.com/anthropic-preparing-for-potential-claude-opus-5-rollout/)\n\nANTHROPIC \ud83d\udd25: Model Claude Opus 5 sedang disediakan untuk dilancarkan.\n\nJadual masa masih belum disahkan; namun begitu, persiapan macam ni biasanya berlaku betul-betul sebelum pelancaran.\n\nKekerapan pelancaran Opus \ud83d\udc40\n- 70 hari dari 4.6 ke 4.7\n- 42 dari 4.7 ke 4.8\n- 56 setakat ini sejak\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-23T10:47:09+00:00",
+            "message_id": 8766,
+            "message_key": "@testingcatalog:8766"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI tests Codex Realtime Voice Mode for ChatGPT**](https://www.testingcatalog.com/openai-tests-codex-realtime-voice-mode-for-chatgpt/)\n\nOpenAI appears to be preparing a real-time voice mode for Codex as a phone-style personal assistant. It could manage parallel tasks across apps and services via Codex Remote Control, though timing, model choice, and release scope remain unclear.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI uji Mod Suara Masa Nyata Codex untuk ChatGPT**](https://www.testingcatalog.com/openai-tests-codex-realtime-voice-mode-for-chatgpt/)\n\nOpenAI nampaknya sedang siapkan mod suara masa nyata untuk Codex, berfungsi macam pembantu peribadi gaya telefon. Ia mungkin boleh uruskan pelbagai tugas serentak merentasi aplikasi dan perkhidmatan melalui Codex Remote Control, walaupun masa, pilihan model, dan skop pelancaran masih belum jelas.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-07-23T10:07:28+00:00",
+            "message_id": 8765,
+            "message_key": "@testingcatalog:8765"
         }
     ]
 }
