@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-22T23:05:41.811056",
+    "timestamp": "2026-07-23T02:54:06.041335",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26046,6 +26046,36 @@
             "date": "2026-07-22T21:53:39+00:00",
             "message_id": 8761,
             "message_key": "@testingcatalog:8761"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI develops deployable applications for Grok Build**](https://www.testingcatalog.com/spacexai-develops-deployable-applications-for-grok-build/)\n\nxAI is building Grok into an app publishing platform with deployment, hosting, sharing, and custom domains, while mobile top-ups appear closer and Grok 4.6 training nears completion ahead of a possible August release.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**SpaceXAI membangunkan aplikasi yang boleh digunakan untuk Grok Build**](https://www.testingcatalog.com/spacexai-develops-deployable-applications-for-grok-build/)\n\nxAI sedang membangunkan Grok menjadi platform penerbitan aplikasi yang lengkap dengan fungsi pelaksanaan, pengehosan, perkongsian, dan domain tersuai. Pada masa yang sama, kemudahan tambah nilai mudah alih nampak semakin hampir dan latihan Grok 4.6 pula hampir selesai, menjelang kemungkinan pelancaran pada bulan Ogos.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-07-23T00:56:49+00:00",
+            "message_id": 8764,
+            "message_key": "@testingcatalog:8764"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Opus and Sonnet models will soon become available on Claude Voice Mode!\n\nThe new model selector has been hidden in the UI for roughly three weeks, defaulting to Haiku regardless of the selection. \n\nToday, it changed, and now it responds via Opus and Sonnet models. The system is still built on TTS; however, it handles interruptions super well and can operate Connectors!\n\nAccess to a broader range of tools makes it much more capable than what ChatGPT is offering at the moment, yet usage might become a tricky topic, at least for high-effort reasoning.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Model Claude Opus dan Sonnet tak lama lagi akan tersedia pada Claude Voice Mode!\n\nPemilih model baru ni dah disembunyikan dalam UI selama lebih kurang tiga minggu, dan secara lalai dia akan guna Haiku tak kira apa pilihan yang dibuat.\n\nHari ni, ia dah berubah, dan sekarang ia balas guna model Opus dan Sonnet. Sistem ni masih berasaskan TTS; tapi, ia uruskan gangguan dengan sangat baik dan boleh kendalikan Connectors!\n\nDengan akses kepada lebih banyak alat, ia buat ia jadi lebih berkemampuan daripada apa yang ChatGPT tawarkan sekarang ni. Tapi, bab penggunaan mungkin jadi susah sikit, paling tidak untuk kerja-kerja penaakulan yang perlukan banyak usaha.",
+            "date": "2026-07-23T00:09:01+00:00",
+            "message_id": 8763,
+            "message_key": "@testingcatalog:8763"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude Voice Mode to get Opus and Sonnet model options**](https://www.testingcatalog.com/claude-voice-mode-to-get-opus-and-sonnet-model-options/)\n\nAnthropic appears close to rolling out upgraded Claude voice mode, with Opus and Sonnet now powering voice chats instead of defaulting to Haiku. \n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Mod Suara Claude untuk dapatkan pilihan model Opus dan Sonnet**](https://www.testingcatalog.com/claude-voice-mode-to-get-opus-and-sonnet-model-options/)\n\nAnthropic nampaknya dah nak lancarkan mod suara Claude yang dah dipertingkat, dengan Opus dan Sonnet kini digunakan untuk sembang suara, bukannya secara lalai guna Haiku.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-23T00:07:31+00:00",
+            "message_id": 8762,
+            "message_key": "@testingcatalog:8762"
         }
     ]
 }
