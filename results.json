@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-23T20:15:50.912414",
+    "timestamp": "2026-07-23T22:05:57.621657",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26136,6 +26136,16 @@
             "date": "2026-07-23T18:32:31+00:00",
             "message_id": 8769,
             "message_key": "@testingcatalog:8769"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT Voice is now rolling out on the desktop app to allow users to operate multiple agents across ChatGPT Work and Codex!\n\n> New voice mode is powered by recently released GPT Live 1, a full-duplex voice model from OpenAI. \n\n> Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.\n\n> ChatGPT Voice in Codex can also be used from the ChatGPT iOS app via paired remote access. \n\nAndroid soon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT Voice kini mula diperkenalkan pada aplikasi desktop untuk membolehkan pengguna mengendalikan pelbagai ejen dalam ChatGPT Work dan Codex!\n\n> Mod suara baharu ini dikuasakan oleh GPT Live 1 yang baru dilancarkan, iaitu model suara dupleks penuh dari OpenAI.\n\n> Mula tersedia di seluruh dunia hari ini pada macOS dan Windows untuk pelan Plus, Pro, Business, Edu, dan Enterprise.\n\n> ChatGPT Voice dalam Codex juga boleh digunakan dari aplikasi ChatGPT iOS melalui akses jauh berpasangan.\n\nAndroid tak lama lagi \ud83d\udc40",
+            "date": "2026-07-23T21:16:25+00:00",
+            "message_id": 8772,
+            "message_key": "@testingcatalog:8772"
         }
     ]
 }
