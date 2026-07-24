@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-24T12:20:36.529591",
+    "timestamp": "2026-07-24T18:18:55.514495",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26186,6 +26186,16 @@
             "date": "2026-07-24T11:59:30+00:00",
             "message_id": 8777,
             "message_key": "@testingcatalog:8777"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Anthropic released Claude Opus 5 that performs on par with Fable 5 at half of the price! \n\n> Claude Opus 5 for 30 points on ARC AGI 3. SOTA!?\n> Outperforms Claude Fable 5 on Computer use. \n\nIn general, I feel that Computer Use capabilities are already even more important than Software Development performance. Every AI lab will aim to have the best super app, capable to do everything that humans can do with their computers. \n\nTesting time \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Anthropic dah keluarkan Claude Opus 5 yang prestasinya setanding dengan Fable 5 pada separuh harga!\n\n> Claude Opus 5 dapat 30 mata dalam ARC AGI 3. SOTA!?\n> Mengatasi Claude Fable 5 dari segi penggunaan komputer.\n\nSecara amnya, saya rasa keupayaan Penggunaan Komputer dah jadi lebih penting lagi daripada prestasi Pembangunan Perisian. Setiap makmal AI akan sasarkan untuk ada aplikasi super terbaik, yang mampu buat semua benda yang manusia boleh buat dengan komputer mereka.\n\nMasa untuk uji \ud83d\udc40",
+            "date": "2026-07-24T17:51:40+00:00",
+            "message_id": 8778,
+            "message_key": "@testingcatalog:8778"
         }
     ]
 }
