@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-23T22:05:57.621657",
+    "timestamp": "2026-07-24T07:32:59.538448",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26146,6 +26146,16 @@
             "date": "2026-07-23T21:16:25+00:00",
             "message_id": 8772,
             "message_key": "@testingcatalog:8772"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Black Forest Labs introduced FLUX 3, a multi-modal model for Image, Video, audio, and Action-Prediction. \n\n> FLUX 3 Video is now available in early access (requires you to apply via the form). \n\n> Jointly trained in one unified architecture, our model can be extended to predict actions for robotics.",
+            "translated_text": "Black Forest Labs dah perkenalkan FLUX 3, satu model multi-modal untuk Imej, Video, audio, dan Ramalan-Tindakan.\n> FLUX 3 Video sekarang dah ada untuk akses awal (kena mohon dulu melalui borang).\n> Dilatih bersama dalam satu seni bina yang seragam, model kami boleh dikembangkan untuk meramal tindakan bagi robotik.",
+            "date": "2026-07-24T06:11:38+00:00",
+            "message_id": 8773,
+            "message_key": "@testingcatalog:8773"
         }
     ]
 }
