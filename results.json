@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-24T18:18:55.514495",
+    "timestamp": "2026-07-25T21:58:14.581714",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26196,6 +26196,36 @@
             "date": "2026-07-24T17:51:40+00:00",
             "message_id": 8778,
             "message_key": "@testingcatalog:8778"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: ChatGPT users can now share their custom Pets directly from the ChatGPT web via a shareable link. \n\n> Settings > Personalisation > Copy Link\n\nOnly available on the web for now \ud83d\udc40",
+            "translated_text": "Untuk pengetahuan anda yang mungkin terlepas \ud83d\udc40: Pengguna ChatGPT kini boleh kongsi Pets tersuai mereka terus dari web ChatGPT melalui pautan yang boleh dikongsi.\n\n> Tetapan > Pemperibadian > Salin Pautan\n\nHanya tersedia di web buat masa ini \ud83d\udc40",
+            "date": "2026-07-25T21:29:58+00:00",
+            "message_id": 8782,
+            "message_key": "@testingcatalog:8782"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-25T20:15:13+00:00",
+            "message_id": 8780,
+            "message_key": "@testingcatalog:8780"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A new usage limits reset has been applied to ChatGPT Work and Codex! \n\nP. S. If you haven\u2019t tried operating Codex via a new Voice Mode, it is an absolute must. It is a \u201cnew user experience\u201d we all have been waiting for.",
+            "translated_text": "OPENAI \ud83d\udd25: Had penggunaan baru dah diset semula untuk ChatGPT Work dan Codex!\n\nP. S. Kalau belum cuba guna Codex melalui Voice Mode baru ni, memang wajib cuba. Ini adalah \u201cpengalaman pengguna baru\u201d yang kita semua dah lama tunggu.",
+            "date": "2026-07-25T20:15:13+00:00",
+            "message_id": 8779,
+            "message_key": "@testingcatalog:8779"
         }
     ]
 }
