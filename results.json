@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T21:58:14.581714",
+    "timestamp": "2026-07-25T23:01:28.505893",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26226,6 +26226,36 @@
             "date": "2026-07-25T20:15:13+00:00",
             "message_id": 8779,
             "message_key": "@testingcatalog:8779"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-25T22:41:34+00:00",
+            "message_id": 8785,
+            "message_key": "@testingcatalog:8785"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok 4.6 model is expected to land already in 2 weeks, according to Elon Musk. \n\n> The next SpaceXAI model is expected to be based on 2T parameters (compared to 1.5T on Grok 4.5) and is expected to surpass Kimi K3 in performance. \n\n> Grok 4.7 is set to be released in 4 weeks as well. \n\nMonitoring \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Model Grok 4.6 dijangka akan dilancarkan dalam masa 2 minggu lagi, menurut Elon Musk.\n\n> Model SpaceXAI seterusnya dijangka akan berasaskan 2T parameter (berbanding 1.5T pada Grok 4.5) dan dijangka akan mengatasi Kimi K3 dari segi prestasi.\n\n> Grok 4.7 dijangka akan dilancarkan dalam masa 4 minggu juga.\n\nPantauan \ud83d\udc40",
+            "date": "2026-07-25T22:41:34+00:00",
+            "message_id": 8784,
+            "message_key": "@testingcatalog:8784"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Cursor launches Router to cut costs for coding models**](https://www.testingcatalog.com/icymi-cursor-launches-router-to-cut-costs-for-coding-models/)\n\nCursor Router selects AI models per coding request to balance quality and cost. Available across Cursor platforms, it uses a large request-trained classifier and reportedly cuts enterprise spending by 30% to 60% without reducing output quality.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "translated_text": "[**Sekadar info: Cursor lancarkan Router untuk kurangkan kos model pengekodan**](https://www.testingcatalog.com/icymi-cursor-launches-router-to-cut-costs-for-coding-models/)\n\nCursor Router pilih model AI ikut setiap permintaan pengekodan untuk seimbangkan kualiti dan kos. Boleh didapati di semua platform Cursor, ia guna pengelas yang dilatih berdasarkan banyak permintaan dan dilaporkan dapat kurangkan perbelanjaan syarikat sebanyak 30% hingga 60% tanpa kurangkan kualiti hasil.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "date": "2026-07-25T22:30:14+00:00",
+            "message_id": 8783,
+            "message_key": "@testingcatalog:8783"
         }
     ]
 }
