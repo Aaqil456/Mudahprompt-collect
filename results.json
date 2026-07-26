@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T23:01:28.505893",
+    "timestamp": "2026-07-26T09:13:12.155250",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26256,6 +26256,36 @@
             "date": "2026-07-25T22:30:14+00:00",
             "message_id": 8783,
             "message_key": "@testingcatalog:8783"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launched Claude Opus 5 across all platforms**](https://www.testingcatalog.com/anthropic-launched-claude-opus-5-across-all-platforms/)\n\nICYMI: Anthropic launched Claude Opus 5 across its platforms and API at Opus 4.8 pricing. Aimed at coding and knowledge work, it posts strong benchmark results, adds effort controls, and applies tighter cybersecurity limits.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic telah melancarkan Claude Opus 5 di semua platform**](https://www.testingcatalog.com/anthropic-launched-claude-opus-5-across-all-platforms/)\n\nUntuk yang terlepas: Anthropic telah melancarkan Claude Opus 5 di platform dan API mereka dengan harga Opus 4.8. Direka khas untuk kerja pengekodan dan pengetahuan, ia mencatatkan keputusan penanda aras yang memberangsangkan, menambah kawalan usaha, serta mengenakan had keselamatan siber yang lebih ketat.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-07-26T07:57:08+00:00",
+            "message_id": 8788,
+            "message_key": "@testingcatalog:8788"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Black Forest Labs opens FLUX 3 Video early access**](https://www.testingcatalog.com/icymi-black-forest-labs-opens-flux-3-video-early-access/)\n\nICYMI: Black Forest Labs opened early access to FLUX 3 Video, a unified image, video, and audio model that generates 20-second clips with native audio, supports continuation and multilingual dialogue, and points to future action prediction.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**ICYMI: Black Forest Labs buka akses awal FLUX 3 Video**](https://www.testingcatalog.com/icymi-black-forest-labs-opens-flux-3-video-early-access/)\n\nICYMI: Black Forest Labs dah buka akses awal untuk FLUX 3 Video. Ia adalah satu model bersepadu untuk imej, video, dan audio yang boleh hasilkan klip 20 saat dengan audio asli. Model ni juga menyokong kesinambungan dan dialog pelbagai bahasa, dan nampak macam boleh ramal tindakan masa depan.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-07-26T07:40:34+00:00",
+            "message_id": 8787,
+            "message_key": "@testingcatalog:8787"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft previews MAI-Image-2.5-Pro and MAI-Voice-2-Flash**](https://www.testingcatalog.com/microsoft-previews-mai-image-2-5-pro-and-mai-voice-2-flash/)\n\nICYMI: Microsoft opened public previews of MAI-Image-2.5-Pro and MAI-Voice-2-Flash via Foundry and MAI Playground. The image model targets high-fidelity visuals and editing; the voice model targets fast, lower-cost speech for contact centers.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "translated_text": "[**Microsoft memperkenalkan awal MAI-Image-2.5-Pro dan MAI-Voice-2-Flash**](https://www.testingcatalog.com/microsoft-previews-mai-image-2-5-pro-and-mai-voice-2-flash/)\n\nUntuk makluman, Microsoft dah buka pratonton awam untuk MAI-Image-2.5-Pro dan MAI-Voice-2-Flash melalui Foundry dan MAI Playground. Model imej ni fokus pada visual dan suntingan yang berkualiti tinggi; manakala model suara pula untuk pertuturan yang pantas dan kos rendah, sesuai untuk pusat panggilan.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "date": "2026-07-26T07:29:10+00:00",
+            "message_id": 8786,
+            "message_key": "@testingcatalog:8786"
         }
     ]
 }
