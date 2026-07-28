@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T08:36:21.734394",
+    "timestamp": "2026-07-28T16:42:08.095647",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26396,6 +26396,26 @@
             "date": "2026-07-28T07:42:17+00:00",
             "message_id": 8798,
             "message_key": "@testingcatalog:8798"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: A new Grok Build mode has been introduced on Grok web and mobile. \n\nUsers can build apps, dashboards, and games with the support of the Grok Build Agent. Custom domains, Browser Use, and image generation are supported too!\n\nOnly SuperGrok Heavy users for now \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Mod Grok Build yang baru dah diperkenalkan dekat Grok web dan mobile.\n\nPengguna boleh bina aplikasi, dashboard, dan game dengan bantuan Grok Build Agent. Domain custom, Browser Use, dan penjanaan imej pun disokong juga!\n\nBuat masa ni, hanya pengguna SuperGrok Heavy je yang boleh guna. \ud83d\udc40",
+            "date": "2026-07-28T16:10:52+00:00",
+            "message_id": 8801,
+            "message_key": "@testingcatalog:8801"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity released Personal Computer for Perplexity app on Windows, supporting many Connectors from the Microsoft ecosystem. \n\n> Personal Computer is the local agent harness for your work. It orchestrates agents across your local files, connected apps, and the web.  \n\nExpansion \ud83d\udc40",
+            "translated_text": "Perplexity dah lancarkan Personal Computer untuk aplikasi Perplexity di Windows, yang menyokong banyak Connectors dari ekosistem Microsoft.\n\n> Personal Computer ni adalah sistem ejen tempatan untuk kerja anda. Ia menyelaraskan ejen-ejen merentasi fail tempatan anda, aplikasi yang bersambung, dan web.\n\nPengembangan \ud83d\udc40",
+            "date": "2026-07-28T14:56:30+00:00",
+            "message_id": 8800,
+            "message_key": "@testingcatalog:8800"
         }
     ]
 }
