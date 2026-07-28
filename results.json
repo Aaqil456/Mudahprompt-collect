@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-27T21:13:18.026697",
+    "timestamp": "2026-07-28T08:36:21.734394",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26376,6 +26376,26 @@
             "date": "2026-07-27T20:17:31+00:00",
             "message_id": 8796,
             "message_key": "@testingcatalog:8796"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-28T07:42:17+00:00",
+            "message_id": 8799,
+            "message_key": "@testingcatalog:8799"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor launched Cursor Start, a new \u20b9649 per month plan in India with access to Grok 4.5 and Composer models. \n\n> Our user base in India has tripled in the past year to more than 3M developers, making it our third largest market globally.",
+            "translated_text": "Cursor melancarkan Cursor Start, pelan baharu berharga \u20b9649 sebulan di India dengan akses kepada model Grok 4.5 dan Composer.\n\nPangkalan pengguna kami di India telah meningkat tiga kali ganda dalam tempoh setahun yang lalu kepada lebih 3 juta pembangun, menjadikannya pasaran ketiga terbesar kami di seluruh dunia.",
+            "date": "2026-07-28T07:42:17+00:00",
+            "message_id": 8798,
+            "message_key": "@testingcatalog:8798"
         }
     ]
 }
