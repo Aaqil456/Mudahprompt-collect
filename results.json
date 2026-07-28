@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T16:42:08.095647",
+    "timestamp": "2026-07-28T22:05:34.181510",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26416,6 +26416,26 @@
             "date": "2026-07-28T14:56:30+00:00",
             "message_id": 8800,
             "message_key": "@testingcatalog:8800"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-28T21:19:00+00:00",
+            "message_id": 8804,
+            "message_key": "@testingcatalog:8804"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI and researchers from other top companies requesting US government to develop governance measures to be able to \u201cpace AI advancements\u201d \n\n\u201cThe world's leading AI companies believe they could be close to automating AI research.\u201d\n\n> We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. \n\n> We hope to contribute to work led by the U.S. government, alongside other labs and the open-source community, to develop the tools and mechanisms that could make that possible.\n\n> It is hard to predict exactly how much this will accelerate AI progress, but there is a real risk that capability development rapidly accelerates beyond our ability to understand or control the resulting systems.",
+            "translated_text": "OpenAI dan penyelidik dari syarikat-syarikat terkemuka lain meminta kerajaan AS untuk membangunkan langkah-langkah tadbir urus supaya dapat \u201cmengawal rentak kemajuan AI\u201d.\n\n\u201cSyarikat-syarikat AI terkemuka dunia percaya mereka mungkin hampir untuk mengautomasikan penyelidikan AI.\u201d\n\n> Kami percaya bahawa, pada satu ketika di masa hadapan, pecutan AI untuk pembangunan model sempadan mungkin begitu tinggi sehingga dunia perlu mengawal rentak kemajuan AI.\n\n> Kami berharap dapat menyumbang kepada usaha yang diterajui oleh kerajaan A.S., bersama makmal-makmal lain dan komuniti sumber terbuka, untuk membangunkan alat dan mekanisme yang boleh menjadikannya mungkin.\n\n> Sukar untuk meramalkan dengan tepat sejauh mana ini akan mempercepatkan kemajuan AI, tetapi ada risiko sebenar bahawa pembangunan keupayaan akan memecut dengan pantas melangkaui keupayaan kita untuk memahami atau mengawal sistem yang terhasil.",
+            "date": "2026-07-28T21:19:00+00:00",
+            "message_id": 8803,
+            "message_key": "@testingcatalog:8803"
         }
     ]
 }
