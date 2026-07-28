@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T22:05:34.181510",
+    "timestamp": "2026-07-28T23:59:01.211457",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26436,6 +26436,36 @@
             "date": "2026-07-28T21:19:00+00:00",
             "message_id": 8803,
             "message_key": "@testingcatalog:8803"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Notebook is about to get even smarter! In addition, users will be able to control whether watermarks are added to generated artifacts. \n\n\"Gemini Notebook just got smarter. Try asking to find new sources from the web\"",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Notebook bakal jadi lebih pintar lagi! Selain itu, pengguna boleh kawal sama ada nak letak watermark pada hasil yang dijana.\n\n\"Gemini Notebook baru je jadi lebih pintar. Cuba tanya untuk cari sumber baru dari web.\"",
+            "date": "2026-07-28T22:23:36+00:00",
+            "message_id": 8807,
+            "message_key": "@testingcatalog:8807"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-28T22:08:20+00:00",
+            "message_id": 8806,
+            "message_key": "@testingcatalog:8806"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: New GPT-Live-Transcribe and GPT-Transcribe models are now available on APIs! \n\n> GPT-Live-Transcribe - low-latency live transcription.\n\n> GPT-Transcribe - asynchronous transcription of completed audio files and batch workloads.",
+            "translated_text": "OPENAI \ud83d\udd25: Model-model baru GPT-Live-Transcribe dan GPT-Transcribe dah ada dekat API!\n\n> GPT-Live-Transcribe - transkripsi langsung dengan latensi rendah.\n\n> GPT-Transcribe - transkripsi tak segerak untuk fail audio yang dah siap dan beban kerja pukal.",
+            "date": "2026-07-28T22:08:20+00:00",
+            "message_id": 8805,
+            "message_key": "@testingcatalog:8805"
         }
     ]
 }
