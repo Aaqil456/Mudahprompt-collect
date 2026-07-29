@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T23:59:01.211457",
+    "timestamp": "2026-07-29T15:10:10.357249",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26466,6 +26466,46 @@
             "date": "2026-07-28T22:08:20+00:00",
             "message_id": 8805,
             "message_key": "@testingcatalog:8805"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Bagel Labs launches WorldDiT world model for robotics**](https://www.testingcatalog.com/bagel-labs-launches-worlddit-world-model-for-robotics/)\n\nBagel Labs released WorldDiT, an open robotics world model that jointly predicts robot actions and future scenes with one diffusion backbone, delivering strong LIBERO performance at sub-billion scale for on-robot deployment.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Bagel Labs lancarkan model dunia WorldDiT untuk robotik**](https://www.testingcatalog.com/bagel-labs-launches-worlddit-world-model-for-robotics/)\n\nBagel Labs telah mengeluarkan WorldDiT, sebuah model dunia robotik terbuka yang secara bersama meramalkan tindakan robot dan senario masa depan dengan satu teras difusi, memberikan prestasi LIBERO yang mantap pada skala bawah bilion untuk penggunaan pada robot.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-07-29T13:16:55+00:00",
+            "message_id": 8811,
+            "message_key": "@testingcatalog:8811"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new \"App\" artifact is being developed on Gemini Notebook!\n\n> \"Generate an interactive HTML app based on your sources\"\n\nUsers will be able to customize it via a prompt; examples include interactive dashboards, apps, and games! Imagine playing a game based on books you have added as sources?!\n\nBesides that, Google continues to work on AI Notes and may also add an option to enable or disable watermarking for generated artifacts.",
+            "translated_text": "GOOGLE \ud83d\udd25: Satu artifak 'App' baru sedang dibangunkan di Gemini Notebook!\n\n> \"Jana aplikasi HTML interaktif berdasarkan sumber anda\"\n\nPengguna akan dapat sesuaikannya melalui arahan (prompt); contohnya termasuk papan pemuka interaktif, aplikasi, dan permainan! Bayangkan bermain permainan berdasarkan buku-buku yang anda telah tambah sebagai sumber?!\n\nSelain itu, Google terus membangunkan AI Notes dan mungkin juga akan menambah pilihan untuk membolehkan atau melumpuhkan tanda air (watermarking) untuk artifak yang dihasilkan.",
+            "date": "2026-07-29T12:52:53+00:00",
+            "message_id": 8810,
+            "message_key": "@testingcatalog:8810"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google is working on interactive Apps for Gemini Notebook**](https://www.testingcatalog.com/google-is-working-on-interactive-apps-for-gemini-notebook/)\n\nGoogle is testing an App artifact for Gemini Notebook that could turn source material into runnable apps from prompts. The feature is not live, but aligns with an earlier secure code sandbox release.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "translated_text": "[**Google sedang usahakan Aplikasi interaktif untuk Gemini Notebook**](https://www.testingcatalog.com/google-is-working-on-interactive-apps-for-gemini-notebook/)\n\nGoogle sedang menguji satu artifak Aplikasi untuk Gemini Notebook yang berpotensi menukar bahan sumber jadi aplikasi yang boleh dijalankan melalui arahan. Ciri ini belum tersedia, tapi ia selari dengan pelancaran 'secure code sandbox' sebelum ini.\n\n\ud83d\uddde #notebooklm @testingcatalog",
+            "date": "2026-07-29T12:08:11+00:00",
+            "message_id": 8809,
+            "message_key": "@testingcatalog:8809"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor launches Start plan in India for \u20b9649 per month**](https://www.testingcatalog.com/cursor-launches-start-plan-in-india-for-649-per-month/)\n\nCursor Start launches in India at \u20b9649/month with tax included, adding Grok 4.5, Composer, more agent requests, and UPI support. The tier targets daily development across desktop, web, iOS, and CLI.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "translated_text": "[**Cursor lancarkan pelan Start di India dengan harga \u20b9649 sebulan**](https://www.testingcatalog.com/cursor-launches-start-plan-in-india-for-649-per-month/)\n\nCursor Start dilancarkan di India pada harga \u20b9649 sebulan termasuk cukai, dengan tambahan Grok 4.5, Composer, lebih banyak permintaan ejen, dan sokongan UPI. Pelan ini menyasar pembangunan harian merentasi desktop, web, iOS, dan CLI.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "date": "2026-07-29T12:07:39+00:00",
+            "message_id": 8808,
+            "message_key": "@testingcatalog:8808"
         }
     ]
 }
