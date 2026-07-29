@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-29T15:10:10.357249",
+    "timestamp": "2026-07-29T22:05:48.106708",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26506,6 +26506,16 @@
             "date": "2026-07-29T12:07:39+00:00",
             "message_id": 8808,
             "message_key": "@testingcatalog:8808"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI launches Grok Voice Think Fast 2.0 on Agent Builder**](https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder/)\n\nxAI launched Grok Voice Think Fast 2.0, a speech model for voice agents with higher benchmark scores, faster first audio, stronger transcription across 24 languages, and lower latency. It costs $0.08 per audio minute.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**SpaceXAI lancarkan Grok Voice Think Fast 2.0 di Agent Builder**](https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder/)\n\nxAI telah melancarkan Grok Voice Think Fast 2.0, sebuah model suara untuk ejen suara yang menawarkan skor penanda aras yang lebih tinggi, audio pertama yang lebih pantas, transkripsi yang lebih mantap merentasi 24 bahasa, dan kependaman yang lebih rendah. Ia berharga $0.08 seminit audio.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-07-29T21:11:30+00:00",
+            "message_id": 8813,
+            "message_key": "@testingcatalog:8813"
         }
     ]
 }
