@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-30T06:35:54.035176",
+    "timestamp": "2026-07-30T11:52:55.273754",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26536,6 +26536,26 @@
             "date": "2026-07-30T05:15:30+00:00",
             "message_id": 8815,
             "message_key": "@testingcatalog:8815"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-07-30T10:52:58+00:00",
+            "message_id": 8817,
+            "message_key": "@testingcatalog:8817"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Revolut \ud83e\udd1d OpenAI\n\nRevolut introduced ChatGPT Go subscription plan as a benefit for their customers. \n\n> Starting from 3 months free on Standard, you can unlock up to 12 months of ChatGPT Go included at no extra cost, depending on your plan.\n\nChatGPT user base is about to grow quite a lot soon!",
+            "translated_text": "Revolut \ud83e\udd1d OpenAI\n\nRevolut memperkenalkan pelan langganan ChatGPT Go sebagai faedah untuk pelanggan mereka.\n\n> Bermula dengan 3 bulan percuma untuk Standard, anda boleh dapatkan sehingga 12 bulan ChatGPT Go secara percuma, bergantung pada pelan anda.\n\nPengguna ChatGPT akan bertambah ramai tak lama lagi!",
+            "date": "2026-07-30T10:52:58+00:00",
+            "message_id": 8816,
+            "message_key": "@testingcatalog:8816"
         }
     ]
 }
