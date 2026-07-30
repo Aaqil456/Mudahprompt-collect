@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-30T00:01:45.878883",
+    "timestamp": "2026-07-30T06:35:54.035176",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26526,6 +26526,16 @@
             "date": "2026-07-29T22:17:19+00:00",
             "message_id": 8814,
             "message_key": "@testingcatalog:8814"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "CURSOR \ud83d\udd25: The latest version of Cursor for iOS is now compatible with iPad! Besides that, the app got a new Inbox and a complete PR review experience. \n\nI need more devices for testing \ud83d\udc40",
+            "translated_text": "CURSOR \ud83d\udd25: Versi terkini Cursor untuk iOS dah boleh guna dekat iPad! Selain tu, aplikasi ni ada Inbox baru dan pengalaman semakan PR yang lengkap.\n\nSaya perlukan lebih banyak peranti untuk testing \ud83d\udc40",
+            "date": "2026-07-30T05:15:30+00:00",
+            "message_id": 8815,
+            "message_key": "@testingcatalog:8815"
         }
     ]
 }
