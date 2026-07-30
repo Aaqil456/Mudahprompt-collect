@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-30T14:06:18.313614",
+    "timestamp": "2026-07-30T16:28:10.534671",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26566,6 +26566,16 @@
             "date": "2026-07-30T13:58:40+00:00",
             "message_id": 8818,
             "message_key": "@testingcatalog:8818"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google introduced Gemini Robotics ER 2, a new embodied reasoning model!\n\nBenchmarks \ud83d\udc40\n\n> Success/failure detection: Now operates on raw video feeds rather than static snapshots to catch mid-execution failures like spills, slips, or misalignments.\n\n> General instrument reading: Extends beyond circular dials and sight glasses to include digital displays, linear scales, rulers, and liquid thermometers. We tested it across 10 different types of instruments.\n\n> Enhanced spatial VQA: Improves Visual Question Answering throughGemini\u2019s advancements in multi-modal understanding.",
+            "translated_text": "Google dah perkenalkan Gemini Robotics ER 2, model penaakulan terjelma yang baru!\n\nPenanda Aras \ud83d\udc40\n\n> Pengesanan kejayaan/kegagalan: Sekarang beroperasi menggunakan suapan video mentah, bukan lagi gambar statik, untuk kesan kegagalan di tengah-tengah pelaksanaan macam tumpahan, tergelincir, atau tak selari.\n\n> Pembacaan instrumen umum: Melangkaui dail bulat dan kaca penglihatan, kini termasuk paparan digital, skala linear, pembaris, dan termometer cecair. Kami dah uji benda ni dekat 10 jenis instrumen yang berbeza.\n\n> VQA spatial yang dipertingkat: Meningkatkan Visual Question Answering melalui kemajuan Gemini dalam pemahaman multi-modal.",
+            "date": "2026-07-30T15:56:13+00:00",
+            "message_id": 8819,
+            "message_key": "@testingcatalog:8819"
         }
     ]
 }
