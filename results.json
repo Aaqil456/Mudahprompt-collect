@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-29T22:05:48.106708",
+    "timestamp": "2026-07-30T00:01:45.878883",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26516,6 +26516,16 @@
             "date": "2026-07-29T21:11:30+00:00",
             "message_id": 8813,
             "message_key": "@testingcatalog:8813"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Lyria 3.5 has been released on Google Flow Music! Besides that, Flow Music now has covers, lip-sync videos, and an iOS app. \n\n> Meet Lyria 3.5. Experience dynamic vocals, richer musicality, and advanced creative controls with our new flagship model.\n\n> Reimagine your music with Covers. Transform songs into a completely new style while keeping the original structure intact.\n\n> Take the studio with you. Download the Google Flow Music iOS app to create, listen, and share from anywhere.\n\n> Direct lip-synced music videos. Use Gemini Omni Flash and new lip-syncing capabilities to create stunning visuals.",
+            "translated_text": "GOOGLE \ud83d\udd25: Lyria 3.5 dah dilancarkan di Google Flow Music! Selain tu, Flow Music sekarang ada fungsi *covers*, video *lip-sync*, dan aplikasi iOS.\n\n> Kenali Lyria 3.5. Alami vokal yang dinamik, muzik yang lebih kaya, dan kawalan kreatif yang lebih canggih dengan model utama terbaru kami.\n\n> Bayangkan semula muzik anda dengan *Covers*. Ubah lagu jadi gaya yang baru sepenuhnya sambil kekalkan struktur asal.\n\n> Bawa studio bersama anda. Muat turun aplikasi Google Flow Music iOS untuk mencipta, mendengar, dan berkongsi dari mana-mana saja.\n\n> Video muzik *lip-sync* secara langsung. Guna Gemini Omni Flash dan keupayaan *lip-sync* baru untuk hasilkan visual yang memukau.",
+            "date": "2026-07-29T22:17:19+00:00",
+            "message_id": 8814,
+            "message_key": "@testingcatalog:8814"
         }
     ]
 }
