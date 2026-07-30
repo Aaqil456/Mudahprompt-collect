@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-30T11:52:55.273754",
+    "timestamp": "2026-07-30T14:06:18.313614",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26556,6 +26556,16 @@
             "date": "2026-07-30T10:52:58+00:00",
             "message_id": 8816,
             "message_key": "@testingcatalog:8816"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini desktop app for macOS now supports \"Speak to Window\" feature!\n\n> \"Today, we\u2019re introducing a new way to create, edit, and summarize with Gemini using just your voice, right where you are already working.\"",
+            "translated_text": "GOOGLE \ud83d\udd25: Aplikasi desktop Gemini untuk macOS kini menyokong ciri 'Speak to Window'!\n\n> \"Hari ini, kami perkenalkan cara baharu untuk mencipta, menyunting, dan meringkaskan dengan Gemini hanya guna suara anda, betul-betul di tempat anda sedang bekerja.\"",
+            "date": "2026-07-30T13:58:40+00:00",
+            "message_id": 8818,
+            "message_key": "@testingcatalog:8818"
         }
     ]
 }
