@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-30T18:17:56.925534",
+    "timestamp": "2026-07-30T22:07:29.544503",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26596,6 +26596,26 @@
             "date": "2026-07-30T17:38:53+00:00",
             "message_id": 8820,
             "message_key": "@testingcatalog:8820"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex got a new \"activity\" sidebar in the latest update! The button works as a toggle to switch between \"Projects & Recent chats\" and \"Activity\" views. \n\n> See chats that are unread, active or awaiting response.",
+            "translated_text": "Codex dapat sidebar 'aktiviti' baru dalam kemas kini terbaru! Butang tu berfungsi sebagai suis untuk tukar antara paparan 'Projek & Sembang Terkini' dengan 'Aktiviti'.\n\nBoleh tengok sembang yang belum dibaca, aktif, atau sedang menunggu balasan.",
+            "date": "2026-07-30T22:03:24+00:00",
+            "message_id": 8823,
+            "message_key": "@testingcatalog:8823"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "THINKING MACHINES \ud83d\udd25: A new open-weight model has been released! \n\nInkling-Small has 276B total parameters, 12B active, and is now available on Huggingface and Tinker Playground. \n\nAnd it is quite fast \ud83d\udc40",
+            "translated_text": "THINKING MACHINES \ud83d\udd25: Model 'open-weight' baru dah dikeluarkan!\n\nInkling-Small ada 276 bilion parameter keseluruhan, 12 bilion aktif, dan sekarang boleh didapati di Huggingface dan Tinker Playground.\n\nDan memang laju juga \ud83d\udc40",
+            "date": "2026-07-30T21:58:44+00:00",
+            "message_id": 8822,
+            "message_key": "@testingcatalog:8822"
         }
     ]
 }
