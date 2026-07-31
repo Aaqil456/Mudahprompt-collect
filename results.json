@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-31T00:04:39.715470",
+    "timestamp": "2026-07-31T15:24:01.493257",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26626,6 +26626,16 @@
             "date": "2026-07-30T23:08:37+00:00",
             "message_id": 8824,
             "message_key": "@testingcatalog:8824"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Dreamina Seedance 2.5 is now available on Dreamina AI for paid plans in Southeast Asia, the Middle East, Africa, Europe, and South America.\n\nNo US \ud83d\udc40\n\n- Native 30s videos\n- A new interactive editing experience\n- Long video mode (up to 3 minutes) \n- Dreamina AI plugins for Maya and Blender\n- Up to 50 multimodal references\n- More true-to-life lighting and shadows",
+            "translated_text": "Dreamina Seedance 2.5 kini tersedia di Dreamina AI untuk pelan berbayar di Asia Tenggara, Timur Tengah, Afrika, Eropah, dan Amerika Selatan.\n\nTak ada di AS \ud83d\udc40\n\n- Video asli 30 saat\n- Pengalaman suntingan interaktif yang baru\n- Mod video panjang (sehingga 3 minit)\n- Plugin Dreamina AI untuk Maya dan Blender\n- Sehingga 50 rujukan multimodal\n- Pencahayaan dan bayang-bayang yang lebih realistik",
+            "date": "2026-07-31T15:22:13+00:00",
+            "message_id": 8825,
+            "message_key": "@testingcatalog:8825"
         }
     ]
 }
