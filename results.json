@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-31T21:06:24.781344",
+    "timestamp": "2026-07-31T23:02:14.311468",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26676,6 +26676,16 @@
             "date": "2026-07-31T20:54:36+00:00",
             "message_id": 8829,
             "message_key": "@testingcatalog:8829"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini for macOS adds new \"Speak to Window\" feature**](https://www.testingcatalog.com/gemini-for-macos-adds-new-speak-to-window-feature/)\n\nGoogle is rolling out Gemini voice on macOS for English users worldwide. A long press of Fn enables polished dictation and on-screen reasoning to summarize files, rewrite text, and create or edit images without leaving the current window.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Gemini untuk macOS kini ada ciri baharu \"Speak to Window\"**](https://www.testingcatalog.com/gemini-for-macos-adds-new-speak-to-window-feature/)\n\nGoogle sedang melancarkan suara Gemini pada macOS untuk pengguna berbahasa Inggeris di seluruh dunia. Tekan lama butang Fn membolehkan imlak yang lancar dan keupayaan memahami konteks pada skrin untuk meringkaskan fail, menulis semula teks, dan mencipta atau menyunting imej tanpa perlu meninggalkan tetingkap semasa.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-07-31T21:32:36+00:00",
+            "message_id": 8830,
+            "message_key": "@testingcatalog:8830"
         }
     ]
 }
