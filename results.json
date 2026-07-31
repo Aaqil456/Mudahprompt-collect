@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-31T17:40:47.082656",
+    "timestamp": "2026-07-31T21:06:24.781344",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26666,6 +26666,16 @@
             "date": "2026-07-31T15:40:40+00:00",
             "message_id": 8826,
             "message_key": "@testingcatalog:8826"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "No more AI Studio for mobile? \ud83d\udc40\n\nBut instead, we will be getting something else! Any guesses on what this could be? \n\n> We\u2019ve decided to take an entirely different approach: one where apps emerge naturally, in the course of your everyday conversations with Gemini.\n\n> We\u2019re partnering with the Gemini app team to make that a reality on mobile and desktop.",
+            "translated_text": "AI Studio dah tak ada untuk mobile ke? \ud83d\udc40\n\nTapi, kita akan dapat benda lain pula! Ada tekaan tak apa agaknya ni?\n\nKami dah buat keputusan untuk ambil pendekatan yang berbeza sama sekali: di mana aplikasi akan muncul secara semula jadi, dalam perbualan harian anda dengan Gemini.\n\nKami sedang bekerjasama dengan pasukan aplikasi Gemini untuk jadikan ia kenyataan di mobile dan desktop.",
+            "date": "2026-07-31T20:54:36+00:00",
+            "message_id": 8829,
+            "message_key": "@testingcatalog:8829"
         }
     ]
 }
