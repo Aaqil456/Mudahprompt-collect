@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-30T22:07:29.544503",
+    "timestamp": "2026-07-31T00:04:39.715470",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26616,6 +26616,16 @@
             "date": "2026-07-30T21:58:44+00:00",
             "message_id": 8822,
             "message_key": "@testingcatalog:8822"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Spaces got upgraded to Projects, a new type of workspaces for collaboration with Perplexity Computer, powered by a shared file system and self-improving Brain memory!\n\n> Between tasks, Brain reviews the Project's files and sessions and updates what it knows, so each task starts with full context from previous work.",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Spaces dah dinaik taraf jadi Projects, jenis ruang kerja baru untuk berkolaborasi dengan Perplexity Computer, dikuasakan oleh sistem fail yang dikongsi dan memori Brain yang sentiasa bertambah baik!\n\n> Antara tugasan, Brain menyemak fail dan sesi Project dan mengemaskini apa yang ia tahu, jadi setiap tugasan bermula dengan konteks penuh dari kerja-kerja lepas.",
+            "date": "2026-07-30T23:08:37+00:00",
+            "message_id": 8824,
+            "message_key": "@testingcatalog:8824"
         }
     ]
 }
