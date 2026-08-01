@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-31T23:02:14.311468",
+    "timestamp": "2026-08-01T08:31:39.145823",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26686,6 +26686,26 @@
             "date": "2026-07-31T21:32:36+00:00",
             "message_id": 8830,
             "message_key": "@testingcatalog:8830"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-01T08:19:25+00:00",
+            "message_id": 8832,
+            "message_key": "@testingcatalog:8832"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google started rolling out Gemini Spark to Google AI Pro users outside the U.S.\n\n> Spark is your personal AI agent that works in the background 24/7 to get things done under your direction, handling the heavy lifting so you can focus on what matters.\n\nLet\u2019s see how long will that take. The next big upgrade there would be to get support for real MCPs (which is in the works at least).",
+            "translated_text": "Google dah mula melancarkan Gemini Spark kepada pengguna Google AI Pro di luar A.S.\n\nSpark ni ejen AI peribadi awak yang bekerja di latar belakang 24/7 untuk siapkan kerja ikut arahan awak, uruskan kerja-kerja berat supaya awak boleh fokus pada apa yang penting.\n\nKita tengoklah berapa lama masa yang diambil. Peningkatan besar seterusnya adalah untuk dapatkan sokongan untuk MCP sebenar (yang sedang dalam perancangan sekurang-kurangnya).",
+            "date": "2026-08-01T08:19:24+00:00",
+            "message_id": 8831,
+            "message_key": "@testingcatalog:8831"
         }
     ]
 }
