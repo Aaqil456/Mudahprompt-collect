@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-01T14:27:44.901124",
+    "timestamp": "2026-08-01T23:00:36.830847",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26786,6 +26786,16 @@
             "date": "2026-08-01T12:35:10+00:00",
             "message_id": 8842,
             "message_key": "@testingcatalog:8842"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google is aiming to close feature gaps on Gemini desktop**](https://www.testingcatalog.com/google-is-aiming-to-close-feature-gaps-on-gemini-desktop/)\n\nGoogle is testing Gemini desktop updates that narrow parity with the web app: image and video generation tabs, camera photo capture, and visible custom MCP server controls for Spark, with rollout timing still unannounced.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang berusaha untuk rapatkan jurang ciri pada Gemini desktop**](https://www.testingcatalog.com/google-is-aiming-to-close-feature-gaps-on-gemini-desktop/)\n\nGoogle tengah uji kemas kini untuk Gemini desktop. Tujuan dia nak rapatkan jurang ciri dengan aplikasi web, macam ada tab untuk jana imej dan video, boleh tangkap gambar pakai kamera, dan kawalan pelayan MCP tersuai untuk Spark yang boleh nampak. Tapi, bila nak dilancarkan tu, belum ada pengumuman lagi.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-01T22:49:32+00:00",
+            "message_id": 8843,
+            "message_key": "@testingcatalog:8843"
         }
     ]
 }
