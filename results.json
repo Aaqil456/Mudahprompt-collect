@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-01T08:31:39.145823",
+    "timestamp": "2026-08-01T10:43:57.292325",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26706,6 +26706,56 @@
             "date": "2026-08-01T08:19:24+00:00",
             "message_id": 8831,
             "message_key": "@testingcatalog:8831"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: A new SuperGrok Plus subscription plan has been introduced! It comes with significantly higher usage limits and is priced at $100 per month. \n\n> The plan also includes app creation and one-tap deployment support. \n> Significantly higher usage across Chat, Imagine, Voice & Build.\n> Lightning-fast replies and 1080p videos.\n> Priority access at peak times and Early Access to new features.",
+            "translated_text": "SPACEXAI \ud83d\udd25: Pelan langganan SuperGrok Plus yang baru dah diperkenalkan! Ia datang dengan had penggunaan yang jauh lebih tinggi dan harganya $100 sebulan.\n\n> Pelan ni juga termasuk sokongan untuk cipta aplikasi dan deploy dengan satu sentuhan je.\n> Penggunaan yang jauh lebih tinggi untuk Chat, Imagine, Voice & Build.\n> Balasan yang sangat pantas dan video 1080p.\n> Akses keutamaan masa puncak dan Akses Awal kepada ciri-ciri baru.",
+            "date": "2026-08-01T10:04:07+00:00",
+            "message_id": 8839,
+            "message_key": "@testingcatalog:8839"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI adds character references and 1080p to Imagine Video 1.5**](https://www.testingcatalog.com/xai-adds-character-references-and-1080p-to-imagine-video-1-5/)\n\nxAI expanded Imagine Video 1.5 with prompt-only video creation, image and voice references, multi-reference control, and native 1080p output. The update adds tighter control over character, scene, product, and continuity via Grok and API.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**xAI memperkenalkan rujukan watak dan 1080p kepada Imagine Video 1.5**](https://www.testingcatalog.com/xai-adds-character-references-and-1080p-to-imagine-video-1-5/)\n\nxAI telah mengembangkan Imagine Video 1.5 dengan penciptaan video hanya melalui arahan teks, rujukan imej dan suara, kawalan pelbagai rujukan, serta output 1080p asli. Kemaskini ini memberikan kawalan yang lebih ketat terhadap watak, babak, produk, dan kesinambungan melalui Grok dan API.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-08-01T09:54:42+00:00",
+            "message_id": 8838,
+            "message_key": "@testingcatalog:8838"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Imagine got upgraded with Voice Consistency, Multi-References, Text-to-Video, and native 1080p support! \n\nUsers will be able to @-tag reference files via the Grok Imagine agent to reuse previously created characters with their consistent voices. \n\n> Now available for SuperGrok Plus and Heavy subscribers, rolling out to all tiers over the next few days.",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Imagine dah di-upgrade dengan Konsistensi Suara, Pelbagai Rujukan, Text-to-Video, dan sokongan 1080p asli!\n\nPengguna boleh @-tag fail rujukan melalui ejen Grok Imagine untuk guna semula watak yang dah dibuat sebelum ni dengan suara mereka yang konsisten.\n\nSekarang dah tersedia untuk pelanggan SuperGrok Plus dan Heavy, dan akan dilancarkan kepada semua peringkat dalam beberapa hari akan datang.",
+            "date": "2026-08-01T09:50:53+00:00",
+            "message_id": 8837,
+            "message_key": "@testingcatalog:8837"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Thinking Machines launched open-weight Inkling-Small**](https://www.testingcatalog.com/thinking-machines-launched-open-weight-inkling-small/)\n\nThinking Machines released open-weight Inkling-Small, a 276B MoE model with 12B active parameters, matching Inkling at one-quarter the size. It supports multimodal chat, 1M-token context, fine-tuning, and strong reasoning and coding results.\n\n\ud83d\uddde #thinkingmachines @testingcatalog",
+            "translated_text": "[**Thinking Machines melancarkan Inkling-Small model berat terbuka**](https://www.testingcatalog.com/thinking-machines-launched-open-weight-inkling-small/)\n\nThinking Machines telah mengeluarkan Inkling-Small model berat terbuka, iaitu model MoE 276B dengan 12B parameter aktif, yang menyamai Inkling pada suku saiznya. Ia menyokong sembang multimodal, konteks 1M-token, penalaan halus, serta hasil penaakulan dan pengekodan yang mantap.\n\n\ud83d\uddde #thinkingmachines @testingcatalog",
+            "date": "2026-08-01T09:32:43+00:00",
+            "message_id": 8836,
+            "message_key": "@testingcatalog:8836"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT Pets now support voice mode as well! Users can activate voice mode and approve or stop tasks directly from the pet area. \n\nAs it has been foretold \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT Pets sekarang dah boleh guna mod suara juga! Pengguna boleh aktifkan mod suara dan luluskan atau hentikan tugasan terus dari kawasan pet tu. Macam yang dah diramalkan \ud83d\udc40",
+            "date": "2026-08-01T09:17:56+00:00",
+            "message_id": 8835,
+            "message_key": "@testingcatalog:8835"
         }
     ]
 }
