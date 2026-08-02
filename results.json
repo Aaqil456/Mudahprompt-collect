@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-02T13:24:35.834540",
+    "timestamp": "2026-08-02T15:08:14.638390",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26806,6 +26806,36 @@
             "date": "2026-08-02T13:02:51+00:00",
             "message_id": 8844,
             "message_key": "@testingcatalog:8844"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "> It supports English, German, Spanish, French, Italian, Portuguese, Japanese, Korean, Chinese, Dutch, Hindi, Indonesian, Arabic, Russian, Turkish, Vietnamese, and Thai.",
+            "translated_text": "Ia menyokong bahasa Inggeris, Jerman, Sepanyol, Perancis, Itali, Portugis, Jepun, Korea, Cina, Belanda, Hindi, Indonesia, Arab, Rusia, Turki, Vietnam, dan Thai.",
+            "date": "2026-08-02T14:59:55+00:00",
+            "message_id": 8847,
+            "message_key": "@testingcatalog:8847"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "> MAI Realtime is currently being tested on MAI Playground via limited access.\n\n> Two voices are available: Victoria and Grant. It supports automatic language detection and switching to another language mid-conversation.",
+            "translated_text": "MAI Realtime sedang diuji di MAI Playground melalui akses terhad.\nDua suara tersedia: Victoria dan Grant. Ia menyokong pengesanan bahasa automatik dan penukaran ke bahasa lain semasa perbualan.",
+            "date": "2026-08-02T14:59:41+00:00",
+            "message_id": 8846,
+            "message_key": "@testingcatalog:8846"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Microsoft tests new MAI Realtime voice model**](https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/)\n\nSCOOP \ud83d\udd25: Exclusive early preview of \u201cMAI-Realtime\u201d, an upcoming bidirectional voice model from Microsoft! \n\nThe model feels much more natural than MAI Voice 2 and can operate web search, along with many other tools.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "translated_text": "[**Eksklusif: Microsoft sedang menguji model suara MAI Realtime yang baharu**](https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/)\n\nBerita Panas \ud83d\udd25: Pratonton awal eksklusif untuk \"MAI-Realtime\", sebuah model suara dwiarah yang akan datang dari Microsoft!\n\nModel ini terasa lebih semula jadi berbanding MAI Voice 2 dan boleh mengendalikan carian web, bersama dengan banyak alatan lain.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "date": "2026-08-02T14:47:17+00:00",
+            "message_id": 8845,
+            "message_key": "@testingcatalog:8845"
         }
     ]
 }
