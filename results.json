@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-03T10:43:46.619944",
+    "timestamp": "2026-08-03T16:27:04.260668",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26846,6 +26846,16 @@
             "date": "2026-08-03T10:34:24+00:00",
             "message_id": 8848,
             "message_key": "@testingcatalog:8848"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google is working on Plugins for Gemini Enterprise**](https://www.testingcatalog.com/google-is-working-on-plugins-for-gemini-enterprise/)\n\nGoogle is preparing Plugins and a Notifications section for Gemini Enterprise, pointing to packaged workplace workflows built from Skills and Connectors.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang usahakan Plugin untuk Gemini Enterprise**](https://www.testingcatalog.com/google-is-working-on-plugins-for-gemini-enterprise/)\n\nGoogle sedang siapkan Plugin dan bahagian Notifikasi untuk Gemini Enterprise. Nampaknya, ini akan digunakan untuk aliran kerja tempat kerja yang dah siap, yang dibina daripada Skills dan Connectors.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-03T13:56:10+00:00",
+            "message_id": 8849,
+            "message_key": "@testingcatalog:8849"
         }
     ]
 }
