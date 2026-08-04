@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-03T20:28:02.021882",
+    "timestamp": "2026-08-04T18:28:35.502060",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26876,6 +26876,26 @@
             "date": "2026-08-03T19:57:19+00:00",
             "message_id": 8850,
             "message_key": "@testingcatalog:8850"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI announced Shieldstral, a new 3B open-weights model for content safety. \n\n> A 3B open-weight, policy-adaptive multimodal safety classifier that matches models up to 7x its size on text safety and sets a new state of the art on multimodal moderation.",
+            "translated_text": "Mistral AI dah umumkan Shieldstral, satu model open-weights 3B baru yang fokus pada keselamatan kandungan.\n\nModel ni sebenarnya adalah pengelas keselamatan multimodal 3B open-weight yang boleh sesuaikan diri dengan polisi. Apa yang menarik, ia boleh menandingi model yang saiznya sampai 7 kali ganda lebih besar dalam hal keselamatan teks, dan ia juga dah tetapkan satu piawaian baru untuk moderasi multimodal.",
+            "date": "2026-08-04T17:14:56+00:00",
+            "message_id": 8853,
+            "message_key": "@testingcatalog:8853"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The upgraded Gemini Notebook experience is now available to all users! Gemini can now generate various file types and conduct research directly from the chat. \n\nNow we need apps \ud83d\udc40",
+            "translated_text": "Pengalaman Gemini Notebook yang dah dinaik taraf kini boleh digunakan oleh semua pengguna! Gemini sekarang dah boleh hasilkan pelbagai jenis fail dan buat kajian terus dari chat. Sekarang ni, kita perlukan apps pulak \ud83d\udc40",
+            "date": "2026-08-04T17:11:04+00:00",
+            "message_id": 8852,
+            "message_key": "@testingcatalog:8852"
         }
     ]
 }
