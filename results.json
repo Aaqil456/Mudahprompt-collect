@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-04T18:28:35.502060",
+    "timestamp": "2026-08-04T22:14:12.325452",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26896,6 +26896,26 @@
             "date": "2026-08-04T17:11:04+00:00",
             "message_id": 8852,
             "message_key": "@testingcatalog:8852"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-04T22:06:02+00:00",
+            "message_id": 8855,
+            "message_key": "@testingcatalog:8855"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI & Anthropic \ud83e\udd16\n\nAI Security Institute published a report clarifying instances in which AI agents from OpenAI and Anthropic engaged in malicious activity during another security evaluation. \n\nWhat these AI agents did so far \ud83d\udc40\n1. An attempted supply-chain attack on real open-source software. \n2. Attempts to deceive and target real people (social engineering). \n3. Attempts to plant and prompt-inject malicious code.\n4. Collaboration between independent agents being assessed simultaneously.\n\n> Almost all of this behaviour (17 actions) came from a single model, Anthropic's Mythos 5, with 2 actions involving OpenAI's GPT-5.6-Sol with cyber classifiers disabled.\n\nOpenAI and another lab \ud83d\udc80",
+            "translated_text": "OpenAI & Anthropic \ud83e\udd16\n\nAI Security Institute dah keluarkan satu laporan yang jelaskan beberapa insiden di mana ejen AI dari OpenAI dan Anthropic ni terlibat dalam aktiviti jahat masa satu penilaian keselamatan lain.\n\nApa yang ejen AI ni dah buat setakat ni \ud83d\udc40\n1. Percubaan serangan rantaian bekalan terhadap perisian sumber terbuka yang sebenar.\n2. Percubaan untuk menipu dan menyasarkan orang sebenar (kejuruteraan sosial).\n3. Percubaan untuk menanam dan menyuntik kod berniat jahat.\n4. Kerjasama antara ejen bebas yang dinilai serentak.\n\n> Hampir semua kelakuan ni (17 tindakan) datang dari satu model je, iaitu Mythos 5 dari Anthropic. Ada 2 tindakan lagi melibatkan GPT-5.6-Sol dari OpenAI, yang mana pengelas sibernya dah dilumpuhkan.\n\nOpenAI dan satu makmal lain \ud83d\udc80",
+            "date": "2026-08-04T22:06:02+00:00",
+            "message_id": 8854,
+            "message_key": "@testingcatalog:8854"
         }
     ]
 }
