@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-05T07:40:46.564365",
+    "timestamp": "2026-08-05T12:56:30.711272",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26986,6 +26986,46 @@
             "date": "2026-08-05T07:13:44+00:00",
             "message_id": 8861,
             "message_key": "@testingcatalog:8861"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ByteDance launches SeedRealtime full-duplex AI model**](https://www.testingcatalog.com/bytedance-launches-seedrealtime-full-duplex-ai-model/)\n\nByteDance\u2019s SeedRealtime is a full-duplex audio-visual LLM that processes speech, video, and text in one model, reducing latency and context loss while handling timing, scene cues, and real-world dialogue with fewer pacing errors.\n\n\ud83d\uddde #bytedance @testingcatalog",
+            "translated_text": "[**ByteDance Perkenalkan Model AI Dupleks Penuh SeedRealtime**](https://www.testingcatalog.com/bytedance-launches-seedrealtime-full-duplex-ai-model/)\n\nSeedRealtime milik ByteDance ni adalah LLM audio-visual dupleks penuh. Model ni boleh memproses ucapan, video, dan teks dalam satu masa, jadi ia dapat kurangkan kependaman (latency) dan kehilangan konteks. Ia juga pandai menguruskan masa, isyarat adegan, dan dialog dunia sebenar dengan lebih baik, kuranglah silap rentak.\n\n\ud83d\uddde #bytedance @testingcatalog",
+            "date": "2026-08-05T12:12:43+00:00",
+            "message_id": 8866,
+            "message_key": "@testingcatalog:8866"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cloudflare announces Wallets for AI agent payments**](https://www.testingcatalog.com/cloudflare-announces-wallets-for-ai-agent-payments/)\n\nCloudflare Wallets will let AI agents pay for APIs and web services via stablecoins and x402, with owner-set budgets, allowlists, and caps. The system adds optional agent identity and supports Cloudflare\u2019s push into machine-native commerce.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Cloudflare umumkan Wallets untuk pembayaran ejen AI**](https://www.testingcatalog.com/cloudflare-announces-wallets-for-ai-agent-payments/)\n\nCloudflare Wallets akan membolehkan ejen AI membayar untuk API dan perkhidmatan web menggunakan stablecoin dan x402, lengkap dengan bajet, senarai dibenarkan (allowlists), dan had yang ditetapkan oleh pemilik. Sistem ini juga menambah identiti ejen pilihan dan menyokong usaha Cloudflare untuk mengembangkan perdagangan asli mesin.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-08-05T11:56:57+00:00",
+            "message_id": 8865,
+            "message_key": "@testingcatalog:8865"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral releases Shieldstral for multimodal moderation**](https://www.testingcatalog.com/mistral-releases-shieldstral-for-multimodal-moderation/)\n\nMistral released Shieldstral, a 3B Apache 2.0 open-weight multimodal safety classifier for text and images. It uses prompt-defined yes/no policies, runs on a single 16GB GPU, and targets customizable moderation without retraining.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral Melancarkan Shieldstral untuk Moderasi Multimodal**](https://www.testingcatalog.com/mistral-releases-shieldstral-for-multimodal-moderation/)\n\nMistral telah melancarkan Shieldstral, sebuah pengelas keselamatan multimodal 'open-weight' Apache 2.0 bersaiz 3B untuk teks dan imej. Ia menggunakan polisi ya/tidak yang ditetapkan melalui 'prompt', berjalan pada satu GPU 16GB sahaja, dan bertujuan untuk moderasi yang boleh disesuaikan tanpa perlu latihan semula.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-08-05T11:53:34+00:00",
+            "message_id": 8864,
+            "message_key": "@testingcatalog:8864"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: ByteDance launched SeedRealtime, a native audio-visual full-duplex LLM! \n\n> SeedRealtime uses a unified architecture to natively fuse audio, video, and text, enabling real-time interaction over continuous multimodal streams and delivering a brand-new \"watch, listen, and speak\" experience.\n\nIt is now live on the Doubao App for free, enabling voice and video conversations. \n\nFull-duplex Omni \ud83e\udd2f",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: ByteDance dah lancarkan SeedRealtime, sebuah LLM dupleks penuh audio-visual asli!\n\n> SeedRealtime guna seni bina bersepadu untuk menggabungkan audio, video, dan teks secara asli, membolehkan interaksi masa nyata melalui strim multimodal berterusan, dan menawarkan pengalaman \"tonton, dengar, dan bercakap\" yang serba baru.\n\nIa kini dah boleh guna di Aplikasi Doubao secara percuma, membolehkan perbualan suara dan video.\n\nOmni dupleks penuh \ud83e\udd2f",
+            "date": "2026-08-05T11:44:37+00:00",
+            "message_id": 8863,
+            "message_key": "@testingcatalog:8863"
         }
     ]
 }
