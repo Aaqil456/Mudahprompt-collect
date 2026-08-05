@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-05T21:10:56.965870",
+    "timestamp": "2026-08-05T23:01:40.046138",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27066,6 +27066,36 @@
             "date": "2026-08-05T20:53:54+00:00",
             "message_id": 8871,
             "message_key": "@testingcatalog:8871"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Codex now supports ChatGPT extension on Microsoft Edge with its Computer Use feature. \n\nA new \"More browsers\" section has been added to the settings menu. So far, Edge is the only other browser supported.",
+            "translated_text": "Codex kini menyokong sambungan ChatGPT di Microsoft Edge dengan ciri Computer Use-nya.\n\nBahagian baru \"More browsers\" telah ditambah ke menu tetapan. Setakat ini, Edge adalah satu-satunya pelayar lain yang disokong.",
+            "date": "2026-08-05T22:44:33+00:00",
+            "message_id": 8874,
+            "message_key": "@testingcatalog:8874"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-05T22:28:19+00:00",
+            "message_id": 8873,
+            "message_key": "@testingcatalog:8873"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is planning to launch ads on ChatGPT in Brazil and Mexico soon. \n\nBesides that, OpenAI released a plenty of improvements to its ads platform, including conversion optimisation feature and carousel ad formats. \n\nADGI expansion \ud83e\udd16",
+            "translated_text": "OpenAI akan mula tayang iklan di ChatGPT di Brazil dan Mexico tak lama lagi.\nSelain itu, OpenAI dah keluarkan banyak penambahbaikan pada platform iklannya, termasuklah ciri pengoptimuman penukaran dan format iklan karusel.\nPeluasan ADGI \ud83e\udd16",
+            "date": "2026-08-05T22:28:18+00:00",
+            "message_id": 8872,
+            "message_key": "@testingcatalog:8872"
         }
     ]
 }
