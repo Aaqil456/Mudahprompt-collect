@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-04T22:14:12.325452",
+    "timestamp": "2026-08-05T00:05:32.950864",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -26916,6 +26916,56 @@
             "date": "2026-08-04T22:06:02+00:00",
             "message_id": 8854,
             "message_key": "@testingcatalog:8854"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BFL released FLUX 3 Video model \ud83d\udc40\n\n> i2v and t2v with native audio, frames, and stuff. Up to 20 seconds and 1080p native.\n\n> A new Draft mode to get a brief sample before spending a full cost on a video gen. \n\n> 2K, 4K, and Open Weights coming soon!",
+            "translated_text": "BFL dah keluarkan model FLUX 3 Video \ud83d\udc40\n\n> i2v dan t2v dengan audio, frame, dan macam-macam lagi yang asli. Boleh sampai 20 saat dan 1080p asli.\n\n> Ada mod Draf baru untuk dapatkan sampel ringkas sebelum guna kos penuh untuk hasilkan video.\n\n> 2K, 4K, dan Open Weights akan datang tak lama lagi!",
+            "date": "2026-08-04T23:32:06+00:00",
+            "message_id": 8860,
+            "message_key": "@testingcatalog:8860"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-04T23:13:02+00:00",
+            "message_id": 8859,
+            "message_key": "@testingcatalog:8859"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceX \ud83e\udd1d NVIDIA\n\nSpaceX partnered with NVIDIA to design the Starmind AI1 satellite compute payload. \n\n> The AI1 satellite's compute payload will be powered by the NVIDIA Vera Rubin NVL72. \n\n> Starmind will capture solar energy in space to power low-cost, high-performance AI compute on Earth.",
+            "translated_text": "SpaceX \ud83e\udd1d NVIDIA\n\nSpaceX berganding bahu dengan NVIDIA untuk mereka bentuk muatan pengkomputeran satelit Starmind AI1.\n\n> Muatan pengkomputeran satelit AI1 itu akan dikuasakan oleh NVIDIA Vera Rubin NVL72.\n\n> Starmind akan menangkap tenaga suria di angkasa untuk menguasakan pengkomputeran AI berprestasi tinggi dan kos rendah di Bumi.",
+            "date": "2026-08-04T23:13:02+00:00",
+            "message_id": 8858,
+            "message_key": "@testingcatalog:8858"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is working on a new download page for Rosalind Codex, a Codex build configured for GPT-Rosalind. \n\nThis change marks a potential expansion beyond \"qualified customers\". \n\n> GPT-Rosalind is a frontier reasoning model built to support research across biology, drug discovery, and translational medicine.",
+            "translated_text": "OpenAI sedang usahakan laman muat turun baru untuk Rosalind Codex, iaitu binaan Codex yang dikonfigurasi khas untuk GPT-Rosalind.\n\nPerubahan ini menunjukkan yang ia mungkin akan diperluaskan, tak terhad lagi kepada \"pelanggan yang layak\" sahaja.\n\n> GPT-Rosalind ni sebenarnya model penaakulan canggih yang dibina untuk bantu penyelidikan dalam biologi, penemuan ubat, dan perubatan translasi.",
+            "date": "2026-08-04T22:48:17+00:00",
+            "message_id": 8857,
+            "message_key": "@testingcatalog:8857"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Alibaba released Qwen3.8-Max with open weights coming soon**](https://www.testingcatalog.com/qwen-released-qwen3-8-max-with-open-weights-coming-soon/)\n\nICYMI: Alibaba released Qwen3.8-Max, a 2.4T-parameter model for coding, research, professional work, and multimodal tasks. It is live on QwenCloud now, with open weights for Qwen3.8-Max and Qwen3.8-27B due next week.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Alibaba dah lancarkan Qwen3.8-Max, dan 'open weights' dia akan menyusul tak lama lagi!**](https://www.testingcatalog.com/qwen-released-qwen3-8-max-with-open-weights-coming-soon/)\n\nSekadar info: Alibaba dah lancarkan Qwen3.8-Max, satu model dengan 2.4 trilion parameter yang boleh digunakan untuk coding, penyelidikan, kerja profesional, dan tugasan multimodal. Ia dah boleh diakses di QwenCloud sekarang, dan 'open weights' untuk Qwen3.8-Max serta Qwen3.8-27B akan dikeluarkan minggu depan.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-08-04T22:21:16+00:00",
+            "message_id": 8856,
+            "message_key": "@testingcatalog:8856"
         }
     ]
 }
