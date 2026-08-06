@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-06T08:38:36.087041",
+    "timestamp": "2026-08-06T11:24:50.153237",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27146,6 +27146,46 @@
             "date": "2026-08-06T08:28:34+00:00",
             "message_id": 8878,
             "message_key": "@testingcatalog:8878"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-06T09:00:00+00:00",
+            "message_id": 8883,
+            "message_key": "@testingcatalog:8883"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek is planning to \u201cSignificantly\u201d increase their API pricing soon as per new notice on DeepSeek platform. \n\nNo more cheap tokens \ud83d\udc40",
+            "translated_text": "DeepSeek bercadang untuk menaikkan harga API mereka secara 'ketara' tidak lama lagi, berdasarkan notis baru di platform DeepSeek. Tak ada lagi token murah \ud83d\udc40",
+            "date": "2026-08-06T09:00:00+00:00",
+            "message_id": 8882,
+            "message_key": "@testingcatalog:8882"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-06T08:59:30+00:00",
+            "message_id": 8881,
+            "message_key": "@testingcatalog:8881"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Loads of changes happening in Google and the hope for Gemini 3.5 Pro is slowly evaporating. However, the team is committed to focus on frontier intelligence. \n\nGemini 4 WIP \ud83d\udc40\n\n> We are committed to being at the frontier and are super focused on the areas where we need to improve. \n\n> The Gemini models are in good hands with Koray and the leads, and I'm excited about the great progress we\u2019re making with our new models, including Gemini 4.",
+            "translated_text": "Banyak perubahan berlaku di Google dan harapan untuk Gemini 3.5 Pro makin pudar. Tapi, pasukan mereka komited untuk fokus pada kecerdasan termaju.\n\nGemini 4 sedang dalam pembikinan \ud83d\udc40\n\n> Kami komited untuk berada di barisan hadapan dan sangat fokus pada bidang-bidang yang perlu kami perbaiki.\n\n> Model-model Gemini berada di tangan yang baik dengan Koray dan ketua-ketua pasukan, dan saya teruja dengan kemajuan hebat yang kami capai dengan model-model baharu kami, termasuk Gemini 4.",
+            "date": "2026-08-06T08:59:30+00:00",
+            "message_id": 8880,
+            "message_key": "@testingcatalog:8880"
         }
     ]
 }
