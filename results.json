@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-05T23:01:40.046138",
+    "timestamp": "2026-08-06T02:42:05.311022",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27096,6 +27096,36 @@
             "date": "2026-08-05T22:28:18+00:00",
             "message_id": 8872,
             "message_key": "@testingcatalog:8872"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-05T23:09:50+00:00",
+            "message_id": 8877,
+            "message_key": "@testingcatalog:8877"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok voice mode now supports connectors! \n\nThis enables Grok to execute a wide range of tasks, bridging the gap with Claude and others. \n\nRolling out gradually \ud83d\udc40",
+            "translated_text": "Mod suara Grok sekarang dah sokong penyambung!\n\nIni membolehkan Grok buat macam-macam kerja, jadi dia dah setanding dengan Claude dan yang lain.\n\nSedang dilancarkan secara berperingkat \ud83d\udc40",
+            "date": "2026-08-05T23:09:50+00:00",
+            "message_id": 8876,
+            "message_key": "@testingcatalog:8876"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Prime Intellect announced Prime Agent, a new self-improving RLM harness for coding and long-running autonomous tasks.\n\nPrime Agent scored 95.5% on ARC-AGI-3! \ud83e\udd2f\n\n> The Recursive Language Model (RLM) treats context as a variable and subagent delegation as function calls inside a REPL.\n\n> Continual Harness treats the harness's own state, abstracted as its prompts, skills, memory, and sub-agents, as something the agent can create, read, update, and delete (CRUD) from its own trajectory.\n\nThe next level of abstraction \ud83d\udc40",
+            "translated_text": "Prime Intellect umumkan Prime Agent, satu RLM harness baharu yang boleh perbaiki diri sendiri untuk pengekodan dan tugasan autonomi yang berjalan lama.\n\nPrime Agent dapat skor 95.5% dalam ARC-AGI-3! \ud83e\udd2f\n\nRecursive Language Model (RLM) anggap konteks sebagai pemboleh ubah dan delegasi subagen sebagai panggilan fungsi dalam REPL.\n\nContinual Harness anggap keadaan harness itu sendiri, yang diabstrakkan sebagai prompt, kemahiran, memori, dan sub-agennya, sebagai sesuatu yang agen boleh cipta, baca, kemas kini, dan padam (CRUD) daripada trajektorinya sendiri.\n\nTahap abstraksi seterusnya \ud83d\udc40",
+            "date": "2026-08-05T23:02:30+00:00",
+            "message_id": 8875,
+            "message_key": "@testingcatalog:8875"
         }
     ]
 }
