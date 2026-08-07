@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-07T18:59:21.399128",
+    "timestamp": "2026-08-07T23:34:51.775515",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27326,6 +27326,16 @@
             "date": "2026-08-07T18:45:47+00:00",
             "message_id": 8897,
             "message_key": "@testingcatalog:8897"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares desktop AI app for macOS as rivals race ahead**](https://www.testingcatalog.com/meta-prepares-desktop-ai-app-for-macos-as-rivals-race-ahead/)\n\nBREAKING \ud83d\udd25: Meta is working on its own desktop Meta AI super app!\n\n> Download Meta AI for macOS - Chat, create, and collaborate with AI from anywhere on your desktop.\n\nI wish I could operate a desktop coding agent via Meta Glasses too. \n\nMonitoring \ud83d\udc40\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta sedang siapkan aplikasi AI desktop untuk macOS sementara pesaing lain dah jauh ke depan**](https://www.testingcatalog.com/meta-prepares-desktop-ai-app-for-macos-as-rivals-race-ahead/)\n\nBERITA TERKINI \ud83d\udd25: Meta sedang usahakan aplikasi super Meta AI desktop mereka sendiri!\n\n> Muat turun Meta AI untuk macOS - Berbual, cipta, dan bekerjasama dengan AI dari mana-mana saja di desktop anda.\n\nSaya harap saya boleh kendalikan ejen pengekodan desktop melalui Meta Glasses juga.\n\nSedang pantau \ud83d\udc40\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-08-07T22:52:10+00:00",
+            "message_id": 8899,
+            "message_key": "@testingcatalog:8899"
         }
     ]
 }
