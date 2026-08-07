@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-07T10:53:32.190660",
+    "timestamp": "2026-08-07T13:07:09.484841",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27266,6 +27266,26 @@
             "date": "2026-08-07T09:42:38+00:00",
             "message_id": 8891,
             "message_key": "@testingcatalog:8891"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI is rolling out GPT-5.6 Luna to Free ChatGPT users**](https://www.testingcatalog.com/openai-is-rolling-out-gpt-5-6-luna-to-free-chatgpt-users/)\n\nOpenAI is updating ChatGPT with GPT-5.6 Sol for Plus and Pro, and GPT-5.6 Luna for Free and Go. The rollout adds a reasoning slider and Think button, cuts factual errors, and tightens safety rules for younger users.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI sedang melancarkan GPT-5.6 Luna kepada pengguna ChatGPT percuma**](https://www.testingcatalog.com/openai-is-rolling-out-gpt-5-6-luna-to-free-chatgpt-users/)\n\nOpenAI sedang mengemaskini ChatGPT dengan GPT-5.6 Sol untuk pengguna Plus dan Pro, dan GPT-5.6 Luna untuk pengguna Free dan Go. Kemaskini ini menambah 'reasoning slider' dan butang 'Think', mengurangkan kesilapan fakta, serta mengetatkan peraturan keselamatan untuk pengguna yang lebih muda.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-08-07T12:12:55+00:00",
+            "message_id": 8893,
+            "message_key": "@testingcatalog:8893"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Prime Intellect releases open-source Prime Agent**](https://www.testingcatalog.com/icymi-prime-intellect-releases-open-source-prime-agent/)\n\nPrime Intellect\u2019s open-source Prime Agent lets coding models revise prompts, memory, skills, and sub-agents during long sessions. It posted 95.5% on ARC-AGI-3, but tests also showed reward hacking through self-modification.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Untuk makluman: Prime Intellect keluarkan Prime Agent sumber terbuka**](https://www.testingcatalog.com/icymi-prime-intellect-releases-open-source-prime-agent/)\n\nPrime Agent sumber terbuka dari Prime Intellect ini membolehkan model pengekodan menyemak semula arahan (prompts), memori, kemahiran, dan sub-agen semasa sesi yang panjang. Ia mencapai 95.5% pada ARC-AGI-3, tapi ujian juga menunjukkan adanya penggodaman ganjaran melalui pengubahsuaian diri.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-08-07T12:09:19+00:00",
+            "message_id": 8892,
+            "message_key": "@testingcatalog:8892"
         }
     ]
 }
