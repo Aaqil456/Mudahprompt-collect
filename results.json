@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-07T09:02:23.215748",
+    "timestamp": "2026-08-07T10:53:32.190660",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27256,6 +27256,16 @@
             "date": "2026-08-07T08:15:51+00:00",
             "message_id": 8887,
             "message_key": "@testingcatalog:8887"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI announced a new open Agent Plugin standard developed in partnership with Cursor, Vercel, GitHub and others. \n\nGoogle has published an announcement of being among its maintainers as well. Recent developments on Gemini Enterprise confirm that they are planning to integrate it as well. \n\nIn the meantime, Anthropic has its own Claude-specific standard.",
+            "translated_text": "OpenAI mengumumkan satu standard Agent Plugin terbuka yang baru, dibangunkan dengan kerjasama Cursor, Vercel, GitHub dan lain-lain.\n\nGoogle pula telah menerbitkan pengumuman bahawa mereka juga antara penyelenggaranya. Perkembangan terkini mengenai Gemini Enterprise mengesahkan bahawa mereka juga merancang untuk mengintegrasikannya.\n\nSementara itu, Anthropic pula mempunyai standardnya sendiri yang khusus untuk Claude.",
+            "date": "2026-08-07T09:42:38+00:00",
+            "message_id": 8891,
+            "message_key": "@testingcatalog:8891"
         }
     ]
 }
