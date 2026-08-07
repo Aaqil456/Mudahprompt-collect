@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-07T13:07:09.484841",
+    "timestamp": "2026-08-07T17:54:14.359199",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27286,6 +27286,26 @@
             "date": "2026-08-07T12:09:19+00:00",
             "message_id": 8892,
             "message_key": "@testingcatalog:8892"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-07T17:24:49+00:00",
+            "message_id": 8896,
+            "message_key": "@testingcatalog:8896"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A new report published by the company states that Astra, \"one of their upcoming models,\" \"indicates significant advancements in agentic coding and cybersecurity.\u201d\n\n> These results, in addition to expert assessments, have led us to conclude last night that we cannot rule out critical cyber capabilities under our Preparedness Framework\u2060. \n\n> We are implementing stricter security controls for higher-capability models and associated activities, including isolated testing environments, restricted network and tool access, enhanced model weight protections and encryption, additional monitoring and detection capabilities, and sandboxed execution.\n\n> We are pausing internal activities involving Astra that do not yet meet these strengthened security control requirements.\n\nAstra not soon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Laporan baru yang diterbitkan oleh syarikat itu menyatakan bahawa Astra, \"salah satu model mereka yang akan datang,\" \"menunjukkan kemajuan ketara dalam pengekodan beragen dan keselamatan siber.\u201d\n\n> Hasil ini, di samping penilaian pakar, telah membawa kami kepada kesimpulan malam tadi bahawa kami tidak boleh menolak keupayaan siber kritikal di bawah Rangka Kerja Kesiapsiagaan kami.\n\n> Kami sedang melaksanakan kawalan keselamatan yang lebih ketat untuk model berkeupayaan tinggi dan aktiviti berkaitan, termasuk persekitaran ujian terasing, akses rangkaian dan alatan yang terhad, perlindungan berat model dan penyulitan yang dipertingkatkan, keupayaan pemantauan dan pengesanan tambahan, serta pelaksanaan dalam kotak pasir.\n\n> Kami sedang menghentikan aktiviti dalaman yang melibatkan Astra yang belum memenuhi keperluan kawalan keselamatan yang diperkukuh ini.\n\nAstra takkan muncul dalam masa terdekat \ud83d\udc40",
+            "date": "2026-08-07T17:24:49+00:00",
+            "message_id": 8895,
+            "message_key": "@testingcatalog:8895"
         }
     ]
 }
