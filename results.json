@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-07T00:41:22.899465",
+    "timestamp": "2026-08-07T09:02:23.215748",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27216,6 +27216,46 @@
             "date": "2026-08-06T17:51:28+00:00",
             "message_id": 8884,
             "message_key": "@testingcatalog:8884"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-07T08:53:33+00:00",
+            "message_id": 8890,
+            "message_key": "@testingcatalog:8890"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is working on a possibility to purchase usage resets. The price ranges between low and high values and depends on the subscription tier. \n\nPlus - $5-8\nPro Lite - $25-40\nPro - $50-80\n\nIf we assume that Codex has around 3M weekly users, every free reset costs at least $15-20 million.",
+            "translated_text": "OpenAI sedang usahakan kemungkinan untuk beli semula 'reset' penggunaan. Harga pula berbeza-beza, antara nilai rendah dan tinggi, bergantung pada tahap langganan.\n\nPlus - $5-8\nPro Lite - $25-40\nPro - $50-80\n\nKalau kita andaikan Codex ada sekitar 3 juta pengguna setiap minggu, setiap 'reset' percuma akan menelan belanja sekurang-kurangnya $15-20 juta.",
+            "date": "2026-08-07T08:53:33+00:00",
+            "message_id": 8889,
+            "message_key": "@testingcatalog:8889"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-07T08:15:51+00:00",
+            "message_id": 8888,
+            "message_key": "@testingcatalog:8888"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ByteDance is pre-training a ~10T parameters model, according to Financial Times.\n\nGiven the fact how easily they took over on video generation, we may see some big surprises in a general use area as well.\n\nThe end of the year will be hot \ud83d\udd25",
+            "translated_text": "ByteDance sedang melatih awal satu model dengan kira-kira 10 trilion parameter, menurut Financial Times.\n\nMelihat betapa mudahnya mereka menguasai bidang penjanaan video, kita mungkin akan melihat beberapa kejutan besar dalam aplikasi kegunaan umum juga.\n\nHujung tahun ini akan rancak \ud83d\udd25",
+            "date": "2026-08-07T08:15:51+00:00",
+            "message_id": 8887,
+            "message_key": "@testingcatalog:8887"
         }
     ]
 }
