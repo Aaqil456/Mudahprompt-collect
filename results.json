@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-06T11:24:50.153237",
+    "timestamp": "2026-08-07T00:41:22.899465",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27186,6 +27186,36 @@
             "date": "2026-08-06T08:59:30+00:00",
             "message_id": 8880,
             "message_key": "@testingcatalog:8880"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-06T21:53:13+00:00",
+            "message_id": 8886,
+            "message_key": "@testingcatalog:8886"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: The upcoming OpenAI device will be a doughnut shaped smart speaker with interactive components, according to Bloomberg.\n\n> A new device from OpenAI will have a unique look, with moving parts and a doughnut shape, and will likely cost more than $300.\n\n> The device, a smart speaker without a display, is designed to be easy to carry around and will have features such as speaker grills, microphones, and lights to demonstrate when it's listening.\n\n> OpenAI plans to release the device in 2027, and it will be positioned as an AI-first computer that can help users get things done, with the goal of making it feel more alive than current smart speakers.\n\nI need to test it \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Peranti OpenAI yang akan datang akan jadi pembesar suara pintar berbentuk donat dengan komponen interaktif, menurut Bloomberg.\n\nPeranti baharu dari OpenAI ini akan tampil dengan reka bentuk unik, ada bahagian yang boleh bergerak dan berbentuk donat, dan kemungkinan besar akan berharga lebih dari $300.\n\nPeranti ini, iaitu pembesar suara pintar tanpa skrin paparan, direka untuk mudah dibawa ke mana-mana dan akan ada ciri-ciri seperti gril pembesar suara, mikrofon, dan lampu untuk menunjukkan bila ia sedang mendengar.\n\nOpenAI merancang untuk melancarkan peranti ini pada tahun 2027, dan ia akan diposisikan sebagai komputer yang mengutamakan AI yang boleh bantu pengguna selesaikan tugasan, dengan matlamat untuk menjadikannya terasa lebih hidup berbanding pembesar suara pintar sedia ada.\n\nTak sabar nak cuba \ud83d\udc40",
+            "date": "2026-08-06T21:53:12+00:00",
+            "message_id": 8885,
+            "message_key": "@testingcatalog:8885"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT Free users are getting access to GPT-5.6 Luna along with a new Think button for harder questions. \n\nPlus and Pro subscribers are getting an updated GPT-5.6 Sol as well as a new thinking effort slider!\n\n> Plus and Pro users can access the updated version of GPT\u20115.6 Sol and the new slider in ChatGPT starting today.\n\n> GPT\u20115.6 Luna will become the default model for Free and Go users this week.",
+            "translated_text": "OPENAI \ud83d\udd25: Pengguna percuma ChatGPT kini dapat akses kepada GPT-5.6 Luna, sekali dengan butang 'Think' baru untuk soalan yang lebih susah.\n\nPelanggan Plus dan Pro pula akan dapat GPT-5.6 Sol yang dikemaskini, serta slider usaha berfikir yang baru!\n\n> Pengguna Plus dan Pro boleh akses versi GPT\u20115.6 Sol yang dikemaskini dan slider baru dalam ChatGPT bermula hari ini.\n\n> GPT\u20115.6 Luna akan jadi model lalai untuk pengguna Free dan Go minggu ini.",
+            "date": "2026-08-06T17:51:28+00:00",
+            "message_id": 8884,
+            "message_key": "@testingcatalog:8884"
         }
     ]
 }
