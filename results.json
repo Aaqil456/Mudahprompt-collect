@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-07T23:34:51.775515",
+    "timestamp": "2026-08-08T07:51:41.060510",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27336,6 +27336,36 @@
             "date": "2026-08-07T22:52:10+00:00",
             "message_id": 8899,
             "message_key": "@testingcatalog:8899"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**xAI launches Imagine Image 2.0 in Grok Quality Mode**](https://www.testingcatalog.com/xai-launches-imagine-image-2-0-in-grok-quality-mode/)\n\nxAI\u2019s Imagine Image 2.0 adds Grok Quality Mode for creative work needing precise layouts, sharp small text and consistent elements. It includes region editing, background removal, reference-image mixing, resize tools and templates; API access is planned.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**xAI Melancarkan Imagine Image 2.0 dalam Grok Quality Mode**](https://www.testingcatalog.com/xai-launches-imagine-image-2-0-in-grok-quality-mode/)\n\nImagine Image 2.0 dari xAI kini ada Grok Quality Mode untuk kerja kreatif yang perlukan susun atur tepat, teks kecil yang jelas, dan elemen yang konsisten. Ia datang dengan suntingan kawasan, buang latar belakang, penggabungan imej rujukan, alat ubah saiz, dan templat; akses API dirancang.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-08-08T07:20:37+00:00",
+            "message_id": 8902,
+            "message_key": "@testingcatalog:8902"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI says Astra may have reached Critical cyber threshold**](https://www.testingcatalog.com/openai-says-astra-may-have-reached-critical-cyber-threshold/)\n\nOpenAI says Astra may meet its Critical cybersecurity threshold after internal tests showed major gains in agentic coding and cyber tasks. Release is delayed as stricter safeguards, isolated testing, monitoring, and external review proceed.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI kata Astra mungkin dah capai ambang siber kritikal**](https://www.testingcatalog.com/openai-says-astra-may-have-reached-critical-cyber-threshold/)\n\nOpenAI cakap Astra mungkin akan capai ambang keselamatan siber kritikalnya, lepas ujian dalaman tunjuk peningkatan ketara dalam pengekodan ejen dan tugasan siber. Pelancaran ditangguh sebab langkah keselamatan yang lebih ketat, ujian berasingan, pemantauan, dan semakan luaran sedang dijalankan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-08-08T07:18:58+00:00",
+            "message_id": 8901,
+            "message_key": "@testingcatalog:8901"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Imagine Image 2.0 has been announced and is now available on Grok apps under Quality Mode. \n\n> Imagine Image 2.0 features precision editing, crisp text rendering, improved factuality, and real-world usefulness.\n\n> Image 2.0 was trained for fidelity across photography, design, and illustration, with editing treated as a first-class capability. It ranks second in the world in both text-to-image generation and image editing.\n\nImagine testing time \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Imagine Image 2.0 dah diumumkan dan sekarang dah boleh guna dekat aplikasi Grok bawah Quality Mode.\n\n> Imagine Image 2.0 ada ciri-ciri suntingan yang tepat, paparan teks yang tajam, ketepatan fakta yang dipertingkat, dan sangat berguna dalam dunia sebenar.\n\n> Image 2.0 dilatih untuk ketepatan dalam fotografi, reka bentuk, dan ilustrasi, dengan keupayaan menyunting dianggap paling penting. Ia nombor dua di dunia untuk hasilkan imej dari teks dan juga suntingan imej.\n\nJom kita uji cuba \ud83d\udc40",
+            "date": "2026-08-08T07:04:14+00:00",
+            "message_id": 8900,
+            "message_key": "@testingcatalog:8900"
         }
     ]
 }
