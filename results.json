@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-08T07:51:41.060510",
+    "timestamp": "2026-08-08T13:47:07.780131",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27366,6 +27366,26 @@
             "date": "2026-08-08T07:04:14+00:00",
             "message_id": 8900,
             "message_key": "@testingcatalog:8900"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-08T13:36:30+00:00",
+            "message_id": 8904,
+            "message_key": "@testingcatalog:8904"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI acquired \u201cNext Slide\u201d \ud83d\udc40\n\n> The NextSlide team is now at OpenAI, helping build ChatGPT. We\u2019re excited to continue pursuing that same mission: building AI products that help people create, communicate, and turn their ideas into meaningful work.\n\n> We built a product that could turn prompts, notes, documents, or research into a polished, editable presentation, makingit easier for anyone to share what they know.",
+            "translated_text": "OpenAI dah ambil alih \u201cNext Slide\u201d \ud83d\udc40\n\nPasukan NextSlide sekarang dah ada di OpenAI, bantu bangunkan ChatGPT. Kami teruja untuk teruskan misi yang sama: membina produk AI yang bantu orang ramai mencipta, berkomunikasi, dan jadikan idea mereka kerja yang bermakna.\n\nKami bina satu produk yang boleh tukar arahan, nota, dokumen, atau kajian jadi persembahan yang kemas, boleh diedit, buatkan sesiapa saja lebih mudah kongsi apa yang mereka tahu.",
+            "date": "2026-08-08T13:36:30+00:00",
+            "message_id": 8903,
+            "message_key": "@testingcatalog:8903"
         }
     ]
 }
