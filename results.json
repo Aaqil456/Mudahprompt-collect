@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-08T13:47:07.780131",
+    "timestamp": "2026-08-08T21:32:18.760000",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27386,6 +27386,16 @@
             "date": "2026-08-08T13:36:30+00:00",
             "message_id": 8903,
             "message_key": "@testingcatalog:8903"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is planning to retire Gems on Gemini by October 20. \n\nUsers will be asked to recreate their Gems as skills. This means that Skills should be rolled out beyond Spark by that time as well. \n\n> Gems are retiring October 20 - Save your Gem content or recreate them as skills to keep your workflows running.\n\nKilled by Google soon \ud83d\udc40\nh/t @Thomasguka",
+            "translated_text": "Google bercadang untuk menghentikan Gems di Gemini menjelang 20 Oktober.\n\nPengguna akan diminta untuk mencipta semula Gems mereka sebagai 'skills'. Ini bermakna 'skills' sepatutnya sudah dilancarkan di luar Spark menjelang waktu itu juga.\n\n> Gems akan dihentikan pada 20 Oktober - Simpan kandungan Gem anda atau cipta semula sebagai 'skills' untuk memastikan aliran kerja anda terus berjalan.\n\nGoogle akan 'matikan' tak lama lagi \ud83d\udc40\nKredit kepada @Thomasguka",
+            "date": "2026-08-08T21:12:34+00:00",
+            "message_id": 8905,
+            "message_key": "@testingcatalog:8905"
         }
     ]
 }
