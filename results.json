@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-10T17:52:59.624877",
+    "timestamp": "2026-08-10T23:37:33.311454",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27476,6 +27476,56 @@
             "date": "2026-08-10T16:57:51+00:00",
             "message_id": 8913,
             "message_key": "@testingcatalog:8913"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-10T23:23:32+00:00",
+            "message_id": 8924,
+            "message_key": "@testingcatalog:8924"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sesame is working on Tasks support for their mobile app. Users will be able to manage them directly via the voice mode. \n\nSo far, this is still one of the biggest opportunities among voice mode providers. The currently available integrations are not very reliable.",
+            "translated_text": "Sesame sedang usahakan sokongan untuk fungsi Tugas dalam aplikasi mudah alih mereka. Pengguna nanti akan dapat uruskan semua itu terus melalui mod suara.\n\nSetakat ini, ini masih lagi salah satu peluang terbesar dalam kalangan penyedia mod suara. Integrasi sedia ada sekarang ni tak berapa boleh diharap.",
+            "date": "2026-08-10T23:23:32+00:00",
+            "message_id": 8923,
+            "message_key": "@testingcatalog:8923"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-10T23:21:59+00:00",
+            "message_id": 8922,
+            "message_key": "@testingcatalog:8922"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MAI Image 2.6 from Microsoft made its debut on Arena and landed in the second spot on the text-to-image leaderboard. \n\nMAI-Image-2.6 is expected to become available on MAI Playground and APIs next week.",
+            "translated_text": "MAI Image 2.6 dari Microsoft mula diperkenalkan di Arena dan terus menduduki tempat kedua dalam papan pendahulu text-to-image.\n\nMAI-Image-2.6 dijangka akan tersedia di MAI Playground dan API minggu depan.",
+            "date": "2026-08-10T23:21:59+00:00",
+            "message_id": 8921,
+            "message_key": "@testingcatalog:8921"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-10T22:57:35+00:00",
+            "message_id": 8918,
+            "message_key": "@testingcatalog:8918"
         }
     ]
 }
