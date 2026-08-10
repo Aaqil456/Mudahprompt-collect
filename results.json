@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-10T07:44:42.619254",
+    "timestamp": "2026-08-10T13:12:31.417079",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27426,6 +27426,36 @@
             "date": "2026-08-10T07:38:26+00:00",
             "message_id": 8909,
             "message_key": "@testingcatalog:8909"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta releases Muse Glimmer for local AI agents**](https://www.testingcatalog.com/meta-releases-muse-glimmer-for-local-ai-agents/)\n\nMeta released Muse Glimmer, a 30B open-weight model for local always-on agents on consumer GPUs. Apache 2.0 licensed and available on Hugging Face, it supports tool use, multimodal input, 100+ languages, and offline deployment.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta Lancarkan Muse Glimmer untuk Ejen AI Tempatan**](https://www.testingcatalog.com/meta-releases-muse-glimmer-for-local-ai-agents/)\n\nMeta telah melancarkan Muse Glimmer, sebuah model 'open-weight' 30B untuk ejen yang sentiasa aktif secara tempatan pada GPU pengguna. Berlesen Apache 2.0 dan boleh didapati di Hugging Face, ia menyokong penggunaan alatan, input multimodal, 100+ bahasa, dan penggunaan luar talian.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-08-10T11:26:46+00:00",
+            "message_id": 8912,
+            "message_key": "@testingcatalog:8912"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-10T11:16:48+00:00",
+            "message_id": 8911,
+            "message_key": "@testingcatalog:8911"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Meta released Muse Glimmer, a new open-weight 30B model under the Apache 2.0 license! Muse Spark 1.2 is planned to be released as open-weight soon as well. \n\n> Outperforms Gemma 4 31B and Qwen 3.6 27B on loads of benchmarks. \n\n> Muse Glimmer can be quantized to under 20GB with room for the KV cache, perception encoder, and a drafter. \n\nMeta is back for real \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Meta dah keluarkan Muse Glimmer, model 30B open-weight baru di bawah lesen Apache 2.0! Muse Spark 1.2 pun dirancang untuk dikeluarkan sebagai open-weight tak lama lagi.\n\n> Mengatasi Gemma 4 31B dan Qwen 3.6 27B dalam banyak ujian penanda aras.\n\n> Muse Glimmer boleh dikuantumkan kepada kurang daripada 20GB, dengan ruang untuk KV cache, perception encoder, dan drafter.\n\nMeta dah kembali betul-betul \ud83d\udc40",
+            "date": "2026-08-10T11:16:48+00:00",
+            "message_id": 8910,
+            "message_key": "@testingcatalog:8910"
         }
     ]
 }
