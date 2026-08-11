@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T22:42:59.083719",
+    "timestamp": "2026-08-11T23:41:13.506217",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27696,6 +27696,16 @@
             "date": "2026-08-11T21:58:53+00:00",
             "message_id": 8941,
             "message_key": "@testingcatalog:8941"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor prepares to launch Origin platform for code reviews**](https://www.testingcatalog.com/cursor-prepares-to-launch-origin-platform-for-code-reviews/)\n\nCursor is set to open Origin, internally called Cursor Review, beyond its beta. The platform adds Codebase repo sync from GitHub and an automated PR review flow, marking a near-term rollout as Cursor and SpaceXAI roadmaps converge.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**Cursor bersedia melancarkan platform Origin untuk semakan kod**](https://www.testingcatalog.com/cursor-prepares-to-launch-origin-platform-for-code-reviews/)\n\nCursor akan membuka Origin, yang secara dalaman dipanggil Cursor Review, selepas fasa beta-nya. Platform ini menambah penyegerakan repo Codebase dari GitHub dan aliran semakan PR automatik, menandakan pelancaran dalam masa terdekat apabila pelan hala tuju Cursor dan SpaceXAI bertemu.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-08-11T22:55:25+00:00",
+            "message_id": 8943,
+            "message_key": "@testingcatalog:8943"
         }
     ]
 }
