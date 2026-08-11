@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T20:47:49.251887",
+    "timestamp": "2026-08-11T22:42:59.083719",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27686,6 +27686,16 @@
             "date": "2026-08-11T19:13:30+00:00",
             "message_id": 8940,
             "message_key": "@testingcatalog:8940"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI plans free ChatGPT Plus year for US college students**](https://www.testingcatalog.com/openai-plans-free-chatgpt-plus-year-for-us-college-students/)\n\nOPENAI \ud83d\udd25: College students in the US will be able to claim a year of ChatGPT Plus for free. \n\nOpenAI is preparing a new \"back-to-school\" campaign, positioning ChatGPT as a tool for exam preparation, studying, and more!\n\n> From study sessions to final projects, ChatGPT helps you move forward.\n\n> This offer is available to currently enrolled students at 220+ participating U.S. campuses. Claim your free year and verify your student status to see if your school is included.\n\n> Claim your free year and verify your student status with our secure verification partner, SheerID. After verification, you can review the offer and choose whether to activate it.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI rancang setahun ChatGPT Plus percuma untuk pelajar kolej AS**](https://www.testingcatalog.com/openai-plans-free-chatgpt-plus-year-for-us-college-students/)\n\nOPENAI \ud83d\udd25: Pelajar kolej di AS boleh dapatkan setahun ChatGPT Plus secara percuma.\n\nOpenAI sedang sediakan kempen \"kembali ke sekolah\" baharu, letakkan ChatGPT sebagai alat untuk persediaan peperiksaan, belajar, dan macam-macam lagi!\n\n> Dari sesi belajar sampai projek akhir, ChatGPT bantu anda maju ke depan.\n\n> Tawaran ni terbuka untuk pelajar yang sedang belajar di lebih 220 kampus AS yang terlibat. Dapatkan tahun percuma anda dan sahkan status pelajar anda untuk tengok sama ada sekolah anda termasuk.\n\n> Dapatkan tahun percuma anda dan sahkan status pelajar anda dengan rakan kongsi pengesahan selamat kami, SheerID. Lepas pengesahan, anda boleh semak tawaran tu dan pilih sama ada nak aktifkan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-08-11T21:58:53+00:00",
+            "message_id": 8941,
+            "message_key": "@testingcatalog:8941"
         }
     ]
 }
