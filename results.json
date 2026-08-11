@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T14:59:15.904713",
+    "timestamp": "2026-08-11T16:06:45.697095",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27636,6 +27636,26 @@
             "date": "2026-08-11T14:01:04+00:00",
             "message_id": 8935,
             "message_key": "@testingcatalog:8935"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-11T15:29:05+00:00",
+            "message_id": 8937,
+            "message_key": "@testingcatalog:8937"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NVIDIA \ud83d\udd25: A new Nemotron 3.5 Lightning model has been announced! \n\n> NVIDIA Nemotron 3.5 Lightning is an open 30B MoE model with 3B active parameters. \n\n> It is 35% faster than Qwen3.6 35B and outperforms similar size models on speed while offering a similar performance. \n\n> Weights are available on HuggingFace!\n\nOpen testing time \ud83d\udc40",
+            "translated_text": "NVIDIA \ud83d\udd25: Model Nemotron 3.5 Lightning yang baru dah diumumkan!\n\n> NVIDIA Nemotron 3.5 Lightning ni model MoE 30B yang terbuka, dengan 3B parameter aktif.\n\n> Ia 35% lebih laju dari Qwen3.6 35B dan mengatasi model bersaiz serupa dari segi kelajuan, sambil menawarkan prestasi yang sama.\n\n> Weights dia boleh didapati di HuggingFace!\n\nMasa untuk ujian terbuka \ud83d\udc40",
+            "date": "2026-08-11T15:29:05+00:00",
+            "message_id": 8936,
+            "message_key": "@testingcatalog:8936"
         }
     ]
 }
