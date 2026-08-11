@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T13:09:16.348414",
+    "timestamp": "2026-08-11T14:59:15.904713",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27626,6 +27626,16 @@
             "date": "2026-08-11T12:14:20+00:00",
             "message_id": 8933,
             "message_key": "@testingcatalog:8933"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor Origin (Cursor Review) has been tested in a closed beta with selected partners internally and will likely be announced later today. \n\nUsers will get access to new tabs called Codebase and Review. \n\n> The Codebase tab will let users sync their repositories from Github.\n\n> The Review tab will be dedicated to the \"agentic code review\" process, in which users will be notified when their attention is required. \n\nCurrently, the Cursor Origin page shows a waitlist form, which makes a lot of sense since they will have to copy a ton of code repositories.  \n\n> \"Code is moving faster than any infrastructure was built to handle. Origin was designed for this moment.\"",
+            "translated_text": "Cursor Origin (Cursor Review) dah diuji dalam beta tertutup dengan rakan kongsi terpilih secara dalaman, dan kemungkinan besar akan diumumkan hari ini.\n\nPengguna akan dapat akses kepada tab baru yang dipanggil Codebase dan Review.\n\nTab Codebase ni akan membolehkan pengguna selaraskan repositori mereka dari Github.\n\nTab Review pula akan dikhaskan untuk proses \"agentic code review\", di mana pengguna akan dapat notifikasi bila perhatian mereka diperlukan.\n\nBuat masa ni, laman Cursor Origin tunjuk borang senarai menunggu, yang memang masuk akal sebab diorang kena salin banyak sangat repositori kod.\n\n\u201cKod bergerak terlalu pantas, infrastruktur sedia ada tak mampu nak tangani. Origin memang direka untuk situasi macam ni.\u201d",
+            "date": "2026-08-11T14:01:04+00:00",
+            "message_id": 8935,
+            "message_key": "@testingcatalog:8935"
         }
     ]
 }
