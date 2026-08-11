@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T10:05:49.222175",
+    "timestamp": "2026-08-11T11:44:57.622062",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27566,6 +27566,46 @@
             "date": "2026-08-11T09:14:14+00:00",
             "message_id": 8927,
             "message_key": "@testingcatalog:8927"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceXAI announced a new Voice Connector for Grok, which can generate voice memos. \n\nIt is now available on Grok web and mobile, but it seems to be still rolling out in certain regions. \n\nGrokLM \ud83d\udc40\n\n\"Summarise latest AI news from TestingCatalog as a voice memo\" in order to test it out!",
+            "translated_text": "SpaceXAI mengumumkan Voice Connector baharu untuk Grok, yang boleh menjana memo suara.\n\nIa kini tersedia di Grok web dan mudah alih, tapi nampaknya masih sedang dilancarkan di beberapa kawasan.\n\nGrokLM \ud83d\udc40\n\n\"Summarise latest AI news from TestingCatalog as a voice memo\" untuk mencubanya!",
+            "date": "2026-08-11T11:40:00+00:00",
+            "message_id": 8932,
+            "message_key": "@testingcatalog:8932"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on a new Automations experience for Perplexity Computer. \n\nA new tab would appear next to Artifacts and Customize items, likely as a v2 overhaul of the previous solution.",
+            "translated_text": "Perplexity sedang usahakan pengalaman Automations baharu untuk Perplexity Computer.\n\nSatu tab baharu akan muncul di sebelah Artifacts dan Customize, mungkin sebagai rombakan v2 untuk solusi sebelum ini.",
+            "date": "2026-08-11T11:36:42+00:00",
+            "message_id": 8931,
+            "message_key": "@testingcatalog:8931"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-11T10:46:53+00:00",
+            "message_id": 8930,
+            "message_key": "@testingcatalog:8930"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Anthropic will start watermarking AI-generated text via upcoming models released in the EU after the 2nd of August. \n\n> The same capability for existing models is in the works as well. \n\n> \"Claude uses two complementary techniques to mark content generated and processed by Claude: watermarks embedded in text, and signed provenance metadata attached to files.\" \n\n> Does it mean that EU users will start experiencing model release delays due to this? \n\n> Google has had the same tech in place for quite a while. OpenAI developed a similar solution some time back; however, it was not applied to their models. \n\nCan we instead agree to mark human-generated content? That would be much more efficient in the long run.",
+            "translated_text": "Korang tahu tak \ud83d\udc40: Anthropic akan mula meletakkan watermark pada teks yang dihasilkan AI, guna model-model baru yang akan dikeluarkan di EU selepas 2 Ogos nanti.\n\nFungsi yang sama untuk model-model sedia ada pun sedang dalam proses juga.\n\nClaude menggunakan dua teknik pelengkap untuk menandakan kandungan yang dihasilkan dan diproses oleh Claude: watermark yang tertanam dalam teks, dan metadata asal yang ditandatangani dan dilekatkan pada fail.\n\nJadi, adakah ini bermakna pengguna EU akan mula mengalami kelewatan pelancaran model disebabkan perkara ini?\n\nGoogle dah lama ada teknologi yang sama. OpenAI pun pernah bangunkan penyelesaian serupa dulu, tapi ia tak diaplikasikan pada model-model mereka.\n\nApa kata kita setuju untuk tandakan kandungan yang dihasilkan manusia saja? Itu lagi efisien kalau fikir jangka masa panjang.",
+            "date": "2026-08-11T10:46:53+00:00",
+            "message_id": 8929,
+            "message_key": "@testingcatalog:8929"
         }
     ]
 }
