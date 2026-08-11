@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T16:06:45.697095",
+    "timestamp": "2026-08-11T19:16:09.838243",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27656,6 +27656,26 @@
             "date": "2026-08-11T15:29:05+00:00",
             "message_id": 8936,
             "message_key": "@testingcatalog:8936"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Codex app is now finally available on Linux! \n\n> Ubuntu 24.04 LTS and 26.04 LTS, Debian 13, Fedora 43 and 44 are officially supported. \n\n> Computer Use is not available there yet \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Aplikasi Codex dah boleh guna kat Linux akhirnya!\n> Ubuntu 24.04 LTS dan 26.04 LTS, Debian 13, Fedora 43 dan 44 disokong secara rasmi.\n> Fungsi Computer Use belum ada lagi kat sana \ud83d\udc40",
+            "date": "2026-08-11T19:08:03+00:00",
+            "message_id": 8939,
+            "message_key": "@testingcatalog:8939"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: A new Grok Bot agent has been introduced in early beta to Grok Heavy, Cursor Ultra and Cursor Team Premium users! \n\nUsers are able to create and run their own bots to execute real tasks. Grok Bots operate their own computers and have access to a wide range of tools. \n\nWe need it on more plans \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Ejen Grok Bot baru dah diperkenalkan dalam fasa beta awal kepada pengguna Grok Heavy, Cursor Ultra dan Cursor Team Premium!\n\nPengguna boleh cipta dan jalankan bot mereka sendiri untuk laksanakan tugas sebenar. Grok Bots beroperasi guna komputer mereka sendiri dan ada akses kepada pelbagai jenis alatan.\n\nKita perlukan ia pada lebih banyak pelan \ud83d\udc40",
+            "date": "2026-08-11T18:08:55+00:00",
+            "message_id": 8938,
+            "message_key": "@testingcatalog:8938"
         }
     ]
 }
