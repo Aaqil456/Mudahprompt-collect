@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-12T16:06:50.230909",
+    "timestamp": "2026-08-12T21:48:21.193139",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27766,6 +27766,26 @@
             "date": "2026-08-12T15:52:05+00:00",
             "message_id": 8948,
             "message_key": "@testingcatalog:8948"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Users can now make copies of Gemini Notebooks in order to save them as their own. \n\n> Make a copy of this notebook to keep as your own. Anyone you share this with can also copy it by default.\n\nCtrl+C, Ctrl-V \ud83d\udc40",
+            "translated_text": "Pengguna kini boleh salin Gemini Notebooks untuk simpan sebagai milik sendiri.\n\n> Salin notebook ini untuk simpan sebagai milik anda. Sesiapa yang anda kongsikan ini pun boleh salin juga secara automatik.\n\nCtrl+C, Ctrl-V \ud83d\udc40",
+            "date": "2026-08-12T21:13:24+00:00",
+            "message_id": 8952,
+            "message_key": "@testingcatalog:8952"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude in Chrome sessions are now powered by the same solution as Claude Cowork and are getting synced across different clients. \n\nSkills and Connectors are supported too \ud83d\udc40\n\n> Available on Max and Team today, rolling out to Pro in the coming weeks.",
+            "translated_text": "Sesi Claude dalam Chrome kini dikuasakan oleh penyelesaian yang sama seperti Claude Cowork dan disegerakkan merentasi pelbagai klien.\n\nSkills dan Connectors turut disokong juga \ud83d\udc40\n\nTersedia untuk Max dan Team hari ini, dan akan dilancarkan kepada Pro dalam beberapa minggu akan datang.",
+            "date": "2026-08-12T20:53:56+00:00",
+            "message_id": 8951,
+            "message_key": "@testingcatalog:8951"
         }
     ]
 }
