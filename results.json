@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-12T10:08:37.460072",
+    "timestamp": "2026-08-12T11:47:25.192490",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27736,6 +27736,16 @@
             "date": "2026-08-12T09:30:12+00:00",
             "message_id": 8944,
             "message_key": "@testingcatalog:8944"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceXAI updated its voice agent builder with a possibility to trigger post conversations action. The action can be an SMS, Email or an API call. \n\n> System variables in API tools - Pass the caller's number into an API request to fetch their account and give them personalized information.\n\n> Outbound SMS with Twilio numbers - Text the active caller mid-call from an imported Twilio number, for confirmations, links, and anything easier to read than to hear.\n\n> Post-call notifications via email - Email up to three people when a call ends, with duration, channel, and a link to the conversation. Set a minimum call length so short ones stay quiet.",
+            "translated_text": "SpaceXAI dah kemas kini pembina ejen suara dia dengan fungsi baru yang boleh cetuskan tindakan lepas perbualan. Tindakan ni boleh jadi SMS, E-mel, atau panggilan API.\n\n> Pemboleh ubah sistem dalam alatan API - Hantar nombor pemanggil ke permintaan API untuk dapatkan akaun mereka dan bagi maklumat peribadi kat diorang.\n\n> SMS keluar guna nombor Twilio - Hantar mesej kat pemanggil aktif masa tengah bercakap guna nombor Twilio yang diimport, untuk pengesahan, pautan, dan apa-apa yang lagi senang dibaca daripada didengar.\n\n> Notifikasi lepas panggilan melalui e-mel - Hantar e-mel kat sampai tiga orang bila panggilan tamat, dengan tempoh, saluran, dan pautan ke perbualan tu. Tetapkan tempoh panggilan minimum supaya panggilan pendek tak dihantar.",
+            "date": "2026-08-12T10:33:52+00:00",
+            "message_id": 8947,
+            "message_key": "@testingcatalog:8947"
         }
     ]
 }
