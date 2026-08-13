@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-13T14:59:35.170531",
+    "timestamp": "2026-08-13T18:00:44.813829",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27856,6 +27856,46 @@
             "date": "2026-08-13T14:00:32+00:00",
             "message_id": 8958,
             "message_key": "@testingcatalog:8958"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.7 Flash is rolling out on Gemini Spark and comes with improved tool use when it comes to operating Google Workspace apps. \n\nThe post says that Spark is now available to Pro and Ultra subscribers across 160 countries. Does it mean it is rolling out more broadly now? \n\nDo you have Spark already? \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.7 Flash sedang dilancarkan di Gemini Spark dan datang dengan penggunaan alatan yang lebih baik apabila mengendalikan aplikasi Google Workspace.\n\nPost itu cakap Spark dah boleh didapati untuk pelanggan Pro dan Ultra di 160 negara. Maksudnya, ia sedang dilancarkan dengan lebih meluas sekarang ke?\n\nDah ada Spark ke? \ud83d\udc40",
+            "date": "2026-08-13T17:29:21+00:00",
+            "message_id": 8964,
+            "message_key": "@testingcatalog:8964"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-13T17:17:50+00:00",
+            "message_id": 8963,
+            "message_key": "@testingcatalog:8963"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI \u2764\ufe0f Cerebras\n\nOpenAI announced Ultrafast mode for GPT-5.6 Sol in preview, which can speed up model performance by up to 14 times!\n\nUltrafast mode is currently available to a limited set of customers, and others can sign up to be notified when it expands. \n\n> During the preview period, we\u2019re working with an initial group of customers to understand where this speed makes the biggest difference, and how those learnings can inform our products over time.",
+            "translated_text": "OpenAI \u2764\ufe0f Cerebras\n\nOpenAI mengumumkan mod Ultrafast untuk GPT-5.6 Sol dalam pratonton, yang boleh mempercepatkan prestasi model sehingga 14 kali ganda!\n\nMod Ultrafast kini tersedia kepada sebilangan kecil pelanggan, dan yang lain boleh mendaftar untuk dimaklumkan apabila ia diperluaskan.\n\nSemasa tempoh pratonton ini, kami bekerjasama dengan kumpulan pelanggan awal untuk memahami di mana kelajuan ini paling memberi impak, dan bagaimana pengalaman ini boleh membantu kami menambah baik produk kami pada masa hadapan.",
+            "date": "2026-08-13T17:17:50+00:00",
+            "message_id": 8962,
+            "message_key": "@testingcatalog:8962"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Google announced Gemini 3.7 Flash, now available on APIs, AI Studio, and Antigravity, with rollout to other products!\n\n> Gemini 3.7 Flash is 50% cheaper than Gemini 3.6 Flash. \n\n> It scored 65% on DeepSWE V1.1, getting close to GPT-5.6 Terra performance. \n\nTesting time \ud83d\udc40",
+            "translated_text": "TERKINI \ud83d\udd25: Google dah umumkan Gemini 3.7 Flash, kini dah boleh guna dekat APIs, AI Studio, dan Antigravity, dan akan dilancarkan ke produk lain juga!\n\n> Gemini 3.7 Flash 50% lebih murah berbanding Gemini 3.6 Flash.\n\n> Ia dapat skor 65% dalam DeepSWE V1.1, dah hampir sama dengan prestasi GPT-5.6 Terra.\n\nWaktu untuk testing \ud83d\udc40",
+            "date": "2026-08-13T17:10:37+00:00",
+            "message_id": 8961,
+            "message_key": "@testingcatalog:8961"
         }
     ]
 }
