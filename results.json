@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-13T18:00:44.813829",
+    "timestamp": "2026-08-13T20:47:28.786749",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27896,6 +27896,26 @@
             "date": "2026-08-13T17:10:37+00:00",
             "message_id": 8961,
             "message_key": "@testingcatalog:8961"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT Chronicle gets an update with a new Computer History feature. \n\nWhen activated, ChatGPT can remember user activities across apps and websites, so it can better understand the user's context. \n\n> Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT Chronicle dikemas kini dengan ciri Sejarah Komputer yang baru.\n\nBila diaktifkan, ChatGPT boleh ingat aktiviti pengguna merentasi aplikasi dan laman web, supaya ia boleh faham konteks pengguna dengan lebih baik.\n\nSedang dilancarkan secara global sekarang kepada pengguna Pro, Business, dan Enterprise, dengan akses di EEA, UK, dan Switzerland akan menyusul dalam beberapa minggu akan datang.",
+            "date": "2026-08-13T20:42:44+00:00",
+            "message_id": 8967,
+            "message_key": "@testingcatalog:8967"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI started sending waitlist invitations for Premium $100/month seats on ChatGPT Business. \n\n> It comes with 5x more usage than Standard.\n> No five-hour usage limit and predictable weekly resets.\n> Standard and Premium seats can be mixed within the Workspace. \n\nEarly joiners may also qualify for up to $500 in extra credits ($100 per Premium seat added).",
+            "translated_text": "OpenAI dah mula hantar jemputan senarai menunggu untuk tempat Premium berharga $100 sebulan di ChatGPT Business.\n\n> Ia datang dengan penggunaan 5 kali ganda lebih banyak berbanding Standard.\n> Tiada had penggunaan lima jam dan penetapan semula mingguan yang teratur.\n> Tempat Standard dan Premium boleh dicampur dalam Workspace.\n\nMereka yang mendaftar awal mungkin juga layak untuk sehingga $500 dalam kredit tambahan ($100 untuk setiap tempat Premium yang ditambah).",
+            "date": "2026-08-13T20:22:02+00:00",
+            "message_id": 8966,
+            "message_key": "@testingcatalog:8966"
         }
     ]
 }
