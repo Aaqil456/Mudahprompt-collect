@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-13T20:47:28.786749",
+    "timestamp": "2026-08-13T21:47:54.339906",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27916,6 +27916,46 @@
             "date": "2026-08-13T20:22:02+00:00",
             "message_id": 8966,
             "message_key": "@testingcatalog:8966"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Sheets canvas for Gemini mini-apps**](https://www.testingcatalog.com/google-launches-sheets-canvas-for-gemini-mini-apps/)\n\nGoogle launched Sheets canvas, a Gemini feature that turns spreadsheet data into editable mini-apps built from prompts. The visual layer syncs with the sheet in real time and is available in English for Pro, Ultra, and select Workspace plans.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google melancarkan Sheets canvas untuk mini-aplikasi Gemini**](https://www.testingcatalog.com/google-launches-sheets-canvas-for-gemini-mini-apps/)\n\nGoogle melancarkan Sheets canvas, satu ciri Gemini yang menukar data hamparan menjadi mini-aplikasi yang boleh diedit yang dibina daripada prompts. Lapisan visual itu disegerakkan dengan hamparan secara masa nyata dan tersedia dalam bahasa Inggeris untuk pelan Pro, Ultra, dan pelan Workspace terpilih.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-13T21:22:41+00:00",
+            "message_id": 8971,
+            "message_key": "@testingcatalog:8971"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 3.7 Flash for coding and AI agents**](https://www.testingcatalog.com/google-launches-gemini-3-7-flash-for-coding-and-ai-agents/)\n\nGoogle launched Gemini 3.7 Flash, a faster, lower-cost model for coding, agents and enterprise workflows. It delivers strong benchmark gains and extra speed.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google melancarkan Gemini 3.7 Flash untuk pengekodan dan ejen AI**](https://www.testingcatalog.com/google-launches-gemini-3-7-flash-for-coding-and-ai-agents/)\n\nGoogle melancarkan Gemini 3.7 Flash, sebuah model yang lebih pantas dan kos rendah untuk pengekodan, ejen, dan aliran kerja perusahaan. Ia menawarkan peningkatan penanda aras yang ketara dan kelajuan tambahan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-13T21:18:50+00:00",
+            "message_id": 8970,
+            "message_key": "@testingcatalog:8970"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI previews Ultrafast API tier for GPT-5.6 Sol**](https://www.testingcatalog.com/openai-previews-ultrafast-api-tier-for-gpt-5-6-sol/)\n\nOpenAI launched a limited API preview of Ultrafast for GPT-5.6 Sol, powered by Cerebras, delivering up to 14x Standard speed and 750 tokens per second for low-latency work across support, finance, security, voice, and research.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI memperkenalkan awal peringkat API Ultrafast untuk GPT-5.6 Sol**](https://www.testingcatalog.com/openai-previews-ultrafast-api-tier-for-gpt-5-6-sol/)\n\nOpenAI telah melancarkan pratonton API terhad untuk Ultrafast bagi GPT-5.6 Sol, yang dikuasakan oleh Cerebras. Ia menawarkan kelajuan sehingga 14 kali ganda kelajuan Standard dan 750 token sesaat untuk kerja-kerja yang memerlukan kependaman rendah merentasi bidang sokongan, kewangan, keselamatan, suara, dan penyelidikan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-08-13T21:02:53+00:00",
+            "message_id": 8969,
+            "message_key": "@testingcatalog:8969"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: xAI releases Grok 4.6 for long-running agent work**](https://www.testingcatalog.com/icymi-xai-releases-grok-4-6-for-long-running-agent-work/)\n\nxAI\u2019s Grok 4.6 targets long-running agent work, research, and coding, with stronger multi-step execution than 4.5. It posts near-frontier benchmark results, supports sustained project delivery, and is now available across major platforms.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**Korang dah tahu ke? xAI keluarkan Grok 4.6 untuk kerja ejen jangka panjang**](https://www.testingcatalog.com/icymi-xai-releases-grok-4-6-for-long-running-agent-work/)\n\nGrok 4.6 dari xAI ni memang fokus untuk kerja ejen jangka panjang, penyelidikan, dan pengekodan, dengan pelaksanaan berbilang langkah yang lebih mantap berbanding versi 4.5. Keputusan penanda arasnya pun dah hampir ke tahap paling canggih, boleh bantu siapkan projek secara berterusan, dan kini dah ada di pelbagai platform utama.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-08-13T21:01:51+00:00",
+            "message_id": 8968,
+            "message_key": "@testingcatalog:8968"
         }
     ]
 }
