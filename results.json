@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-13T13:14:51.853395",
+    "timestamp": "2026-08-13T14:59:35.170531",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -27826,6 +27826,36 @@
             "date": "2026-08-13T12:27:21+00:00",
             "message_id": 8955,
             "message_key": "@testingcatalog:8955"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-13T14:07:34+00:00",
+            "message_id": 8960,
+            "message_key": "@testingcatalog:8960"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor Origin started rolling out to some users under a new /codebase path on Cursor web. \n\n> Cursor Origin is an upcoming Agentic code review solution from Cursor. It is also expected that users will be able to manage their codebases via Origin as well.\n\nSoon \ud83d\udc40",
+            "translated_text": "Cursor Origin dah mula diperkenalkan kepada beberapa pengguna di bawah laluan /codebase yang baru di laman web Cursor.\n\nCursor Origin adalah penyelesaian semakan kod Agentic yang bakal diperkenalkan dari Cursor. Pengguna juga dijangka akan dapat menguruskan codebase mereka melalui Origin juga.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-08-13T14:07:34+00:00",
+            "message_id": 8959,
+            "message_key": "@testingcatalog:8959"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.7 Flash is being prepared for release on Gemini Enterprise (currently hidden). There is a high probability that it will be released later today.\n\nSoon? \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.7 Flash sedang disiapkan untuk dikeluarkan di Gemini Enterprise (buat masa ni tersembunyi). Ada kemungkinan besar ia akan dikeluarkan hari ini juga.\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-08-13T14:00:32+00:00",
+            "message_id": 8958,
+            "message_key": "@testingcatalog:8958"
         }
     ]
 }
