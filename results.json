@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-13T23:42:32.866747",
+    "timestamp": "2026-08-14T06:15:17.276885",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28006,6 +28006,16 @@
             "date": "2026-08-13T22:56:59+00:00",
             "message_id": 8973,
             "message_key": "@testingcatalog:8973"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Zhipu AI released GLM-5.3 on ZCode and it scored 84.5 points on CyberGym, scoring above Mythos 5 and GPT-5.6 Sol!\n\n> Trained on top of a 743B base model. \n> Build for Cyber Defence and Coding tasks. \n> \u201cAPI access and open weights will be released in stages following rigorous safety evaluations.\u201d",
+            "translated_text": "Zhipu AI dah keluarkan GLM-5.3 dekat ZCode, dan model ni dapat skor 84.5 mata dekat CyberGym. Skor ni lebih tinggi dari Mythos 5 dengan GPT-5.6 Sol!\n\n*   Dilatih menggunakan model asas 743B.\n*   Dibina untuk Pertahanan Siber dan tugasan pengekodan.\n*   \"Akses API dan 'open weights' akan dikeluarkan secara berperingkat selepas penilaian keselamatan yang ketat.\"",
+            "date": "2026-08-14T05:40:42+00:00",
+            "message_id": 8978,
+            "message_key": "@testingcatalog:8978"
         }
     ]
 }
