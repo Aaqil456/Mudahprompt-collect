@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-14T14:52:59.602876",
+    "timestamp": "2026-08-14T15:53:58.431547",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28056,6 +28056,26 @@
             "date": "2026-08-14T13:18:24+00:00",
             "message_id": 8981,
             "message_key": "@testingcatalog:8981"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-14T15:08:16+00:00",
+            "message_id": 8984,
+            "message_key": "@testingcatalog:8984"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Alibaba published Qwen3.8-27B weights on Huggingface under the Apache 2.0 license!\n\n> Qwen3.8-27B is a native multimodal dense model that you can run locally. \n> 262K native context,  extendable to 1M tokens via YaRN.\n> As a 27B model, it performs on par with Opus 4.6 on benchmarks!\n\nLocal testing time \ud83d\udc40",
+            "translated_text": "Alibaba dah terbitkan berat model Qwen3.8-27B di Huggingface, di bawah lesen Apache 2.0!\n\n> Qwen3.8-27B ni model padat multimodal asli yang boleh awak jalankan secara tempatan.\n> Konteks asli 262K, boleh diperluaskan sehingga 1M token melalui YaRN.\n> Sebagai model 27B, prestasinya setanding dengan Opus 4.6 dalam ujian penanda aras!\n\nMasa untuk uji cuba secara tempatan \ud83d\udc40",
+            "date": "2026-08-14T15:08:16+00:00",
+            "message_id": 8983,
+            "message_key": "@testingcatalog:8983"
         }
     ]
 }
