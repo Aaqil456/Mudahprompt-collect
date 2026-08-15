@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T12:39:50.209177",
+    "timestamp": "2026-08-15T14:24:07.227274",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28116,6 +28116,16 @@
             "date": "2026-08-15T12:06:36+00:00",
             "message_id": 8988,
             "message_key": "@testingcatalog:8988"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude may get a new Model Comparison interface for users to have a simple way to see the difference in responses from different models. \n\n> Users will be able to turn memory on and off, as well as \"hold\" responses. \n> Unlike in an A/B testing UI, it looks like users will be able to switch between normal chats and model comparison mode themselves on demand. \n\nBuilt-in LM Arena \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude mungkin akan dapat antara muka perbandingan model baru, supaya pengguna ada cara mudah nak tengok beza jawapan dari model-model berlainan.\n> Pengguna boleh hidupkan dan matikan memori, dan juga \"tahan\" jawapan.\n> Tak macam dalam A/B testing UI, nampaknya pengguna boleh tukar antara sembang biasa dengan mod perbandingan model sendiri bila-bila masa.\nLM Arena terbina dalam \ud83d\udc40",
+            "date": "2026-08-15T13:52:33+00:00",
+            "message_id": 8989,
+            "message_key": "@testingcatalog:8989"
         }
     ]
 }
