@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-16T09:28:37.265864",
+    "timestamp": "2026-08-16T14:24:20.036300",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28156,6 +28156,26 @@
             "date": "2026-08-16T09:21:25+00:00",
             "message_id": 8991,
             "message_key": "@testingcatalog:8991"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic develops its own Slack as Claude Code Projects**](https://www.testingcatalog.com/anthropic-develops-its-own-slack-as-claude-code-projects/)\n\nAnthropic\u2019s Claude Code projects now support persistent repo context, shared sessions, and threads. The model points to team-based coding in a maintained workspace, extending Claude from a solo assistant to shared organizational tooling.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic bangunkan Slack sendiri untuk projek Claude Code**](https://www.testingcatalog.com/anthropic-develops-its-own-slack-as-claude-code-projects/)\n\nProjek Claude Code Anthropic kini menyokong konteks repo yang berterusan, sesi yang dikongsi, dan thread. Model ini direka untuk pengekodan secara berkumpulan dalam ruang kerja yang dijaga rapi, menjadikan Claude bukan lagi sekadar pembantu solo, tapi alat perkongsian untuk organisasi.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-08-16T14:22:24+00:00",
+            "message_id": 8994,
+            "message_key": "@testingcatalog:8994"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude turns into Super App, adding web browser for Cowork**](https://www.testingcatalog.com/claude-turns-into-super-app-adding-web-browser-for-cowork/)\n\nRecent Claude Desktop builds point to a built-in browser for Cowork sessions and a user-facing model comparison mode. The unreleased features suggest Anthropic is positioning Claude Desktop as a broader all-in-one AI workspace.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Claude jadi Super App, tambah pelayar web untuk Cowork**](https://www.testingcatalog.com/claude-turns-into-super-app-adding-web-browser-for-cowork/)\n\nVersi terkini Claude Desktop menunjukkan adanya pelayar web terbina dalam untuk sesi Cowork dan mod perbandingan model untuk pengguna. Ciri-ciri yang belum dikeluarkan ini menunjukkan Anthropic sedang meletakkan Claude Desktop sebagai ruang kerja AI serba lengkap yang lebih luas.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-08-16T14:15:34+00:00",
+            "message_id": 8993,
+            "message_key": "@testingcatalog:8993"
         }
     ]
 }
