@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T17:21:27.160941",
+    "timestamp": "2026-08-16T09:28:37.265864",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28136,6 +28136,26 @@
             "date": "2026-08-15T17:03:58+00:00",
             "message_id": 8990,
             "message_key": "@testingcatalog:8990"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-16T09:21:25+00:00",
+            "message_id": 8992,
+            "message_key": "@testingcatalog:8992"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is updating its privacy policy in regard to ads on ChatGPT, mentioning ad personalisation.\n\n> Ads are expanding to more regions and still only shown to free and Go accounts. \n\n> Users will have to explicitly opt it into ad personalisation if they want to. \n\n> In some regions, Free users can still choose not to see ads but they will be limited in a number of messages.",
+            "translated_text": "OpenAI sedang mengemaskini polisi privasinya berkaitan dengan iklan di ChatGPT, dan ada sebut pasal personalisasi iklan.\n\nIklan akan diperluaskan ke lebih banyak kawasan dan masih hanya ditunjukkan kepada akaun percuma dan Go.\n\nPengguna perlu secara jelas memilih untuk personalisasi iklan kalau mereka nak.\n\nDi sesetengah kawasan, pengguna akaun percuma masih boleh pilih untuk tak nak tengok iklan, tapi mereka akan dihadkan dari segi jumlah mesej.",
+            "date": "2026-08-16T09:21:25+00:00",
+            "message_id": 8991,
+            "message_key": "@testingcatalog:8991"
         }
     ]
 }
