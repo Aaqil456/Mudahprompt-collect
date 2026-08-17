@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-17T18:41:02.131113",
+    "timestamp": "2026-08-17T21:29:20.741597",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28226,6 +28226,16 @@
             "date": "2026-08-17T17:32:37+00:00",
             "message_id": 9001,
             "message_key": "@testingcatalog:9001"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NOUNS RESEARCH \ud83d\udd25: Hermes Desktop got a new Bot Mode, allowing users to create various specialized AI Agents.\n\n> \"Each Bot has its own role, model, memory, skills, and profile picture; Bots can use any model and even communicate with each other.\"\n\nThis needs a lot of testing time \ud83d\udc40",
+            "translated_text": "NOUNS RESEARCH \ud83d\udd25: Hermes Desktop dah ada Bot Mode baru, yang membolehkan pengguna buat pelbagai AI Agents yang khusus.\n\n> \"Setiap Bot ada peranan, model, memori, kemahiran, dan gambar profilnya sendiri; Bot boleh guna mana-mana model dan siap boleh berinteraksi antara satu sama lain.\"\n\nYang ni perlukan banyak masa nak uji \ud83d\udc40",
+            "date": "2026-08-17T20:54:21+00:00",
+            "message_id": 9002,
+            "message_key": "@testingcatalog:9002"
         }
     ]
 }
