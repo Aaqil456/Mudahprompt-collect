@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-18T07:39:37.685655",
+    "timestamp": "2026-08-18T15:35:03.490671",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28266,6 +28266,46 @@
             "date": "2026-08-18T07:20:10+00:00",
             "message_id": 9004,
             "message_key": "@testingcatalog:9004"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Computer Use has been finally spotted in testing on Gemini Desktop app.\n\nGemini Spark will be able to control other apps and access selected folders. \n\nIt will also arrive with Advanced Backup option, allowing Gemini to back up files on Google Drive before modifying. \n\nThis is the way \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Fungsi Komputer akhirnya dilihat sedang diuji pada aplikasi desktop Gemini.\n\nGemini Spark akan dapat mengawal aplikasi lain dan mengakses folder terpilih.\n\nIa juga akan disertakan dengan pilihan Sandaran Lanjutan, membolehkan Gemini membuat sandaran fail di Google Drive sebelum mengubah suai.\n\nInilah caranya \ud83d\udc40",
+            "date": "2026-08-18T15:32:50+00:00",
+            "message_id": 9009,
+            "message_key": "@testingcatalog:9009"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests Computer Use on Gemini Desktop**](https://www.testingcatalog.com/google-tests-computer-use-on-gemini-desktop/)\n\nGoogle is testing Gemini desktop computer-use tools that can control apps, access selected files, and share screens. The feature adds backups and oversight controls, but raises concerns around permissions, recovery, and large-folder handling.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang menguji Penggunaan Komputer pada Gemini Desktop**](https://www.testingcatalog.com/google-tests-computer-use-on-gemini-desktop/)\n\nGoogle sedang menguji alat Gemini desktop untuk kegunaan komputer. Alat ini boleh kawal aplikasi, akses fail terpilih, dan kongsi skrin. Ciri ini menambah fungsi sandaran (backup) dan kawalan pemantauan, tapi ia menimbulkan beberapa kebimbangan mengenai kebenaran akses, pemulihan, dan cara mengendalikan folder bersaiz besar.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-18T15:27:41+00:00",
+            "message_id": 9008,
+            "message_key": "@testingcatalog:9008"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests Hub Mode in Claude for sub-agents**](https://www.testingcatalog.com/anthropic-tests-hub-mode-in-claude-for-sub-agents/)\n\nAnthropic is working on Claude-managed task boards for sub-agents!\n\n> Claude controls the board. Try: \"Set up a board with my workstreams and active agents.\" \n\nThis feature is being developed as part of Claude Code under the /hub path. It is yet unclear if it is somehow related to the earlier spotted \"Hub Mode\", tho. \n\nA mystery \ud83d\udc40\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic sedang menguji Hub Mode dalam Claude untuk sub-agen**](https://www.testingcatalog.com/anthropic-tests-hub-mode-in-claude-for-sub-agents/)\n\nAnthropic sedang mengusahakan papan tugas yang diuruskan oleh Claude untuk sub-agen!\n\n> Claude mengawal papan ini. Cuba: \"Sediakan papan dengan aliran kerja dan agen aktif saya.\"\n\nCiri ini sedang dibangunkan sebagai sebahagian daripada Claude Code di bawah laluan /hub. Masih belum jelas sama ada ia ada kaitan dengan \"Hub Mode\" yang dikesan sebelum ini, walaupun begitu.\n\nSatu misteri \ud83d\udc40\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-08-18T15:12:07+00:00",
+            "message_id": 9007,
+            "message_key": "@testingcatalog:9007"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cursor begins Origin code hosting rollout for paid plans**](https://www.testingcatalog.com/cursor-begins-origin-code-hosting-rollout-for-paid-plans/)\n\nCursor has launched Origin in early beta, a built-in code hosting service with repos, pull requests, code browsing, GitHub sync, and agent access, letting teams manage code, reviews, and project tasks from one place.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "translated_text": "[**Cursor dah mula lancarkan Origin untuk hosting kod bagi pelan berbayar**](https://www.testingcatalog.com/cursor-begins-origin-code-hosting-rollout-for-paid-plans/)\n\nCursor dah lancarkan Origin dalam fasa beta awal. Ini adalah servis hosting kod terbina dalam yang ada repositori, pull requests, semakan kod, penyelarasan GitHub, dan akses ejen. Dengan ini, pasukan boleh uruskan kod, semakan, dan tugasan projek dari satu tempat je.\n\n\ud83d\uddde #cursor @testingcatalog",
+            "date": "2026-08-18T14:58:02+00:00",
+            "message_id": 9006,
+            "message_key": "@testingcatalog:9006"
         }
     ]
 }
