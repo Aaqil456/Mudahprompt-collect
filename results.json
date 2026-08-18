@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-18T20:26:11.649191",
+    "timestamp": "2026-08-18T21:28:34.991328",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28356,6 +28356,36 @@
             "date": "2026-08-18T20:20:23+00:00",
             "message_id": 9013,
             "message_key": "@testingcatalog:9013"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MAI-Image-2.6 scored in the 3rd spot on Image Arena and is now available on MAI Playground and Microsoft Foundry in private preview. \n\nICYMI \ud83d\udc40: MAI Playground also has a new Chatter playground.\n\n> Talk to a voice assistant powered by our transcription and voice models.",
+            "translated_text": "MAI-Image-2.6 dah dapat tempat ke-3 di Image Arena, dan sekarang ni dah boleh guna dekat MAI Playground dengan Microsoft Foundry dalam pratonton peribadi.\n\nICYMI \ud83d\udc40: MAI Playground pun ada Chatter playground baru.\n\n> Berbual dengan pembantu suara yang dikuasakan oleh model transkripsi dan suara kami.",
+            "date": "2026-08-18T20:41:09+00:00",
+            "message_id": 9017,
+            "message_key": "@testingcatalog:9017"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude can now send emails and manage Google Drive via updated Google connectors with new UI components, directly from the chat.\n\nA super app \ud83d\udc40",
+            "translated_text": "Claude sekarang dah boleh hantar emel dan urus Google Drive guna penyambung Google yang dah di-update, lengkap dengan komponen UI baru, terus dari chat.\n\nSatu aplikasi super \ud83d\udc40",
+            "date": "2026-08-18T20:30:45+00:00",
+            "message_id": 9016,
+            "message_key": "@testingcatalog:9016"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity Computer users can now CC Perplexity Computer via email to start a Computer thread. \n\n> Perplexity Computer is currently available to Pro and Max users via credits. \n\nFYI computer@perplexity.com",
+            "translated_text": "Pengguna Perplexity Computer sekarang boleh CC Perplexity Computer melalui e-mel untuk mulakan perbincangan Computer.\n\nPerplexity Computer sekarang ni boleh digunakan oleh pengguna Pro dan Max, guna kredit.\n\nUntuk makluman: computer@perplexity.com",
+            "date": "2026-08-18T20:26:13+00:00",
+            "message_id": 9015,
+            "message_key": "@testingcatalog:9015"
         }
     ]
 }
