@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-18T21:28:34.991328",
+    "timestamp": "2026-08-19T08:39:55.547965",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28386,6 +28386,26 @@
             "date": "2026-08-18T20:26:13+00:00",
             "message_id": 9015,
             "message_key": "@testingcatalog:9015"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-19T07:50:31+00:00",
+            "message_id": 9019,
+            "message_key": "@testingcatalog:9019"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is planning to expand its Ads platform for ChatGPT to 31 European countries next week. \n\n> ChatGPT ads are only shown to Free and Go users on ChatGPT as standalone widgets below the answer. \n\n> Advertisers are also expected to get access to the Ads platform as well.",
+            "translated_text": "OpenAI merancang untuk meluaskan platform Iklan mereka untuk ChatGPT ke 31 negara Eropah minggu depan.\n\nIklan ChatGPT hanya dipaparkan kepada pengguna Free dan Go di ChatGPT sebagai widget berasingan di bawah jawapan.\n\nPengiklan juga dijangka akan mendapat akses kepada platform Iklan tersebut.",
+            "date": "2026-08-19T07:50:31+00:00",
+            "message_id": 9018,
+            "message_key": "@testingcatalog:9018"
         }
     ]
 }
