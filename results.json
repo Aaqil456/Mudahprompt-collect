@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-19T21:26:14.693037",
+    "timestamp": "2026-08-19T23:23:58.381643",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28446,6 +28446,16 @@
             "date": "2026-08-19T21:24:42+00:00",
             "message_id": 9025,
             "message_key": "@testingcatalog:9025"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Exclusive: Early outputs of Muse Video model from Meta**](https://www.testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta/)\n\nEXCLUSIVE \ud83d\udd25: Early look at the first outputs of the Muse Video model from Meta AI. \n\n> Muse Video is currently undergoing a closed beta testing phase. \n> The model is already quite restrictive regarding copyrighted content. \n> Native audio with voice and music support comes out of the box. \n\nWhen and if this is released for free across Meta products, it will be a massive shot. \n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Eksklusif: Hasil awal model Muse Video dari Meta**](https://www.testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta/)\n\nEKSKLUSIF \ud83d\udd25: Pandangan awal pada hasil pertama model Muse Video dari Meta AI.\n\nMuse Video sedang dalam fasa ujian beta tertutup.\nModel ini sudah agak ketat mengenai kandungan berhak cipta.\nAudio terbina dengan sokongan suara dan muzik tersedia terus.\n\nJika dan bila ini dilancarkan secara percuma di semua produk Meta, ia akan jadi satu langkah besar.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-08-19T23:04:41+00:00",
+            "message_id": 9026,
+            "message_key": "@testingcatalog:9026"
         }
     ]
 }
