@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-19T20:32:42.888809",
+    "timestamp": "2026-08-19T21:26:14.693037",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28436,6 +28436,16 @@
             "date": "2026-08-19T19:29:02+00:00",
             "message_id": 9022,
             "message_key": "@testingcatalog:9022"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches AI desktop app for macOS with screen sharing**](https://www.testingcatalog.com/meta-launches-ai-desktop-app-for-macos-with-screen-sharing/)\n\nMeta has launched a Meta AI macOS app in select regions, adding screen sharing and system-wide dictation to its web features. The release marks a mature desktop step, though coding integration and computer control still trail rivals.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta lancarkan aplikasi desktop AI untuk macOS dengan perkongsian skrin**](https://www.testingcatalog.com/meta-lancar-ai-desktop-app-for-macos-with-screen-sharing/)\n\nMeta dah lancarkan aplikasi Meta AI untuk macOS di beberapa kawasan terpilih. Aplikasi ni datang sekali dengan ciri perkongsian skrin dan imlak seluruh sistem, sebagai tambahan kepada ciri-ciri web sedia ada. Pelancaran ni menunjukkan satu langkah yang matang untuk aplikasi desktop, walaupun integrasi pengekodan dan kawalan komputer masih ketinggalan berbanding pesaing lain.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-08-19T21:24:42+00:00",
+            "message_id": 9025,
+            "message_key": "@testingcatalog:9025"
         }
     ]
 }
