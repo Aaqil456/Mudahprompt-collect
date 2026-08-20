@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-20T21:29:23.304963",
+    "timestamp": "2026-08-20T22:29:26.558089",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28516,6 +28516,26 @@
             "date": "2026-08-20T20:34:12+00:00",
             "message_id": 9032,
             "message_key": "@testingcatalog:9032"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok Build for SuperGrok and X Premium users has been officially announced. \n\nBesides that, a new way to manage access for shared apps is now available on the web, mobile, and CLI.",
+            "translated_text": "Grok Build untuk pengguna SuperGrok dan X Premium sudah diumumkan secara rasmi. Selain itu, cara baru untuk mengurus akses untuk aplikasi yang dikongsi kini tersedia di web, mudah alih, dan CLI.",
+            "date": "2026-08-20T22:19:57+00:00",
+            "message_id": 9034,
+            "message_key": "@testingcatalog:9034"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT on macOS can now integrate with Apple Messages via a new plugin. \n\nThe plugin allows users to search through their conversations as well as write and send replies.",
+            "translated_text": "ChatGPT di macOS kini boleh berintegrasi dengan Apple Messages melalui plugin baru.\n\nPlugin ini membolehkan pengguna mencari dalam perbualan mereka, serta menulis dan menghantar balasan.",
+            "date": "2026-08-20T22:06:40+00:00",
+            "message_id": 9033,
+            "message_key": "@testingcatalog:9033"
         }
     ]
 }
