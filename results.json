@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-19T23:23:58.381643",
+    "timestamp": "2026-08-20T10:32:28.924370",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28456,6 +28456,16 @@
             "date": "2026-08-19T23:04:41+00:00",
             "message_id": 9026,
             "message_key": "@testingcatalog:9026"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Cursor now supports the /goal command, along with new updates to cloud agents, Slack integration, and more!\n\n> Subagents can now run on their own virtual machines, each with an isolated copy of the project.\n\n> Cursor can now monitor your PRs, watch a Slack thread, or run scheduled tasks.",
+            "translated_text": "Cursor kini menyokong arahan /goal, bersama dengan kemas kini baharu untuk ejen awan, integrasi Slack, dan banyak lagi!\n\nSub-ejen kini boleh beroperasi pada mesin maya mereka sendiri, setiap satu dengan salinan projek yang terasing.\n\nCursor kini boleh memantau PR anda, mengikuti perbualan di Slack, atau menjalankan tugas berjadual.",
+            "date": "2026-08-20T10:14:44+00:00",
+            "message_id": 9027,
+            "message_key": "@testingcatalog:9027"
         }
     ]
 }
