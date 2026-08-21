@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-21T20:27:15.995527",
+    "timestamp": "2026-08-21T22:26:45.228796",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28646,6 +28646,26 @@
             "date": "2026-08-21T19:26:42+00:00",
             "message_id": 9045,
             "message_key": "@testingcatalog:9045"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-21T21:42:36+00:00",
+            "message_id": 9047,
+            "message_key": "@testingcatalog:9047"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-5.6 Sol price has been reduced by 20% on the API for the next 3 months. \n\nEligible plans will get 20% reduction for ChatGPT Work and Codex credits too. \n\nNot for Pro, Plus and Business \ud83d\udc80",
+            "translated_text": "OPENAI \ud83d\udd25: Harga GPT-5.6 Sol dah dikurangkan 20% untuk API selama 3 bulan akan datang.\nPelan yang layak akan dapat pengurangan 20% untuk kredit ChatGPT Work dan Codex juga.\nBukan untuk Pro, Plus dan Business \ud83d\udc80",
+            "date": "2026-08-21T21:42:36+00:00",
+            "message_id": 9046,
+            "message_key": "@testingcatalog:9046"
         }
     ]
 }
