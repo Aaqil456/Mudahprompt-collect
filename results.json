@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-20T23:26:43.397139",
+    "timestamp": "2026-08-21T10:32:09.025602",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28566,6 +28566,16 @@
             "date": "2026-08-20T22:41:07+00:00",
             "message_id": 9035,
             "message_key": "@testingcatalog:9035"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek \ud83d\udd25: DeepSeek-V4-Flash-Vision-Exp multimodal model is now available on the DeepSeek API Platform.  \n\n> It delivers performance close to Opus 4.8 and matches DeepSeek-V4-Flash on text.\n\n> DeepSeek-V4-Flash-Vision-Exp supports Chat Completions, Messages & Responses, and mixed text + image input.",
+            "translated_text": "DeepSeek \ud83d\udd25: Model multimodal DeepSeek-V4-Flash-Vision-Exp kini dah ada di DeepSeek API Platform.\n> Prestasinya hampir sama dengan Opus 4.8 dan setanding DeepSeek-V4-Flash untuk bab teks.\n> DeepSeek-V4-Flash-Vision-Exp ni boleh sokong Chat Completions, Messages & Responses, dan input yang gabungkan teks dengan imej.",
+            "date": "2026-08-21T09:49:47+00:00",
+            "message_id": 9038,
+            "message_key": "@testingcatalog:9038"
         }
     ]
 }
