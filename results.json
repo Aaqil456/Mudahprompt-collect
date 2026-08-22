@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-21T23:25:19.212341",
+    "timestamp": "2026-08-22T12:43:26.298980",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28676,6 +28676,36 @@
             "date": "2026-08-21T22:38:11+00:00",
             "message_id": 9048,
             "message_key": "@testingcatalog:9048"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google Antigravity now supports Remote Control! \n\n> Try Remote Control - Kick off work on your computer and continue working with your agents from your phone or another device. Turn on Remote Control in app settings.\n\nInterestingly, there is no Antigravity mobile app in place and this feature work via mobile web. Yet, I wish it would have been a part of the discontinued AI Studio app.\n\nh/t @shaxzod_rashid",
+            "translated_text": "Google Antigravity kini menyokong Kawalan Jauh!\n\n> Cuba Kawalan Jauh - Mulakan kerja di komputer anda dan teruskan kerja dengan ejen anda dari telefon atau peranti lain. Hidupkan Kawalan Jauh dalam tetapan aplikasi.\n\nMenariknya, tiada aplikasi mudah alih Antigravity yang tersedia dan ciri ini berfungsi melalui web mudah alih. Namun, saya harap ia menjadi sebahagian daripada aplikasi AI Studio yang telah dihentikan.\n\nKredit kepada @shaxzod_rashid",
+            "date": "2026-08-22T12:30:16+00:00",
+            "message_id": 9051,
+            "message_key": "@testingcatalog:9051"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-22T12:22:40+00:00",
+            "message_id": 9050,
+            "message_key": "@testingcatalog:9050"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Instant \u2665\ufe0f OpenAI \n\nInstant team is joining OpenAI. \n\n> Instant is a full backend solution with database, auth, permissions, and storage services built to power AI driven applications.",
+            "translated_text": "Instant \u2665\ufe0f OpenAI\n\nPasukan Instant akan menyertai OpenAI.\n\n> Instant ialah penyelesaian backend yang lengkap dengan perkhidmatan pangkalan data, pengesahan, kebenaran, dan storan, yang dibina untuk menggerakkan aplikasi berkuasa AI.",
+            "date": "2026-08-22T12:22:40+00:00",
+            "message_id": 9049,
+            "message_key": "@testingcatalog:9049"
         }
     ]
 }
