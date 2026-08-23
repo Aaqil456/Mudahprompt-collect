@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-23T20:24:38.013125",
+    "timestamp": "2026-08-23T21:22:41.003571",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28746,6 +28746,16 @@
             "date": "2026-08-23T19:23:01+00:00",
             "message_id": 9054,
             "message_key": "@testingcatalog:9054"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on a new granular effort selector for Perplexity Computer. \n\nBeing able to run Computer on low effort should have a positive impact on credit consumption. \n\nThis looks familiar \ud83d\udc40",
+            "translated_text": "Perplexity sedang usahakan pemilih tahap usaha yang lebih terperinci untuk Perplexity Computer.\nKalau boleh jalankan Computer dengan usaha yang rendah, ini sepatutnya dapat kurangkan penggunaan kredit.\nIni macam pernah nampak \ud83d\udc40",
+            "date": "2026-08-23T20:39:11+00:00",
+            "message_id": 9056,
+            "message_key": "@testingcatalog:9056"
         }
     ]
 }
