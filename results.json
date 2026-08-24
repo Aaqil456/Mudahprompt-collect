@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-24T05:39:10.156520",
+    "timestamp": "2026-08-24T07:02:05.395290",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28786,6 +28786,26 @@
             "date": "2026-08-24T05:35:39+00:00",
             "message_id": 9058,
             "message_key": "@testingcatalog:9058"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-24T05:54:41+00:00",
+            "message_id": 9061,
+            "message_key": "@testingcatalog:9061"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NVIDIA \u2764\ufe0f Perplexity\n\nNVIDIA is investing in Perplexity at $30B valuation, according to The Information.\n\nNvidia considered paying Perplexity to license some of the startup\u2019s technology and hire some of its staff.",
+            "translated_text": "",
+            "date": "2026-08-24T05:54:41+00:00",
+            "message_id": 9060,
+            "message_key": "@testingcatalog:9060"
         }
     ]
 }
