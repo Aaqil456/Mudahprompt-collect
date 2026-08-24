@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-24T07:02:05.395290",
+    "timestamp": "2026-08-24T14:43:01.921872",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28806,6 +28806,26 @@
             "date": "2026-08-24T05:54:41+00:00",
             "message_id": 9060,
             "message_key": "@testingcatalog:9060"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Grok Bot to get Templates and multi-account support soon**](https://www.testingcatalog.com/grok-bot-to-get-templates-and-multi-account-support-soon/)\n\nTestingCatalog reports xAI is preparing Grok Bot updates including templates, multi-account switching, Chrome profile import, and desktop egress routing, pointing to broader bot setup, account separation, authenticated access, and network control.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**Grok Bot Akan Dapat Templat dan Sokongan Berbilang Akaun Tak Lama Lagi**](https://www.testingcatalog.com/grok-bot-to-get-templates-and-multi-account-support-soon/)\n\nTestingCatalog melaporkan yang xAI sedang menyediakan kemas kini Grok Bot, termasuk templat, penukaran berbilang akaun, import profil Chrome, dan penghalaan keluar desktop. Ini menunjukkan persediaan bot yang lebih luas, pemisahan akaun, akses yang disahkan, dan kawalan rangkaian.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-08-24T14:26:39+00:00",
+            "message_id": 9063,
+            "message_key": "@testingcatalog:9063"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Gemini App for Avatars, Plugins, and Gemini 4**](https://www.testingcatalog.com/google-prepares-gemini-app-for-avatars-plugins-and-gemini-4/)\n\nGoogle is expanding Gemini desktop with avatars, a hidden Customize hub for apps, skills, and plugins, plus support for richer widgets. The changes also suggest Gemini 4 is in preparation, though rollout timing remains unclear.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang siapkan aplikasi Gemini untuk Avatar, Plugin, dan Gemini 4**](https://www.testingcatalog.com/google-prepares-gemini-app-for-avatars-plugins-and-gemini-4/)\n\nGoogle sedang kembangkan Gemini versi desktop dengan avatar, hab Customize tersembunyi untuk aplikasi, kemahiran, dan plugin, serta sokongan untuk widget yang lebih baik. Perubahan ini juga menunjukkan Gemini 4 sedang dalam persiapan, walaupun masa pelancarannya masih belum jelas.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-24T14:01:43+00:00",
+            "message_id": 9062,
+            "message_key": "@testingcatalog:9062"
         }
     ]
 }
