@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-25T07:45:13.793088",
+    "timestamp": "2026-08-25T08:44:30.041639",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28836,6 +28836,46 @@
             "date": "2026-08-25T06:59:42+00:00",
             "message_id": 9064,
             "message_key": "@testingcatalog:9064"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT now can generate customisable sticker packs via GPT Image. \n\nUsers can share these stickers on iMessage or WhatsApp later as well.",
+            "translated_text": "ChatGPT sekarang dah boleh buat pek pelekat yang boleh diubah suai guna GPT Image. Nanti, pengguna boleh kongsi pelekat-pelekat ni dekat iMessage atau WhatsApp.",
+            "date": "2026-08-25T08:03:33+00:00",
+            "message_id": 9068,
+            "message_key": "@testingcatalog:9068"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft added a new effort selector for Copilot Cowork. \n\nThis looks familiar \ud83d\udc40",
+            "translated_text": "Microsoft dah tambah pemilih usaha yang baru untuk Copilot Cowork.\nIni macam pernah nampak \ud83d\udc40",
+            "date": "2026-08-25T07:56:48+00:00",
+            "message_id": 9067,
+            "message_key": "@testingcatalog:9067"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-25T07:52:29+00:00",
+            "message_id": 9066,
+            "message_key": "@testingcatalog:9066"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: 5h usage limit is coming back for Plus users on ChatGPT Work and Codex.\nWe are for the upcoming months keeping the 5h limit not enabled for Pro $100 and Pro $200 subscriptions.\nSo for Pro users, the 5h limit will return as well eventually.",
+            "translated_text": "OPENAI \ud83d\udd25: Had penggunaan 5 jam akan kembali dikenakan untuk pengguna Plus pada ChatGPT Work dan Codex.\nUntuk beberapa bulan akan datang, kami tidak akan mengaktifkan had 5 jam itu untuk langganan Pro $100 dan Pro $200.\nJadi, untuk pengguna Pro, had 5 jam itu akan kembali juga akhirnya.",
+            "date": "2026-08-25T07:52:29+00:00",
+            "message_id": 9065,
+            "message_key": "@testingcatalog:9065"
         }
     ]
 }
