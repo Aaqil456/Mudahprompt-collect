@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-25T08:44:30.041639",
+    "timestamp": "2026-08-25T15:46:31.079619",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28876,6 +28876,46 @@
             "date": "2026-08-25T07:52:29+00:00",
             "message_id": 9065,
             "message_key": "@testingcatalog:9065"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Antigravity 2.0 adds new VCS controls and a terminal**](https://www.testingcatalog.com/antigravity-2-0-adds-new-vcs-controls-and-a-terminal/)\n\nGoogle added Git controls and an embedded terminal to Antigravity 2.0, letting developers review all workspace changes, inspect diffs, run commands, stage files, and commit from the sidebar without leaving the app.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Antigravity 2.0 kini ada kawalan VCS baru dan terminal**](https://www.testingcatalog.com/antigravity-2-0-adds-new-vcs-controls-and-a-terminal/)\n\nGoogle dah masukkan kawalan Git dan terminal terbina dalam ke Antigravity 2.0. Ini membolehkan pembangun semak semua perubahan ruang kerja, periksa perbezaan, jalankan arahan, stage fail, dan commit terus dari sidebar, tanpa perlu keluar dari aplikasi itu.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-25T15:38:28+00:00",
+            "message_id": 9072,
+            "message_key": "@testingcatalog:9072"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: SpaceXAI plans NVIDIA Vera deployment for Starmind**](https://www.testingcatalog.com/icymi-spacexai-plans-nvidia-vera-deployment-for-starmind/)\n\nNVIDIA says SpaceXAI will use Vera CPUs for Grok\u2019s agent workloads and plans a space-ready Vera Rubin NVL72 system for the Starmind satellite, extending one AI computing stack from Earth data centers to orbit.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**Sekadar info: SpaceXAI rancang guna NVIDIA Vera untuk Starmind**](https://www.testingcatalog.com/icymi-spacexai-plans-nvidia-vera-deployment-for-starmind/)\n\nNVIDIA cakap, SpaceXAI akan guna CPU Vera untuk kerja-kerja ejen Grok. Diorang juga rancang sistem Vera Rubin NVL72 yang sedia angkasa untuk satelit Starmind, sekaligus meluaskan satu timbunan pengkomputeran AI dari pusat data Bumi terus ke orbit.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-08-25T15:36:06+00:00",
+            "message_id": 9071,
+            "message_key": "@testingcatalog:9071"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Perplexity Pro and Max subscribers can now use a new Portable Computer on DGX Spark from NVIDIA, powered purely by local models!\n\nAvailable models:\n> PPLX 27B is a new post-trained model from Perplexity.\n> Qwen 3.8 27B\n> Nemotron 3.5 Lightning (coming soon)\n\nThey really did it! \ud83e\udd16",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Pelanggan Perplexity Pro dan Max kini boleh guna Komputer Mudah Alih baharu pada DGX Spark dari NVIDIA, dikuasakan sepenuhnya oleh model tempatan!\n\nModel-model yang ada:\n> PPLX 27B ialah model baharu yang dilatih semula dari Perplexity.\n> Qwen 3.8 27B\n> Nemotron 3.5 Lightning (akan datang)\n\nMemang mereka buat! \ud83e\udd16",
+            "date": "2026-08-25T15:16:52+00:00",
+            "message_id": 9070,
+            "message_key": "@testingcatalog:9070"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "APPLE \ud83d\udd25: A new Mac Studio powered by M6 and M5 Ultra chips have been announced along with Mac mini, featuring M6 and M5 Pro. \n\n\"M6, Apple\u2019s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, and Dual 16-core Neural Engine, while M5 Ultra is Apple\u2019s first quad-die architecture and its most powerful chip ever\"\n\n\"M5 Ultra, the ultimate powerhouse for pro and AI workloads, uses next-generation UltraFusion technology to form a quad-die architecture for the first time in an M-series system on a chip (SoC). The chip includes an up-to-36-core CPU and up-to-80-core GPU with a massive 1.2TB/s of unified memory bandwidth, 50 percent more than M3 Ultra.\"\n\nMac mini with M6 delivers:\n> Up to 13.5x faster LLM prompt processing in LM Studio when compared to Mac mini with M1, and up to 4.8x faster than M4.\n\nMac mini with M5 Pro delivers:\n> Up to 8.5x faster LLM prompt processing performance in LM Studio when compared to Mac mini with M2 Pro, and up to 4x faster than M4 Pro.\n\nI need a new Mac Studio cluster \ud83d\udc40",
+            "translated_text": "APPLE \ud83d\udd25: Mac Studio baru yang dikuasakan cip M6 dan M5 Ultra dah diumumkan, sekali dengan Mac mini, yang guna M6 dan M5 Pro.\n\n\"M6, cip 2 nm pertama Apple, ada CPU 12-teras yang lebih besar dan berkuasa, GPU 12-teras, dan Dual Neural Engine 16-teras, manakala M5 Ultra pula adalah seni bina quad-die pertama Apple dan cip paling berkuasa yang pernah ada.\"\n\n\"M5 Ultra, kuasa besar utama untuk kerja-kerja pro dan AI, guna teknologi UltraFusion generasi seterusnya untuk membentuk seni bina quad-die buat kali pertama dalam sistem atas cip (SoC) siri-M. Cip ni termasuk CPU sehingga 36-teras dan GPU sehingga 80-teras dengan jalur lebar memori bersatu 1.2TB/s yang sangat besar, 50 peratus lebih banyak daripada M3 Ultra.\"\n\nMac mini dengan M6 tawarkan:\n> Pemprosesan prompt LLM sehingga 13.5x lebih pantas dalam LM Studio berbanding Mac mini dengan M1, dan sehingga 4.8x lebih pantas daripada M4.\n\nMac mini dengan M5 Pro tawarkan:\n> Prestasi pemprosesan prompt LLM sehingga 8.5x lebih pantas dalam LM Studio berbanding Mac mini dengan M2 Pro, dan sehingga 4x lebih pantas daripada M4 Pro.\n\nAku perlukan kluster Mac Studio baru \ud83d\udc40",
+            "date": "2026-08-25T15:03:14+00:00",
+            "message_id": 9069,
+            "message_key": "@testingcatalog:9069"
         }
     ]
 }
