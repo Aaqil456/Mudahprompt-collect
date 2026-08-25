@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-25T16:39:08.791273",
+    "timestamp": "2026-08-25T17:33:51.713667",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28926,6 +28926,36 @@
             "date": "2026-08-25T16:33:59+00:00",
             "message_id": 9073,
             "message_key": "@testingcatalog:9073"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-25T17:20:44+00:00",
+            "message_id": 9076,
+            "message_key": "@testingcatalog:9076"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: WSJ reports that Anthropic is pitching more than $30T in potential revenue to its investors.\n\nThis would be bigger than $28.5T estimations for SpaceXAI.\nCurious to see a break down per revenue streams for them. I bet that a huge pile of it would be on Enterprise.\n\nWill OpenAI have a chance to exceed this?",
+            "translated_text": "ANTHROPIC \ud83d\udd25: WSJ laporkan yang Anthropic sedang membentangkan lebih daripada $30 trilion dalam potensi pendapatan kepada pelabur-pelabur mereka.\nJumlah ni lagi besar daripada anggaran $28.5 trilion untuk SpaceXAI.\nTeringin nak tengok pecahan aliran pendapatan mereka. Saya rasa sebahagian besar daripadanya mesti datang dari segmen Enterprise.\nOpenAI ada peluang ke untuk melebihi jumlah ni?",
+            "date": "2026-08-25T17:20:44+00:00",
+            "message_id": 9075,
+            "message_key": "@testingcatalog:9075"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google announced its first plugins for Gemini Enterprise, tailored for legal and finance use cases. \n\nThese plugins combine selected Apps and Skills under purpose based bundle instructions. \n\nIt is also expected that bundles eventually will arrive to consumer Gemini. What worries me here is that we got only two. \n\nSoon? \ud83d\udc40",
+            "translated_text": "Google dah umumkan plugin pertama dia untuk Gemini Enterprise, yang memang dibuat khas untuk kegunaan dalam bidang undang-undang dan kewangan. Plugin-plugin ni menggabungkan Apps dan Skills terpilih di bawah arahan bundle yang berasaskan tujuan tertentu. Dijangkakan juga yang bundle-bundle ni nanti akan sampai ke Gemini versi pengguna biasa. Apa yang saya risaukan kat sini, kita cuma dapat dua je. Tak lama lagi ke? \ud83d\udc40",
+            "date": "2026-08-25T16:47:10+00:00",
+            "message_id": 9074,
+            "message_key": "@testingcatalog:9074"
         }
     ]
 }
