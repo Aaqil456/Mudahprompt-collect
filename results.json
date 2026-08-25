@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-25T15:46:31.079619",
+    "timestamp": "2026-08-25T16:39:08.791273",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -28916,6 +28916,16 @@
             "date": "2026-08-25T15:03:14+00:00",
             "message_id": 9069,
             "message_key": "@testingcatalog:9069"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI announced initial performance results of their own Jalape\u00f1o chip for AI inference.\n\n> 1.5\u20131.9\u00d7 more AI work per watt\n> 1.7\u20133.6\u00d7 lower end-to-end latency\n> 2.1\u20134.1\u00d7 higher performance on highly interactive workloads",
+            "translated_text": "OpenAI dah umumkan keputusan prestasi awal untuk cip Jalape\u00f1o mereka sendiri, yang dibuat khas untuk inferens AI.\n\n- 1.5 hingga 1.9 kali ganda lebih banyak kerja AI setiap watt\n- Latensi hujung ke hujung lebih rendah sebanyak 1.7 hingga 3.6 kali ganda\n- Prestasi lebih tinggi sebanyak 2.1 hingga 4.1 kali ganda untuk beban kerja yang sangat interaktif",
+            "date": "2026-08-25T16:33:59+00:00",
+            "message_id": 9073,
+            "message_key": "@testingcatalog:9073"
         }
     ]
 }
