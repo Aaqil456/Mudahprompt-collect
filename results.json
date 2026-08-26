@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-26T13:55:55.461570",
+    "timestamp": "2026-08-26T16:19:22.921169",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29026,6 +29026,56 @@
             "date": "2026-08-26T13:51:59+00:00",
             "message_id": 9082,
             "message_key": "@testingcatalog:9082"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-26T16:15:59+00:00",
+            "message_id": 9089,
+            "message_key": "@testingcatalog:9089"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Looks like more users are now routed to Claude Fable 5.1 from Claude Fable 5 in the background.\n\nSome users have spotted that knowledge cutoff of the Fable 5 model got updated, pointing to a stealth rollout.\nSoon? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Nampaknya lebih ramai pengguna kini dialihkan ke Claude Fable 5.1 dari Claude Fable 5 di latar belakang.\n\nBeberapa pengguna perasan yang tarikh had pengetahuan model Fable 5 dah dikemaskini, menunjukkan ada pelancaran senyap-senyap.\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-08-26T16:15:59+00:00",
+            "message_id": 9088,
+            "message_key": "@testingcatalog:9088"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Z.ai launches GLM-5.3-Flash under MIT license**](https://www.testingcatalog.com/z-ai-launches-glm-5-3-flash-under-mit-license/)\n\nZ.ai launched GLM-5.3-Flash, a multimodal 320B-A18B model for coding, agents and visual reasoning. It targets lower cost, 1M-token context, MIT-licensed weights, and reported gains over GLM-5.2 with lower compute and memory use.\n\n\ud83d\uddde #zhipuai @testingcatalog",
+            "translated_text": "[**Z.ai melancarkan GLM-5.3-Flash di bawah lesen MIT**](https://www.testingcatalog.com/z-ai-launches-glm-5-3-flash-under-mit-license/)\n\nZ.ai melancarkan GLM-5.3-Flash, sebuah model multimodal 320B-A18B untuk pengekodan, ejen, dan penaakulan visual. Ia menyasarkan kos yang lebih rendah, konteks 1M-token, pemberat berlesen MIT, dan melaporkan peningkatan berbanding GLM-5.2 dengan penggunaan pengkomputeran dan memori yang lebih rendah.\n\n\ud83d\uddde #zhipuai @testingcatalog",
+            "date": "2026-08-26T15:38:41+00:00",
+            "message_id": 9087,
+            "message_key": "@testingcatalog:9087"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT users can now gift credits \ud83d\udd25\n\nUsers can choose how many credits to purchase. Credits can be gifted via a link or via email. \n\n> \"The recipient's account must use the same currency to claim this gift.\"\n> \"If the gift isn't claimed within 30 days, you'll receive an automatic refund. Credits expire 365 days after being claimed.\"",
+            "translated_text": "Pengguna ChatGPT kini boleh hadiahkan kredit \ud83d\udd25\n\nPengguna boleh pilih berapa banyak kredit nak beli. Kredit boleh dihadiahkan melalui pautan atau e-mel.\n\n> \"Akaun penerima mesti guna mata wang yang sama untuk tebus hadiah ni.\"\n> \"Kalau hadiah tak ditebus dalam masa 30 hari, anda akan dapat bayaran balik automatik. Kredit akan tamat tempoh 365 hari selepas ditebus.\"",
+            "date": "2026-08-26T15:11:20+00:00",
+            "message_id": 9086,
+            "message_key": "@testingcatalog:9086"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude unifies memory across Chat and Cowork**](https://www.testingcatalog.com/claude-unifies-memory-across-chat-and-cowork/)\n\nAnthropic is launching shared Claude memory across chat and Cowork, with saved context carrying between both. Memory is on by default for most users, editable in settings, and excludes sensitive topics unless users opt in.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Claude menyatukan memori merentasi Chat dan Cowork**](https://www.testingcatalog.com/claude-unifies-memory-across-chat-and-cowork/)\n\nAnthropic melancarkan memori Claude yang dikongsi merentasi chat dan Cowork, dengan konteks yang disimpan dibawa antara kedua-duanya. Memori diaktifkan secara lalai untuk kebanyakan pengguna, boleh diedit dalam tetapan, dan tidak termasuk topik sensitif melainkan pengguna memilih untuk mengaktifkannya.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-08-26T14:53:12+00:00",
+            "message_id": 9085,
+            "message_key": "@testingcatalog:9085"
         }
     ]
 }
