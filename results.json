@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-26T16:19:22.921169",
+    "timestamp": "2026-08-26T19:05:03.986850",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29076,6 +29076,46 @@
             "date": "2026-08-26T14:53:12+00:00",
             "message_id": 9085,
             "message_key": "@testingcatalog:9085"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Just realised that there is a tech logos emoji pack that has everything we need. \n\nAt level 3, we have \n\n\u2734\ufe0f \u2734\ufe0f \u2734\ufe0f\n\nWe will at least need 6+ more \n\u2734\ufe0f \u2734\ufe0f \u2734\ufe0f \u2734\ufe0f \u2734\ufe0f \u2734\ufe0f\n\nBut for that we need to get to the level 10. \n\nBoost? \ud83d\udc40\nhttps://t.me/boost/testingcatalog",
+            "translated_text": "Baru perasan ada pek emoji logo teknologi yang ada semua yang kita perlukan.\n\nDekat level 3, kita ada\n\n\u2734\ufe0f \u2734\ufe0f \u2734\ufe0f\n\nKita sekurang-kurangnya perlukan 6 lagi\n\u2734\ufe0f \u2734\ufe0f \u2734\ufe0f \u2734\ufe0f \u2734\ufe0f \u2734\ufe0f\n\nTapi untuk itu, kita kena sampai level 10.\n\nBoost? \ud83d\udc40\nhttps://t.me/boost/testingcatalog",
+            "date": "2026-08-26T18:35:46+00:00",
+            "message_id": 9095,
+            "message_key": "@testingcatalog:9095"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-26T17:47:33+00:00",
+            "message_id": 9094,
+            "message_key": "@testingcatalog:9094"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic \u2764\ufe0f Nscale\n\nAnthropic has agreed to pay Nscale $45B over six years to rent about 460MW of power, using Nvidia's Vera Rubin chips as per Bloomberg.\n\nMore compute they need \ud83d\udc40",
+            "translated_text": "Anthropic \u2764\ufe0f Nscale\n\nAnthropic dah setuju nak bayar Nscale $45 bilion selama enam tahun untuk sewa lebih kurang 460MW kuasa, guna cip Vera Rubin dari Nvidia, macam yang dilaporkan Bloomberg.\n\nNampak gayanya, diorang perlukan lebih banyak kuasa pengkomputan ni \ud83d\udc40",
+            "date": "2026-08-26T17:47:33+00:00",
+            "message_id": 9093,
+            "message_key": "@testingcatalog:9093"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-26T17:42:40+00:00",
+            "message_id": 9092,
+            "message_key": "@testingcatalog:9092"
         }
     ]
 }
