@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-26T12:54:52.369531",
+    "timestamp": "2026-08-26T13:55:55.461570",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29006,6 +29006,26 @@
             "date": "2026-08-26T12:38:55+00:00",
             "message_id": 9081,
             "message_key": "@testingcatalog:9081"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-26T13:51:59+00:00",
+            "message_id": 9083,
+            "message_key": "@testingcatalog:9083"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Alibaba released Qwen3.8 Flash, a new multimodal 125B-parameter MoE model. \n\n> 262K native context, extensible to 1M with YaRN.\n> Pricing on QwenCloud API - $ 0.16/1M input tokens and $ 0.47/1M output tokens.\n> Built on top of the new architecture, serving as a precursor to the architecture used in Qwen4.\n> Qwen3.8 Flash scores 58.7 on DeepSWE 1.1 and 62.5 on SWE-bench Pro.",
+            "translated_text": "Alibaba melancarkan Qwen3.8 Flash, sebuah model MoE multimodal 125 bilion parameter yang baharu.\n* Konteks asli 262K, boleh diperluaskan sehingga 1M dengan YaRN.\n* Harga di QwenCloud API - $0.16 untuk 1 juta token input dan $0.47 untuk 1 juta token output.\n* Dibina berasaskan seni bina baharu, berfungsi sebagai pelopor kepada seni bina yang digunakan dalam Qwen4.\n* Qwen3.8 Flash mencatatkan skor 58.7 dalam DeepSWE 1.1 dan 62.5 dalam SWE-bench Pro.",
+            "date": "2026-08-26T13:51:59+00:00",
+            "message_id": 9082,
+            "message_key": "@testingcatalog:9082"
         }
     ]
 }
