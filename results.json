@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-26T19:05:03.986850",
+    "timestamp": "2026-08-27T16:12:41.788872",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29116,6 +29116,56 @@
             "date": "2026-08-26T17:42:40+00:00",
             "message_id": 9092,
             "message_key": "@testingcatalog:9092"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-27T15:38:51+00:00",
+            "message_id": 9102,
+            "message_key": "@testingcatalog:9102"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Omni 1.1 Flash video model is being released with 1080p and 4K output resolution options. \n\nSoon \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Model video Omni 1.1 Flash akan dikeluarkan dengan pilihan resolusi output 1080p dan 4K. Tak lama lagi \ud83d\udc40",
+            "date": "2026-08-27T15:38:51+00:00",
+            "message_id": 9101,
+            "message_key": "@testingcatalog:9101"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is planning to bring back its voice mode on Meta AI soon.\n\n> A new voice election UI now appears to be hidden in the settings. \n\n> Voice mode has been supported earlier and still powers Meta Glasses. \n\n> It is still unclear whether it will arrive with a new voice model, but that is highly possible.",
+            "translated_text": "Meta akan mengembalikan mod suara mereka pada Meta AI tak lama lagi.\n\n> Antara muka pengguna (UI) pemilihan suara yang baru kini kelihatan tersembunyi dalam tetapan.\n> Mod suara pernah disokong sebelum ini dan masih menggerakkan Meta Glasses.\n> Masih belum jelas sama ada ia akan datang dengan model suara yang baru, tapi itu sangat mungkin.",
+            "date": "2026-08-27T13:45:23+00:00",
+            "message_id": 9100,
+            "message_key": "@testingcatalog:9100"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Bot may soon get voice call support! \n\nUsers will be able to chat with Grok bots via voice in real time. \n\nThe time when you slowly start scheduling meetings with AI instead of humans. \n\nSoon? \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Bot mungkin tak lama lagi akan dapat sokongan panggilan suara!\n\nPengguna nanti boleh bersembang dengan bot Grok guna suara secara langsung.\n\nMasa bila kita perlahan-lahan mula jadualkan mesyuarat dengan AI, bukan lagi dengan manusia.\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-08-27T11:23:00+00:00",
+            "message_id": 9099,
+            "message_key": "@testingcatalog:9099"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Cowork got a built-in web browser!\n\n> The built-in browser is rolling out over the coming week to Pro, Max, and Team plans in the Claude desktop app on macOS, Windows, and Linux (in beta).\n\nNow it's official \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Cowork dah ada pelayar web terbina dalam!\n\nPelayar web terbina dalam ni akan mula tersedia sepanjang minggu depan untuk pelan Pro, Max, dan Team dalam aplikasi desktop Claude di macOS, Windows, dan Linux (dalam versi beta).\n\nSekarang dah rasmi \ud83d\udc40",
+            "date": "2026-08-27T06:57:58+00:00",
+            "message_id": 9098,
+            "message_key": "@testingcatalog:9098"
         }
     ]
 }
