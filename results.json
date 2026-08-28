@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-28T13:57:09.391136",
+    "timestamp": "2026-08-28T23:29:26.637273",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29256,6 +29256,56 @@
             "date": "2026-08-28T09:20:55+00:00",
             "message_id": 9110,
             "message_key": "@testingcatalog:9110"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on a possibility to start a Claude Code session without selecting a folder on Claude Desktop. \n\nThe same functionality has been added to the iOS app in today's build (still hidden). \n\nFinally soon? \ud83d\udc40",
+            "translated_text": "Anthropic sedang usahakan kemungkinan untuk mulakan sesi Claude Code tanpa perlu pilih folder di Claude Desktop. Fungsi yang sama dah ditambah ke aplikasi iOS dalam binaan hari ini (masih tersembunyi). Akhirnya tak lama lagi ke? \ud83d\udc40",
+            "date": "2026-08-28T22:53:57+00:00",
+            "message_id": 9122,
+            "message_key": "@testingcatalog:9122"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Users can now resume Claude CLI sessions on Claude Code desktop via a new /resume command. \n\nOne more step towards a Hub \ud83d\udc40",
+            "translated_text": "Pengguna sekarang boleh sambung semula sesi Claude CLI di Claude Code desktop melalui arahan /resume yang baru.\n\nSatu langkah lagi ke arah Hub \ud83d\udc40",
+            "date": "2026-08-28T22:40:51+00:00",
+            "message_id": 9121,
+            "message_key": "@testingcatalog:9121"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok 4.6 is now available for normal chats on Grok web and mobile. \n\n> Earlier, Grok 4.6 was only available as part of Grok Build. \n> ICYMI, Grok web UI has been updated slightly as well.\n\nGrok 4.7 soon? \ud83d\udc40",
+            "translated_text": "Grok 4.6 dah boleh guna untuk sembang biasa dekat Grok web dan mobile.\n\nSebelum ni, Grok 4.6 cuma boleh guna kalau dalam Grok Build je.\nKalau korang terlepas pandang, Grok web UI pun dah di-update sikit juga.\n\nGrok 4.7 tak lama lagi ke? \ud83d\udc40",
+            "date": "2026-08-28T21:17:06+00:00",
+            "message_id": 9119,
+            "message_key": "@testingcatalog:9119"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-28T21:08:44+00:00",
+            "message_id": 9118,
+            "message_key": "@testingcatalog:9118"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: \"Project Hatch\" from Meta will be a superapp with browser & computer use, /goals support, persistent cloud environments, spaces, and more!\n\nHere is what we know so far \ud83d\udc40\n> Hatch has been tested internally as a standalone web, iOS, and Android app. \n> It supports browser & computer use with an approval flow, familiar from Codex or Claude Desktop.\n> It supports long-running goals and task scheduling.\n> Users will be able to customize \"hatched\" AI agents with different avatars. \n> We will likely be able to create multiple AI agents, as we've seen in Grok Bot, with an option to share them. \n> Hatch agents will have dedicated cloud environments, which could enable session persistence across devices. \n> Users will be able to create Spaces. Memory and Voice Mode will also be supported.\n> Messenger and WhatsApp Companions will let users communicate with Hatch via messaging apps. \n\n* These details come on top of what has been reported earlier by Business Insider, based on the internal memo. \n** It is possible that Meta will release only a subset of these features at the beginning.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: \"Project Hatch\" dari Meta akan jadi superapp yang boleh guna di pelayar & komputer, sokongan untuk capai matlamat, persekitaran cloud yang berterusan, ruang, dan macam-macam lagi!\n\nIni apa yang kita tahu setakat ni \ud83d\udc40\n> Hatch dah diuji secara dalaman sebagai aplikasi web, iOS, dan Android yang berdiri sendiri.\n> Ia menyokong kegunaan pelayar & komputer dengan proses kelulusan, macam yang ada kat Codex atau Claude Desktop.\n> Ia boleh bantu capai matlamat jangka panjang dan jadualkan tugas.\n> Pengguna boleh ubah suai ejen AI \"hatched\" dengan avatar lain-lain.\n> Kita kemungkinan besar boleh cipta banyak ejen AI, macam yang kita dah tengok kat Grok Bot, dan ada pilihan untuk kongsi.\n> Ejen Hatch akan ada ruang cloud sendiri, yang boleh buat sesi kekal walaupun tukar peranti.\n> Pengguna boleh cipta Spaces. Memory dan Voice Mode pun akan ada.\n> Messenger dan WhatsApp Companions akan bagi pengguna berhubung dengan Hatch guna aplikasi mesej.\n\n* Maklumat ni adalah tambahan kepada apa yang Business Insider dah laporkan sebelum ni, berdasarkan memo dalaman.\n** Mungkin Meta akan keluarkan beberapa ciri ni je dulu pada permulaan.",
+            "date": "2026-08-28T21:08:44+00:00",
+            "message_id": 9117,
+            "message_key": "@testingcatalog:9117"
         }
     ]
 }
