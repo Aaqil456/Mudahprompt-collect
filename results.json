@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-28T01:21:13.309255",
+    "timestamp": "2026-08-28T13:57:09.391136",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29206,6 +29206,56 @@
             "date": "2026-08-27T16:26:38+00:00",
             "message_id": 9103,
             "message_key": "@testingcatalog:9103"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Temporary chats on ChatGPT can now be personalized. Users also have an option to switch personalization off.\n\n> This chat can reference memory, plugins, and custom instructions.",
+            "translated_text": "Chat sementara di ChatGPT sekarang dah boleh disesuaikan. Pengguna pun boleh pilih untuk matikan je penyesuaian ni.\n\n> Chat ni boleh guna memori, plugin, dengan arahan tersuai.",
+            "date": "2026-08-28T12:40:08+00:00",
+            "message_id": 9114,
+            "message_key": "@testingcatalog:9114"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT Gmail plugin now lets users connect multiple accounts. \n\nHow many accounts do you use? \ud83d\udc40",
+            "translated_text": "Plugin ChatGPT Gmail sekarang dah boleh sambungkan banyak akaun.\n\nAnda guna berapa akaun? \ud83d\udc40",
+            "date": "2026-08-28T12:32:19+00:00",
+            "message_id": 9113,
+            "message_key": "@testingcatalog:9113"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-28T09:21:12+00:00",
+            "message_id": 9112,
+            "message_key": "@testingcatalog:9112"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The latest build also moved \"Connected Devices\" option directly into a tool widget to make it more accessible. \n\nWhat if Hub will orchestrate tasks across different devices as well?",
+            "translated_text": "Versi terbaru juga dah pindahkan pilihan 'Peranti Bersambung' terus ke dalam widget alat, supaya lebih mudah nak akses. Macam mana pula kalau Hub nanti boleh selaraskan tugas-tugas merentasi peranti yang berbeza juga?",
+            "date": "2026-08-28T09:21:12+00:00",
+            "message_id": 9111,
+            "message_key": "@testingcatalog:9111"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-28T09:20:55+00:00",
+            "message_id": 9110,
+            "message_key": "@testingcatalog:9110"
         }
     ]
 }
