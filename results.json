@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-29T13:00:44.765676",
+    "timestamp": "2026-08-29T17:06:41.692303",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29336,6 +29336,46 @@
             "date": "2026-08-29T07:15:55+00:00",
             "message_id": 9124,
             "message_key": "@testingcatalog:9124"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-29T16:09:58+00:00",
+            "message_id": 9130,
+            "message_key": "@testingcatalog:9130"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude limits will be permanently increased by 25% starting from September 14.\n\nApplies for Pro, Max, Team, and seat-based Enterprise plans.\nWhat does this all mean?\nCurrently active, temporary 50% increase will end on September 14.\nMeaning that your usage limit will be cut by ~17% after September 14 in comparison to what you have now.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Had penggunaan Claude akan dinaikkan secara kekal sebanyak 25% bermula 14 September.\n\nIni terpakai untuk pelan Pro, Max, Team, dan Enterprise berasaskan tempat duduk.\nApa maksud semua ni?\nPeningkatan sementara 50% yang sedang aktif sekarang akan tamat pada 14 September.\nIni bermakna had penggunaan anda akan dikurangkan kira-kira 17% selepas 14 September berbanding dengan apa yang anda ada sekarang.",
+            "date": "2026-08-29T16:09:58+00:00",
+            "message_id": 9129,
+            "message_key": "@testingcatalog:9129"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ASTRA \ud83d\udd25: First outputs of the upcoming unreleased model from OpenAI have arrived, and these results are stunning! \n\n> Internally named \"mozaik-alpha-fdm\", rumored to be a checkpoint of the \"Astra\" model, mentioned by OpenAI earlier as a substantial step-forward improvement.\n\nVoxel Castle from the zAI Discord \ud83d\udc40",
+            "translated_text": "ASTRA \ud83d\udd25: Output pertama model baharu yang belum dilancarkan dari OpenAI dah sampai, dan hasilnya memang mengagumkan!\n\n> Secara dalaman dinamakan \"mozaik-alpha-fdm\", dikatakan sebagai 'checkpoint' untuk model \"Astra\", yang disebut oleh OpenAI sebelum ini sebagai satu peningkatan ketara yang membawa kemajuan.\n\nVoxel Castle dari zAI Discord \ud83d\udc40",
+            "date": "2026-08-29T15:04:08+00:00",
+            "message_id": 9128,
+            "message_key": "@testingcatalog:9128"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**First outputs from GPT-6 \"Astra\" model from OpenAI**](https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/)\n\nOpenAI appears to be nearing Astra\u2019s release as internal testing expands around \u201cmozaik-alpha-fdm.\u201d Early zero-shot samples suggest strong coding and visual creation, though deployment may depend on safety and government review.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**Output pertama dari model GPT-6 \"Astra\" OpenAI**](https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/)\n\nOpenAI nampaknya semakin hampir untuk melancarkan Astra, dengan ujian dalaman yang semakin meluas melibatkan \u201cmozaik-alpha-fdm.\u201d Sampel awal 'zero-shot' menunjukkan keupayaan pengekodan dan penciptaan visual yang mantap, tapi pelancarannya mungkin bergantung pada semakan keselamatan dan kerajaan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-08-29T14:48:04+00:00",
+            "message_id": 9127,
+            "message_key": "@testingcatalog:9127"
         }
     ]
 }
