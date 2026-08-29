@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-28T23:29:26.637273",
+    "timestamp": "2026-08-29T13:00:44.765676",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29306,6 +29306,36 @@
             "date": "2026-08-28T21:08:44+00:00",
             "message_id": 9117,
             "message_key": "@testingcatalog:9117"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Tencent released open-source Hy4 preview model**](https://www.testingcatalog.com/tencent-released-open-source-hy4-preview-model/)\n\nTencent unveiled Hy4 preview, a 770B-parameter model with a 1M-token context, built for software, office, gaming, and research work. It outperformed GLM 5.3 and Kimi K3 in internal tests and is now open source.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Tencent Lancarkan Model Pratonton Hy4 Sumber Terbuka**](https://www.testingcatalog.com/tencent-released-open-source-hy4-preview-model/)\n\nTencent memperkenalkan Hy4 preview, sebuah model dengan 770 bilion parameter dan konteks 1 juta token, yang dibina untuk kerja-kerja perisian, pejabat, permainan, dan penyelidikan. Ia mengatasi prestasi GLM 5.3 dan Kimi K3 dalam ujian dalaman dan kini merupakan sumber terbuka.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-08-29T12:32:08+00:00",
+            "message_id": 9126,
+            "message_key": "@testingcatalog:9126"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-29T07:15:55+00:00",
+            "message_id": 9125,
+            "message_key": "@testingcatalog:9125"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI \u274c Cursor\n\nOpenAI is ending its partnership with Cursor on November 12, following its acquisition by SpaceXAI.\n\nOpenAI models serve near 5% of Cursor\u2019s traffic. Anthropic also responded with a commitment to remain being a trusted partner with Cursor and continue increasing compute capacity to support it.\nAI tic-tac-toe (O vs X) \ud83e\udd16",
+            "translated_text": "OpenAI \u274c Cursor\n\nOpenAI menamatkan kerjasama dengan Cursor pada 12 November, selepas pengambilalihan oleh SpaceXAI.\n\nModel-model OpenAI menyumbang hampir 5% daripada trafik Cursor. Anthropic turut bertindak balas dengan komitmen untuk kekal menjadi rakan kongsi yang dipercayai dengan Cursor dan terus meningkatkan kapasiti pengkomputeran untuk menyokongnya.\nTic-tac-toe AI (O lawan X) \ud83e\udd16",
+            "date": "2026-08-29T07:15:55+00:00",
+            "message_id": 9124,
+            "message_key": "@testingcatalog:9124"
         }
     ]
 }
