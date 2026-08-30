@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-29T23:02:38.326378",
+    "timestamp": "2026-08-30T10:19:14.034165",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29406,6 +29406,16 @@
             "date": "2026-08-29T20:53:25+00:00",
             "message_id": 9132,
             "message_key": "@testingcatalog:9132"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Interactive Reports for Gemini Notebook**](https://www.testingcatalog.com/google-prepares-interactive-reports-for-gemini-notebook/)\n\nGoogle is preparing Gemini Notebook Interactive Reports, a feature for creating research-focused reports with embedded Studio content. Release messaging suggests an upcoming rollout soon.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang siapkan Laporan Interaktif untuk Gemini Notebook**](https://www.testingcatalog.com/google-prepares-interactive-reports-for-gemini-notebook/)\n\nGoogle sedang siapkan Laporan Interaktif Gemini Notebook, satu ciri untuk hasilkan laporan yang berfokuskan penyelidikan dengan kandungan Studio yang terbenam. Mesej pelancaran menunjukkan ia akan dilancarkan tak lama lagi.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-30T07:51:18+00:00",
+            "message_id": 9134,
+            "message_key": "@testingcatalog:9134"
         }
     ]
 }
