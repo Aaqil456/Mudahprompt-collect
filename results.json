@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-30T10:19:14.034165",
+    "timestamp": "2026-08-30T15:12:52.318653",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29416,6 +29416,16 @@
             "date": "2026-08-30T07:51:18+00:00",
             "message_id": 9134,
             "message_key": "@testingcatalog:9134"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Interactive Reports are being prepared for the upcoming release in Gemini Notebook. \n\n> New: You can now create interactive reports.\n> An interactive report with embedded Studio content.\n\nUsers can customize these reports by providing a custom prompt and selecting a language. \n\nBased on the suggested prompt, this feature lets users generate interactive user research reports, and complex visualizations. \n\n* Not available to the public yet.",
+            "translated_text": "GOOGLE \ud83d\udd25: Laporan Interaktif sedang disiapkan untuk keluaran akan datang dalam Gemini Notebook.\n\n> Baru: Anda kini boleh mencipta laporan interaktif.\n> Laporan interaktif dengan kandungan Studio yang terbenam.\n\nPengguna boleh sesuaikan laporan ini dengan memberikan prompt tersuai dan memilih bahasa.\n\nBerdasarkan prompt yang dicadangkan, ciri ini membolehkan pengguna menjana laporan penyelidikan pengguna interaktif, dan visualisasi yang kompleks.\n\n* Belum tersedia kepada umum lagi.",
+            "date": "2026-08-30T14:40:10+00:00",
+            "message_id": 9135,
+            "message_key": "@testingcatalog:9135"
         }
     ]
 }
