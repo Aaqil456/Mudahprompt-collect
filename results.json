@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-31T01:09:48.506600",
+    "timestamp": "2026-08-31T16:50:34.712211",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29436,6 +29436,56 @@
             "date": "2026-08-30T22:41:13+00:00",
             "message_id": 9136,
             "message_key": "@testingcatalog:9136"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-08-31T15:06:44+00:00",
+            "message_id": 9144,
+            "message_key": "@testingcatalog:9144"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "It seems like Claude Hub feature has been transitioned into Early Access mode. \n\nBesides that, Managed Projects for Claude Code are coming to Claude for mobile as well (an empty tile now appears during layout loading). \n\nSoon? \ud83d\udc40",
+            "translated_text": "Nampaknya ciri Claude Hub dah beralih ke mod Akses Awal.\n\nSelain tu, Projek Terurus untuk Claude Code pun akan datang ke Claude untuk mudah alih (ada petak kosong muncul masa susun atur dimuatkan).\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-08-31T15:06:44+00:00",
+            "message_id": 9143,
+            "message_key": "@testingcatalog:9143"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new \"Rooms\" concept is being prototyped on Gemini Enterprise. \n\nRooms are based on Projects and allow users to set Goals and Playbooks for Gemini to follow. \n\nGemini will act as an expert in the provided knowledge base to \"keep the team focused.\" \n\nIt's like a war room for AI and humans \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Konsep \"Rooms\" yang baru sedang diuji cuba di Gemini Enterprise.\n\"Rooms\" ini berasaskan Projek dan membolehkan pengguna menetapkan Matlamat serta Playbook untuk Gemini ikuti.\nGemini akan bertindak sebagai pakar dalam pangkalan pengetahuan yang disediakan untuk \"memastikan pasukan kekal fokus.\"\nIa macam bilik perang untuk AI dan manusia \ud83d\udc40",
+            "date": "2026-08-31T14:12:03+00:00",
+            "message_id": 9140,
+            "message_key": "@testingcatalog:9140"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google develops AI Rooms for Gemini Enterprise**](https://www.testingcatalog.com/google-develops-ai-rooms-for-gemini-enterprise/)\n\nGoogle is testing Gemini Enterprise Rooms, a prototype shared workspace that combines team context, files, goals, playbooks, and Gemini in one place. \n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "**[Google bangunkan AI Rooms untuk Gemini Enterprise](https://www.testingcatalog.com/google-develops-ai-rooms-for-gemini-enterprise/)**\n\nGoogle sedang menguji Gemini Enterprise Rooms, prototaip ruang kerja kongsi yang menggabungkan konteks pasukan, fail, matlamat, playbooks, dan Gemini di satu tempat.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-08-31T14:07:50+00:00",
+            "message_id": 9139,
+            "message_key": "@testingcatalog:9139"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: A new Hybrid mode is coming soon on Mac, letting local models handle some subtasks. \n\n> Gemma 4 (for 16 GB machines), Qwen3.6, and Perplexity's own model (For 32 GB machines) are currently supported. \n\n> \"In Hybrid mode, Computer orchestrates in the cloud and delegates\nsuitable subtasks to a model on your Mac.\"\n\n> \"Local models run on your Mac's own memory and processor \u2014 the more capable your machine, the larger the models it can run.\"\n\n> \"Privacy Gate is a small model that runs entirely on your Mac. It inspects anything headed to the cloud for personal or sensitive information \u2014 and if it finds any, you decide how to handle it before anything is sent.\"\n\nThat would be huge \ud83d\udc40",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Mod Hibrid baru akan datang tak lama lagi di Mac, membolehkan model tempatan mengendalikan beberapa sub-tugas.\n\n> Gemma 4 (untuk mesin 16 GB), Qwen3.6, dan model Perplexity sendiri (Untuk mesin 32 GB) sedang disokong sekarang.\n\n> \"Dalam mod Hibrid, Komputer akan menguruskan di awan dan menyerahkan sub-tugas yang sesuai kepada model di Mac anda.\"\n\n> \"Model tempatan berjalan menggunakan memori dan pemproses Mac anda sendiri \u2014 lagi canggih mesin anda, lagi besar model yang boleh dijalankannya.\"\n\n> \"Privacy Gate adalah model kecil yang berjalan sepenuhnya di Mac anda. Ia akan memeriksa apa-apa yang dihantar ke awan untuk maklumat peribadi atau sensitif \u2014 dan jika ia menjumpai apa-apa, anda yang akan memutuskan cara mengendalikannya sebelum apa-apa dihantar.\"\n\nIni memang hebat \ud83d\udc40",
+            "date": "2026-08-31T10:43:29+00:00",
+            "message_id": 9138,
+            "message_key": "@testingcatalog:9138"
         }
     ]
 }
