@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-30T15:12:52.318653",
+    "timestamp": "2026-08-31T01:09:48.506600",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29426,6 +29426,16 @@
             "date": "2026-08-30T14:40:10+00:00",
             "message_id": 9135,
             "message_key": "@testingcatalog:9135"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on an option to run commands in a local sandbox for Claude Code desktop. \n\n> Runs commands from Claude Code in an isolated sandbox. Takes effect for new sessions.\n\nA strict sandbox mode is available too. \n\n> Blocks commands that can\u2019t run inside the sandbox (ssh, for example) instead of running them outside it or asking you. Applies to every Claude Code session on this computer, including the terminal, unless a project\u2019s own settings override it.",
+            "translated_text": "Anthropic sedang usahakan satu pilihan untuk jalankan arahan dalam sandbox tempatan untuk desktop Claude Code.\n\n> Ia jalankan arahan dari Claude Code dalam sandbox terasing. Akan berkuat kuasa untuk sesi baharu.\n\nMod sandbox yang ketat pun ada juga.\n\n> Ia sekat arahan yang tak boleh jalan dalam sandbox (contohnya, ssh) daripada jalankannya di luar atau tanya awak. Ini terpakai untuk setiap sesi Claude Code pada komputer ini, termasuk terminal, melainkan tetapan projek itu sendiri mengatasi tetapan ini.",
+            "date": "2026-08-30T22:41:13+00:00",
+            "message_id": 9136,
+            "message_key": "@testingcatalog:9136"
         }
     ]
 }
