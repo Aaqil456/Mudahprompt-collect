@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-01T07:26:20.575637",
+    "timestamp": "2026-09-01T13:13:27.888611",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29546,6 +29546,56 @@
             "date": "2026-09-01T07:20:50+00:00",
             "message_id": 9149,
             "message_key": "@testingcatalog:9149"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-01T07:48:42+00:00",
+            "message_id": 9155,
+            "message_key": "@testingcatalog:9155"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude app for iOS now has an explicit warning next to the Max effort option that it consumes 1.5 more usage. \n\nMax 1.5 \u26a0\ufe0f",
+            "translated_text": "Aplikasi Claude untuk iOS sekarang dah ada amaran jelas dekat pilihan 'Max effort' yang beritahu ia akan guna 1.5 kali lebih banyak penggunaan.\n\nMax 1.5 \u26a0\ufe0f",
+            "date": "2026-09-01T07:48:42+00:00",
+            "message_id": 9154,
+            "message_key": "@testingcatalog:9154"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-01T07:32:01+00:00",
+            "message_id": 9153,
+            "message_key": "@testingcatalog:9153"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Antigravity now supports /boost command in order to power its harness system with more tokens. \n\nDeep boost \ud83d\udc40",
+            "translated_text": "Antigravity kini menyokong /boost command untuk menggerakkan sistem harnessnya dengan lebih banyak token.\n\nBoost yang padu \ud83d\udc40",
+            "date": "2026-09-01T07:32:01+00:00",
+            "message_id": 9152,
+            "message_key": "@testingcatalog:9152"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok Bot now supports apps from Microsoft ecosystem via plugins for Outlook, Calendar, and OneDrive. \n\nExpansion \ud83e\udd16",
+            "translated_text": "Grok Bot kini menyokong aplikasi dari ekosistem Microsoft melalui plugin untuk Outlook, Calendar, dan OneDrive.\n\nPeluasan \ud83e\udd16",
+            "date": "2026-09-01T07:27:21+00:00",
+            "message_id": 9151,
+            "message_key": "@testingcatalog:9151"
         }
     ]
 }
