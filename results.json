@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-01T13:13:27.888611",
+    "timestamp": "2026-09-01T17:43:15.396944",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29596,6 +29596,56 @@
             "date": "2026-09-01T07:27:21+00:00",
             "message_id": 9151,
             "message_key": "@testingcatalog:9151"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-01T17:35:02+00:00",
+            "message_id": 9162,
+            "message_key": "@testingcatalog:9162"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5.1 is being prepared for the upcoming release! \n\n> The \"Thought Preserved: Modifying the way the Messages API handles thought blocks to protect against distillation\" support page has been updated. \n\n> Both Fable 5.1 and Mythos 5.1 are expected soon. \n\nSoon? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5.1 sedang disiapkan untuk keluaran akan datang!\n\n> Halaman sokongan \"Thought Preserved: Modifying the way the Messages API handles thought blocks to protect against distillation\" telah dikemas kini.\n\n> Kedua-dua Fable 5.1 dan Mythos 5.1 dijangka akan tiba tak lama lagi.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-09-01T17:35:02+00:00",
+            "message_id": 9161,
+            "message_key": "@testingcatalog:9161"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: A new Muse Voice Transcribe model from MSL is now available on Meta models API.\n\nSOTA in streaming speech-to-text. Trained on 70+ languages.\n\nAs it has been foretold \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Model Muse Voice Transcribe baru dari MSL dah boleh guna dekat Meta models API.\nSOTA dalam 'streaming speech-to-text'.\nDilatih menggunakan lebih 70 bahasa.\nMacam yang dah diramalkan \ud83d\udc40",
+            "date": "2026-09-01T17:23:08+00:00",
+            "message_id": 9160,
+            "message_key": "@testingcatalog:9160"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-01T16:44:09+00:00",
+            "message_id": 9159,
+            "message_key": "@testingcatalog:9159"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Project Hatch will be released under the name \u201cMuse\u201d and will arrive with a waitlist!\n\nHatch was an internal codename of the upcoming superapp from Meta. Read more about Hatch in the post above.\n\nJoined \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Project Hatch akan dilancarkan dengan nama \u201cMuse\u201d dan akan ada senarai menunggu!\nHatch ni nama kod dalaman untuk superapp Meta yang akan datang. Boleh baca lagi pasal Hatch dalam post di atas.\nDah join \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "date": "2026-09-01T16:44:08+00:00",
+            "message_id": 9158,
+            "message_key": "@testingcatalog:9158"
         }
     ]
 }
