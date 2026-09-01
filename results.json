@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-31T21:46:41.304983",
+    "timestamp": "2026-09-01T07:26:20.575637",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29526,6 +29526,26 @@
             "date": "2026-08-31T16:52:39+00:00",
             "message_id": 9145,
             "message_key": "@testingcatalog:9145"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-01T07:20:50+00:00",
+            "message_id": 9150,
+            "message_key": "@testingcatalog:9150"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta seems to be rolling out its voice mode to more users in EU on Meta AI app. \n\nIt also comes with a possibility to upgrade to Meta One Core and Premium plans. \n\nFeels like everyone had it already \ud83d\udc40",
+            "translated_text": "Meta macam dah mula bagi mod suara dia kat lebih ramai pengguna di EU, melalui aplikasi Meta AI. Sekali dengan tu, ada juga peluang untuk *upgrade* ke pelan Meta One Core dan Premium. Rasa macam semua orang dah dapat dah sebelum ni \ud83d\udc40",
+            "date": "2026-09-01T07:20:50+00:00",
+            "message_id": 9149,
+            "message_key": "@testingcatalog:9149"
         }
     ]
 }
