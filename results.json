@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-01T20:43:08.034914",
+    "timestamp": "2026-09-01T23:06:18.708091",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29676,6 +29676,26 @@
             "date": "2026-09-01T18:09:11+00:00",
             "message_id": 9163,
             "message_key": "@testingcatalog:9163"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-01T20:46:21+00:00",
+            "message_id": 9167,
+            "message_key": "@testingcatalog:9167"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Astra will be \"available soon,\" but its cybersecurity capabilities will be limited. \n\n> Astra scored 100% on ExploitBench.\n> OpenAI built a more complex \"ExploitBench - Internal Port\" benchmark with 20 high-severity V8 vulnerabilities that were disclosed more recently.\n> Astra achieved \"much higher arbitrary code-execution rates than GPT\u20115.6 Sol\".\n> During the evaluation, Astra found 2 new zero-day vulnerabilities and turned them into working exploit chains. \n\nSoon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Astra akan \"tersedia tidak lama lagi,\" tapi keupayaan keselamatan siber dia akan terhad.\n\n> Astra dapat skor 100% dalam ExploitBench.\n> OpenAI bina satu penanda aras \"ExploitBench - Internal Port\" yang lebih kompleks dengan 20 kelemahan V8 berisiko tinggi yang baru didedahkan.\n> Astra capai \"kadar pelaksanaan kod arbitrari yang jauh lebih tinggi berbanding GPT\u20115.6 Sol\".\n> Masa penilaian tu, Astra jumpa 2 kelemahan zero-day baru dan tukarkan jadi rantaian eksploitasi yang berfungsi.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-09-01T20:46:21+00:00",
+            "message_id": 9166,
+            "message_key": "@testingcatalog:9166"
         }
     ]
 }
