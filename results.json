@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-02T13:21:30.559804",
+    "timestamp": "2026-09-02T17:42:09.640070",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29766,6 +29766,56 @@
             "date": "2026-09-02T11:50:35+00:00",
             "message_id": 9172,
             "message_key": "@testingcatalog:9172"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-02T16:37:29+00:00",
+            "message_id": 9181,
+            "message_key": "@testingcatalog:9181"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-6-Astra model slug has been spotted on the APIs. \n\nIf we will actually get it tomorrow, it would be a huge week. \n\nRouting first \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Model GPT-6-Astra dah dikesan di API.\n\nKalau betul-betul kita dapat esok, memang minggu ni akan jadi minggu yang penting.\n\nRouting dulu \ud83d\udc40",
+            "date": "2026-09-02T16:37:29+00:00",
+            "message_id": 9180,
+            "message_key": "@testingcatalog:9180"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Bot is now available on Android platform! \n\nBot testing time \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Bot dah boleh guna dekat platform Android!\n\nMasa untuk uji bot ni \ud83d\udc40",
+            "date": "2026-09-02T16:24:16+00:00",
+            "message_id": 9179,
+            "message_key": "@testingcatalog:9179"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash is rolling out on Gemini, Google AI Studio and APIs. \n\nGemini 3.8 Flash scores 71% on DeepSWE 1.1, compared to 74% for Claude Opus 5, at a much lower price.\n\n> Input price\n$0.75 through December 31, 2026.\n$1.50 starting January 1, 2027.\n\n> Output price (including thinking tokens)\n$3.75 through December 31, 2026.\n$7.50 starting January 1, 2027.\n\nThis is big \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash sedang dilancarkan di Gemini, Google AI Studio dan API.\n\nGemini 3.8 Flash mendapat skor 71% dalam DeepSWE 1.1, berbanding 74% untuk Claude Opus 5, pada harga yang jauh lebih rendah.\n\n> Harga input\n$0.75 sehingga 31 Disember 2026.\n$1.50 bermula 1 Januari 2027.\n\n> Harga output (termasuk token pemikiran)\n$3.75 sehingga 31 Disember 2026.\n$7.50 bermula 1 Januari 2027.\n\nIni berita besar \ud83d\udc40",
+            "date": "2026-09-02T15:16:16+00:00",
+            "message_id": 9178,
+            "message_key": "@testingcatalog:9178"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash is already available in Agent Studio on GCP. \n\nBest for \n- Complex multimodal data processing \n- Coding use cases \n- Supporting software engineering\u2013related agentic tasks\n\nUse case\n- Processing data with images and text\n- Coding problems\n- Web research and application testing",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash dah tersedia di Agent Studio dalam GCP.\n\nPaling sesuai untuk:\n- Pemprosesan data multimodal yang kompleks\n- Kerja-kerja pengekodan\n- Membantu tugasan ejen berkaitan kejuruteraan perisian\n\nContoh kegunaan:\n- Memproses data dengan imej dan teks\n- Masalah pengekodan\n- Penyelidikan web dan ujian aplikasi",
+            "date": "2026-09-02T14:05:27+00:00",
+            "message_id": 9176,
+            "message_key": "@testingcatalog:9176"
         }
     ]
 }
