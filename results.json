@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-02T08:31:40.099071",
+    "timestamp": "2026-09-02T13:21:30.559804",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29736,6 +29736,36 @@
             "date": "2026-09-02T08:19:13+00:00",
             "message_id": 9171,
             "message_key": "@testingcatalog:9171"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-02T13:18:46+00:00",
+            "message_id": 9174,
+            "message_key": "@testingcatalog:9174"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash started appearing on Google Coud Console quotas page, a usual release predecessor. \n\nEarlier today, users also spotted that Gemini 3.8 Flash has been powering some of there conversations on Gemini already. \n\nVery soon \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash dah mula muncul dekat halaman kuota Google Cloud Console, ini biasanya petanda awal sebelum sesuatu versi dikeluarkan.\nAwal hari ni, pengguna pun perasan yang Gemini 3.8 Flash dah digunakan untuk menjana sebahagian perbualan mereka di Gemini.\nTak lama lagi ni \ud83d\udc40",
+            "date": "2026-09-02T13:18:46+00:00",
+            "message_id": 9173,
+            "message_key": "@testingcatalog:9173"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Muse superapp from Meta and Ava model with computer use**](https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use/)\n\nMETA \ud83d\udd25: A new model named Ava with computer-use capabilities is undergoing closed testing in the Meta AI desktop app. \n\n> \"Agentic assistant with computer use.\"\n\nUsers can also enable apps for computer use individually, directly from the window attachment menu. \n\n> \"Clicks, types and scolls only in this window.\"\n\nWatermelon, is this you? \ud83d\udc40\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Superapp Muse dari Meta dan model Ava dengan penggunaan komputer**](https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use/)\n\nMETA \ud83d\udd25: Model baru bernama Ava dengan keupayaan penggunaan komputer sedang diuji secara tertutup dalam aplikasi desktop Meta AI.\n\n> \"Pembantu ejen dengan penggunaan komputer.\"\n\nPengguna juga boleh aktifkan aplikasi untuk penggunaan komputer secara individu, terus dari menu lampiran tetingkap.\n\n> \"Klik, taip dan skrol hanya dalam tetingkap ini.\"\n\nWatermelon, ini awak ke? \ud83d\udc40\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-02T11:50:35+00:00",
+            "message_id": 9172,
+            "message_key": "@testingcatalog:9172"
         }
     ]
 }
