@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-03T17:37:04.873479",
+    "timestamp": "2026-09-03T20:41:21.725371",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -29916,6 +29916,56 @@
             "date": "2026-09-03T15:04:24+00:00",
             "message_id": 9189,
             "message_key": "@testingcatalog:9189"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Stunning \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "translated_text": "Cantik sangat \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "date": "2026-09-03T20:34:23+00:00",
+            "message_id": 9199,
+            "message_key": "@testingcatalog:9199"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: GPT-6 Astra has been officially announced and will roll out in the coming days.\n\n> Astra was pre-trained on more than 100,000 GPUs at Stargate, and GPT-5.6 Sol has been helping supervise its training. \n\n> \"Across the plans, Astra will be included in the normal usage allocation, and you will be able to use 100% of it for Astra.\"\n\nAGI? \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: GPT-6 Astra dah diumumkan secara rasmi dan akan dilancarkan dalam beberapa hari lagi.\n\n> Astra ni dah dilatih awal guna lebih 100,000 GPU dekat Stargate, dan GPT-5.6 Sol pun tolong pantau latihannya.\n\n> \"Dalam semua pelan, Astra akan termasuk dalam peruntukan penggunaan biasa, dan anda boleh guna 100% daripadanya untuk Astra.\"\n\nAGI? \ud83d\udc40",
+            "date": "2026-09-03T19:45:35+00:00",
+            "message_id": 9198,
+            "message_key": "@testingcatalog:9198"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-03T18:33:52+00:00",
+            "message_id": 9197,
+            "message_key": "@testingcatalog:9197"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-6 Astra scored 98.6% on ARC-AGI-3 and topped most of the other benchmarks.\n\n74.% on DeepSWE 1.1, big leaps on FrontierMath Tier 4, Terminal-Bench Science 0.1 and more.",
+            "translated_text": "OPENAI \ud83d\udd25: GPT-6 Astra mendapat 98.6% dalam ARC-AGI-3 dan mengatasi kebanyakan penanda aras lain.\n\n74.% dalam DeepSWE 1.1, lonjakan besar dalam FrontierMath Tier 4, Terminal-Bench Science 0.1 dan lain-lain.",
+            "date": "2026-09-03T18:33:52+00:00",
+            "message_id": 9196,
+            "message_key": "@testingcatalog:9196"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-03T18:26:15+00:00",
+            "message_id": 9195,
+            "message_key": "@testingcatalog:9195"
         }
     ]
 }
