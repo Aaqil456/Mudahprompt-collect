@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-04T08:34:42.788269",
+    "timestamp": "2026-09-04T17:26:10.555659",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30006,6 +30006,46 @@
             "date": "2026-09-04T07:34:46+00:00",
             "message_id": 9202,
             "message_key": "@testingcatalog:9202"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-04T14:24:13+00:00",
+            "message_id": 9207,
+            "message_key": "@testingcatalog:9207"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Code on iOS will get support for / commands as well.\n\nDoes anybody have it already? \ud83d\udc40",
+            "translated_text": "Claude Code di iOS akan dapat sokongan untuk arahan / juga.\n\nAda sesiapa dah dapat ke? \ud83d\udc40",
+            "date": "2026-09-04T14:24:13+00:00",
+            "message_id": 9206,
+            "message_key": "@testingcatalog:9206"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 4\n\nOPENAI \ud83d\udd25:\n> GPT-6 Astra is officially out \u2014 SOTA across computer use, coding, science, and cyber. 98% FrontierMath Tier 4, 63% / 99.9% on ARC-AGI-3 (standard vs adapter harness), 100% ExploitBench. \n> Not in your ChatGPT dropdown yet. Rolling to a limited set of orgs / Daybreak first; Plus, Pro, Business, Enterprise, API, and AWS \u201cover the coming days.\u201d Hope is weekend. Until then, enjoy the banked limit resets.\n\nMICROSOFT \ud83d\udd25:\n> MAI-Transcribe-2 is live. Claims fastest + cheapest + most accurate speech-to-text: #1 on FLEURS across 60 languages (5.2% avg WER), 10\u00d7 GPT-Transcribe, 7\u00d7 Scribe v2, 5\u00d7 Gemini 3.5 Transcribe. Foundry + MAI Playground + OpenRouter.\n\nGOOGLE \ud83d\udd25: (for Ultra Trusted Testers?)\n> Gemini Live can now use Workspace connectors \u2014 Gmail, Keep, Docs. Conversational inbox search, voice-first drafting, brain-dump-to-lists.\n> New Labs experiment: Play with Putty \u2014 real-time collaborative vibe coding. Multiple people in one workspace building sites/tools live. Waitlist.\n\nTESLA \ud83d\udd25:\n> Cybercab is in the Austin robotaxi fleet. No steering wheel, no pedals, butterfly doors, public rides starting in limited zones. Elon: the future is here. \n\nNVIDIA \ud83d\udd25:\n> Confirmed $12.9B acquisition of Hugging Face. Jensen: platform stays open, multi-cloud, multi-accelerator, no NVIDIA compute required. 18M developers, 3M+ models. Largest Nvidia buy ever. Close targeted for 2027, subject to regulatory approval.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 4 Sept\n\nOPENAI \ud83d\udd25:\n> GPT-6 Astra dah rasmi dilancarkan \u2014 terbaik dalam penggunaan komputer, pengekodan, sains, dan siber. 98% FrontierMath Tier 4, 63% / 99.9% pada ARC-AGI-3 (standard vs adapter harness), 100% ExploitBench.\n> Belum tersedia dalam pilihan ChatGPT anda lagi. Akan dilancarkan kepada beberapa organisasi terhad / Daybreak dulu; Plus, Pro, Business, Enterprise, API, dan AWS akan menyusul \u201cdalam beberapa hari akan datang.\u201d Harapnya hujung minggu ni. Sampai masa tu, nikmati dulu had penggunaan yang dah dikumpul semula.\n\nMICROSOFT \ud83d\udd25:\n> MAI-Transcribe-2 dah pun aktif. Mendakwa sebagai penukar suara ke teks terpantas + termurah + paling tepat: #1 di FLEURS merentasi 60 bahasa (purata WER 5.2%), 10\u00d7 GPT-Transcribe, 7\u00d7 Scribe v2, 5\u00d7 Gemini 3.5 Transcribe. Foundry + MAI Playground + OpenRouter.\n\nGOOGLE \ud83d\udd25: (untuk Penguji Ultra Dipercayai?)\n> Gemini Live kini boleh guna penyambung Workspace \u2014 Gmail, Keep, Docs. Carian peti masuk secara perbualan, draf utama suara, tukar idea spontan jadi senarai.\n> Eksperimen Labs baru: Play with Putty \u2014 pengekodan kolaboratif secara langsung yang santai. Ramai orang dalam satu ruang kerja membina laman web/alat secara langsung. Senarai menunggu.\n\nTESLA \ud83d\udd25:\n> Cybercab dah ada dalam kumpulan robotaxi Austin. Tiada stereng, tiada pedal, pintu rama-rama, perjalanan awam bermula di zon terhad. Elon: masa depan dah tiba.\n\nNVIDIA \ud83d\udd25:\n> Pengambilalihan Hugging Face bernilai $12.9 bilion disahkan. Jensen: platform kekal terbuka, berbilang awan, berbilang pemecut, tak perlukan pengkomputeran NVIDIA. 18 juta pembangun, 3 juta+ model. Pembelian Nvidia terbesar setakat ini. Dijangka selesai pada 2027, tertakluk kepada kelulusan kawal selia.\n\n* Ringkasan ini digubah menggunakan Grok, dengan memilih berita utama dan melakukan sedikit suntingan selepas itu.",
+            "date": "2026-09-04T09:26:40+00:00",
+            "message_id": 9205,
+            "message_key": "@testingcatalog:9205"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI announced Defense Factory, a new continuous defense concept. \n\n\"Defender's window\" is the gap between the cyber capabilities of open-weight models and the current security level. \n\nWithout continuous defense practices that rely on frontier models, this gap will close, enabling malicious actors to freely abuse vulnerable systems. \n\n> \"Agents can now conduct long-running cyber operations by abusing increasingly available open-weight models. In response, at OpenAI we\u2019re building a Defense Factory. An automated defense operation to find, validate, and fix vulnerabilities continuously.\"\n\n> \"Defenders have two structural advantages. They can give agents direct access to their code and use frontier models to get a head start over attackers abusing broadly available open-weight models.\"\n\nWhat does it mean?\n\n\u201cEverything that makes it successful is exactly what makes it dangerous.\u201d\n\nInternet won't be safe anymore \ud83e\udd16",
+            "translated_text": "OpenAI mengumumkan Defense Factory, satu konsep pertahanan berterusan yang baharu.\n\n\"Defender's window\" ni adalah jurang antara keupayaan siber model-model open-weight dengan tahap keselamatan semasa.\n\nKalau tak ada amalan pertahanan berterusan yang bergantung pada model-model frontier, jurang ni akan tertutup, dan ini akan membolehkan pihak jahat menyalahgunakan sistem yang terdedah dengan bebas.\n\n> \"Ejen-ejen sekarang boleh jalankan operasi siber jangka panjang dengan menyalahgunakan model-model open-weight yang semakin banyak tersedia. Sebagai tindak balas, kami di OpenAI sedang membina Defense Factory. Satu operasi pertahanan automatik untuk mencari, mengesahkan, dan membaiki kelemahan secara berterusan.\"\n\n> \"Pihak pertahanan ada dua kelebihan struktur. Mereka boleh bagi ejen akses terus kepada kod mereka dan guna model-model frontier untuk dapat kelebihan awal berbanding penyerang yang menyalahgunakan model-model open-weight yang tersedia secara meluas.\"\n\nApa maksudnya ni?\n\n\"Semua yang buat ia berjaya, itulah juga yang buat ia bahaya.\"\n\nInternet takkan selamat lagi dah \ud83e\udd16",
+            "date": "2026-09-04T08:41:01+00:00",
+            "message_id": 9204,
+            "message_key": "@testingcatalog:9204"
         }
     ]
 }
