@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-04T20:26:28.543672",
+    "timestamp": "2026-09-04T22:50:49.352805",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30086,6 +30086,36 @@
             "date": "2026-09-04T18:01:06+00:00",
             "message_id": 9208,
             "message_key": "@testingcatalog:9208"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Astra testing time \ud83d\udc40\n\n> This is GPT-6, a new generation of intelligence. Astra is state-of-the-art in coding, computer use, science, and professional work. Give it a hard problem, a half-formed idea, or anything you've been meaning to build. See where it takes you.\n\n* Got it on a Business (not Business Premium) plan already.\n\n** Plus users should have it as well!",
+            "translated_text": "Masa ujian Astra \ud83d\udc40\n\n> Ini adalah GPT-6, generasi kecerdasan baharu. Astra memang canggih dalam pengekodan, penggunaan komputer, sains, dan kerja profesional. Beri ia masalah yang susah, idea yang belum lengkap, atau apa-apa saja yang anda nak bina. Tengoklah ke mana ia boleh bawa anda.\n\n* Dah dapatkannya dengan pelan Business (bukan Business Premium).\n\n** Pengguna Plus patutnya dah ada juga!",
+            "date": "2026-09-04T22:15:38+00:00",
+            "message_id": 9214,
+            "message_key": "@testingcatalog:9214"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-6 Astra across ChatGPT and API**](https://www.testingcatalog.com/openai-launches-gpt-6-astra-across-chatgpt-and-api/)\n\nOpenAI launched GPT-6 Astra, a computer-use and software model rolling out across ChatGPT, API, Azure, and AWS. \n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan GPT-6 Astra di seluruh ChatGPT dan API**](https://www.testingcatalog.com/openai-launches-gpt-6-astra-across-chatgpt-and-api/)\n\nOpenAI telah melancarkan GPT-6 Astra, sebuah model penggunaan komputer dan perisian yang sedang diperkenalkan di seluruh ChatGPT, API, Azure, dan AWS.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-04T22:11:40+00:00",
+            "message_id": 9213,
+            "message_key": "@testingcatalog:9213"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-6 Astra is now available on the OpenAI Platform and APIs. \n\n> $10 Input & $50 Output.\n\nA new update regarding the rollout:\n\n> Access in ChatGPT Work and Codex may take a few days to reach Plus and all Business users.",
+            "translated_text": "OPENAI \ud83d\udd25: GPT-6 Astra dah boleh guna dekat OpenAI Platform dan API.\n> $10 Input & $50 Output.\nAda update baru pasal pelancaran ni:\n> Akses dalam ChatGPT Work dan Codex mungkin makan masa beberapa hari untuk sampai ke pengguna Plus dan semua pengguna Business.",
+            "date": "2026-09-04T20:32:05+00:00",
+            "message_id": 9212,
+            "message_key": "@testingcatalog:9212"
         }
     ]
 }
