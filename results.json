@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-04T22:50:49.352805",
+    "timestamp": "2026-09-05T10:08:23.307353",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30116,6 +30116,36 @@
             "date": "2026-09-04T20:32:05+00:00",
             "message_id": 9212,
             "message_key": "@testingcatalog:9212"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-05T09:36:13+00:00",
+            "message_id": 9217,
+            "message_key": "@testingcatalog:9217"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is testing a new Writing Style feature for ChatGPT. \n\n> Users can connect documents, emails and messaging apps as reference examples. \n\n> ChatGPT will be able to write text in \u201cuser\u2019s voice\u201d, based on provided references.\n\n> Availability is limited to a small group of users.",
+            "translated_text": "OpenAI sedang menguji ciri Gaya Penulisan baharu untuk ChatGPT.\nPengguna boleh sambungkan dokumen, e-mel, dan aplikasi pemesejan sebagai contoh rujukan.\nChatGPT nanti akan dapat menulis teks mengikut 'gaya penulisan pengguna', berdasarkan rujukan yang diberikan.\nBuat masa ini, ia terhad kepada sekumpulan kecil pengguna.",
+            "date": "2026-09-05T09:36:12+00:00",
+            "message_id": 9216,
+            "message_key": "@testingcatalog:9216"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 5\n\nOPENAI \ud83d\udd25\n- Astra is rolled out to **all Plus and Business** \u2014 not just Pro / Enterprise. API live at **$10 / $50**. GPT-6 Pro in Chat is Astra.\n- Full **banked reset today** for Plus, Pro, and Business. Lands EOD. Create or upgrade before **8pm PT** and you get it too.\n- Tibo: internal Astra pulled some shipping plans **6 months forward** to DevDay.\n\nANTHROPIC \ud83d\udd25\nClaude Code **weekly limits reset** Friday \u2014 **Max plans only**. Fable 5.1 + long weekend. Pro/Team did not get this flush.\n\nGOOGLE \ud83d\udd25\n**Lyria 3.5** is in Gemini, AI Studio, and the API. Better vocals, richer arrangements, short or full tracks. Tools > Create music.\n\nMETA \ud83d\udd25\n**Muse Spark 1.3 max** is public in Muse Code and the Meta Model API. Wang: use max even if you already tried high / xhigh.\n__* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.__",
+            "translated_text": "RINGKASAN HARIAN AI \ud83d\uddde \u2014 5 Sept\n\nOPENAI \ud83d\udd25\n- Astra dah dilancarkan untuk **semua pengguna Plus dan Business** \u2014 bukan Pro / Enterprise saja. API dah boleh guna pada harga **$10 / $50**. GPT-6 Pro dalam Chat tu adalah Astra.\n- Semua akaun Plus, Pro, dan Business akan dapat **reset penuh hari ni**. Akan siap hujung hari. Kalau buat akaun baru atau upgrade sebelum **8 malam PT**, korang pun dapat juga.\n- Tibo cakap: Astra dalaman dah percepatkan beberapa perancangan penghantaran **6 bulan lebih awal** untuk DevDay.\n\nANTHROPIC \ud83d\udd25\nHad mingguan Claude Code akan **diset semula** hari Jumaat \u2014 **untuk pelan Max saja**. Fable 5.1 + cuti panjang hujung minggu. Pengguna Pro/Team tak dapat kemas kini ni.\n\nGOOGLE \ud83d\udd25\n**Lyria 3.5** dah ada dalam Gemini, AI Studio, dan API. Vokal lebih baik, susunan muzik lebih kaya, boleh buat lagu pendek atau penuh. Pergi ke Tools > Create music.\n\nMETA \ud83d\udd25\n**Muse Spark 1.3 max** dah tersedia untuk umum dalam Muse Code dan Meta Model API. Wang cakap: guna versi max walaupun dah cuba high / xhigh.\n__* Ringkasan ni digubah guna Grok, dengan memilih berita penting dan sedikit suntingan selepas tu.__",
+            "date": "2026-09-05T08:45:20+00:00",
+            "message_id": 9215,
+            "message_key": "@testingcatalog:9215"
         }
     ]
 }
