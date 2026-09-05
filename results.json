@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-05T10:08:23.307353",
+    "timestamp": "2026-09-05T13:43:48.062398",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30146,6 +30146,26 @@
             "date": "2026-09-05T08:45:20+00:00",
             "message_id": 9215,
             "message_key": "@testingcatalog:9215"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini desktop app keeps being transformed into a superapp with \"Ask\" and \"Assign\" modes, computer use, and more!\n\n> Nano Banana 2.5 Flash is in the works. \n> Integration with Obsidian spotted.\n> Users will also be able to \"Ask Gemini\" directly from Finder.",
+            "translated_text": "GOOGLE \ud83d\udd25: Aplikasi desktop Gemini terus diubah jadi superapp dengan mod \"Ask\" dan \"Assign\", penggunaan komputer, dan banyak lagi!\n\n> Nano Banana 2.5 Flash sedang dalam pembangunan.\n> Integrasi dengan Obsidian dikesan.\n> Pengguna juga akan dapat \"Ask Gemini\" terus dari Finder.",
+            "date": "2026-09-05T12:45:47+00:00",
+            "message_id": 9219,
+            "message_key": "@testingcatalog:9219"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google keeps transforming Gemini desktop into superapp**](https://www.testingcatalog.com/google-keeps-transforming-gemini-desktop-into-superapp/)\n\nGoogle is testing major Gemini desktop upgrades: Ask and Assign modes, folder-scoped agent tasks, remote computer links, local app control, Obsidian support, customization options, Finder integration, and prep for future models.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google terus mengubah Gemini desktop menjadi superapp**](https://www.testingcatalog.com/google-keeps-transforming-gemini-desktop-into-superapp/)\n\nGoogle sedang menguji naik taraf besar untuk Gemini desktop: mod Ask dan Assign, tugas ejen mengikut folder, pautan komputer jauh, kawalan aplikasi tempatan, sokongan Obsidian, pilihan penyesuaian, integrasi Finder, dan persediaan untuk model masa depan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-05T12:37:01+00:00",
+            "message_id": 9218,
+            "message_key": "@testingcatalog:9218"
         }
     ]
 }
