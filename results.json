@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-05T22:51:48.086702",
+    "timestamp": "2026-09-06T14:00:27.273357",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30226,6 +30226,36 @@
             "date": "2026-09-05T21:51:45+00:00",
             "message_id": 9225,
             "message_key": "@testingcatalog:9225"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-06T12:03:47+00:00",
+            "message_id": 9228,
+            "message_key": "@testingcatalog:9228"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Visiting IFA 2026 Berlin today!\n\nIFA is a major annual Berlin trade show where global brands unveil new consumer electronics, home appliances, and future technology.\n\nIRL testing time \ud83d\udc40",
+            "translated_text": "Hari ni saya melawat IFA 2026 Berlin!\n\nIFA ni pameran perdagangan tahunan besar kat Berlin, tempat jenama-jenama global memperkenalkan elektronik pengguna baru, perkakas rumah, dan teknologi masa depan.\n\nMasa untuk uji cuba IRL ni \ud83d\udc40",
+            "date": "2026-09-06T12:03:47+00:00",
+            "message_id": 9227,
+            "message_key": "@testingcatalog:9227"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "What a week - we've got top models from 4 of the biggest AI labs in a single week: Gemini 3.8 Flash, Claude Fable 5.1, Muse Spark 1.3, GPT-6 Astra!\n\n> A full recap is coming in a couple of hours in TestingCatalog's newsletter.\n\n> \u2734\ufe0f Bonus! A secret Muse agent waitlist join link is included. \n\nOpt in below if you haven't yet \ud83d\udce9\nhttps://www.testingcatalog.com/#/portal/signup",
+            "translated_text": "Minggu yang hebat betul! Kita dapat model-model terbaik dari 4 makmal AI terbesar dalam satu minggu saja: Gemini 3.8 Flash, Claude Fable 5.1, Muse Spark 1.3, GPT-6 Astra!\n\nRingkasan penuh akan menyusul dalam beberapa jam lagi dalam newsletter TestingCatalog.\n\n\u2734\ufe0f Bonus! Ada pautan untuk sertai senarai menunggu ejen rahsia Muse sekali.\n\nDaftar di bawah kalau belum lagi \ud83d\udce9\nhttps://www.testingcatalog.com/#/portal/signup",
+            "date": "2026-09-06T11:51:13+00:00",
+            "message_id": 9226,
+            "message_key": "@testingcatalog:9226"
         }
     ]
 }
