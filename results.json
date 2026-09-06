@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-06T14:00:27.273357",
+    "timestamp": "2026-09-06T21:07:44.899695",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30256,6 +30256,16 @@
             "date": "2026-09-06T11:51:13+00:00",
             "message_id": 9226,
             "message_key": "@testingcatalog:9226"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**IFM releases K2 Horizon: 6 models with full training record**](https://www.testingcatalog.com/ifm-releases-k2-horizon-6-models-with-full-training-record/)\n\nIFM released K2 Horizon, six Apache 2.0 language models from 0.9B to 375B parameters, with training code, logs, checkpoints, evaluations, and documented reward-hacking cases, emphasizing reproducibility and auditability.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**IFM Melancarkan K2 Horizon: 6 Model dengan Rekod Latihan Penuh**](https://www.testingcatalog.com/ifm-releases-k2-horizon-6-models-with-full-training-record/)\n\nIFM telah melancarkan K2 Horizon, enam model bahasa Apache 2.0 dengan parameter dari 0.9 bilion hingga 375 bilion. Ia datang lengkap dengan kod latihan, log, titik semak (checkpoints), penilaian, dan kes-kes penggodaman ganjaran yang didokumentasikan, menekankan kebolehulangan dan keboleh audit.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-09-06T19:40:05+00:00",
+            "message_id": 9229,
+            "message_key": "@testingcatalog:9229"
         }
     ]
 }
