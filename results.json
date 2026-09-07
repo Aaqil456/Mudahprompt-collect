@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-06T21:07:44.899695",
+    "timestamp": "2026-09-07T03:28:22.511020",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30266,6 +30266,36 @@
             "date": "2026-09-06T19:40:05+00:00",
             "message_id": 9229,
             "message_key": "@testingcatalog:9229"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-07T00:10:42+00:00",
+            "message_id": 9232,
+            "message_key": "@testingcatalog:9232"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Early look at the UI of the upcoming Muse agent from Meta. \n\n> According to the App Store listing, the Muse agent might act as a proactive assistant that helps users track their goals and stay on top of their schedule and tasks. \n\n> The Muse agent transitioned from internal to closed / limited alpha testing.\n\n> New functionality for invite codes has been added.\n\nSoon \ud83d\udc40",
+            "translated_text": "Intipan awal UI ejen Muse yang akan datang dari Meta.\n\nMengikut senarai di App Store, ejen Muse mungkin berfungsi sebagai pembantu proaktif yang membantu pengguna menjejaki matlamat mereka dan sentiasa peka dengan jadual serta tugasan mereka.\n\nEjen Muse dah beralih dari ujian alfa dalaman kepada ujian alfa tertutup / terhad.\n\nFungsi baru untuk kod jemputan dah ditambah.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-09-07T00:10:42+00:00",
+            "message_id": 9231,
+            "message_key": "@testingcatalog:9231"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta's Muse agent enters closed alpha with invite codes**](https://www.testingcatalog.com/metas-muse-agent-enters-closed-alpha-with-invite-codes/)\n\nMeta\u2019s Muse AI agent is nearing launch in closed alpha, with waitlist and invite codes, mobile and web access, app connectors, spending controls, and task automation across email, calendar, bookings, budgets, and planning.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Ejen Muse Meta masuk fasa alpha tertutup dengan kod jemputan**](https://www.testingcatalog.com/metas-muse-agent-enters-closed-alpha-with-invite-codes/)\n\nEjen AI Muse Meta hampir dilancarkan dalam fasa alpha tertutup, dengan senarai menunggu dan kod jemputan, akses mudah alih dan web, penyambung aplikasi, kawalan perbelanjaan, dan automasi tugas merentasi e-mel, kalendar, tempahan, belanjawan, dan perancangan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-07T00:02:18+00:00",
+            "message_id": 9230,
+            "message_key": "@testingcatalog:9230"
         }
     ]
 }
