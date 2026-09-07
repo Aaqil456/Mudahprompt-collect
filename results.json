@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-07T03:28:22.511020",
+    "timestamp": "2026-09-07T15:40:06.949085",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30296,6 +30296,46 @@
             "date": "2026-09-07T00:02:18+00:00",
             "message_id": 9230,
             "message_key": "@testingcatalog:9230"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: As tradition dictates, OpenAI plans to announce a new solution for its agent ecosystem at the upcoming DevDay 2026.\n\nThis time, we will get Managed Agents \ud83e\udd16\n\n> Users will be able to create Agents, Environments, and Agent Sessions directly via the OpenAI Platform. \n\n> The Codex Plugin will help users build, configure, and deploy agents, lowering the barrier to entry. \n\n> OpenAI's Managed Agents could be hosted on the OpenAI platform or self-hosted. \n\nLoads of details inside \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Macam biasa, OpenAI rancang nak umumkan solusi baru untuk ekosistem ejennya masa DevDay 2026 yang akan datang ni.\n\nKali ni, kita akan dapat Managed Agents \ud83e\udd16\n\n> Pengguna boleh cipta Agents, Environments, dan Agent Sessions terus melalui Platform OpenAI.\n> Codex Plugin akan bantu pengguna bina, konfigurasi, dan deploy ejen, kurangkan halangan untuk mula guna.\n> Managed Agents OpenAI boleh di-host di platform OpenAI atau self-hosted.\n\nBanyak lagi detail kat dalam \ud83d\udc40",
+            "date": "2026-09-07T13:08:25+00:00",
+            "message_id": 9236,
+            "message_key": "@testingcatalog:9236"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares managed agents for DevDay 2026**](https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/)\n\nOpenAI\u2019s DevDay may center on managed agents for developers and businesses, echoing Anthropic\u2019s model. Expected reveals include model and security updates, plus agent-based ads that could challenge current digital marketing.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI Bersedia dengan Agen Terurus untuk DevDay 2026**](https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/)\n\nDevDay OpenAI mungkin akan fokus pada agen terurus untuk pembangun dan perniagaan, mengikut jejak model Anthropic. Apa yang dijangka akan diumumkan termasuklah kemas kini model dan keselamatan, serta iklan berasaskan agen yang mungkin mencabar pemasaran digital sedia ada.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-07T13:07:53+00:00",
+            "message_id": 9235,
+            "message_key": "@testingcatalog:9235"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini now offers a new Immersive View experience in the Students tab!\n\n> Users can pick from a variety of topics to explore, starting with dinosaurs and continuing with space and rockets. \n\n> Each experience opens an interactive image where users can drill down into pre-selected details. In some cases, it can go quite deep, even explaining molecular structure. \n\nI guess my 5yo will have some testing time today! It is pretty cool to explore.\n\nh/t @Thomasguka",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini sekarang menawarkan pengalaman Immersive View baharu dalam tab Students!\n\n> Pengguna boleh pilih pelbagai topik untuk diterokai, bermula dengan dinosaur dan seterusnya dengan angkasa lepas serta roket.\n\n> Setiap pengalaman akan membuka imej interaktif di mana pengguna boleh mendalami butiran yang telah dipilih. Dalam sesetengah kes, ia boleh pergi cukup mendalam, malah menerangkan struktur molekul.\n\nAgaknya anak saya yang berumur 5 tahun tu akan ada masa untuk mencuba hari ni! Memang seronok untuk diterokai.\n\nh/t @Thomasguka",
+            "date": "2026-09-07T11:59:00+00:00",
+            "message_id": 9234,
+            "message_key": "@testingcatalog:9234"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini Immersive View appears in the \"Students\" section**](https://www.testingcatalog.com/gemini-immersive-view-appears-in-the-students-section/)\n\nGoogle\u2019s Gemini student app adds Immersive View, an image-based topic explorer with clickable nodes and layered detail. Access appears live via direct URL, though Google has not clarified if this is a test or a wider rollout.\n\nh/t @Thomasguka\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Gemini Immersive View muncul dalam bahagian \"Pelajar\"**](https://www.testingcatalog.com/gemini-immersive-view-appears-in-the-students-section/)\n\nAplikasi pelajar Gemini dari Google kini ada Immersive View, iaitu peneroka topik berasaskan imej dengan nod boleh klik dan butiran berlapis. Akses nampak dah ada secara langsung melalui URL terus, walaupun Google belum jelaskan sama ada ini ujian atau pelancaran yang lebih meluas.\n\nKredit kepada @Thomasguka\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-07T11:50:34+00:00",
+            "message_id": 9233,
+            "message_key": "@testingcatalog:9233"
         }
     ]
 }
