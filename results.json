@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-08T00:59:00.247284",
+    "timestamp": "2026-09-08T05:50:45.422163",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30376,6 +30376,26 @@
             "date": "2026-09-07T23:38:10+00:00",
             "message_id": 9240,
             "message_key": "@testingcatalog:9240"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-08T05:28:50+00:00",
+            "message_id": 9243,
+            "message_key": "@testingcatalog:9243"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI raised \u20ac3 billion in a Series D funding at more than \u20ac21 billion in a post-money valuation.\n\n\"Samsung Electronics led the round, joined by co-leads Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity.\"\n\nThe biggest EU Round ever! \ud83e\udd2f",
+            "translated_text": "Mistral AI telah mengumpul \u20ac3 bilion dalam pusingan pembiayaan Siri D, dengan penilaian pasca-pelaburan lebih \u20ac21 bilion.\n\nSamsung Electronics menerajui pusingan ini, disertai oleh peneraju bersama Scaleup Europe Fund, yang diuruskan oleh EQT, dan pelabur sedia ada PSG Equity.\n\nPusingan terbesar di EU setakat ini! \ud83e\udd2f",
+            "date": "2026-09-08T05:28:50+00:00",
+            "message_id": 9242,
+            "message_key": "@testingcatalog:9242"
         }
     ]
 }
