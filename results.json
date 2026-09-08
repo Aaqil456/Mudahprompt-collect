@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-08T05:50:45.422163",
+    "timestamp": "2026-09-08T10:48:39.195750",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30396,6 +30396,16 @@
             "date": "2026-09-08T05:28:50+00:00",
             "message_id": 9242,
             "message_key": "@testingcatalog:9242"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 8\n\nMETA \ud83d\udd25:\n\u2022  First look at Muse (Hatch) mobile UI: proactive agent for goals, calendar, email, bookings, and spend, now in closed beta with invite codes.\n\nGOOGLE \ud83d\udd25:\n\u2022  Immersive View in Gemini Students \u2014 image topic maps with clickable nodes. Worth testing!\n\nOPENAI \ud83d\udd25:\n\u2022  Writing Style for ChatGPT Work learns your voice from Gmail, Drive, Slack, and SharePoint.\n\u2022  Usage-reset week: banked Codex resets plus a Sept 7 Plus/Pro/Business flush that is not bankable.\n\u2022  DevDay prep: managed agents on the platform (environments, skills, plugins). Sept 29.\n\nMISTRAL \ud83d\udd25:\n\u2022  \u20ac3B Series D at >\u20ac21B, Europe\u2019s largest tech equity round, led by Samsung with Scaleup Europe Fund and PSG.\n\nANTHROPIC \ud83d\udd25:\n\u2022  Walked away from the ~$6B Decart deal after diligence; collaboration still possible.\n\nAnything to add here? \ud83d\udc40",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 8 Sept\n\nMETA \ud83d\udd25:\n\u2022 Tengok-tengok dulu UI mudah alih Muse (Hatch): ejen proaktif untuk matlamat, kalendar, e-mel, tempahan, dan perbelanjaan, sekarang dalam beta tertutup dengan kod jemputan.\n\nGOOGLE \ud83d\udd25:\n\u2022 Immersive View dalam Gemini Students \u2014 peta topik imej dengan nod yang boleh diklik. Berbaloi untuk dicuba!\n\nOPENAI \ud83d\udd25:\n\u2022 Gaya Penulisan untuk ChatGPT Work belajar suara anda dari Gmail, Drive, Slack, dan SharePoint.\n\u2022 Minggu set semula penggunaan: set semula Codex yang disimpan ditambah dengan pembaharuan Plus/Pro/Business pada 7 Sept yang tak boleh disimpan.\n\u2022 Persiapan DevDay: ejen terurus di platform (persekitaran, kemahiran, pemalam). 29 Sept.\n\nMISTRAL \ud83d\udd25:\n\u2022 Pusingan pembiayaan Siri D \u20ac3 bilion pada nilai >\u20ac21 bilion, pusingan ekuiti teknologi terbesar di Eropah, diterajui oleh Samsung bersama Scaleup Europe Fund dan PSG.\n\nANTHROPIC \ud83d\udd25:\n\u2022 Tarik diri dari perjanjian Decart bernilai ~$6 bilion selepas penilaian wajar; kerjasama masih boleh berlaku.\n\nAda apa-apa nak tambah? \ud83d\udc40",
+            "date": "2026-09-08T07:19:33+00:00",
+            "message_id": 9244,
+            "message_key": "@testingcatalog:9244"
         }
     ]
 }
