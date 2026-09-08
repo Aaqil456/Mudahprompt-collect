@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-07T19:42:30.856813",
+    "timestamp": "2026-09-08T00:59:00.247284",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30356,6 +30356,26 @@
             "date": "2026-09-07T17:17:06+00:00",
             "message_id": 9237,
             "message_key": "@testingcatalog:9237"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google is healing? \u2764\ufe0f\u200d\ud83e\ude79\n\nA canonical Projects implementation has been spotted in testing on the Gemini Desktop app. \n\n> The current implementation looks very similar to Projects on Gemini Business. \n\n> This experience is being tested alongside NotebookLM integration and unlikely meant to replace it. \n\nFirst, we've got custom MCPs on Gemini Business, and now this?",
+            "translated_text": "Google dah makin okey ke? \u2764\ufe0f\u200d\ud83e\ude79\n\nAda nampak pelaksanaan Projek yang standard sedang diuji dekat aplikasi Gemini Desktop.\n\n> Pelaksanaan terkini nampak macam sama sangat dengan Projek yang ada dekat Gemini Business.\n\n> Pengalaman ni sedang diuji sekali dengan integrasi NotebookLM dan rasanya takkan ganti yang tu.\n\nMula-mula, dah ada MCPs tersuai dekat Gemini Business, dan sekarang ni pulak?",
+            "date": "2026-09-07T23:39:13+00:00",
+            "message_id": 9241,
+            "message_key": "@testingcatalog:9241"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests proper Projects for the Gemini desktop app**](https://www.testingcatalog.com/google-tests-proper-projects-for-the-gemini-desktop-app/)\n\nGoogle is internally testing a Projects feature for Gemini desktop: persistent workspaces with custom instructions, files, and grouped chats. It mirrors long-standing ChatGPT and Claude setups, but no public launch details are confirmed.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang menguji ciri Projek yang lebih mantap untuk aplikasi desktop Gemini**](https://www.testingcatalog.com/google-tests-proper-projects-for-the-gemini-desktop-app/)\n\nGoogle sedang menguji secara dalaman satu ciri Projek untuk Gemini desktop: ruang kerja yang kekal dengan arahan tersuai, fail, dan sembang berkumpulan. Ciri ini menyerupai persediaan ChatGPT dan Claude yang sedia ada, tetapi tiada butiran pelancaran awam yang disahkan lagi.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-07T23:38:10+00:00",
+            "message_id": 9240,
+            "message_key": "@testingcatalog:9240"
         }
     ]
 }
