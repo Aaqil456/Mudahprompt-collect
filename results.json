@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-09T17:40:38.027842",
+    "timestamp": "2026-09-09T20:41:09.239831",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30576,6 +30576,56 @@
             "date": "2026-09-09T16:50:57+00:00",
             "message_id": 9262,
             "message_key": "@testingcatalog:9262"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-09T19:18:26+00:00",
+            "message_id": 9268,
+            "message_key": "@testingcatalog:9268"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Voice Mode on ChatGPT now supports GPT 5.6 Sol and GPT 6 Astra.\n\nSupport for GPT 6 Astra is only available on ChatGPT Pro accounts.\nAdditionally we got new ChatGPT Voice limits: 3h for Plus, 15h for Pro $100\n\u201cPro $200 users continue to get unlimited use per day.\u201d",
+            "translated_text": "OPENAI \ud83d\udd25: Mod Suara di ChatGPT kini menyokong GPT 5.6 Sol dan GPT 6 Astra.\n\nSokongan untuk GPT 6 Astra hanya tersedia untuk akaun ChatGPT Pro.\nSelain itu, ada had baharu untuk penggunaan Suara ChatGPT: 3 jam untuk Plus, 15 jam untuk Pro $100.\nPengguna Pro $200 pula terus mendapat penggunaan tanpa had setiap hari.",
+            "date": "2026-09-09T19:18:26+00:00",
+            "message_id": 9267,
+            "message_key": "@testingcatalog:9267"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google announced new cross-app integrations across Google Workspace.  \n\n\"5 new agentic capabilities across Google Workspace apps\" \n\n1. Creating a presentation directly from Google Chat\n2. Building detailed spreadsheets without leaving Google Drive\n3. Drafting and sending team emails directly inside Google Docs\n4. Transforming long email threads into structured briefs\n5. Converting a written proposal in Docs into a branded deck",
+            "translated_text": "Google umumkan integrasi rentas aplikasi baru dalam Google Workspace.\n\n\"5 keupayaan 'agentic' baru merentasi aplikasi Google Workspace\"\n\n1. Buat pembentangan terus dari Google Chat\n2. Bina hamparan kerja terperinci tanpa perlu keluar dari Google Drive\n3. Draf dan hantar e-mel pasukan terus dalam Google Docs\n4. Tukar rantaian e-mel yang panjang jadi ringkasan berstruktur\n5. Tukar cadangan bertulis dalam Docs jadi dek berjenama",
+            "date": "2026-09-09T18:24:59+00:00",
+            "message_id": 9266,
+            "message_key": "@testingcatalog:9266"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "APPLE \ud83d\udd25: iPhone Duop is here! \n\n> 24h of battery life on a charge. \n> Powered by a new A20 PRO chip. \n> Can be used as a clock \ud83d\udc80\n> Multitasking support across various apps. \n> Thinnest iPhone ever \ud83d\udc40\n> Pre-orders start in October.",
+            "translated_text": "APPLE \ud83d\udd25: iPhone Duop dah sampai!\n\n> Bateri tahan 24 jam dengan sekali cas.\n> Dikuasakan oleh cip A20 PRO baharu.\n> Boleh digunakan sebagai jam \ud83d\udc80\n> Boleh buat banyak kerja serentak dalam pelbagai aplikasi.\n> iPhone paling nipis pernah ada \ud83d\udc40\n> Pra-tempahan bermula Oktober.",
+            "date": "2026-09-09T18:19:15+00:00",
+            "message_id": 9265,
+            "message_key": "@testingcatalog:9265"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "APPLE \ud83d\udd25: Apple Watch will be able to capture audio from the world around you, save notes as memories, summarise meetings, and more!\n\n> Comes in the form of new Live Rewind and Siri Recap features. \n> Requires Siri AI to work; comes later this year. \n\nLoads of startups got killed \ud83d\udc80",
+            "translated_text": "APPLE \ud83d\udd25: Apple Watch nanti boleh rakam audio dari sekeliling anda, simpan nota sebagai memori, ringkaskan mesyuarat, dan macam-macam lagi!\n\n> Ini datang dalam bentuk ciri baharu Live Rewind dan Siri Recap.\n> Perlukan Siri AI untuk berfungsi; akan datang hujung tahun ni.\n\nBanyak startup yang 'gulung tikar' \ud83d\udc80",
+            "date": "2026-09-09T17:51:30+00:00",
+            "message_id": 9264,
+            "message_key": "@testingcatalog:9264"
         }
     ]
 }
