@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-09T08:46:15.048202",
+    "timestamp": "2026-09-09T13:31:40.883050",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30506,6 +30506,56 @@
             "date": "2026-09-09T07:45:21+00:00",
             "message_id": 9254,
             "message_key": "@testingcatalog:9254"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Inception launches Mercury 2.5 at 1,107 tokens per second**](https://www.testingcatalog.com/inception-launches-mercury-2-5-at-1-107-tokens-per-second/)\n\nInception launched Mercury 2.5, a diffusion LLM claiming 40% higher intelligence than Mercury 2, 1,107 tokens per second, a 260K context window, and low pricing, targeting fast search, voice, and coding workloads.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Inception melancarkan Mercury 2.5 pada 1,107 token sesaat**](https://www.testingcatalog.com/inception-launches-mercury-2-5-at-1-107-tokens-per-second/)\n\nInception dah lancarkan Mercury 2.5, sebuah LLM jenis diffusion yang dikatakan 40% lebih pintar dari Mercury 2, dengan kelajuan 1,107 token sesaat, jendela konteks 260K, dan harga yang berpatutan. Ia direka khas untuk kerja-kerja carian pantas, suara, dan pengekodan.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-09-09T11:49:01+00:00",
+            "message_id": 9261,
+            "message_key": "@testingcatalog:9261"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches ChatGPT Images 2.5 with faster editing**](https://www.testingcatalog.com/openai-launches-chatgpt-images-2-5-with-faster-editing/)\n\nOpenAI\u2019s ChatGPT Images 2.5 brings faster image generation, sharper output, tighter edit control, and stronger subject consistency. It adds Sketch, templates, and API models Flare and Sunburst for consumer and production use.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "translated_text": "[**OpenAI lancarkan ChatGPT Images 2.5 dengan suntingan lebih pantas**](https://www.testingcatalog.com/openai-launches-chatgpt-images-2-5-with-faster-editing/)\n\nChatGPT Images 2.5 dari OpenAI ni bawa banyak peningkatan, macam penjanaan imej yang lebih pantas, hasil yang lebih tajam, kawalan suntingan yang lebih ketat, dan konsistensi subjek yang lebih kuat. Ia juga tambah ciri Sketch, templat, dan model API Flare dengan Sunburst untuk kegunaan pengguna biasa dan juga untuk produksi.\n\n\ud83d\uddde #chatgpt @testingcatalog",
+            "date": "2026-09-09T11:46:08+00:00",
+            "message_id": 9260,
+            "message_key": "@testingcatalog:9260"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta introduces Muse as a proactive personal agent**](https://www.testingcatalog.com/meta-introduces-muse-as-a-proactive-personal-agent/)\n\nMeta unveiled Muse, a persistent AI agent for long-running personal tasks. It works in the background, uses web and system tools, keeps context across chats, and adds logs, approvals and memory controls for oversight and safety.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta memperkenalkan Muse sebagai ejen peribadi proaktif**](https://www.testingcatalog.com/meta-introduces-muse-as-a-proactive-personal-agent/)\n\nMeta memperkenalkan Muse, ejen AI yang berterusan untuk tugasan peribadi jangka panjang. Ia berfungsi di latar belakang, menggunakan alatan web dan sistem, mengekalkan konteks merentasi sembang, serta menambah log, kelulusan, dan kawalan memori untuk pengawasan dan keselamatan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-09T11:40:13+00:00",
+            "message_id": 9259,
+            "message_key": "@testingcatalog:9259"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-09T10:35:17+00:00",
+            "message_id": 9258,
+            "message_key": "@testingcatalog:9258"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: AI alignment researchers from Anthropic are raising awareness of risks that future models with RSI capabilities may posses.\n\n\u201cWe really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade.\u201d\n\u201cNeither company is acting responsibly.\u201d\n\nThese two tweets could be the most important pieces of text ever written in the entire history of humanity.\n\n* I know I am late with this coverage but it is extremely important to amplify.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Penyelidik keselarasan AI dari Anthropic sedang meningkatkan kesedaran tentang risiko yang mungkin dimiliki oleh model masa depan dengan keupayaan RSI.\n\n\u201cKami betul-betul percaya AI boleh membunuh semua manusia! Saya sendiri rasa kemungkinan itu lebih 10% dalam tempoh sedekad akan datang.\u201d\n\u201cKedua-dua syarikat tidak bertindak secara bertanggungjawab.\u201d\n\nDua ciapan ini mungkin adalah teks paling penting yang pernah ditulis dalam seluruh sejarah manusia.\n\n* Saya tahu saya lambat sikit dengan liputan ini, tapi sangat penting untuk disebarkan.",
+            "date": "2026-09-09T10:35:17+00:00",
+            "message_id": 9257,
+            "message_key": "@testingcatalog:9257"
         }
     ]
 }
