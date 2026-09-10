@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-10T20:33:39.204114",
+    "timestamp": "2026-09-10T22:58:01.784408",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30776,6 +30776,16 @@
             "date": "2026-09-10T18:25:51+00:00",
             "message_id": 9280,
             "message_key": "@testingcatalog:9280"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-Live-1 for full-duplex voice agents**](https://www.testingcatalog.com/openai-launches-gpt-live-1-for-full-duplex-voice-agents/)\n\nOpenAI released GPT-Live-1 in the API, a full-duplex voice model for apps and workflows that listens and speaks at once, supports interruptions, cuts latency, and offers prompt-based control, telephony use, and separate backend pricing.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan GPT-Live-1 untuk ejen suara dupleks penuh**](https://www.testingcatalog.com/openai-launches-gpt-live-1-for-full-duplex-voice-agents/)\n\nOpenAI telah mengeluarkan GPT-Live-1 dalam API, sebuah model suara dupleks penuh untuk aplikasi dan aliran kerja yang boleh mendengar dan bercakap serentak, menyokong gangguan, mengurangkan kependaman, serta menawarkan kawalan berasaskan *prompt*, penggunaan telefoni, dan harga *backend* yang berasingan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-10T20:45:46+00:00",
+            "message_id": 9284,
+            "message_key": "@testingcatalog:9284"
         }
     ]
 }
