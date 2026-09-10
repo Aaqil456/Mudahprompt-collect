@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-10T03:36:23.851388",
+    "timestamp": "2026-09-10T08:44:13.181350",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30646,6 +30646,36 @@
             "date": "2026-09-09T23:03:20+00:00",
             "message_id": 9269,
             "message_key": "@testingcatalog:9269"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 10\n\nAPPLE \ud83d\udd25:\n- iPhone Duo, first foldable. Starts at $1,999. Ships Oct 23.\n- iPhone 18 Pro and Pro Max announced. A20 Pro is built for on-device models.\n- New AirPods 5. New Apple Watch Series 12 and Ultra 4.\n- iPhone is now an intelligence hub: local models plus cloud.\n- Siri AI gets immersive voices running on local models.\n- Watch can capture nearby audio via Live Rewind and Siri Recap.\n\nDEEPSEEK \ud83d\udd25:\n- V4.1 Flash is out. Smallest model in the new family at 552B params, with native vision.\n\nOPENAI \ud83d\udd25:\n- ChatGPT Voice limits rose: 3h for Plus, 15h for Pro $100. Pro $200 stays unlimited.\n- Voice can now use GPT-5.6 Sol and GPT-6 Astra. Astra in voice is Pro-only.\n\nMETA \ud83d\udd25:\n- Stilla is joining Meta. Secure multiplayer AI teammate for companies, next to Muse on the consumer side.\n\nGOOGLE \ud83d\udd25:\n- Five new agentic Workspace features: Chat to slides, Drive to sheets, Docs to email, threads to briefs, proposals to decks.\n\nxAI \ud83d\udd25:\n- Grok 4.7 is still aimed at ~Sept 12.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.\n** Email version of this brief will be available soon.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 10 Sept\n\nAPPLE \ud83d\udd25:\n- iPhone Duo, telefon boleh lipat pertama, akan mula dijual pada harga $1,999 dan dihantar pada 23 Okt.\n- iPhone 18 Pro dan Pro Max diumumkan. Cip A20 Pro dibina khas untuk model dalam peranti.\n- AirPods 5 baharu. Apple Watch Series 12 dan Ultra 4 baharu.\n- iPhone kini berfungsi sebagai hab pintar, menggabungkan model tempatan dan awan.\n- Siri AI kini dilengkapi suara yang lebih mendalam, dikuasakan oleh model tempatan.\n- Apple Watch boleh merakam audio berdekatan melalui ciri Live Rewind dan Siri Recap.\n\nDEEPSEEK \ud83d\udd25:\n- V4.1 Flash sudah dilancarkan. Ia adalah model terkecil dalam keluarga baharu ini, dengan 552 bilion parameter dan dilengkapi penglihatan asli.\n\nOPENAI \ud83d\udd25:\n- Had penggunaan suara ChatGPT telah dinaikkan: 3 jam untuk Plus, 15 jam untuk Pro $100. Untuk Pro $200, ia kekal tanpa had.\n- Suara kini boleh menggunakan GPT-5.6 Sol dan GPT-6 Astra. Astra dalam suara hanya untuk pengguna Pro.\n\nMETA \ud83d\udd25:\n- Stilla akan menyertai Meta. Ia akan menjadi rakan sepasukan AI berbilang pemain yang selamat untuk syarikat, melengkapi Muse di bahagian pengguna.\n\nGOOGLE \ud83d\udd25:\n- Lima ciri Workspace agentic baharu diperkenalkan: Tukar Chat ke slaid, Drive ke helaian, Docs ke e-mel, perbincangan ke ringkasan, dan cadangan ke persembahan.\n\nxAI \ud83d\udd25:\n- Grok 4.7 masih disasarkan untuk dilancarkan sekitar 12 Sept.\n\n* Ringkasan ini digubah menggunakan Grok, dengan memilih berita utama dan melakukan sedikit penyuntingan selepas itu.\n** Versi e-mel ringkasan ini akan tersedia tidak lama lagi.",
+            "date": "2026-09-10T07:43:43+00:00",
+            "message_id": 9273,
+            "message_key": "@testingcatalog:9273"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-10T06:12:07+00:00",
+            "message_id": 9272,
+            "message_key": "@testingcatalog:9272"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DeepSeek V4.1 Flash is now available on Huggingface!\n\n552B parameters MoE model with a new Encoder-Decoder structure.\nV4.1 Flash adopted a new pre-training method and underwent larger-scale reinforcement learning post-training.\nThe smallest model in DeepSeek new architecture family, with native visual understanding.",
+            "translated_text": "DeepSeek V4.1 Flash dah ada di Huggingface!\n\nModel MoE 552B parameter dengan struktur Encoder-Decoder yang baru.\nV4.1 Flash guna kaedah pra-latihan baru dan melalui pembelajaran pengukuhan pasca-latihan berskala lebih besar.\nModel paling kecil dalam keluarga seni bina baru DeepSeek, dengan pemahaman visual asli.",
+            "date": "2026-09-10T06:12:07+00:00",
+            "message_id": 9271,
+            "message_key": "@testingcatalog:9271"
         }
     ]
 }
