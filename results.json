@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-10T13:23:50.140306",
+    "timestamp": "2026-09-10T17:32:39.043723",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30696,6 +30696,46 @@
             "date": "2026-09-10T12:18:50+00:00",
             "message_id": 9274,
             "message_key": "@testingcatalog:9274"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-10T16:13:29+00:00",
+            "message_id": 9279,
+            "message_key": "@testingcatalog:9279"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini desktop app for Windows is now available! \n\nSeems like Alt + Space in-app editing is supported too. \n\nTesting time? \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Aplikasi desktop Gemini untuk Windows dah ada!\n\nNampaknya, edit dalam aplikasi guna Alt + Space pun disokong.\n\nMasa untuk cuba? \ud83d\udc40",
+            "date": "2026-09-10T16:13:29+00:00",
+            "message_id": 9278,
+            "message_key": "@testingcatalog:9278"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse assistant will get support for custom voice creation, potentially powered by MAI models.  \n\n> Users will be able to ask Muse to generate any voice based on their prompt directly in the chat. The generated voice will become selectable for use in the voice more. \n\n> This functionality might be powered by MAI models according to spotted labels. However, Meta is also known to experiment with models from other labs to benchmark their own. \n\n> Users will be able to toggle \"Working sounds\" for the Muse agent, so they can hear when the Muse avatar is \"typing\".",
+            "translated_text": "META \ud83d\udd25: Pembantu Muse akan dapat sokongan untuk penciptaan suara tersuai, mungkin dikuasakan oleh model MAI.\n\n> Pengguna boleh minta Muse untuk hasilkan apa-apa suara berdasarkan arahan mereka terus dalam sembang. Suara yang dihasilkan itu nanti boleh dipilih untuk digunakan dalam mod suara.\n\n> Fungsi ini mungkin dikuasakan oleh model MAI mengikut label yang dikesan. Tapi, Meta juga diketahui suka bereksperimen dengan model dari makmal lain untuk penanda aras model mereka sendiri.\n\n> Pengguna boleh hidupkan/matikan \"bunyi kerja\" untuk ejen Muse, supaya mereka boleh dengar bila avatar Muse sedang \"menaip\".",
+            "date": "2026-09-10T13:44:31+00:00",
+            "message_id": 9277,
+            "message_key": "@testingcatalog:9277"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares custom voices and model upgrades for Muse**](https://www.testingcatalog.com/meta-prepares-custom-voices-and-model-upgrades-for-muse/)\n\nMeta launched Muse in the US on iOS, Android, web, and WhatsApp. Testing points to unreleased features including voice mode on the web, custom voice creation, hidden reasoning controls, and a possible Muse Spark model update.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta Sediakan Suara Tersuai dan Peningkatan Model untuk Muse**](https://www.testingcatalog.com/meta-prepares-custom-voices-and-model-upgrades-for-muse/)\n\nMeta dah lancarkan Muse di AS untuk iOS, Android, web, dan WhatsApp. Ujian-ujian yang dibuat tunjuk ada ciri-ciri yang belum dikeluarkan lagi, termasuklah mod suara di web, penciptaan suara tersuai, kawalan penaakulan tersembunyi, dan mungkin ada kemas kini model Muse Spark.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-10T13:31:11+00:00",
+            "message_id": 9276,
+            "message_key": "@testingcatalog:9276"
         }
     ]
 }
