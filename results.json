@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-10T08:44:13.181350",
+    "timestamp": "2026-09-10T13:23:50.140306",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30676,6 +30676,26 @@
             "date": "2026-09-10T06:12:07+00:00",
             "message_id": 9271,
             "message_key": "@testingcatalog:9271"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Meta develops Shared Agents for Muse and is likely planning to announce them at Meta Connect later in September. \n\nMeta Connect is happening just one week before OpenAI DevDay, where OpenAI plans to announce Managed Agents, potentially targeting a similar audience (small, mid-sized businesses). \n\nMeta recently acquired Stilla (a secure AI teammate for companies) and its team to help build business-focused agents. This direction will let Meta expand Shared Muse agents across its existing business suite on Facebook and Instagram (assumption). \n\nMore details below \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Meta sedang membangunkan Shared Agents untuk Muse dan kemungkinan besar akan mengumumkannya di Meta Connect pada akhir September nanti.\n\nMeta Connect akan berlangsung seminggu sebelum OpenAI DevDay, di mana OpenAI merancang untuk mengumumkan Managed Agents, berkemungkinan menyasarkan audiens yang serupa (perniagaan kecil dan sederhana).\n\nMeta baru-baru ini telah mengambil alih Stilla (rakan AI yang selamat untuk syarikat) dan pasukannya untuk membantu membina ejen yang fokus kepada perniagaan. Arah ini akan membolehkan Meta mengembangkan ejen Shared Muse merentasi suit perniagaan sedia ada mereka di Facebook dan Instagram (andaian).\n\nMaklumat lanjut di bawah \ud83d\udc40",
+            "date": "2026-09-10T12:20:34+00:00",
+            "message_id": 9275,
+            "message_key": "@testingcatalog:9275"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta to announce Shared Agents for Muse at Meta Connect**](https://www.testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect/)\n\nMeta\u2019s Muse app contains an unannounced Shared Agents section, suggesting users may soon build, configure, and share specialized sub-agents. The move aligns with Meta\u2019s cross-app AI strategy and could target businesses and creators.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta akan umumkan Agen Kongsi untuk Muse di Meta Connect**](https://www.testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect/)\n\nAplikasi Muse Meta ada bahagian Agen Kongsi yang belum diumumkan, menunjukkan pengguna mungkin tak lama lagi boleh bina, konfigurasi, dan kongsi sub-agen khusus. Langkah ini selari dengan strategi AI rentas aplikasi Meta dan mungkin sasar perniagaan serta pencipta kandungan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-10T12:18:50+00:00",
+            "message_id": 9274,
+            "message_key": "@testingcatalog:9274"
         }
     ]
 }
