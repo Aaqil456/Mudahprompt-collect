@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-11T14:52:55.096104",
+    "timestamp": "2026-09-11T21:35:00.752462",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30836,6 +30836,46 @@
             "date": "2026-09-11T11:17:51+00:00",
             "message_id": 9289,
             "message_key": "@testingcatalog:9289"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-11T20:40:42+00:00",
+            "message_id": 9293,
+            "message_key": "@testingcatalog:9293"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: DeepSeek mobile app has 4 different voices for you to select from, for its read-aloud feature. \n\nAre we expecting new TTS models from DeepSeek soon?",
+            "translated_text": "Kalau-kalau anda terlepas pandang: aplikasi mudah alih DeepSeek ada 4 pilihan suara berbeza untuk dipilih, untuk ciri baca-kuatnya.\n\nAdakah DeepSeek akan keluarkan model TTS baru tak lama lagi?",
+            "date": "2026-09-11T20:40:42+00:00",
+            "message_id": 9292,
+            "message_key": "@testingcatalog:9292"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-11T19:11:05+00:00",
+            "message_id": 9291,
+            "message_key": "@testingcatalog:9291"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok 4.7 has been delayed for few more Elon days. \n\nThe second half of September will be quite packed in terms of model releases. Both Meta and OpenAI would be expected to announce something around corresponding events like OpenAI DevDay and Meta Connect. Grok 4.7 will have to cross quite a high bar. \n\nSoon? \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok 4.7 dah tertangguh untuk beberapa hari lagi ikut kiraan Elon.\n\nHujung September nanti akan padat dengan pelancaran model-model baru. Kedua-dua Meta dan OpenAI dijangka akan umumkan sesuatu sempena acara masing-masing, macam OpenAI DevDay dan Meta Connect. Grok 4.7 kena melepasi standard yang agak tinggi.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-09-11T19:11:05+00:00",
+            "message_id": 9290,
+            "message_key": "@testingcatalog:9290"
         }
     ]
 }
