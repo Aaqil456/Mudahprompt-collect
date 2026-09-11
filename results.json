@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-10T22:58:01.784408",
+    "timestamp": "2026-09-11T00:56:39.942902",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30786,6 +30786,26 @@
             "date": "2026-09-10T20:45:46+00:00",
             "message_id": 9284,
             "message_key": "@testingcatalog:9284"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Perplexity is working on new Automations feature for Perplexity Computer.\n\nUsers will be able to schedule their workflows or invoce them based on a certain trigger. \n\n> \"Automate anything with Computer - Run workflows on a custom schedule or when specific conditions are met and get results delivered automatically\"",
+            "translated_text": "Perplexity sedang membangunkan ciri Automations baharu untuk Perplexity Computer.\n\nPengguna akan dapat menjadualkan aliran kerja mereka atau mencetuskannya berdasarkan pencetus tertentu.\n\n> \"Automatkan apa sahaja dengan Computer - Jalankan aliran kerja mengikut jadual tersuai atau apabila syarat tertentu dipenuhi dan dapatkan hasil dihantar secara automatik.\"",
+            "date": "2026-09-10T23:35:30+00:00",
+            "message_id": 9286,
+            "message_key": "@testingcatalog:9286"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI announced ChatGPT for Financial Services. \n\nThe feature is available to eligible financial institutions and allows users to connect a wide range of financial data to their ChatGPT conversations. \n\n> ChatGPT for Financial Services can be used with GPT-6 Astra inside ChatGPT Work mode. \n\n> GPT-6 Astra scores 9% higher than GPT-5.6 Sol and 7% higher than Claude Fable 5.1 on the OfficeQA Pro benchmark.\n\nChatGPT Terminal \ud83d\udc40",
+            "translated_text": "OpenAI telah mengumumkan ChatGPT for Financial Services.\n\nCiri ini tersedia untuk institusi kewangan yang layak dan membolehkan pengguna menghubungkan pelbagai data kewangan ke perbualan ChatGPT mereka.\n\n> ChatGPT for Financial Services boleh digunakan dengan GPT-6 Astra dalam mod ChatGPT Work.\n\n> GPT-6 Astra mencatat 9% lebih tinggi berbanding GPT-5.6 Sol dan 7% lebih tinggi berbanding Claude Fable 5.1 dalam penanda aras OfficeQA Pro.\n\nChatGPT Terminal \ud83d\udc40",
+            "date": "2026-09-10T23:31:19+00:00",
+            "message_id": 9285,
+            "message_key": "@testingcatalog:9285"
         }
     ]
 }
