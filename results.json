@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-11T00:56:39.942902",
+    "timestamp": "2026-09-11T10:49:19.651976",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30806,6 +30806,26 @@
             "date": "2026-09-10T23:31:19+00:00",
             "message_id": 9285,
             "message_key": "@testingcatalog:9285"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 11\n\nOPENAI \ud83d\udd25:\n- GPT-Live-1 is live in the API. Full-duplex voice agents that listen while they speak and can hand work to other models.\n- Agents API is in public beta. Managed cloud agents on the Codex harness, plus hosted sandboxes. Platform UI is rolling out too.\n- ChatGPT for Financial Services is out for eligible institutions. Work mode plus GPT-6 Astra, with Daloopa, PitchBook, and LSEG data.\n- New $200 Pro signups paused. Astra demand is straining capacity. Existing accounts, other plans, and the API stay up.\n\nGOOGLE \ud83d\udd25:\n- Gemini desktop app for Windows is out globally on Windows 10 and 11. Alt + Space overlay for drafts, docs, and media.\n\nMETA \ud83d\udd25:\n- Shared Muse agents are in development, likely headed for Meta Connect later this month.\n- Custom Muse voices are in the works. Prompt a voice in chat, then pick it in voice mode. Working-sounds toggle spotted too.\n\nCURSOR \ud83d\udd25:\n- Projects is in beta. One persistent coordinator thread with subagents, shared memory, scheduled tasks, and PR/Slack watchers.\n\nCOGNITION \ud83d\udd25:\n- SWE-2 is out in Devin Desktop and CLI. Post-trained on Kimi-K3. Hits 50.0 on FrontierCode and matches Fable 5.1 at 64% lower cost.\n- Free for Pro, Max, and Teams for a month. Devin Voice also shipped, on GPT-Live plus SWE-2.\n\nPERPLEXITY \ud83d\udd25:\n- Automations for Computer are in development. Schedule workflows or fire them on a trigger and get results delivered.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 11 Sept\n\nOPENAI \ud83d\udd25:\n- GPT-Live-1 dah tersedia dalam API. Ejen suara dupleks penuh yang boleh mendengar sambil bercakap dan boleh serahkan kerja kepada model lain.\n- API Ejen dah dalam beta awam. Ejen awan terurus pada Codex harness, ditambah dengan sandbox yang dihoskan. UI Platform pun sedang dilancarkan.\n- ChatGPT untuk Perkhidmatan Kewangan dah keluar untuk institusi yang layak. Mod kerja ditambah GPT-6 Astra, dengan data Daloopa, PitchBook, dan LSEG.\n- Pendaftaran Pro $200 baru dihentikan sementara. Permintaan Astra sedang menekan kapasiti. Akaun sedia ada, pelan lain, dan API masih berfungsi.\n\nGOOGLE \ud83d\udd25:\n- Aplikasi desktop Gemini untuk Windows dah tersedia secara global di Windows 10 dan 11. Overlay Alt + Space untuk draf, dokumen, dan media.\n\nMETA \ud83d\udd25:\n- Ejen Muse kongsi sedang dibangunkan, kemungkinan akan diperkenalkan di Meta Connect akhir bulan ini.\n- Suara Muse tersuai sedang dalam proses. Cadangkan suara dalam sembang, kemudian pilih dalam mod suara. Togol bunyi kerja pun dah dikesan.\n\nCURSOR \ud83d\udd25:\n- Projek dah dalam beta. Satu thread penyelaras yang berterusan dengan sub-ejen, memori kongsi, tugas berjadual, dan pemantau PR/Slack.\n\nCOGNITION \ud83d\udd25:\n- SWE-2 dah keluar dalam Devin Desktop dan CLI. Dilatih pasca pada Kimi-K3. Mencapai 50.0 di FrontierCode dan setanding dengan Fable 5.1 dengan kos 64% lebih rendah.\n- Percuma untuk Pro, Max, dan Teams selama sebulan. Devin Voice pun dah dihantar, menggunakan GPT-Live ditambah SWE-2.\n\nPERPLEXITY \ud83d\udd25:\n- Automasi untuk Komputer sedang dibangunkan. Jadualkan aliran kerja atau aktifkan ia berdasarkan pencetus dan dapatkan hasil yang dihantar.\n\n* Ringkasan ini digubah menggunakan Grok, dengan memilih berita penting dan melakukan sedikit penyuntingan pasca.",
+            "date": "2026-09-11T08:47:26+00:00",
+            "message_id": 9288,
+            "message_key": "@testingcatalog:9288"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches ChatGPT for Financial Services**](https://www.testingcatalog.com/openai-launches-chatgpt-for-financial-services/)\n\nOpenAI launched ChatGPT for Financial Services, combining financial data and GPT-6 Astra for research, modeling, and client materials, with enterprise controls, source citations, and integrations shaped by Morgan Stanley and Evercore.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI Lancar ChatGPT untuk Perkhidmatan Kewangan**](https://www.testingcatalog.com/openai-launches-chatgpt-for-financial-services/)\n\nOpenAI dah lancarkan ChatGPT untuk Perkhidmatan Kewangan. Ia menggabungkan data kewangan dengan GPT-6 Astra untuk penyelidikan, pemodelan, dan bahan-bahan pelanggan. Sistem ni juga lengkap dengan kawalan peringkat korporat, rujukan sumber, dan integrasi yang dibentuk oleh Morgan Stanley dan Evercore.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-11T07:37:52+00:00",
+            "message_id": 9287,
+            "message_key": "@testingcatalog:9287"
         }
     ]
 }
