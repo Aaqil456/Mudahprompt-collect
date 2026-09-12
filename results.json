@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-12T16:05:51.517701",
+    "timestamp": "2026-09-12T19:01:40.409944",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30926,6 +30926,26 @@
             "date": "2026-09-12T14:52:42+00:00",
             "message_id": 9296,
             "message_key": "@testingcatalog:9296"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-12T16:52:46+00:00",
+            "message_id": 9301,
+            "message_key": "@testingcatalog:9301"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development. \n\nGoogle next? Will we see any statement from Chinese frontier labs as well? \n\nAI weekend unfolds \ud83e\udd16",
+            "translated_text": "",
+            "date": "2026-09-12T16:52:46+00:00",
+            "message_id": 9300,
+            "message_key": "@testingcatalog:9300"
         }
     ]
 }
