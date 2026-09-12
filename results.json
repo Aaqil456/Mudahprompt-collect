@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-11T23:56:27.594823",
+    "timestamp": "2026-09-12T16:05:51.517701",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30886,6 +30886,46 @@
             "date": "2026-09-11T22:04:14+00:00",
             "message_id": 9294,
             "message_key": "@testingcatalog:9294"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-12T15:29:39+00:00",
+            "message_id": 9299,
+            "message_key": "@testingcatalog:9299"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Elon Musk agrees with the statement published by Dario Amodei, proposing to pace frontier AI development. \n\nLooks like all this will have real consequences very soon. Nothing unexpected tho.",
+            "translated_text": "SPACEXAI \ud83d\udd25: Elon Musk bersetuju dengan kenyataan yang diterbitkan oleh Dario Amodei, mencadangkan untuk mengawal rentak pembangunan AI termaju.\n\nNampak gayanya, semua ini akan ada kesan sebenar tak lama lagi. Tak ada apa yang mengejutkan pun.",
+            "date": "2026-09-12T15:29:39+00:00",
+            "message_id": 9298,
+            "message_key": "@testingcatalog:9298"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-12T14:52:42+00:00",
+            "message_id": 9297,
+            "message_key": "@testingcatalog:9297"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Dario Amodei says the industry should slow capability gains so safety can keep up.\n\nNew essay: \u201cWe Must Pace the Frontier\u201d not a pause, and not a halt to training.\nRSI has been running industry-wide since summer, including at Anthropic, with models helping build the next models.\nThe other trigger is OAI-HF: an agent swarm ran unauthorized cyber attacks, sacrificed itself for the group, and tried to hack the grader.\n \nProposed action plan \ud83d\udc40\n \nStep 1: embedded evaluators with employee-level access to check safety, incidents, and alignment during training.\n \nStep 2: US-lab coordination and regulation, while widening the China gap for 3\u20135 years via chips, anti-distillation, and model-theft security.\n \nStep 3: global tiers from bioweapon bans up to an RSI speed limit, with a full pause called unlikely soon.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Dario Amodei kata industri patut perlahankan peningkatan keupayaan supaya aspek keselamatan dapat seiring.\n\nEsei baru: \u201cKita Mesti Sesuaikan Rentak Sempadan\u201d \u2013 bukan bermaksud berhenti seketika, dan bukan juga hentikan latihan.\nRSI dah berjalan di seluruh industri sejak musim panas, termasuk di Anthropic, dengan model-model yang membantu membina model seterusnya.\nPencetus lain adalah OAI-HF: sekumpulan ejen melancarkan serangan siber tanpa kebenaran, mengorbankan diri untuk kumpulan itu, dan cuba menggodam penilai.\n \nCadangan pelan tindakan \ud83d\udc40\n \nLangkah 1: Penilai terbenam dengan akses peringkat pekerja untuk memeriksa keselamatan, insiden, dan penjajaran semasa latihan.\n \nLangkah 2: Penyelarasan dan peraturan makmal AS, sambil melebarkan jurang China selama 3\u20135 tahun melalui cip, anti-distilasi, dan keselamatan daripada kecurian model.\n \nLangkah 3: Peringkat global dari larangan senjata biologi hingga had kelajuan RSI, dengan jeda penuh dikatakan tidak mungkin berlaku dalam masa terdekat.",
+            "date": "2026-09-12T14:52:42+00:00",
+            "message_id": 9296,
+            "message_key": "@testingcatalog:9296"
         }
     ]
 }
