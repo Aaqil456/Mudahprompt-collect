@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-13T09:13:27.741650",
+    "timestamp": "2026-09-13T20:40:56.557719",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -30986,6 +30986,26 @@
             "date": "2026-09-13T08:46:02+00:00",
             "message_id": 9304,
             "message_key": "@testingcatalog:9304"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-13T20:09:36+00:00",
+            "message_id": 9307,
+            "message_key": "@testingcatalog:9307"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: Satya Nadella agrees with pacing frontier AI development. \n\n> \u201cSuperintelligence that doesn\u2019t benefit humanity and is not under human control doesn't worth pursuing\u201d\n\n> \u201cWe welcome the research, focus, and deliberate pacing needed to get alignment right as the design goal.\u201d",
+            "translated_text": "MICROSOFT \ud83d\udd25: Satya Nadella setuju dengan rentak pembangunan AI canggih.\n\n\u201cSuperkecerdasan yang tak beri manfaat kepada manusia dan tak terkawal oleh manusia, tak berbaloi untuk dikejar.\u201d\n\n\u201cKami mengalu-alukan penyelidikan, fokus, dan rentak yang teliti yang diperlukan untuk memastikan penjajaran yang tepat sebagai matlamat reka bentuk.\u201d",
+            "date": "2026-09-13T20:09:36+00:00",
+            "message_id": 9306,
+            "message_key": "@testingcatalog:9306"
         }
     ]
 }
