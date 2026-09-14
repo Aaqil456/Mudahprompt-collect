@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-14T12:06:40.419815",
+    "timestamp": "2026-09-14T18:25:40.278399",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31026,6 +31026,56 @@
             "date": "2026-09-14T09:34:34+00:00",
             "message_id": 9308,
             "message_key": "@testingcatalog:9308"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Windows users with NVIDIA RTX GPUs can now use Portable Computer powered by local models!\n \n> Support for local MCPs and scheduled tasks has also been added.\n> Earlier, Portable Computer was introduced for NVIDIA DGX Spark devices. \n> Now, Portable Computer is also available on Windows PCs with a supported NVIDIA RTX GPU with 24GB of VRAM or higher. \n\nModels available locally \ud83d\udc40\n- PPLX 27B (Perplexity post-trained Qwen 3.8 27B)\n- Qwen 3.8 27B (stock) is not available on Windows\n- Nemotron 3.5 Lightning (~30B MoE, ~3B active) is marked as \"Coming Soon\"",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Pengguna Windows yang ada NVIDIA RTX GPU sekarang dah boleh guna Portable Computer yang dikuasakan oleh model tempatan!\n\n> Sokongan untuk MCP tempatan dan tugasan berjadual pun dah ditambah.\n> Sebelum ni, Portable Computer diperkenalkan untuk peranti NVIDIA DGX Spark.\n> Sekarang, Portable Computer pun dah ada dekat PC Windows yang ada NVIDIA RTX GPU yang disokong dengan 24GB VRAM atau lebih tinggi.\n\nModel yang boleh guna secara tempatan \ud83d\udc40\n- PPLX 27B (Qwen 3.8 27B yang dilatih semula oleh Perplexity)\n- Qwen 3.8 27B (stock) tak boleh guna dekat Windows\n- Nemotron 3.5 Lightning (~30B MoE, ~3B active) ditanda sebagai \"Akan Datang\"",
+            "date": "2026-09-14T15:49:34+00:00",
+            "message_id": 9314,
+            "message_key": "@testingcatalog:9314"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Interactive Reports for Gemini Notebook will allow users to embed Mind Maps, Slide Decks, Flash Cards and Quizzes right inside the report. \n\nAt first, the system will generate a report with placeholders so users can explicitly create the artifacts they want embedded.",
+            "translated_text": "GOOGLE \ud83d\udd25: Laporan Interaktif untuk Gemini Notebook akan membenarkan pengguna untuk menyertakan Peta Minda, Slide Pembentangan, Kad Imbas dan Kuiz terus di dalam laporan itu.\n\nMula-mula, sistem akan menjana laporan dengan ruang letak supaya pengguna boleh cipta sendiri bahan yang mereka nak sertakan.",
+            "date": "2026-09-14T14:47:00+00:00",
+            "message_id": 9313,
+            "message_key": "@testingcatalog:9313"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early look at Interactive Reports on Gemini Notebook**](https://www.testingcatalog.com/early-look-at-interactive-reports-on-gemini-notebook/)\n\nGoogle appears close to launching Interactive Reports in Gemini Notebook: longer reports with embedded mind maps, slides, quizzes, and flashcards generated on demand, combining research, teaching, and explainer formats in one document.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Pandangan awal Laporan Interaktif di Gemini Notebook**](https://www.testingcatalog.com/early-look-at-interactive-reports-on-gemini-notebook/)\n\nGoogle nampaknya dah nak lancarkan Laporan Interaktif dalam Gemini Notebook: laporan yang lebih panjang yang disertakan peta minda, slaid, kuiz, dan kad imbas yang dijana mengikut permintaan, menggabungkan format penyelidikan, pengajaran, dan penerangan dalam satu dokumen.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-14T14:29:19+00:00",
+            "message_id": 9312,
+            "message_key": "@testingcatalog:9312"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: A draft of the \"Code of Conduct\" has been published, introducing the term \"Humanist Superintelligence\" (HSI).\n\nKey principles \ud83d\udc40\n\n- People matter more than AI.\n- AI must remain under meaningful human control.\n- Safety takes priority over task completion.\n- AI should remain a tool, not imitate a person.\n- AI must not pursue independent goals.\n- AI must stay within its authorized scope.\n- Users must retain control over consequential decisions.\n- AI should strengthen human reasoning and autonomy.\n- Models must be accurate, transparent, and honest.\n- AI must acknowledge uncertainty and correct mistakes.\n- Models must not manipulate or exploit users.\n- AI must respect personal and emotional boundaries.\n- AI should support, not replace, human relationships.\n- Models should discourage emotional dependence on AI.\n- AI should respect cultural and personal differences.\n- Human dignity and fundamental rights must be protected.\n- AI should serve the public interest.\n- Models should remain politically neutral in elections.\n- AI actions should be traceable and understandable.\n- Tool use should be authorized, limited, and reversible.\n\n\u201cAt Microsoft AI, we\u2019re working towards Humanist Superintelligence (HSI): incredibly advanced AI capabilities that always work for people and in the service of humanity more generally.\u201d",
+            "translated_text": "MICROSOFT: Draf \"Kod Etika\" telah diterbitkan, memperkenalkan istilah \"Humanist Superintelligence\" (HSI).\n\nPrinsip-prinsip utama\n\n*   Manusia lebih penting daripada AI.\n*   AI mesti kekal di bawah kawalan manusia yang bermakna.\n*   Keselamatan diutamakan berbanding penyelesaian tugas.\n*   AI sepatutnya kekal sebagai alat, bukan meniru manusia.\n*   AI tidak boleh mengejar matlamat bebas.\n*   AI mesti kekal dalam skop yang dibenarkan.\n*   Pengguna mesti mengekalkan kawalan ke atas keputusan yang penting.\n*   AI sepatutnya mengukuhkan penaakulan dan autonomi manusia.\n*   Model mesti tepat, telus, dan jujur.\n*   AI mesti mengakui ketidakpastian dan membetulkan kesilapan.\n*   Model tidak boleh memanipulasi atau mengeksploitasi pengguna.\n*   AI mesti menghormati batasan peribadi dan emosi.\n*   AI sepatutnya menyokong, bukan menggantikan, hubungan manusia.\n*   Model sepatutnya mengelakkan kebergantungan emosi pada AI.\n*   AI sepatutnya menghormati perbezaan budaya dan peribadi.\n*   Maruah manusia dan hak asasi mesti dilindungi.\n*   AI sepatutnya berkhidmat untuk kepentingan awam.\n*   Model sepatutnya kekal neutral dari segi politik dalam pilihan raya.\n*   Tindakan AI sepatutnya boleh dikesan dan difahami.\n*   Penggunaan alat sepatutnya dibenarkan, terhad, dan boleh diterbalikkan.\n\n\u201cDi Microsoft AI, kami sedang berusaha ke arah Humanist Superintelligence (HSI): keupayaan AI yang sangat canggih yang sentiasa berfungsi untuk manusia dan secara amnya berkhidmat untuk kemanusiaan.\u201d",
+            "date": "2026-09-14T14:14:40+00:00",
+            "message_id": 9311,
+            "message_key": "@testingcatalog:9311"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares Claude Money for personal finance**](https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/)\n\nAnthropic is testing a Claude \u201cMoney\u201d tab in its mobile app that would let users link bank accounts and ask spending and budgeting questions. The unreleased feature points to a possible US-first launch, though timing remains unclear.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic sedang siapkan Claude Money untuk kewangan peribadi**](https://www.testingcatalog.com/anthropic-prepares-claude-money-for-personal-finance/)\n\nAnthropic sedang uji tab Claude \u201cMoney\u201d dalam aplikasi mudah alih mereka. Tab ini akan membolehkan pengguna sambungkan akaun bank dan tanya soalan berkaitan perbelanjaan serta bajet. Ciri yang belum dilancarkan ini menunjukkan kemungkinan ia akan dilancarkan dahulu di AS, walaupun masa pelancarannya masih belum jelas.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-09-14T13:08:07+00:00",
+            "message_id": 9310,
+            "message_key": "@testingcatalog:9310"
         }
     ]
 }
