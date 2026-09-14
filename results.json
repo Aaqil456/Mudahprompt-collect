@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-13T20:40:56.557719",
+    "timestamp": "2026-09-14T12:06:40.419815",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31006,6 +31006,26 @@
             "date": "2026-09-13T20:09:36+00:00",
             "message_id": 9306,
             "message_key": "@testingcatalog:9306"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-14T09:34:35+00:00",
+            "message_id": 9309,
+            "message_key": "@testingcatalog:9309"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok 4.8 will be a 2.5T-parameter model built on a new C++ software stack, and Elon Musk expects it to finish training this week. \n\n> While Grok 4.8 is in training, Grok 4.7 is still expected to arrive shortly, factoring in a previously communicated delay. \n\n> Grok 4.8 will be \u00b167% larger than Grok 4.6, which is currently available. This size puts it into the same tier as Kimi K3 with 2.8T params. \n\nNot very soon \ud83d\udc40",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok 4.8 akan menjadi model berparameter 2.5 trilion, dibina atas platform perisian C++ yang baharu, dan Elon Musk jangkakan ia akan selesai dilatih minggu ini.\n\n> Sementara Grok 4.8 sedang dilatih, Grok 4.7 pula dijangka akan tiba tak lama lagi, mengambil kira kelewatan yang dimaklumkan sebelum ini.\n\n> Grok 4.8 akan lebih kurang 67% lebih besar daripada Grok 4.6, yang sedang tersedia sekarang. Saiz ini meletakkannya dalam kategori yang sama dengan Kimi K3 yang mempunyai 2.8 trilion parameter.\n\nBukan dalam masa terdekat \ud83d\udc40",
+            "date": "2026-09-14T09:34:34+00:00",
+            "message_id": 9308,
+            "message_key": "@testingcatalog:9308"
         }
     ]
 }
