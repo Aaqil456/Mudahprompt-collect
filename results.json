@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-14T18:25:40.278399",
+    "timestamp": "2026-09-15T01:15:55.444716",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31076,6 +31076,36 @@
             "date": "2026-09-14T13:08:07+00:00",
             "message_id": 9310,
             "message_key": "@testingcatalog:9310"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-14T23:57:20+00:00",
+            "message_id": 9317,
+            "message_key": "@testingcatalog:9317"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI \u2764\ufe0f Glass Imaging\n \nOpenAI acquired Glass Imaging for $300 million, according to WSJ.\n \nGlass Imaging develops high quality smartphone cameras and was founded by former Apple employees.\nEarlier this year, OpenAI invested in Opal, a maker of premium webcams.\n\nHow big is the chance for us not to see OpenAI device this year?",
+            "translated_text": "OpenAI \u2764\ufe0f Glass Imaging\n\nOpenAI beli Glass Imaging dengan harga $300 juta, menurut WSJ.\n\nGlass Imaging membangunkan kamera telefon pintar berkualiti tinggi dan diasaskan oleh bekas pekerja Apple.\nAwal tahun ini, OpenAI melabur dalam Opal, sebuah syarikat pembuat webcam premium.\n\nSeberapa besar peluang untuk kita tak nampak peranti OpenAI tahun ini?",
+            "date": "2026-09-14T23:57:20+00:00",
+            "message_id": 9316,
+            "message_key": "@testingcatalog:9316"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ElevenLabs MCP can now generate voice, music, images & video**](https://www.testingcatalog.com/elevenlabs-mcp-can-now-generate-voice-music-images-video/)\n\nElevenLabs added ElevenCreative to its hosted MCP server, letting Claude, ChatGPT, Cursor and coding agents create audio, images and video in-chat via one OAuth sign-in, alongside existing agent management tools.\n\n\ud83d\uddde #elevenlabs @testingcatalog",
+            "translated_text": "[**ElevenLabs MCP kini boleh menjana suara, muzik, imej & video**](https://www.testingcatalog.com/elevenlabs-mcp-can-now-generate-voice-music-images-video/)\n\nElevenLabs dah masukkan ElevenCreative ke server MCP mereka, membolehkan Claude, ChatGPT, Cursor dan ejen pengekodan cipta audio, imej dan video dalam chat, cuma guna satu log masuk OAuth, bersama dengan alat pengurusan ejen yang sedia ada.\n\n\ud83d\uddde #elevenlabs @testingcatalog",
+            "date": "2026-09-14T22:40:44+00:00",
+            "message_id": 9315,
+            "message_key": "@testingcatalog:9315"
         }
     ]
 }
