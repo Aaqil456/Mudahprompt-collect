@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-15T13:15:22.377067",
+    "timestamp": "2026-09-15T18:00:28.526818",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31146,6 +31146,36 @@
             "date": "2026-09-15T08:39:40+00:00",
             "message_id": 9318,
             "message_key": "@testingcatalog:9318"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are rolling out on APIs, Google AI Studio, Gemini Live, and other apps. \n\nGemini 3.8 Live Extended Thinking (High) is taking the 1st spot on most benchmarks, overtaking GPT Live 1.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Live dan Gemini 3.8 Live Extended Thinking sedang dilancarkan di APIs, Google AI Studio, Gemini Live, dan aplikasi-aplikasi lain.\n\nGemini 3.8 Live Extended Thinking (High) menduduki tempat pertama dalam kebanyakan penanda aras, mengatasi GPT Live 1.",
+            "date": "2026-09-15T17:13:44+00:00",
+            "message_id": 9325,
+            "message_key": "@testingcatalog:9325"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-15T15:01:15+00:00",
+            "message_id": 9323,
+            "message_key": "@testingcatalog:9323"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A big \u201cship\u201d week has been declared, teasing new models from GPT-6 family.\n\nGPT-6 Sol is expected as well as smaller GPT-6 models.\nThe next generation model is reportedly \u201cslowed down\u201d and it is yet unclear if we will see it in September.\n\nWhat else do we expect? \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Mereka dah umumkan minggu 'pelancaran' besar, dan nampaknya akan ada model-model baru dari siri GPT-6.\nKita boleh jangkakan GPT-6 Sol akan keluar, dan juga model-model GPT-6 yang lebih kecil.\nModel generasi seterusnya ni khabarnya 'diperlahankan', jadi tak pasti lagi kita akan nampak ia keluar bulan September nanti.\nApa lagi yang kita jangkakan? \ud83d\udc40",
+            "date": "2026-09-15T15:01:15+00:00",
+            "message_id": 9322,
+            "message_key": "@testingcatalog:9322"
         }
     ]
 }
