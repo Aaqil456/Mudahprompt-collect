@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-15T01:15:55.444716",
+    "timestamp": "2026-09-15T13:15:22.377067",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31106,6 +31106,46 @@
             "date": "2026-09-14T22:40:44+00:00",
             "message_id": 9315,
             "message_key": "@testingcatalog:9315"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Code Hub? Users will be able to see all their sessions across various places in Claude Desktop. \n\n> Model, effort, and permission mode selectors are configurable for each. \n> Both local and cloud sessions are listed there so it is easy to switch between them.",
+            "translated_text": "Claude Code Hub? Pengguna boleh tengok semua sesi diorang dekat pelbagai tempat dalam Claude Desktop.\n- Mod model, usaha, dan kebenaran boleh diubah suai untuk setiap sesi.\n- Sesi tempatan dan awan, dua-dua ada disenaraikan kat situ, jadi senang nak tukar-tukar antara diorang.",
+            "date": "2026-09-15T11:41:26+00:00",
+            "message_id": 9321,
+            "message_key": "@testingcatalog:9321"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 15\n\nAI SLOWDOWN \ud83d\udd25:\n> Dario Amodei: pace the frontier, not halt it \u2014 embedded evaluators, lab coordination, then a global deal.\n> Elon, All-In: peer-review rival models before release. \u201cDario is right.\u201d\n> Sam Altman agrees, will match evaluators, and says pacing means slower, not stopped.\n> Demis Hassabis: Amodei\u2019s essay \u201cpoints towards the right path,\u201d details TBD, plus DeepMind\u2019s standards-body plan.\n> Satya Nadella welcomes deliberate pacing and embedded evaluators; superintelligence without human control is \u201cnot worth pursuing.\u201d\n> Alexandr Wang: alignment is fundamental and may gate scaling near the frontier, with no join on a coordinated slowdown.\n> Trump rejects a slowdown: takeover talk is a \u201choax,\u201d control is a \u201cstrong and smart president,\u201d and a \u201csick conspiracy\u201d against AI only helps China.\n> China MFA\u2019s Guo Jiakun: slowdown talk is \u201cfear-mongering\u201d; confrontation \u201cserves no one\u2019s interest.\u201d\n\nMODEL FORECAST \ud83d\udd25:\n-\u200c Today? Gemini 3.8 Live and Live Extended Thinking slugs appeared on the Cloud quota page; not public.\n-\u200c This week? Grok 4.7 should land near Opus 5.0, not 5.1; multimodal still needs work.\n-\u200c This week? Testers say some Claude Code Opus 5 traffic is routing to Opus 5.2 \u2014 faster and less lazy, still unofficial.\n-\u200c Soon: Grok 4.8 is a 2.5T model on a new C++ stack; training wraps this week, then RL.\n-\u200c Not soon: Grok 4.9 is \u201cprobably Astra/Fable class\u201d; Grok 5 is \u201cmaybe better than anything.\u201d\n\nPERPLEXITY \ud83d\udd25:\n-\u200c Portable Computer is live on Windows PCs with NVIDIA RTX GPUs and 24GB+ VRAM, including local MCP and scheduled tasks.\n\nOPENAI \ud83d\udd25:\n-\u200c Bought Glass Imaging for $300M, per WSJ \u2014 an ex-Apple smartphone-camera startup, after the earlier Opal webcam stake.\n-\u200c Codex \u2014 got an official Arch Linux installer with pacman updates.\n\nGOOGLE \ud83d\udd25:\n-\u200c Interactive Reports incoming on Gemini Notebook: embed mind maps, slide decks, flashcards, and quizzes.\n-\u200c Gemini Live can run Deep Research in the background and ping you when the report is ready.\n-\u200c API slug antigravity-preview-09-2026 spotted: hosted Linux sandbox agent, expected to be powered by Gemini 3.8 Flash.\n\nP.S. All predictions in the Model Forecast section are unconfirmed and may change anytime.\n\nP.S.S. We've used Grok to compose this brief, cherry-picking the news and doing some post-editing.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 15 Sept\n\nPERLAHANAN AI \ud83d\udd25:\n> Dario Amodei: kawal rentak kemajuan, jangan hentikannya \u2014 dengan penilai terbenam, koordinasi makmal, kemudian perjanjian global.\n> Elon, All-In: semak model pesaing secara rakan sebaya sebelum dilancarkan. \u201cDario betul.\u201d\n> Sam Altman setuju, akan padankan penilai, dan kata mengawal rentak bermaksud lebih perlahan, bukan berhenti.\n> Demis Hassabis: esei Amodei \u201cmenunjukkan jalan yang betul,\u201d butiran akan ditentukan kemudian, ditambah pula dengan rancangan badan piawaian DeepMind.\n> Satya Nadella mengalu-alukan kawalan rentak yang sengaja dan penilai terbenam; kecerdasan super tanpa kawalan manusia \u201ctidak berbaloi untuk dikejar.\u201d\n> Alexandr Wang: penjajaran adalah asas dan mungkin mengehadkan skala berhampiran sempadan, tanpa menyertai perlahan secara terkoordinasi.\n> Trump menolak perlahan: cakap-cakap pengambilalihan adalah \u201cpenipuan,\u201d kawalan adalah \u201cpresiden yang kuat dan bijak,\u201d dan \u201ckonspirasi jahat\u201d terhadap AI hanya membantu China.\n> Guo Jiakun dari MFA China: cakap-cakap perlahan adalah \u201cpenyebar ketakutan\u201d; konfrontasi \u201ctidak menguntungkan sesiapa.\u201d\n\nRAMALAN MODEL \ud83d\udd25:\n-\u200c Hari ini? Gemini 3.8 Live dan Live Extended Thinking 'slugs' muncul di halaman kuota Cloud; belum umum.\n-\u200c Minggu ini? Grok 4.7 dijangka hampir dengan Opus 5.0, bukan 5.1; multimodal masih perlu diperbaiki.\n-\u200c Minggu ini? Penguji kata beberapa trafik Claude Code Opus 5 sedang dialihkan ke Opus 5.2 \u2014 lebih pantas dan kurang 'malas', masih tidak rasmi.\n-\u200c Tidak lama lagi: Grok 4.8 adalah model 2.5T pada 'stack' C++ baharu; latihan selesai minggu ini, kemudian RL.\n-\u200c Bukan tidak lama lagi: Grok 4.9 \u201cmungkin kelas Astra/Fable\u201d; Grok 5 \u201cmungkin lebih baik daripada apa-apa pun.\u201d\n\nPERPLEXITY \ud83d\udd25:\n-\u200c Portable Computer sudah tersedia di PC Windows dengan GPU NVIDIA RTX dan VRAM 24GB+, termasuk MCP tempatan dan tugas berjadual.\n\nOPENAI \ud83d\udd25:\n-\u200c Membeli Glass Imaging dengan harga $300 juta, menurut WSJ \u2014 sebuah syarikat permulaan kamera telefon pintar bekas Apple, selepas pegangan saham webcam Opal sebelum ini.\n-\u200c Codex \u2014 mendapat pemasang Arch Linux rasmi dengan kemas kini pacman.\n\nGOOGLE \ud83d\udd25:\n-\u200c Laporan Interaktif akan datang di Gemini Notebook: boleh masukkan peta minda, slaid pembentangan, kad imbas, dan kuiz.\n-\u200c Gemini Live boleh jalankan Deep Research di latar belakang dan akan memberitahu anda bila laporan sudah siap.\n-\u200c 'Slug' API antigravity-preview-09-2026 dikesan: ejen 'sandbox' Linux yang dihoskan, dijangka dikuasakan oleh Gemini 3.8 Flash.\n\nP.S. Semua ramalan dalam bahagian Ramalan Model tidak disahkan dan boleh berubah pada bila-bila masa.\n\nP.S.S. Kami telah menggunakan Grok untuk menyusun ringkasan ini, memilih berita penting dan melakukan sedikit penyuntingan selepas itu.",
+            "date": "2026-09-15T09:05:30+00:00",
+            "message_id": 9320,
+            "message_key": "@testingcatalog:9320"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-15T08:39:40+00:00",
+            "message_id": 9319,
+            "message_key": "@testingcatalog:9319"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking model names have started appearing on the GCP Console quotas page. \n\nA new Gemini Live model, based on the latest Gemini 3.8 Flash, is expected to be a big leap. \n\n> So far, Gemini 3.1 Live Preview is the latest Gemini Live model available via APIs. \n\n> Recently, Google updated Gemini Live with support for Connector calls and the possibility of triggering Deep Research. \n\n> OpenAI also released the GPT Live 1 model on the APIs last week, and it seems like Google has a response to that. \n\n* Discovered by Bedros Pamboukian",
+            "translated_text": "GOOGLE \ud83d\udd25: Nama model Gemini 3.8 Live dan Gemini 3.8 Live Extended Thinking dah mula muncul dekat halaman kuota GCP Console.\n\nModel Gemini Live baru, yang berasaskan Gemini 3.8 Flash terkini, dijangka akan jadi satu lonjakan besar.\n\n> Setakat ni, Gemini 3.1 Live Preview adalah model Gemini Live terkini yang boleh didapati melalui API.\n\n> Baru-baru ni, Google dah kemas kini Gemini Live dengan sokongan untuk panggilan Connector dan kemungkinan untuk mencetuskan Deep Research.\n\n> OpenAI pun dah keluarkan model GPT Live 1 dekat API minggu lepas, dan nampaknya Google ada jawapan untuk tu.\n\n* Ditemui oleh Bedros Pamboukian",
+            "date": "2026-09-15T08:39:40+00:00",
+            "message_id": 9318,
+            "message_key": "@testingcatalog:9318"
         }
     ]
 }
