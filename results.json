@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-16T11:04:51.830260",
+    "timestamp": "2026-09-16T16:22:04.287576",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31276,6 +31276,36 @@
             "date": "2026-09-16T08:29:53+00:00",
             "message_id": 9332,
             "message_key": "@testingcatalog:9332"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is preparing a Codex Replay feature that lets users test task execution from any imported conversation thread. \n\n> \"Start an independent Codex Replay controller on an available loopback port. In both Codex Desktop and Codex CLI, prefer an available Codex in-app browser and otherwise use your system browser.\"\n\n> \"Select one or more historical Claude threads, choose shared Codex models, and start their isolated implementations. Historical state and configuration are detected separately for each thread, with details available when needed.\"\n\n> \"View finished comparisons individually or in aggregate while remaining threads continue. Available GPT-5.6 Sol, Terra, and Luna models are selected by default.\"\n\n> \"Multiple replay sessions can run in parallel. Selection, execution, verification, evaluation, and results stay in the browser controller instead of a guided chat workflow.\"",
+            "translated_text": "OpenAI sedang siapkan ciri Codex Replay yang membolehkan pengguna uji pelaksanaan tugas dari mana-mana benang perbualan yang diimport.\n\n> \"Mulakan pengawal Codex Replay yang bebas pada port loopback yang tersedia. Dalam kedua-dua Codex Desktop dan Codex CLI, utamakan pelayar dalam aplikasi Codex yang tersedia, dan jika tiada, gunakan pelayar sistem anda.\"\n\n> \"Pilih satu atau lebih benang Claude yang lepas, pilih model Codex yang dikongsi, dan mulakan implementasi terasingnya. Keadaan dan konfigurasi sejarah dikesan secara berasingan untuk setiap benang, dengan butiran tersedia apabila diperlukan.\"\n\n> \"Lihat perbandingan yang telah selesai secara individu atau secara agregat sementara benang-benang yang lain berterusan. Model GPT-5.6 Sol, Terra, dan Luna yang tersedia dipilih secara lalai.\"\n\n> \"Beberapa sesi ulang tayang boleh berjalan secara selari. Pemilihan, pelaksanaan, pengesahan, penilaian, dan hasil kekal dalam pengawal pelayar dan bukannya aliran kerja sembang berpandu.\"",
+            "date": "2026-09-16T14:59:59+00:00",
+            "message_id": 9338,
+            "message_key": "@testingcatalog:9338"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GPT-6 Astra Fast Max will be a beast \ud83d\udc40",
+            "translated_text": "GPT-6 Astra Fast Max akan jadi memang padu \ud83d\udc40",
+            "date": "2026-09-16T14:30:08+00:00",
+            "message_id": 9337,
+            "message_key": "@testingcatalog:9337"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral models now power Firefox Smart Window**](https://www.testingcatalog.com/mistral-models-now-power-firefox-smart-window/)\n\nMistral and Mozilla are bringing private, multilingual AI to Firefox Smart Window, with regional language tuning, zero data retention, and support for search, tab discovery, and recalled content, starting in France and North America.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Model Mistral kini menggerakkan Firefox Smart Window**](https://www.testingcatalog.com/mistral-models-now-power-firefox-smart-window/)\n\nMistral dan Mozilla memperkenalkan AI peribadi dan berbilang bahasa kepada Firefox Smart Window, dengan penyesuaian bahasa mengikut wilayah, tiada penyimpanan data, serta sokongan untuk carian, penemuan tab, dan kandungan yang boleh diakses semula, bermula di Perancis dan Amerika Utara.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-09-16T12:57:24+00:00",
+            "message_id": 9336,
+            "message_key": "@testingcatalog:9336"
         }
     ]
 }
