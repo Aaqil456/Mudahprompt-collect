@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-15T21:14:05.746994",
+    "timestamp": "2026-09-16T00:10:25.823486",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31186,6 +31186,56 @@
             "date": "2026-09-15T20:23:52+00:00",
             "message_id": 9326,
             "message_key": "@testingcatalog:9326"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "> Interactive Reports are rolling out to all users in the coming weeks. Besides that, new Qwiz formats have been added too.",
+            "translated_text": "Interactive Reports sedang dilancarkan kepada semua pengguna dalam beberapa minggu akan datang. Selain itu, format Qwiz baharu turut ditambah.",
+            "date": "2026-09-15T22:04:16+00:00",
+            "message_id": 9331,
+            "message_key": "@testingcatalog:9331"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "> Realtime Voice Mode on Gemini Notebook is rolling out to Ultra subscribers this week and is expected to land for Pro users \"soon\".",
+            "translated_text": "",
+            "date": "2026-09-15T22:03:33+00:00",
+            "message_id": 9330,
+            "message_key": "@testingcatalog:9330"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Notebook on mobile is getting Voice Mode and Voice Recording! Interactive Reports on Gemini Notebook are rolling out as well.\n\nGemini Notebook users will soon be able to capture their thoughts or record lectures. \n\n> Voice Recorder will start rolling out next week for all users in English and other supported languages.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Notebook di telefon bimbit akan dapat Voice Mode dan Voice Recording! Interactive Reports di Gemini Notebook pun sedang dilancarkan juga.\n\nPengguna Gemini Notebook tak lama lagi akan dapat merekodkan idea mereka atau merakam kuliah.\n\n> Voice Recorder akan mula dilancarkan minggu depan untuk semua pengguna dalam bahasa Inggeris dan bahasa lain yang disokong.",
+            "date": "2026-09-15T22:02:58+00:00",
+            "message_id": 9329,
+            "message_key": "@testingcatalog:9329"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches Meta One globally with 50+ paid features**](https://www.testingcatalog.com/meta-launches-meta-one-globally-with-50-paid-features/)\n\nMeta One rolls out globally with paid tiers across Instagram, Facebook, WhatsApp and Meta AI. It adds 50+ features for consumers, creators and businesses, while core apps and standard Meta AI access remain free.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta memperkenalkan Meta One di seluruh dunia dengan lebih 50 ciri berbayar**](https://www.testingcatalog.com/meta-launches-meta-one-globally-with-50-paid-features/)\n\nMeta One kini dilancarkan di seluruh dunia dengan pilihan langganan berbayar untuk Instagram, Facebook, WhatsApp dan Meta AI. Ia menawarkan lebih 50 ciri untuk pengguna, pencipta kandungan dan perniagaan, manakala aplikasi utama dan akses Meta AI standard kekal percuma.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-15T21:38:47+00:00",
+            "message_id": 9328,
+            "message_key": "@testingcatalog:9328"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google rolled out Gemini 3.8 Live and Extended Thinking**](https://www.testingcatalog.com/google-rolled-out-gemini-3-8-live-and-extended-thinking/)\n\nGoogle launched Gemini 3.8 Live and Extended Thinking, voice models for near real-time dialogue, reasoning and task execution. Live serves high-volume, multilingual work; Extended Thinking handles complex workflows and leads key speech benchmarks.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google Perkenalkan Gemini 3.8 Live dan Extended Thinking**](https://www.testingcatalog.com/google-rolled-out-gemini-3-8-live-and-extended-thinking/)\n\nGoogle dah lancarkan Gemini 3.8 Live dan Extended Thinking, iaitu model suara yang boleh buat dialog, penaakulan, dan laksanakan tugas hampir dalam masa nyata. Live ni sesuai untuk kerja-kerja yang banyak dan pelbagai bahasa; Extended Thinking pula menguruskan aliran kerja yang rumit dan mendahului penanda aras utama dalam teknologi pertuturan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-15T21:34:59+00:00",
+            "message_id": 9327,
+            "message_key": "@testingcatalog:9327"
         }
     ]
 }
