@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-16T00:10:25.823486",
+    "timestamp": "2026-09-16T11:04:51.830260",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31236,6 +31236,46 @@
             "date": "2026-09-15T21:34:59+00:00",
             "message_id": 9327,
             "message_key": "@testingcatalog:9327"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Leaks: Google testing math-focused DeepThink V3 model**](https://www.testingcatalog.com/google-deepthink-v3-mathematica-leak/)\n\nLeaked screenshots point to Google testing a math-focused DeepThink V3 variant, \u201cMathematica,\u201d tuned for heavy calculation and symbolic reasoning, with a 1M-token context. Public release remains unconfirmed pending internal tests.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "",
+            "date": "2026-09-16T10:03:32+00:00",
+            "message_id": 9335,
+            "message_key": "@testingcatalog:9335"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Apodex launches Apodex v1.1 Deep Discover model**](https://www.testingcatalog.com/apodex-launches-apodex-v1-1-deep-discover-model/)\n\nApodex 1.1 shifts from answering questions to completing analytical work across files, with code execution, traceable outputs, mid-task recovery, and multi-agent coordination, posting large benchmark gains over 1.0.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Apodex melancarkan model Apodex v1.1 Deep Discover**](https://www.testingcatalog.com/apodex-launches-apodex-v1-1-deep-discover-model/)\n\nApodex 1.1 kini beralih daripada menjawab soalan kepada menyelesaikan kerja analisis merentasi fail, lengkap dengan pelaksanaan kod, output yang boleh dijejak, pemulihan pertengahan tugas, dan koordinasi pelbagai agen. Ini membolehkannya mencatatkan peningkatan penanda aras yang besar berbanding versi 1.0.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-09-16T09:05:17+00:00",
+            "message_id": 9334,
+            "message_key": "@testingcatalog:9334"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini Notebook adds Voice Chats and Interactive Reports**](https://www.testingcatalog.com/gemini-notebook-adds-voice-chats-and-interactive-reports/)\n\nGoogle is updating Gemini Notebook with real-time voice chat, mobile recording, interactive study reports, new quiz types, and short video overviews, while expanding free higher-limit plans for eligible college students.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Gemini Notebook kini ada Sembang Suara dan Laporan Interaktif**](https://www.testingcatalog.com/gemini-notebook-adds-voice-chats-and-interactive-reports/)\n\nGoogle sedang mengemaskini Gemini Notebook dengan sembang suara masa nyata, rakaman mudah alih, laporan kajian interaktif, jenis kuiz baharu, dan ringkasan video pendek, sambil memperluaskan pelan percuma had lebih tinggi untuk pelajar kolej yang layak.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-16T08:53:16+00:00",
+            "message_id": 9333,
+            "message_key": "@testingcatalog:9333"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 16\n\nGOOGLE \ud83d\udd25:\n- Gemini 3.8 Live and 3.8 Live Extended Thinking are out. 97-language auto-detect, near real-time vision, background tool calling.\n- Live is in Search Live plus Gemini API public preview. Extended Thinking is in Gemini Live, with Pro/Ultra getting it in Docs, Gmail, and Keep.\n- Gemini Notebook Voice Mode hits Ultra this week, Pro soon. Mobile voice recorder starts next week for all users, English first.\n- Interactive Reports for Gemini Notebook roll out to everyone in the coming weeks, plus new quiz formats and 60-second video overviews.\n\nOPENAI \ud83d\udd25:\n- Sam declared a big ship week, then a much larger wave for DevDay. GPT-6 Sol and Luna are the expected drops. \n- GPT-5.5 leaves ChatGPT, Work, and Codex on Oct 14. Switch to GPT-5.6 Sol or GPT-6 Astra; the API keeps 5.5.\n\nXAI \ud83d\udd25:\n- Grok Imagine can now edit text on any image in beta \u2014 color, size, font, alignment.\n- Grok Build 1.0.33: structured MCP JSON, in-UI memory deletes, and long-session checkpoints that survive cleanup.\n\nANTHROPIC \ud83d\udd25:\n- Salesforce in Claude is in beta. 37 pre-built sales skills for pipeline, forecasts, and call prep.\n\nALSO TRENDING \ud83d\udd25:\n- TypeSafe AI \u2014 Jev is out: a non-LLM decision model at ~150ms, $42 per billion input tokens, output free.\n- Salesforce \u2014 Koa is its first CRM reasoning model for Agentforce, built on NVIDIA Nemotron.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 16 Sept\n\nGOOGLE \ud83d\udd25:\n- Gemini 3.8 Live dan 3.8 Live Extended Thinking dah keluar. Ada auto-detect 97 bahasa, penglihatan hampir masa nyata, dan boleh panggil alat di latar belakang.\n- Versi Live ada dalam Search Live dan pratonton awam Gemini API. Extended Thinking pula ada dalam Gemini Live, dan pengguna Pro/Ultra akan dapatkannya dalam Docs, Gmail, dan Keep.\n- Mod Suara Gemini Notebook akan sampai ke Ultra minggu ni, Pro tak lama lagi. Perakam suara mudah alih akan mula minggu depan untuk semua pengguna, bermula dengan bahasa Inggeris.\n- Laporan Interaktif untuk Gemini Notebook akan dilancarkan untuk semua orang dalam beberapa minggu akan datang, bersama format kuiz baru dan ringkasan video 60 saat.\n\nOPENAI \ud83d\udd25:\n- Sam umumkan minggu 'big ship', lepas tu gelombang yang lebih besar untuk DevDay. GPT-6 Sol dan Luna dijangka akan dilancarkan.\n- GPT-5.5 akan tinggalkan ChatGPT, Work, dan Codex pada 14 Okt. Boleh tukar ke GPT-5.6 Sol atau GPT-6 Astra; API masih kekalkan 5.5.\n\nXAI \ud83d\udd25:\n- Grok Imagine sekarang boleh edit teks pada mana-mana imej dalam versi beta \u2014 warna, saiz, fon, penjajaran.\n- Grok Build 1.0.33: MCP JSON berstruktur, pemadaman memori dalam UI, dan titik semak sesi panjang yang kekal walaupun selepas pembersihan.\n\nANTHROPIC \ud83d\udd25:\n- Salesforce dalam Claude kini dalam versi beta. Ada 37 kemahiran jualan sedia ada untuk saluran jualan, ramalan, dan persediaan panggilan.\n\nJUGA TRENDING \ud83d\udd25:\n- TypeSafe AI \u2014 Jev dah keluar: model keputusan bukan-LLM pada ~150ms, $42 untuk setiap bilion token input, output percuma.\n- Salesforce \u2014 Koa adalah model penaakulan CRM pertamanya untuk Agentforce, dibina atas NVIDIA Nemotron.\n\n* Ringkasan ini digubah menggunakan Grok, dengan memilih berita penting dan melakukan sedikit penyuntingan.",
+            "date": "2026-09-16T08:29:53+00:00",
+            "message_id": 9332,
+            "message_key": "@testingcatalog:9332"
         }
     ]
 }
