@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-17T17:59:54.204827",
+    "timestamp": "2026-09-17T21:16:43.613501",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31426,6 +31426,36 @@
             "date": "2026-09-17T13:12:29+00:00",
             "message_id": 9349,
             "message_key": "@testingcatalog:9349"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Bot is getting a voice mode on desktop and mobile apps. \n\n> The feature will be rolling out gradually over the next couple of days. \n\nAs it has been foretold \ud83d\udc40\n\nVoice mode should be a huge enabler for loads of new use cases. Did you get it already?",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Bot akan dapat mod suara dekat aplikasi desktop dan mudah alih.\n\n> Ciri ni akan dilancarkan secara berperingkat dalam beberapa hari akan datang.\n\nMacam yang dah diramalkan \ud83d\udc40\n\nMod suara ni patutnya boleh buka banyak peluang baru untuk pelbagai kegunaan. Korang dah dapat ke belum?",
+            "date": "2026-09-17T20:05:14+00:00",
+            "message_id": 9354,
+            "message_key": "@testingcatalog:9354"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT in Word has been announced to be available across all plans, including Free, with usage limits.\n\n> Business and Enterprise plans are getting a two-week free preview of GPT-5.6 Sol in Word. \n\n> Earlier this week, Anthropic announced Claude Docs, a solution for editing Documents inside Claude directly. \n\nIt's interesting to see how AI tools are wrapping up what's worked for everyone for ages. AI is going inside these tools and absorbing them too. And it is so powerful that there is no way to avoid it. \n\nAI will wrap the whole internet \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT dalam Word dah diumumkan akan tersedia untuk semua pelan, termasuk yang Percuma, tapi ada had penggunaan.\n\n> Pelan Business dan Enterprise akan dapat pratonton percuma selama dua minggu untuk GPT-5.6 Sol dalam Word.\n\n> Awal minggu ni, Anthropic umumkan Claude Docs, satu penyelesaian untuk edit Dokumen terus dalam Claude.\n\nMenarik tengok macam mana alatan AI ni 'bungkus' apa yang dah lama berfungsi untuk semua orang. AI dah masuk dalam alatan-alatan ni dan serap sekali. Dan ia sangat berkuasa sampai tak ada cara nak elak.\n\nAI akan 'bungkus' seluruh internet \ud83d\udc40",
+            "date": "2026-09-17T19:29:38+00:00",
+            "message_id": 9353,
+            "message_key": "@testingcatalog:9353"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Projects for Claude Code have been officially announced and will be rolling out to selected Pro and Max users under a waitlist. \n\n> A rollout to all Pro and Max users is expected to follow later as well. \n\n> Users can start Projects from a conversation, so Claude will spin required threads to run in parallel. \n\n> A new overview panel will help users control the process and pay attention to responses that require a follow-up.\n\n> Claude Code Projects also have a shared memory so it can be used as an evolving context. \n\nSuper curious to give it a proper test, as this feature has been in the works for a while.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Projek untuk Claude Code dah diumumkan secara rasmi dan akan mula diperkenalkan kepada pengguna Pro dan Max terpilih melalui senarai menunggu.\n\n> Pelancaran kepada semua pengguna Pro dan Max dijangka akan menyusul kemudian juga.\n\n> Pengguna boleh mulakan Projek dari perbualan, jadi Claude akan jalankan 'threads' yang diperlukan secara selari.\n\n> Panel gambaran keseluruhan yang baru akan bantu pengguna kawal proses dan beri perhatian kepada respons yang memerlukan tindakan susulan.\n\n> Projek Claude Code juga ada memori yang dikongsi, jadi ia boleh digunakan sebagai konteks yang sentiasa berkembang.\n\nTak sabar sangat nak cuba uji betul-betul, sebab ciri ni dah lama dalam pembangunan.",
+            "date": "2026-09-17T19:14:07+00:00",
+            "message_id": 9352,
+            "message_key": "@testingcatalog:9352"
         }
     ]
 }
