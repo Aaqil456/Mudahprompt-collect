@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-17T13:08:43.503158",
+    "timestamp": "2026-09-17T17:59:54.204827",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31396,6 +31396,36 @@
             "date": "2026-09-17T07:34:46+00:00",
             "message_id": 9346,
             "message_key": "@testingcatalog:9346"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Effort and speed selector is rolling out on Perplexity Computer.\n\n> \"Effort presets combine the orchestrator model and reasoning depth to control how deeply and efficiently Computer works through a task.\"",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Pemilih tahap usaha dan kelajuan dah mula ada di Perplexity Computer.\n\n\u201cTetapan usaha menggabungkan model orkestrator dan kedalaman penaakulan untuk mengawal sejauh mana mendalam dan cekapnya Computer menyelesaikan sesuatu tugasan.\u201d",
+            "date": "2026-09-17T16:47:37+00:00",
+            "message_id": 9351,
+            "message_key": "@testingcatalog:9351"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude merges Cowork and chat into one experience**](https://www.testingcatalog.com/claude-merges-cowork-and-chat-into-one-experience/)\n\nAnthropic is unifying Claude chat and Cowork into one workflow, letting users switch from quick questions to delegated work in one thread. Docs, Slides, and Design join conversations in beta for paid plans, with rollout starting on Pro and Max.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Claude menggabungkan Cowork dan chat menjadi satu pengalaman**](https://www.testingcatalog.com/claude-merges-cowork-and-chat-into-one-experience/)\n\nAnthropic menyatukan chat Claude dan Cowork ke dalam satu aliran kerja, membolehkan pengguna bertukar daripada soalan ringkas kepada kerja yang diamanahkan dalam satu benang perbincangan. Docs, Slides, dan Design menyertai perbualan dalam versi beta untuk pelan berbayar, dengan pelancaran bermula pada Pro dan Max.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-09-17T13:30:24+00:00",
+            "message_id": 9350,
+            "message_key": "@testingcatalog:9350"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: TypeSafe AI launches Jev for structured AI decisions**](https://www.testingcatalog.com/icymtypesafe-ai-launches-jev-for-structured-ai-decisions/)\n\nTypeSafe launched Jev, a typed decision model for software that returns bounded, schema-safe outputs with confidence scores. It targets routing, scoring, and extraction with low latency and cost, though benchmark claims warrant caution.\n\n\ud83d\uddde #ai @testingcatalog",
+            "translated_text": "[**Untuk yang terlepas pandang: TypeSafe AI memperkenalkan Jev untuk keputusan AI yang lebih tersusun**](https://www.testingcatalog.com/icymtypesafe-ai-launches-jev-for-structured-ai-decisions/)\n\nTypeSafe memperkenalkan Jev, satu model keputusan bertipe untuk perisian yang boleh memberikan output yang terhad, terjamin strukturnya, dan disertakan dengan skor keyakinan. Fokus utamanya adalah untuk penghalaan, pemarkahan, dan pengekstrakan dengan masa tindak balas yang pantas dan kos yang rendah. Namun, dakwaan mengenai penanda arasnya perlu diambil kira dengan berhati-hati.\n\n\ud83d\uddde #ai @testingcatalog",
+            "date": "2026-09-17T13:12:29+00:00",
+            "message_id": 9349,
+            "message_key": "@testingcatalog:9349"
         }
     ]
 }
