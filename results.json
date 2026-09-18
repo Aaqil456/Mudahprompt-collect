@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T18:10:56.224411",
+    "timestamp": "2026-09-18T21:28:19.348850",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31536,6 +31536,26 @@
             "date": "2026-09-18T17:28:26+00:00",
             "message_id": 9363,
             "message_key": "@testingcatalog:9363"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-18T19:28:42+00:00",
+            "message_id": 9365,
+            "message_key": "@testingcatalog:9365"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Code now can pull project instructions from AGENTS md file in case if CLAUDE md file is not present. \n\nA code cleanup on a global scale \ud83d\udc40\n\nIt is inevitable that most of the common coding AI agents will be eventually working on same repositories and will have to find ways on how to better collaborate together. Standardisation is always good.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Code sekarang boleh ambil arahan projek dari fail AGENTS md kalau fail CLAUDE md tak ada.\n\nKemasan kod secara global \ud83d\udc40\n\nMemang tak dapat dielakkan yang kebanyakan ejen AI untuk coding yang biasa akhirnya akan bekerja di repositori yang sama dan kena cari jalan macam mana nak bekerjasama dengan lebih baik. Penyeragaman memang sentiasa bagus.",
+            "date": "2026-09-18T19:28:41+00:00",
+            "message_id": 9364,
+            "message_key": "@testingcatalog:9364"
         }
     ]
 }
