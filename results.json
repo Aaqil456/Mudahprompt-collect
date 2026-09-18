@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-17T23:58:23.395968",
+    "timestamp": "2026-09-18T09:27:25.321895",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31476,6 +31476,16 @@
             "date": "2026-09-17T22:42:10+00:00",
             "message_id": 9355,
             "message_key": "@testingcatalog:9355"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Alibaba released Qwen3.8-Omni-Flash, a new omni-modal model with audio and video understanding. \n\nQwen3.8-Omni-Flash comes with 1M-token context window and performance close to Gemini 3.8 Flash on WildClawBench-MM & UniClawBench.",
+            "translated_text": "Alibaba dah lancarkan Qwen3.8-Omni-Flash, satu model omni-modal baru yang boleh faham audio dan video. Qwen3.8-Omni-Flash ni datang dengan tetingkap konteks 1M-token dan prestasinya pun hampir setanding dengan Gemini 3.8 Flash bila diuji dekat WildClawBench-MM & UniClawBench.",
+            "date": "2026-09-18T07:43:10+00:00",
+            "message_id": 9357,
+            "message_key": "@testingcatalog:9357"
         }
     ]
 }
