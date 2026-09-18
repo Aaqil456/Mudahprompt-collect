@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T21:28:19.348850",
+    "timestamp": "2026-09-18T23:59:13.563749",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31556,6 +31556,26 @@
             "date": "2026-09-18T19:28:41+00:00",
             "message_id": 9364,
             "message_key": "@testingcatalog:9364"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-18T21:45:23+00:00",
+            "message_id": 9367,
+            "message_key": "@testingcatalog:9367"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Voice Transcribe 2.0, a new multilingual speech-to-text model, has been announced. \n\n> Grok Voice Transcribe 2.0 ranks first for accuracy among 32 streaming models on the Artificial Analysis leaderboard\n\n> Grok Voice Transcribe 2.0 supports batch and streaming, speaker diarization, multichannel transcription, key term biasing, text formatting, filler word removal, and smart turn detection.",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Voice Transcribe 2.0, model pertuturan-ke-teks berbilang bahasa yang baharu, telah diumumkan.\n\n> Grok Voice Transcribe 2.0 menduduki tempat pertama untuk ketepatan antara 32 model penstriman dalam papan pendahulu Artificial Analysis.\n\n> Grok Voice Transcribe 2.0 menyokong pemprosesan kelompok dan penstriman, diarization pembesar suara, transkripsi berbilang saluran, pembiasan istilah utama, pemformatan teks, penyingkiran perkataan pengisi, dan pengesanan giliran pintar.",
+            "date": "2026-09-18T21:45:23+00:00",
+            "message_id": 9366,
+            "message_key": "@testingcatalog:9366"
         }
     ]
 }
