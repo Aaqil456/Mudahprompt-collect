@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-18T09:27:25.321895",
+    "timestamp": "2026-09-18T14:11:31.571909",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31486,6 +31486,46 @@
             "date": "2026-09-18T07:43:10+00:00",
             "message_id": 9357,
             "message_key": "@testingcatalog:9357"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse agents are getting their own dedicated mailboxes! \n\n> A new Mail tab appears in development, next to the Muse Identity section. \n\n> The Mail feature will also get its own dedicated page view. \n\n> It is still unclear whether this tab will be used to browse email communication for connected personal accounts or for Muse's own mailbox; however, the latter is more likely. \n\nThat is such a natural step: delegating all email communication to an AI agent! \n\nAI Agent-only newsletter soon \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Ejen Muse akan dapat peti mel khas mereka sendiri!\n\n> Tab Mail baru sedang dibangunkan, di sebelah bahagian Muse Identity.\n\n> Ciri Mail ini juga akan dapat paparan halaman khusus.\n\n> Masih belum jelas sama ada tab ini akan digunakan untuk melihat komunikasi e-mel untuk akaun peribadi yang disambungkan atau untuk peti mel Muse sendiri; namun, yang kedua itu lebih berkemungkinan.\n\nIni memang satu langkah yang wajar: menyerahkan semua komunikasi e-mel kepada ejen AI!\n\nSurat berita khas untuk Ejen AI sahaja tak lama lagi \ud83d\udc40",
+            "date": "2026-09-18T11:19:56+00:00",
+            "message_id": 9361,
+            "message_key": "@testingcatalog:9361"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta to give Muse its own mailbox for communication**](https://www.testingcatalog.com/meta-to-give-muse-its-own-mailbox-for-communication/)\n\nMeta is testing a Mail tab for Muse that may give the agent a dedicated mailbox or centralize messages from connected inboxes. The feature aligns with Shared Agents and Muse\u2019s broader task automation, but details and timing remain unconfirmed.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta akan berikan Muse peti mel sendiri untuk komunikasi**](https://www.testingcatalog.com/meta-to-give-muse-its-own-mailbox-for-communication/)\n\nMeta sedang menguji tab Mail untuk Muse yang mungkin akan berikan ejen itu peti mel khas atau satukan mesej dari peti masuk yang bersambung. Ciri ini selari dengan Shared Agents dan automasi tugas Muse yang lebih luas, tapi butiran dan masa pelancarannya masih belum disahkan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-18T11:13:48+00:00",
+            "message_id": 9360,
+            "message_key": "@testingcatalog:9360"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYIMI: Grok Build adds memory across coding sessions**](https://www.testingcatalog.com/icyimi-grok-build-adds-memory-across-coding-sessions/)\n\nxAI added memory to Grok Build, letting it retain team conventions, decisions, project facts, and commands across sessions. Notes are stored by topic and scope, reviewed after each turn, and applied in later work.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[ICYIMI: Grok Build menambah memori merentasi sesi pengekodan](https://www.testingcatalog.com/icyimi-grok-build-adds-memory-across-coding-sessions/)\n\nxAI telah menambah memori pada Grok Build, membolehkannya menyimpan konvensyen pasukan, keputusan, fakta projek, dan arahan merentasi sesi. Nota disimpan mengikut topik dan skop, disemak selepas setiap kali ia digunakan, dan diaplikasikan dalam kerja seterusnya.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-09-18T10:49:14+00:00",
+            "message_id": 9359,
+            "message_key": "@testingcatalog:9359"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 18\n\nANTHROPIC \ud83d\udd25:\n- Projects now start from one Claude Code conversation. Claude spins parallel cloud threads, keeps shared memory, and surfaces an Overview panel.\n\nXAI \ud83d\udd25:\n- Grok Bot voice is live. Desktop and mobile, rolling out over the next couple of days.\n\nMETA \ud83d\udd25:\n- Muse for Mac is out, US only. Computer use across apps, files, calendar, notes, and messages. You pick what it can access.\n\nPERPLEXITY \ud83d\udd25:\n- Effort selector is live in Computer on web. Presets pair the orchestrator model with reasoning depth. Mobile and desktop next.\n\nOPENAI \ud83d\udd25:\n- Astra for Law is out: GPT-6 Astra plus a Legal Search Index over 230M+ URLs. Trusted Access first, API soon.\n- ChatGPT in Word hits all plans including Free, with usage limits. Business and Enterprise get a two-week GPT-5.6 Sol preview.\n\nGOOGLE \ud83d\udd25:\n- CC is now a family agent: up to 5 members, shared Calendar and Tasks, plus a morning \u201cYour Day Ahead\u201d brief. Waitlist, US 18+.\n\nALIBABA \ud83d\udd25:\n- Qwen3.8-Omni-Flash is out. First omni-modal agent model, 1M context, native audio-video plus tools. Video input cost down ~89% vs 3.5-Omni-Plus.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.\n** This daily brief also arrives in the daily email format; subscribe on the blog.",
+            "translated_text": "Ringkasan AI Harian \ud83d\uddde \u2014 18 Sept\n\nANTHROPIC \ud83d\udd25:\n- Projek kini bermula dari satu perbualan Claude Code. Claude akan jalankan beberapa 'thread' awan secara selari, simpan memori yang dikongsi, dan tunjukkan panel Gambaran Keseluruhan.\n\nXAI \ud83d\udd25:\n- Suara Grok Bot dah boleh guna. Untuk desktop dan mudah alih, akan dilancarkan sepenuhnya dalam beberapa hari lagi.\n\nMETA \ud83d\udd25:\n- Muse untuk Mac dah keluar, tapi di AS saja. Boleh guna komputer merentasi aplikasi, fail, kalendar, nota, dan mesej. Anda boleh pilih apa yang ia boleh akses.\n\nPERPLEXITY \ud83d\udd25:\n- Pemilih usaha dah boleh guna dalam Computer di web. Pratetap akan padankan model orkestrator dengan kedalaman penaakulan. Versi mudah alih dan desktop akan menyusul.\n\nOPENAI \ud83d\udd25:\n- Astra for Law dah keluar: GPT-6 Astra bersama Indeks Carian Undang-undang lebih 230 juta+ URL. Akses Terhad dulu, API akan datang tak lama lagi.\n- ChatGPT dalam Word dah ada untuk semua pelan termasuk Percuma, dengan had penggunaan. Pelan Perniagaan dan Perusahaan akan dapat pratonton GPT-5.6 Sol selama dua minggu.\n\nGOOGLE \ud83d\udd25:\n- CC kini ejen keluarga: sehingga 5 ahli, Kalendar dan Tugasan dikongsi, serta ringkasan pagi \u201cYour Day Ahead\u201d. Senarai menunggu, AS 18+.\n\nALIBABA \ud83d\udd25:\n- Qwen3.8-Omni-Flash dah keluar. Model ejen omni-modal pertama, konteks 1 juta, audio-video asli bersama alatan. Kos input video turun ~89% berbanding 3.5-Omni-Plus.\n\n\\* Ringkasan ini digubah menggunakan Grok, dengan memilih berita penting dan melakukan sedikit suntingan selepas itu.\n\\*\\* Ringkasan harian ini juga dihantar dalam format e-mel harian; langgan di blog.",
+            "date": "2026-09-18T09:58:52+00:00",
+            "message_id": 9358,
+            "message_key": "@testingcatalog:9358"
         }
     ]
 }
