@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-19T12:57:36.507021",
+    "timestamp": "2026-09-19T16:20:57.275214",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31586,6 +31586,16 @@
             "date": "2026-09-19T10:10:30+00:00",
             "message_id": 9369,
             "message_key": "@testingcatalog:9369"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI says Grok Voice Transcribe 2 doubles accuracy**](https://www.testingcatalog.com/spacexai-says-grok-voice-transcribe-2-doubles-accuracy/)\n\nSpaceXAI launched Grok Voice Transcribe 2.0, claiming 2x the accuracy of v1.0 at unchanged pricing. It supports multilingual, real-time and batch transcription, with diarization, timestamps, term biasing, and phone-audio gains.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**SpaceXAI kata Grok Voice Transcribe 2 ni ketepatannya dua kali ganda!**](https://www.testingcatalog.com/spacexai-says-grok-voice-transcribe-2-doubles-accuracy/)\n\nSpaceXAI dah lancarkan Grok Voice Transcribe 2.0, dan mereka kata ketepatannya 2 kali ganda berbanding v1.0, dengan harga yang tak berubah pun. Ia boleh buat transkripsi pelbagai bahasa, secara masa nyata dan pukal, siap ada diarization, cap masa, term biasing, dan penambahbaikan audio telefon lagi.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-09-19T15:01:40+00:00",
+            "message_id": 9370,
+            "message_key": "@testingcatalog:9370"
         }
     ]
 }
