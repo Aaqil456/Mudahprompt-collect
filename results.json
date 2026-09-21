@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:51:06.260060",
+    "timestamp": "2026-09-21T23:54:14.684959",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31666,6 +31666,56 @@
             "date": "2026-09-21T18:47:33+00:00",
             "message_id": 9376,
             "message_key": "@testingcatalog:9376"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Xiaomi open-sources MiMo-V2.6 Pro and Flash models**](https://www.testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models/)\n\nXiaomi open-sourced MiMo-V2.6 Pro and Flash, two omnimodal models for coding, vision and computer use. Pro leads open-source rankings, Flash cuts cost, and UltraSpeed delivers up to 20x faster output for low-latency tasks.\n\n\ud83d\uddde #release @testingcatalog",
+            "translated_text": "[**Xiaomi buka kod sumber model MiMo-V2.6 Pro dan Flash**](https://www.testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models/)\n\nXiaomi telah membuka kod sumber MiMo-V2.6 Pro dan Flash, dua model omnimodal untuk pengekodan, penglihatan, dan kegunaan komputer. Model Pro mendahului ranking sumber terbuka, Flash pula membantu mengurangkan kos, dan UltraSpeed menawarkan output sehingga 20 kali lebih pantas untuk tugasan yang memerlukan kependaman rendah.\n\n\ud83d\uddde #release @testingcatalog",
+            "date": "2026-09-21T23:14:48+00:00",
+            "message_id": 9383,
+            "message_key": "@testingcatalog:9383"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXAI releases Grok 4.7 for coding and knowledge work**](https://www.testingcatalog.com/spacexai-releases-grok-4-7-for-coding-and-knowledge-work/)\n\nSpaceXAI launched Grok 4.7 across coding tools, APIs, and cloud platforms, offering stronger coding, longer task focus, lower-cost pricing, and tougher safeguards, with benchmark gains over Grok 4.6 and free testing in Grok Build.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**SpaceXAI lancarkan Grok 4.7 untuk kerja-kerja pengekodan dan pengetahuan**](https://www.testingcatalog.com/spacexai-releases-grok-4-7-for-coding-and-knowledge-work/)\n\nSpaceXAI telah melancarkan Grok 4.7 merentasi alatan pengekodan, API, dan platform awan, menawarkan pengekodan yang lebih mantap, tumpuan tugas yang lebih panjang, harga yang lebih jimat, dan perlindungan yang lebih ketat, dengan peningkatan penanda aras berbanding Grok 4.6 serta ujian percuma dalam Grok Build.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-09-21T22:32:33+00:00",
+            "message_id": 9382,
+            "message_key": "@testingcatalog:9382"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-21T22:14:16+00:00",
+            "message_id": 9381,
+            "message_key": "@testingcatalog:9381"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta \u2764\ufe0f Shopify \n\nMuse agent can now use Shop Pay on Shopify stores, enabling agentic shopping in countries where Muse is supported. \n\nIt is hard to imagine how huge the agentic shopping market will be in a few years, given that small businesses on Facebook or Instagram will soon be able to integrate out of the box.\n\nThat's a whole new world \ud83e\udd16",
+            "translated_text": "Meta \u2764\ufe0f Shopify\n\nEjen Muse kini boleh guna Shop Pay di kedai-kedai Shopify, membolehkan pembelian secara ejen di negara-negara yang menyokong Muse.\n\nSusah nak bayangkan betapa besarnya pasaran pembelian secara ejen ni nanti dalam beberapa tahun, memandangkan perniagaan kecil di Facebook atau Instagram tak lama lagi boleh terus integrasi tanpa masalah.\n\nIni memang satu dunia baru \ud83e\udd16",
+            "date": "2026-09-21T22:14:16+00:00",
+            "message_id": 9380,
+            "message_key": "@testingcatalog:9380"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-21T21:55:10+00:00",
+            "message_id": 9379,
+            "message_key": "@testingcatalog:9379"
         }
     ]
 }
