@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T09:44:18.298034",
+    "timestamp": "2026-09-21T16:18:26.993371",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31636,6 +31636,16 @@
             "date": "2026-09-21T08:45:23+00:00",
             "message_id": 9374,
             "message_key": "@testingcatalog:9374"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic has rebranded Workbench as Playground! It has been in development for quite a while and is now more conventional.\n\n> \"Workbench is now Playground - Explore the Claude API by using it. Test models and Messages API features without writing code.\"\n\n> \"Start from working examples for tools, citations, and caching\nSee each request and response, with tokens, cost, and latency\nCopy the SDK code when something works\"",
+            "translated_text": "Anthropic dah jenamakan semula Workbench sebagai Playground! Ia dah lama dalam pembangunan dan kini lebih biasa digunakan.\n\n> \"Workbench sekarang dah jadi Playground - Terokai API Claude dengan menggunakannya. Uji model-model dan ciri-ciri API Messages tanpa perlu menulis kod.\"\n\n> \"Mula dengan contoh-contoh sedia ada untuk alatan, rujukan, dan caching. Lihat setiap permintaan dan respons, bersama token, kos, dan latensi. Salin kod SDK bila dah jadi.\"",
+            "date": "2026-09-21T10:37:02+00:00",
+            "message_id": 9375,
+            "message_key": "@testingcatalog:9375"
         }
     ]
 }
