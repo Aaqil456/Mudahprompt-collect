@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-20T10:51:03.002153",
+    "timestamp": "2026-09-21T09:44:18.298034",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31626,6 +31626,16 @@
             "date": "2026-09-20T08:37:31+00:00",
             "message_id": 9373,
             "message_key": "@testingcatalog:9373"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic tests Fable 5.2 and Opus 5.5 ahead of the release**](https://www.testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release/)\n\nAnthropic appears to be quietly A/B testing Claude Fable 5.2, with users reporting stronger one-shot JavaScript outputs and richer canvas demos. Early comparisons suggest a clear step up from 5.1, as Opus 5.5 rumors also build.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic Uji Fable 5.2 dan Opus 5.5 Sebelum Dilancarkan**](https://www.testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release/)\n\nNampaknya Anthropic sedang senyap-senyap buat ujian A/B untuk Claude Fable 5.2. Pengguna melaporkan output JavaScript 'one-shot' yang lebih mantap dan demo kanvas yang lebih menarik. Perbandingan awal menunjukkan ia jauh lebih baik dari versi 5.1, dan khabar angin pasal Opus 5.5 pun makin banyak.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-09-21T08:45:23+00:00",
+            "message_id": 9374,
+            "message_key": "@testingcatalog:9374"
         }
     ]
 }
