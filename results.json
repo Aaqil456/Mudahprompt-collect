@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T23:54:14.684959",
+    "timestamp": "2026-09-22T14:27:58.351434",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31716,6 +31716,56 @@
             "date": "2026-09-21T21:55:10+00:00",
             "message_id": 9379,
             "message_key": "@testingcatalog:9379"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-22T12:34:37+00:00",
+            "message_id": 9391,
+            "message_key": "@testingcatalog:9391"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-6 Sol has been teased for today's launch! GPT-6 Luna is expected to come along as well. \n\nIt's Soltime! \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: GPT-6 Sol dah diusik-usik akan dilancarkan hari ni! GPT-6 Luna pun dijangka akan turut serta.\n\nDah tiba masa Sol! \ud83d\udc40",
+            "date": "2026-09-22T12:34:36+00:00",
+            "message_id": 9390,
+            "message_key": "@testingcatalog:9390"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares to launch GPT-6 Sol and Luna models today**](https://www.testingcatalog.com/openai-gpt-6-sol-luna-tuesday-release/)\n\nOpenAI is poised for a Tuesday launch after Tibo Sottiaux confirmed the date, fueling speculation that GPT-6 Sol, and Luna may arrive before DevDay. Users also hope the update addresses tight usage limits.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI bersedia melancarkan model GPT-6 Sol dan Luna hari ini**](https://www.testingcatalog.com/openai-gpt-6-sol-luna-tuesday-release/)\n\nOpenAI bersedia untuk pelancaran pada hari Selasa selepas Tibo Sottiaux mengesahkan tarikh tersebut, mencetuskan spekulasi bahawa GPT-6 Sol dan Luna mungkin akan tiba sebelum DevDay. Pengguna juga berharap kemas kini ini dapat menangani had penggunaan yang ketat.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-22T12:07:14+00:00",
+            "message_id": 9389,
+            "message_key": "@testingcatalog:9389"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares Muse for Messenger and Telegram**](https://www.testingcatalog.com/meta-prepares-muse-for-messenger-and-telegram/)\n\nMeta\u2019s Muse is gaining traction fast, outpacing ChatGPT\u2019s early mobile launch in the US and Canada. Meta is now preparing Muse for Messenger and Telegram, pointing to a broader cross-platform agent strategy for users and businesses.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta sedang siapkan Muse untuk Messenger dan Telegram**](https://www.testingcatalog.com/meta-prepares-muse-for-messenger-and-telegram/)\n\nMuse dari Meta mendapat sambutan pantas, mengatasi pelancaran awal mudah alih ChatGPT di AS dan Kanada. Meta kini sedang siapkan Muse untuk Messenger dan Telegram, menunjukkan strategi ejen rentas platform yang lebih luas untuk pengguna dan perniagaan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-22T11:56:59+00:00",
+            "message_id": 9388,
+            "message_key": "@testingcatalog:9388"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta \u2764\ufe0f Oracle?\n\nMeta may partner with Oracle by offering Oracle Cloud users special access to the Meta AI Platform. \n\n> A dedicated \"activation\" functionality now appears to be in development. \n\n> Oracle is hosting a live webinar on the \"How Banks Can Use Existing Data and Systems for AI\" topic just around the time of the Meta Connect event tomorrow. \n\n\"Financial institutions are looking for practical ways to apply AI to high-value use cases. But many banks are working with systems built over decades, leaving critical data spread across core banking, lending, payments, risk, compliance, customer service, and reporting environments.\"\n\n\"Join Oracle and Deloitte for a discussion on how banks can make AI work with the data they already have. We\u2019ll explore why business context, lineage, data, and security controls are essential for reliable AI, and how financial institutions can use existing systems to advance high-value AI initiatives while evaluating when migration may make sense.\"\n\nWill Meta go heavily into enterprise too? \ud83d\udc40",
+            "translated_text": "Meta \u2764\ufe0f Oracle?\n\nMeta mungkin akan bekerjasama dengan Oracle dengan menawarkan akses istimewa kepada pengguna Oracle Cloud untuk Platform AI Meta.\n\n> Nampaknya, fungsi \"pengaktifan\" khusus sedang dibangunkan sekarang.\n\n> Oracle akan menganjurkan webinar secara langsung tentang topik \"Bagaimana Bank Boleh Menggunakan Data dan Sistem Sedia Ada untuk AI\" sekitar waktu acara Meta Connect esok.\n\n\"Institusi kewangan sedang mencari cara praktikal untuk mengaplikasikan AI kepada kes penggunaan bernilai tinggi. Tetapi banyak bank beroperasi dengan sistem yang dibina sejak berdekad-dekad, menyebabkan data penting tersebar di seluruh persekitaran perbankan teras, pinjaman, pembayaran, risiko, pematuhan, perkhidmatan pelanggan, dan pelaporan.\"\n\n\"Sertai Oracle dan Deloitte untuk perbincangan tentang bagaimana bank boleh menjadikan AI berfungsi dengan data yang mereka sudah ada. Kami akan meneroka mengapa konteks perniagaan, keturunan data, data, dan kawalan keselamatan adalah penting untuk AI yang boleh dipercayai, dan bagaimana institusi kewangan boleh menggunakan sistem sedia ada untuk memajukan inisiatif AI bernilai tinggi sambil menilai bila migrasi mungkin masuk akal.\"\n\nAdakah Meta akan turut serta secara besar-besaran dalam sektor perusahaan juga? \ud83d\udc40",
+            "date": "2026-09-22T11:43:28+00:00",
+            "message_id": 9387,
+            "message_key": "@testingcatalog:9387"
         }
     ]
 }
