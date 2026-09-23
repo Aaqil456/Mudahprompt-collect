@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T10:59:59.804090",
+    "timestamp": "2026-09-23T19:32:26.232498",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31856,6 +31856,36 @@
             "date": "2026-09-23T07:53:09+00:00",
             "message_id": 9397,
             "message_key": "@testingcatalog:9397"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-23T19:09:50+00:00",
+            "message_id": 9404,
+            "message_key": "@testingcatalog:9404"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT Voice mode is now supporting Plugins and can be used in ChatGPT Work! \n\nBesides that, underlying tasks are now powered by GPT 6 model family. \n\nThis means that you can finally do a real work without a need to use Remote session via a desktop app. \n\nA huge enablement! \ud83d\udd25",
+            "translated_text": "Mod Suara ChatGPT sekarang dah boleh sokong Plugin dan boleh guna dalam ChatGPT Work!\n\nSelain tu, tugas-tugas asas sekarang dikuasakan oleh keluarga model GPT 6.\n\nMaksudnya, akhirnya anda boleh buat kerja betul-betul tanpa perlu guna Remote session melalui aplikasi desktop.\n\nMemang memudahkan sangat! \ud83d\udd25",
+            "date": "2026-09-23T19:09:50+00:00",
+            "message_id": 9403,
+            "message_key": "@testingcatalog:9403"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are now live on Google AI Studio and APIs!\n\n> \"Flagship TTS model for Voice Design and dual-speaker screenplay control. Prompt custom vocal personas, direct line-by-line delivery, and add vocal bursts.\"\n\n> \"Our most expressive audio generation models yet.\n\nTTeSting time! \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 3.8 Flash TTS dan Gemini 3.8 Flash-Lite TTS dah boleh guna sekarang dekat Google AI Studio dan APIs!\n\n> \"Model TTS utama untuk Voice Design dan kawalan skrip dua pembesar suara. Boleh minta persona vokal yang khas, arahkan penyampaian baris demi baris, dan masukkan letusan vokal.\"\n\n> \"Model penjanaan audio kami yang paling ekspresif setakat ini.\"\n\nMasa untuk TTeSting! \ud83d\udc40",
+            "date": "2026-09-23T15:29:54+00:00",
+            "message_id": 9402,
+            "message_key": "@testingcatalog:9402"
         }
     ]
 }
