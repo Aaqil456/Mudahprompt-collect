@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T19:32:26.232498",
+    "timestamp": "2026-09-23T22:48:21.124720",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31886,6 +31886,36 @@
             "date": "2026-09-23T15:29:54+00:00",
             "message_id": 9402,
             "message_key": "@testingcatalog:9402"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta plans to announce \"Meta Business Agent Platform\" during Meta Connect, according to one of the scheduled event sessions. \n\n> \"Meta Business Agent Platform enables developers and businesses to deploy agents that transform a messaging thread into an always-on, full-funnel growth engine \u2014 capturing leads, closing sales, and supporting customers all in the same place.\"",
+            "translated_text": "Meta bercadang nak umumkan \"Meta Business Agent Platform\" masa Meta Connect, ikut salah satu sesi acara yang dijadualkan.\n\n> \"Meta Business Agent Platform\" membolehkan pembangun dan perniagaan guna ejen yang boleh tukar perbualan mesej jadi enjin pertumbuhan yang sentiasa aktif dan menyeluruh \u2014 boleh dapatkan prospek, tutup jualan, dan sokong pelanggan, semuanya di satu tempat yang sama.\"",
+            "date": "2026-09-23T21:47:33+00:00",
+            "message_id": 9407,
+            "message_key": "@testingcatalog:9407"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta Connect keynote is happening soon, and there are high expectations for this event! \n\nWhat do we expect? \ud83d\udd2e\n\n- A new Watermelon class model.\n- Muse Spark open source.\n- Muse Video launch and API availability. \n- New voice models and voice creation features.\n- AI for banking and finance and Oracle Cloud integration. \n\nMuse updates? \ud83d\udc40\n\n- Connectors interface for Muse on the Meta Platform.\n- Shared Muse agents. \n- Telegram and Messenger support for Muse. \n- Muse for Meta Glasses. \n- Muse Mail.\n- New shopping and payment features for Muse. \n- Muse integration with Meta Business tools. \n- Custom voices for Muse. \n\nAnd obviously a lot more! What are your hopes?",
+            "translated_text": "Acara utama Meta Connect akan berlangsung tak lama lagi, dan ramai yang menaruh harapan tinggi untuk acara ni!\n\nApa yang kita jangkakan? \ud83d\udd2e\n\n- Model kelas Watermelon yang baru.\n- Muse Spark sumber terbuka.\n- Pelancaran Muse Video dan ketersediaan API.\n- Model suara baru dan ciri-ciri penciptaan suara.\n- AI untuk perbankan dan kewangan serta integrasi Oracle Cloud.\n\nKemaskini Muse? \ud83d\udc40\n\n- Antara muka penyambung untuk Muse di Meta Platform.\n- Ejen Muse yang dikongsi.\n- Sokongan Telegram dan Messenger untuk Muse.\n- Muse untuk Meta Glasses.\n- Muse Mail.\n- Ciri-ciri membeli-belah dan pembayaran baru untuk Muse.\n- Integrasi Muse dengan alatan Meta Business.\n- Suara tersuai untuk Muse.\n\nDan semestinya banyak lagi! Apa harapan kamu?",
+            "date": "2026-09-23T21:43:31+00:00",
+            "message_id": 9406,
+            "message_key": "@testingcatalog:9406"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mitra brings AI call handling to your existing number**](https://www.testingcatalog.com/mitra-brings-ai-call-handling-to-your-existing-number/)\n\nMitra\u2019s new AI assistant manages calls, texts, email, scheduling, web tasks, and follow-ups from a user\u2019s own accounts. It hands off routine work, lets users monitor or intervene live, and runs on a subscription with no data sales.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Mitra bawakan pengendalian panggilan AI ke nombor sedia ada anda**](https://www.testingcatalog.com/mitra-brings-ai-call-handling-to-your-existing-number/)\n\nPembantu AI baharu Mitra menguruskan panggilan, mesej, e-mel, penjadualan, tugasan web, dan susulan dari akaun pengguna sendiri. Ia menyerahkan kerja rutin, membolehkan pengguna memantau atau campur tangan secara langsung, dan beroperasi dengan langganan tanpa penjualan data.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-09-23T20:52:10+00:00",
+            "message_id": 9405,
+            "message_key": "@testingcatalog:9405"
         }
     ]
 }
