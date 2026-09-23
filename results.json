@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T21:51:10.622922",
+    "timestamp": "2026-09-23T10:59:59.804090",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31806,6 +31806,56 @@
             "date": "2026-09-22T21:04:58+00:00",
             "message_id": 9395,
             "message_key": "@testingcatalog:9395"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Free, Prototype, and Accelerate plans are coming to the OpenAI Platform to allow users to build and host their own AI apps. \n\n> Accelerate - \"Starting at $50\", \"Access all of our latest models\", \"Higher usage & rate limits to power larger, production apps\", \"Accelerate building with the API in Codex and Playgrounds\"\n\n> These plans are likely to be announced during OpenAI DevDay, which would mean OpenAI would tap into the Vercel/Lovable space (though this is still speculation). \n\n> Sam Altman recently shared: \"And then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all.\", which correlates very well with this assumption.\n\nAccelerate anon \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Pelan Free, Prototype, dan Accelerate akan diperkenalkan di Platform OpenAI untuk membolehkan pengguna membina dan mengehos aplikasi AI mereka sendiri.\n\n> Accelerate - \"Bermula dari $50\", \"Akses semua model terbaru kami\", \"Had penggunaan & kadar yang lebih tinggi untuk menyokong aplikasi berskala besar dan produksi\", \"Mempercepatkan pembangunan dengan API dalam Codex dan Playgrounds\"\n\n> Pelan-pelan ini kemungkinan besar akan diumumkan semasa OpenAI DevDay, yang bermakna OpenAI akan menembusi ruang Vercel/Lovable (walaupun ini masih spekulasi).\n\n> Sam Altman baru-baru ini berkongsi: \"Dan kemudian kami mahu anda semua tampil dengan idea-idea hebat dan membangunkannya serta menjadi pengguna yang gembira. Idea terbaik akan datang daripada anda semua.\", yang sangat berkait rapat dengan andaian ini.\n\nAccelerate tak lama lagi \ud83d\udc40",
+            "date": "2026-09-23T09:18:33+00:00",
+            "message_id": 9401,
+            "message_key": "@testingcatalog:9401"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**DevDay: New Plans and new platform for building AI apps**](https://www.testingcatalog.com/devday-new-plans-and-new-platform-for-building-ai-apps/)\n\nOpenAI appears to be preparing API onboarding with Free, Prototype, and Accelerate plans, guiding developers from testing ideas to production. The structure suggests a broader platform vision, though app hosting remains unconfirmed.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**DevDay: Pelan Baru dan platform baru untuk membina aplikasi AI**](https://www.testingcatalog.com/devday-new-plans-and-new-platform-for-building-ai-apps/)\n\nOpenAI nampaknya sedang menyediakan onboarding API dengan pelan Free, Prototype, dan Accelerate, membimbing pembangun dari menguji idea hingga ke produksi.\n\nStruktur ini menunjukkan visi platform yang lebih luas, walaupun hosting aplikasi masih belum disahkan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-23T09:16:35+00:00",
+            "message_id": 9400,
+            "message_key": "@testingcatalog:9400"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-23T08:17:25+00:00",
+            "message_id": 9399,
+            "message_key": "@testingcatalog:9399"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceXAI is working on Remote Control for Grok on web and Mobile. \n\nInterestingly, Remote Control feature on iOS is referring to a \u201cGrok Desktop\u201d app and not to Grok Build CLI. \n\nConsidering that it\u2019s a recent addition, does it mean that we will get a desktop app as well? \n\nSus \ud83d\udc40",
+            "translated_text": "SpaceXAI sedang usahakan Kawalan Jauh untuk Grok di web dan mudah alih.\n\nMenariknya, ciri Kawalan Jauh di iOS tu merujuk pada aplikasi \u201cGrok Desktop\u201d dan bukan pada Grok Build CLI.\n\nMemandangkan ia baru saja ditambah, adakah ini bermakna kita akan dapat aplikasi desktop juga?\n\nNampak macam ada sesuatu je \ud83d\udc40",
+            "date": "2026-09-23T08:17:25+00:00",
+            "message_id": 9398,
+            "message_key": "@testingcatalog:9398"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google tests new Gemini 4 Pro checkpoints, early outputs**](https://www.testingcatalog.com/gemini-4-pro-frontend-ui-taste-leak/)\n\nLeaked Gemini 4 Pro tests suggest Google may have fixed its frontend design weaknesses. Early outputs show polished web and SVG work, longer generation times, and signs of a true frontier model.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang uji 'checkpoint' baru Gemini 4 Pro, dan hasil awal pun dah nampak.**](https://www.testingcatalog.com/gemini-4-pro-frontend-ui-taste-leak/)\n\nUjian Gemini 4 Pro yang bocor ni menunjukkan Google mungkin dah perbaiki kelemahan reka bentuk 'frontend' mereka. Output awal tunjuk hasil kerja web dan SVG yang lebih kemas, masa penjanaan yang lebih panjang, dan tanda-tanda ia adalah model 'frontier' yang sebenar.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-23T07:53:09+00:00",
+            "message_id": 9397,
+            "message_key": "@testingcatalog:9397"
         }
     ]
 }
