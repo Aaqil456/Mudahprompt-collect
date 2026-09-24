@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T22:48:21.124720",
+    "timestamp": "2026-09-24T01:12:14.166438",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31916,6 +31916,36 @@
             "date": "2026-09-23T20:52:10+00:00",
             "message_id": 9405,
             "message_key": "@testingcatalog:9405"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING: Meta unveiled Muse Charm, a new AI pin hardware device that lets users communicate with their Muse agents from anywhere.\n\nShipping will start in December - will we get Muse globally by then too?",
+            "translated_text": "TERKINI: Meta dah perkenalkan Muse Charm, satu peranti perkakasan pin AI baru yang membolehkan pengguna berhubung dengan ejen Muse mereka dari mana-mana sahaja.\n\nPenghantaran akan bermula bulan Disember - agak-agak kita dapat Muse ni secara global juga tak masa tu?",
+            "date": "2026-09-24T00:11:56+00:00",
+            "message_id": 9411,
+            "message_key": "@testingcatalog:9411"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-24T00:07:55+00:00",
+            "message_id": 9410,
+            "message_key": "@testingcatalog:9410"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING: Meta announced Meta VR Glasses with an AI-native OS and integration with the Muse AI assistant!\n\nUsers can operate their Immersive VR experience via a combination of eye movements, hand gestures, and voice control.\n\nA VR Muse avatar is there too! \n\nThese Meta VR glasses are tech from the future \ud83d\udc40",
+            "translated_text": "BERITA TERKINI: Meta dah umumkan Meta VR Glasses dengan OS (sistem operasi) yang memang dibina untuk AI dan boleh berintegrasi dengan pembantu AI Muse!\n\nPengguna boleh kawal pengalaman VR Imersif mereka dengan gabungan pergerakan mata, isyarat tangan, dan kawalan suara.\n\nAvatar VR Muse pun ada juga!\n\nMeta VR Glasses ni memang teknologi dari masa depan \ud83d\udc40",
+            "date": "2026-09-24T00:07:55+00:00",
+            "message_id": 9409,
+            "message_key": "@testingcatalog:9409"
         }
     ]
 }
