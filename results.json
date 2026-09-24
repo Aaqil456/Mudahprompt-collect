@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T13:21:37.582047",
+    "timestamp": "2026-09-24T18:18:20.690745",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31986,6 +31986,26 @@
             "date": "2026-09-24T07:21:50+00:00",
             "message_id": 9412,
             "message_key": "@testingcatalog:9412"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-24T17:34:52+00:00",
+            "message_id": 9417,
+            "message_key": "@testingcatalog:9417"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic will resume charging for rejected requests in order to protect from distillation attacks. \n\nThis applies to requests related to biology, distillation attacks and LLM development.",
+            "translated_text": "Anthropic akan mula mengenakan caj semula untuk permintaan yang ditolak. Ini bagi melindungi daripada serangan penyulingan. Perkara ni terpakai untuk permintaan yang berkaitan dengan biologi, serangan penyulingan, dan pembangunan LLM.",
+            "date": "2026-09-24T17:34:52+00:00",
+            "message_id": 9416,
+            "message_key": "@testingcatalog:9416"
         }
     ]
 }
