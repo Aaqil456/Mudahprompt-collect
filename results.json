@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T01:12:14.166438",
+    "timestamp": "2026-09-24T13:21:37.582047",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -31946,6 +31946,46 @@
             "date": "2026-09-24T00:07:55+00:00",
             "message_id": 9409,
             "message_key": "@testingcatalog:9409"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta unveils 100-gram VR Glasses for $1,299.99**](https://www.testingcatalog.com/meta-unveils-100-gram-vr-glasses-for-1-299-99/)\n\nMeta unveiled 100g VR Glasses with 5K micro-OLED displays, a separate compute puck, gesture and voice controls, IMAX support, immersive sports, private work screens, and hologram calls, priced at $1,299.99 for spring 2027.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta Perkenalkan VR Glasses 100 Gram Pada Harga $1,299.99**](https://www.testingcatalog.com/meta-unveils-100-gram-vr-glasses-for-1-299-99/)\n\nMeta memperkenalkan VR Glasses seberat 100 gram ini, lengkap dengan paparan micro-OLED 5K, unit pemprosesan berasingan, kawalan isyarat dan suara, sokongan IMAX, pengalaman sukan yang imersif, skrin kerja peribadi, dan panggilan hologram. Ia akan dijual pada harga $1,299.99 dan dijangka keluar pada musim bunga 2027.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-24T12:18:48+00:00",
+            "message_id": 9415,
+            "message_key": "@testingcatalog:9415"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Nano Banana 2.5 Flash traces have been spotted on Google Flow.\n\nSoon? \ud83d\udc40\nh/t @wrg133",
+            "translated_text": "GOOGLE \ud83d\udd25: Jejak Nano Banana 2.5 Flash dah dikesan kat Google Flow.\n\nTak lama lagi ke? \ud83d\udc40\nKredit kepada @wrg133",
+            "date": "2026-09-24T12:15:03+00:00",
+            "message_id": 9414,
+            "message_key": "@testingcatalog:9414"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini Task mode in testing along with Gemini Live support**](https://www.testingcatalog.com/gemini-task-mode-in-testing-along-with-gemini-live-support/)\n\nGOOGLE \ud83d\udd25: It seems like the upcoming Gemini Task mode on Gemini desktop will support Gemini Live as well. \n\n> Users will likely be able to control Gemini Tasks by voice. \n\n> The Computer Use feature also got more granular settings, letting users configure whitelisted and blocked apps. \n\nThese features already undergo closed testing, and we may see them announced soon. It would be cool if they arrive along with a rumored Gemini 4 Pro, which may drop earlier than expected this year. \n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Mod Gemini Task sedang diuji bersama sokongan Gemini Live**](https://www.testingcatalog.com/gemini-task-mode-in-testing-along-with-gemini-live-support/)\n\nGOOGLE \ud83d\udd25: Nampaknya mod Gemini Task yang akan datang untuk Gemini desktop akan menyokong Gemini Live juga.\n\n> Pengguna kemungkinan besar boleh kawal Gemini Tasks guna suara.\n\n> Ciri Computer Use pun dapat tetapan yang lebih terperinci, membolehkan pengguna tetapkan aplikasi yang dibenarkan dan disekat.\n\nCiri-ciri ni dah pun menjalani ujian tertutup, dan mungkin kita akan nampak ia diumumkan tak lama lagi. Mesti best kalau ia datang sekali dengan Gemini 4 Pro yang digosipkan, yang mungkin akan dilancarkan lebih awal dari jangkaan tahun ni.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-24T12:01:13+00:00",
+            "message_id": 9413,
+            "message_key": "@testingcatalog:9413"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 24\n\nMETA \ud83d\udd25:\n- Meta VR Glasses: first VR in glasses, not a headset. AI-native OS, Muse avatar, eye + hand + voice control.\n- Muse now has voice and realtime video, and is coming to glasses for hands-free use all day.\n- Muse Charm, a keychain pin for talking to Muse, ships in December.\n- Meta Glasses get FDA-cleared hearing-aid mode. Private processing means Meta cannot see some on-device AI.\n\nOPENAI \ud83d\udd25:\n- ChatGPT Voice now runs plugins (email, calendar, Slack) and GPT-6 Astra, Sol, and Luna.\n- Voice is live in ChatGPT Work on web and mobile. Global rollout in the latest app.\n\nGOOGLE \ud83d\udd25:\n- Gemini 3.8 Flash TTS and Flash-Lite TTS are live in AI Studio and the Gemini API.\n- Custom voices across 100+ languages, or pick from 2,000+ stock voices. Flash hits Gemini Notebook; Flash-Lite hits Google Vids.\n- Gemini app is rolling out new MCP connections: Linear, Airtable, Webflow, Monday, PandaDoc, and Wispr Flow.\n- Koray says Gemini 4 is in early post-training and hopes for an early drop well before year-end.\n\nANTHROPIC \ud83d\udd25:\n- Claude Marketplace is live: Slack and Notion connectors, agents from Cursor and CrowdStrike, partners like Accenture.\n- Cloud sessions leave research preview. One-time credits: $100 Pro, $250 Max. Claim by Oct 7.\n- Projects in Claude Code can now run threads locally.\n\nCURSOR \ud83d\udd25:\n- Rollouts watch deploys on Teams and Enterprise. Security Reviewer now averages 3.8 min.\n- Token costs down 7% with no drop in agent quality.\n\nALIBABA \ud83d\udd25:\n- Qwen Intelligence ships three mobile agents. Mobile-Use hits 90% end-to-end success on real-device benches.\n- Qwen-Audio-3.1 is out. TTS ~70% off, Realtime ~85% off, ASR up to 95% off.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.\n** This daily brief also arrives in the daily email format; subscribe on the blog.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 24 Sept\n\nMETA \ud83d\udd25:\n- Meta VR Glasses: VR pertama dalam bentuk cermin mata, bukan set kepala. OS AI-native, avatar Muse, kawalan mata + tangan + suara.\n- Muse kini ada suara dan video masa nyata, dan akan datang ke cermin mata untuk kegunaan bebas tangan sepanjang hari.\n- Muse Charm, pin rantai kunci untuk bercakap dengan Muse, akan dihantar pada Disember.\n- Meta Glasses dapat mod alat bantu pendengaran yang diluluskan FDA. Pemprosesan peribadi bermakna Meta tak boleh lihat beberapa AI dalam peranti.\n\nOPENAI \ud83d\udd25:\n- ChatGPT Voice kini boleh jalankan plugin (e-mel, kalendar, Slack) dan GPT-6 Astra, Sol, serta Luna.\n- Voice dah ada dalam ChatGPT Work di web dan mudah alih. Pelancaran global dalam aplikasi terkini.\n\nGOOGLE \ud83d\udd25:\n- Gemini 3.8 Flash TTS dan Flash-Lite TTS dah boleh guna dalam AI Studio dan Gemini API.\n- Suara tersuai untuk lebih 100 bahasa, atau pilih dari 2,000+ suara sedia ada. Flash ada di Gemini Notebook; Flash-Lite ada di Google Vids.\n- Aplikasi Gemini sedang melancarkan sambungan MCP baharu: Linear, Airtable, Webflow, Monday, PandaDoc, dan Wispr Flow.\n- Koray kata Gemini 4 dalam fasa awal pasca-latihan dan berharap ia akan dilancarkan lebih awal sebelum hujung tahun.\n\nANTHROPIC \ud83d\udd25:\n- Claude Marketplace dah aktif: penyambung Slack dan Notion, ejen dari Cursor dan CrowdStrike, rakan kongsi macam Accenture.\n- Sesi Cloud keluar dari pratonton penyelidikan. Kredit sekali guna: $100 Pro, $250 Max. Tuntut sebelum 7 Okt.\n- Projek dalam Claude Code kini boleh jalankan thread secara tempatan.\n\nCURSOR \ud83d\udd25:\n- Pelancaran memantau penggunaan di Teams dan Enterprise. Security Reviewer kini purata 3.8 minit.\n- Kos token turun 7% tanpa penurunan kualiti ejen.\n\nALIBABA \ud83d\udd25:\n- Qwen Intelligence hantar tiga ejen mudah alih. Penggunaan Mudah Alih capai 90% kejayaan hujung-ke-hujung pada ujian peranti sebenar.\n- Qwen-Audio-3.1 dah keluar. TTS diskaun ~70%, Realtime ~85%, ASR sehingga 95%.\n\n* Ringkasan ini digubah menggunakan Grok, dengan memilih berita penting dan melakukan sedikit penyuntingan.\n** Ringkasan harian ini juga dihantar dalam format e-mel harian; langgan di blog.",
+            "date": "2026-09-24T07:21:50+00:00",
+            "message_id": 9412,
+            "message_key": "@testingcatalog:9412"
         }
     ]
 }
