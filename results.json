@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T18:18:20.690745",
+    "timestamp": "2026-09-24T22:07:24.828856",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32006,6 +32006,56 @@
             "date": "2026-09-24T17:34:52+00:00",
             "message_id": 9416,
             "message_key": "@testingcatalog:9416"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-24T21:44:01+00:00",
+            "message_id": 9422,
+            "message_key": "@testingcatalog:9422"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: The upcoming ChatGPT Pro Max plan will cost $500. \n\nSo far, this will be one of the most expensive AI subscriptions available on the market. \n\nI hope \"it will be worth the wait\" \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Pelan ChatGPT Pro Max yang akan datang akan berharga $500.\nSetakat ini, ini akan jadi salah satu langganan AI paling mahal yang ada di pasaran.\nHarap-harap \"ia berbaloi untuk ditunggu\" \ud83d\udc40",
+            "date": "2026-09-24T21:44:01+00:00",
+            "message_id": 9421,
+            "message_key": "@testingcatalog:9421"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-24T21:27:05+00:00",
+            "message_id": 9420,
+            "message_key": "@testingcatalog:9420"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A new ChatGPT Pro Max plan has been spotted in development by Tibor! \n\n> OpenAI has been exploring ways to enable users to work with ChatGPT on long-running tasks for quite a while. \n\n> With OpenAI DevDay coming next week, we'll likely hear more about it already very soon.\n\nWhat's your bet? \n\n$2000 tier? \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Pelan ChatGPT Pro Max yang baru dikesan sedang dibangunkan oleh Tibor!\n\n> OpenAI dah lama mencari cara untuk membolehkan pengguna bekerja dengan ChatGPT untuk tugasan jangka panjang.\n\n> Memandangkan OpenAI DevDay akan datang minggu depan, kita mungkin akan dengar lebih lanjut mengenainya tak lama lagi.\n\nApa agak-agak?\n\nPakej $2000? \ud83d\udc40",
+            "date": "2026-09-24T21:27:05+00:00",
+            "message_id": 9419,
+            "message_key": "@testingcatalog:9419"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Hermes desktop users now can watch bot\u2019s screens while they work and take the control over when needed. \n\n\u201cWatching how someone else works is one of the most joyful states for a human being\u201d",
+            "translated_text": "Pengguna desktop Hermes sekarang boleh tengok skrin bot masa mereka bekerja, dan boleh ambil alih kawalan bila-bila masa diperlukan.\n\n\u201cMenonton cara orang lain bekerja ni, adalah antara perkara paling seronok untuk manusia.\u201d",
+            "date": "2026-09-24T18:33:27+00:00",
+            "message_id": 9418,
+            "message_key": "@testingcatalog:9418"
         }
     ]
 }
