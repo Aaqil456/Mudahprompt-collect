@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-25T13:21:22.292020",
+    "timestamp": "2026-09-25T18:18:43.614496",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32106,6 +32106,36 @@
             "date": "2026-09-25T08:21:43+00:00",
             "message_id": 9426,
             "message_key": "@testingcatalog:9426"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-25T18:10:38+00:00",
+            "message_id": 9430,
+            "message_key": "@testingcatalog:9430"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A Liquid Glass UI revamp for Claude on iOS with bottom tab nav and other tweaks is almost ready.\n\nSleeeeek \ud83d\udc40",
+            "translated_text": "Pembaharuan UI Liquid Glass untuk Claude di iOS dengan navigasi tab bawah dan penyesuaian lain hampir siap.\n\nNampak kemas \ud83d\udc40",
+            "date": "2026-09-25T18:10:38+00:00",
+            "message_id": 9429,
+            "message_key": "@testingcatalog:9429"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: A new Copilot app with Home, Code and Copilot modes has been introduced!\n\n\u201cToday we\u2019re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they\u2019ll need to build, customize and scale AI across work.\u201d\nHome contains Chat and Cowork options for day-to-day work. Office Copilot is included.\nCode is powered by the same underlying tech as GitHub Copilot. A new Microsoft Managed Copilot Runtime for code execution has been added too.\nAutopilot is a rebranded Scout Agent, Microsoft\u2019s proactive AI assistant.\n\n* \u201cIt\u2019s rolling out now through the Frontier program\u201d\n\nFrontier testing time \ud83d\udc40",
+            "translated_text": "MICROSOFT \ud83d\udd25: Aplikasi Copilot baru dengan mod Home, Code, dan Copilot dah diperkenalkan!\n\n\"Hari ni kita perkenalkan Copilot baru ni untuk sambungkan alatan yang orang ramai guna dengan keupayaan generasi seterusnya yang diperlukan untuk bina, sesuaikan, dan kembangkan AI dalam kerja.\"\nMod Home ada pilihan Chat dan Cowork untuk kerja harian. Office Copilot pun termasuk sekali.\nMod Code pula dikuasakan oleh teknologi asas yang sama macam GitHub Copilot. Microsoft Managed Copilot Runtime yang baru untuk pelaksanaan kod pun dah ditambah.\nAutopilot ni sebenarnya Scout Agent yang dijenamakan semula, pembantu AI proaktif dari Microsoft.\n\n* \"Ia sedang dilancarkan sekarang melalui program Frontier\"\n\nMasa ujian Frontier \ud83d\udc40",
+            "date": "2026-09-25T15:25:51+00:00",
+            "message_id": 9428,
+            "message_key": "@testingcatalog:9428"
         }
     ]
 }
