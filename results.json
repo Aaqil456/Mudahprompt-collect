@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T22:07:24.828856",
+    "timestamp": "2026-09-25T01:14:01.722024",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32056,6 +32056,26 @@
             "date": "2026-09-24T18:33:27+00:00",
             "message_id": 9418,
             "message_key": "@testingcatalog:9418"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares new $500/month Pro Max plan for ChatGPT**](https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/)\n\nOpenAI may launch a $500/month ChatGPT Pro Max plan aimed at developers and researchers, centered on fastest Work and Codex access. It could add higher limits and longer task capacity, with possible ties to Cerebras-powered inference.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI sedang sediakan pelan Pro Max baharu $500/bulan untuk ChatGPT**](https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/)\n\nOpenAI mungkin akan lancarkan pelan ChatGPT Pro Max berharga $500/bulan, yang ditujukan untuk pembangun dan penyelidik, dengan fokus utama pada akses Work dan Codex terpantas. Ia mungkin akan menambah had yang lebih tinggi dan kapasiti tugasan yang lebih panjang, dan mungkin ada kaitan dengan inferens yang dikuasakan Cerebras.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-24T23:57:01+00:00",
+            "message_id": 9424,
+            "message_key": "@testingcatalog:9424"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: An upcoming $500 ChatGPT Pro Max plan will likely be powered by Cerebras infrastructure. \n\n> So far, \"Fastest Work and Codex\" are the only changes in the plan description compared to ChatGPT Pro. \n\n> Usage limits could still be higher as well \ud83d\udc40\n\n* The plan price is $500; it shows $600 due to VAT.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Pelan ChatGPT Pro Max yang akan datang berharga $500 kemungkinan besar akan dikuasakan oleh infrastruktur Cerebras.\n\nSetakat ini, \"Fastest Work and Codex\" adalah satu-satunya perubahan dalam penerangan pelan berbanding ChatGPT Pro.\n\nHad penggunaan mungkin masih lebih tinggi juga \ud83d\udc40\n\nHarga pelan adalah $500; ia menunjukkan $600 kerana VAT.",
+            "date": "2026-09-24T23:06:51+00:00",
+            "message_id": 9423,
+            "message_key": "@testingcatalog:9423"
         }
     ]
 }
