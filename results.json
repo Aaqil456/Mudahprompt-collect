@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-26T01:16:09.530246",
+    "timestamp": "2026-09-26T07:11:46.097294",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32196,6 +32196,26 @@
             "date": "2026-09-25T23:02:27+00:00",
             "message_id": 9434,
             "message_key": "@testingcatalog:9434"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft brings Home, Code and Autopilot to Copilot**](https://www.testingcatalog.com/microsoft-brings-home-code-and-autopilot-to-copilot/)\n\nMicrosoft is recasting Copilot around Home, Code and Autopilot, uniting chat, delegated work, app creation and persistent agents in one app, with staged previews, Office integration, enterprise controls and metered pricing.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "translated_text": "[**Microsoft bawa Home, Code dan Autopilot ke Copilot**](https://www.testingcatalog.com/microsoft-brings-home-code-and-autopilot-to-copilot/)\n\nMicrosoft sedang menyusun semula Copilot, berpusat pada Home, Code dan Autopilot. Ia menyatukan sembang, kerja yang diwakilkan, penciptaan aplikasi dan ejen berterusan dalam satu aplikasi, lengkap dengan pratonton berperingkat, integrasi Office, kawalan perusahaan dan harga mengikut penggunaan.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "date": "2026-09-26T06:41:07+00:00",
+            "message_id": 9438,
+            "message_key": "@testingcatalog:9438"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 26\n\nMICROSOFT \ud83d\udd25:\n- Biggest Copilot update yet: Home (Chat + Cowork), Code, Autopilot, and Office embedded in the app.\n- Autopilot is the proactive long-running enterprise agent, a rebranded Scout. Code builds tenant-hosted apps on GitHub Copilot tech, with a Managed Copilot Runtime.\n- Rolling out through Frontier. Cowork, Code, and Autopilot are usage-billed. Today surfaces priority M365 items without a prompt.\n\nOPENAI \ud83d\udd25:\n- Codex outage is over. Paid usage limits reset across Codex and ChatGPT Work.\n- ChatGPT desktop got a new sidebar, split from chat history, plus a broader UI pass.\n- Research agents sent training and eval data to third parties. 53 user-uploaded images hit unlisted image hosts. Review will take months.\n\nANTHROPIC \ud83d\udd25:\n- Plugin portal is live: submit a single MCP connector or a plugin bundle, track review, and see usage. MCP usage across Claude is up 110x this year.\n- Claude solved a nine-loop scattering-amplitude problem unsupervised over days, for a few thousand dollars. Dixon verified it.\n- Claude Code layout for Desktop is in development: new model selector and an expandable usage-limits section.\n\nGOOGLE \ud83d\udd25:\n- Gemini Notebook Interactive Learning Overviews are open to all users.\n- Live Chat is on the Notebook mobile app: hands-free voice across about 100 languages.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 26 Sept\n\nMICROSOFT \ud83d\udd25:\n- Kemas kini Copilot terbesar setakat ini: Home (Sembang + Cowork), Code, Autopilot, dan Office kini disepadukan dalam aplikasi.\n- Autopilot ialah ejen perusahaan jangka panjang yang proaktif, kini dijenamakan semula sebagai Scout. Code pula membina aplikasi yang dihoskan penyewa menggunakan teknologi GitHub Copilot, dengan Managed Copilot Runtime.\n- Pelancaran akan dibuat melalui Frontier. Cowork, Code, dan Autopilot akan dicaj berdasarkan penggunaan. Hari ini, ia memaparkan item M365 yang menjadi keutamaan tanpa perlu arahan.\n\nOPENAI \ud83d\udd25:\n- Gangguan Codex dah selesai. Had penggunaan berbayar telah diset semula untuk Codex dan ChatGPT Work.\n- ChatGPT versi desktop dapat sidebar baru, diasingkan dari sejarah sembang, dan juga kemas kini UI yang lebih menyeluruh.\n- Ejen penyelidikan telah menghantar data latihan dan penilaian kepada pihak ketiga. 53 imej yang dimuat naik pengguna telah sampai ke hos imej yang tidak tersenarai. Semakan akan ambil masa berbulan-bulan.\n\nANTHROPIC \ud83d\udd25:\n- Portal plugin dah aktif: boleh hantar satu penyambung MCP atau pakej plugin, jejak semakan, dan tengok penggunaan. Penggunaan MCP di Claude dah naik 110 kali ganda tahun ni.\n- Claude berjaya selesaikan masalah sembilan gelung 'scattering-amplitude' tanpa pengawasan selama beberapa hari, dengan kos beberapa ribu dolar. Dixon dah sahkan.\n- Susun atur Claude Code untuk Desktop sedang dibangunkan: ada pemilih model baru dan bahagian had penggunaan yang boleh dikembangkan.\n\nGOOGLE \ud83d\udd25:\n- Gemini Notebook Interactive Learning Overviews dah dibuka untuk semua pengguna.\n- Live Chat ada dalam aplikasi mudah alih Notebook: boleh guna suara tanpa perlu pegang telefon untuk lebih kurang 100 bahasa.",
+            "date": "2026-09-26T06:35:07+00:00",
+            "message_id": 9437,
+            "message_key": "@testingcatalog:9437"
         }
     ]
 }
