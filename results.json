@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-26T07:11:46.097294",
+    "timestamp": "2026-09-26T12:45:01.138292",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32216,6 +32216,46 @@
             "date": "2026-09-26T06:35:07+00:00",
             "message_id": 9437,
             "message_key": "@testingcatalog:9437"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares to expand Ultrafast API to more users**](https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/)\n\nOpenAI is preparing to expand its Ultrafast API to more users after OpenAI DevDay. \n\n> A new Speed selector with Fast, Standard, and Ultrafast modes is coming to the Responses API Playground on the OpenAI Platform. \n\n> Earlier, OpenAI announced the Ultrafast model on the APIs; however, it has been only available to selected partners. \n\n> Earlier, a new $500 ChatGPT Pro Max subscription plan offering \"fastest\" responses was spotted. OpenAI seems to be heavily doubling down on its new infrastructure this time. \n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI bersedia untuk meluaskan Ultrafast API kepada lebih ramai pengguna**](https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users/)\n\nOpenAI sedang bersedia untuk meluaskan Ultrafast API mereka kepada lebih ramai pengguna selepas OpenAI DevDay.\n\n> Pemilih Kelajuan baharu dengan mod Fast, Standard, dan Ultrafast akan datang ke Responses API Playground di OpenAI Platform.\n\n> Sebelum ini, OpenAI telah mengumumkan model Ultrafast pada API mereka; namun, ia hanya tersedia untuk rakan kongsi terpilih.\n\n> Sebelum ini, pelan langganan baharu ChatGPT Pro Max berharga $500 yang menawarkan respons \"terpantas\" telah dikesan. OpenAI nampaknya sedang menggandakan usaha mereka pada infrastruktur baharu kali ini.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-26T12:24:29+00:00",
+            "message_id": 9442,
+            "message_key": "@testingcatalog:9442"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI to announce \"o\" always-on agent during DevDay**](https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/)\n\nOpenAI may unveil \u201cO,\u201d an always-on agent, at DevDay on September 29. References in ChatGPT config and the Pro plan suggest a persistent assistant with possible email support, though features, permissions, and access remain unclear.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI akan umumkan ejen 'O' yang sentiasa aktif masa DevDay**](https://www.testingcatalog.com/openai-to-announce-o-always-on-agent-during-devday/)\n\nOpenAI mungkin akan memperkenalkan 'O', ejen yang sentiasa aktif, masa DevDay pada 29 September nanti. Sumber dalam konfigurasi ChatGPT dan pelan Pro mencadangkan pembantu berterusan dengan kemungkinan sokongan e-mel, tapi ciri-ciri, kebenaran, dan akses masih belum jelas.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-26T12:10:52+00:00",
+            "message_id": 9441,
+            "message_key": "@testingcatalog:9441"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-26T10:05:25+00:00",
+            "message_id": 9440,
+            "message_key": "@testingcatalog:9440"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: An upcoming always-on assistant from OpenAI will be named \"o\".\n\nIts reference appeared briefly on the ChatGPT upgrade screen for some users.\nInternal config has references to \"o\" as a display name and \"-o\" as an email suffix. This means that \"o\" will support email handling.\nOpenAI is hosting its DevDay next week, where we will likely hear more about their always-on assistant.\nP.S. A rumored \"Aeon\" reference is an internal name for the existing custom Agents implementation for ChatGPT Workspace accounts. Yet OpenAI will likely build a consumer-facing \"o\" assistant on top of this feature.\n\nNext week will be huge. I also like that Meta set a super high standard with its Muse assistant. OpenAI will need to cross a very high bar.\n\nSoon? \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Pembantu sentiasa aktif yang akan datang dari OpenAI akan dinamakan \"o\".\n\nRujukannya muncul sekejap di skrin naik taraf ChatGPT untuk beberapa pengguna.\nKonfigurasi dalaman ada rujukan kepada \"o\" sebagai nama paparan dan \"-o\" sebagai akhiran e-mel. Ini bermakna \"o\" akan menyokong pengendalian e-mel.\nOpenAI akan menganjurkan DevDay mereka minggu depan, di mana kita mungkin akan dengar lebih lanjut tentang pembantu sentiasa aktif mereka.\nP.S. Rujukan \"Aeon\" yang khabarnya tersebar adalah nama dalaman untuk implementasi Agen tersuai sedia ada bagi akaun ChatGPT Workspace. Namun, OpenAI kemungkinan besar akan membina pembantu \"o\" yang berhadapan dengan pengguna berdasarkan ciri ini.\n\nMinggu depan akan jadi besar. Saya juga suka Meta dah tetapkan standard yang sangat tinggi dengan pembantu Muse mereka. OpenAI perlu melepasi tahap yang sangat tinggi.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-09-26T10:05:25+00:00",
+            "message_id": 9439,
+            "message_key": "@testingcatalog:9439"
         }
     ]
 }
