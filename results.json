@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-27T21:53:14.452365",
+    "timestamp": "2026-09-28T15:02:37.755218",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32316,6 +32316,16 @@
             "date": "2026-09-27T20:23:24+00:00",
             "message_id": 9447,
             "message_key": "@testingcatalog:9447"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 28\n\nOPENAI \ud83d\udd25:\n- Image-encoding bug fixed in GPT-6 Sol and GPT-6 Luna. Visual tasks in the API and Codex, including computer use, should be back. \n- \u201co\u201d references spotted in ChatGPT code. Chatter says all Pro plans, not Pro Max only; Codex Plus excluded, \n\nMETA \ud83d\udd25:\n- Muse is getting a dedicated tab for permanent browsing of its VM screen on the web.\n\nGOOGLE \ud83d\udd25:\n- Flow build now points to Nano Banana 2.1, replacing the Nano Banana 2.5 Flash reference. Not available yet.\n- Select users in India can hit Buy on eligible products and check out on Flipkart inside Gemini and AI Mode. \n\nXAI \ud83d\udd25:\n- Elon on Grok bot feeling faster today: \u201cUpgrades.\u201d\n\nANTHROPIC \ud83d\udd25:\n- claude-sonnet-5-5 tag reportedly spotted. Nothing official, pricing unknown.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.\n** This daily brief also arrives in the daily email format; subscribe on the blog.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 28 Sept\n\nOPENAI \ud83d\udd25:\n- Pepijat pengekodan imej dah dibetulkan dalam GPT-6 Sol dan GPT-6 Luna. Tugasan visual dalam API dan Codex, termasuk penggunaan komputer, sepatutnya dah kembali berfungsi.\n- Rujukan \"o\" dikesan dalam kod ChatGPT. Khabar angin mengatakan untuk semua pelan Pro, bukan Pro Max sahaja; Codex Plus dikecualikan.\n\nMETA \ud83d\udd25:\n- Muse akan dapat tab khas untuk melayari skrin VM-nya secara kekal di web.\n\nGOOGLE \ud83d\udd25:\n- Pembinaan Flow kini merujuk kepada Nano Banana 2.1, menggantikan rujukan Nano Banana 2.5 Flash. Belum tersedia lagi.\n- Pengguna terpilih di India boleh tekan Beli pada produk yang layak dan membuat pembayaran di Flipkart dalam Gemini dan AI Mode.\n\nXAI \ud83d\udd25:\n- Elon kata bot Grok rasa lebih laju hari ni: \"Peningkatan.\"\n\nANTHROPIC \ud83d\udd25:\n- Tag claude-sonnet-5-5 dilaporkan dikesan. Tiada apa-apa yang rasmi, harga pun tak tahu lagi.\n\n* Ringkasan ni digubah guna Grok, pilih berita penting dan buat sedikit suntingan.\n** Ringkasan harian ni juga ada dalam format emel harian; boleh langgan di blog.",
+            "date": "2026-09-28T08:51:36+00:00",
+            "message_id": 9449,
+            "message_key": "@testingcatalog:9449"
         }
     ]
 }
