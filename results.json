@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T19:51:37.850038",
+    "timestamp": "2026-09-29T23:31:47.910696",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32536,6 +32536,36 @@
             "date": "2026-09-29T17:21:15+00:00",
             "message_id": 9478,
             "message_key": "@testingcatalog:9478"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches Muse for Small Business with new connectors**](https://www.testingcatalog.com/meta-launches-muse-for-small-business-with-new-connectors/)\n\nMeta launched Muse for Small Business, an AI agent that connects Meta tools and third-party apps to support planning and operations. It can use business data across services, with approval required before posting, messaging or spending.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta Lancarkan Muse for Small Business dengan Penyambung Baharu**](https://www.testingcatalog.com/meta-launches-muse-for-small-business-with-new-connectors/)\n\nMeta melancarkan Muse for Small Business, ejen AI yang menghubungkan alat Meta dan aplikasi pihak ketiga untuk menyokong perancangan dan operasi. Ia boleh menggunakan data perniagaan merentasi pelbagai perkhidmatan, dengan kelulusan diperlukan sebelum membuat hantaran, menghantar mesej atau berbelanja.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-09-29T22:54:00+00:00",
+            "message_id": 9486,
+            "message_key": "@testingcatalog:9486"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-29T22:41:48+00:00",
+            "message_id": 9484,
+            "message_key": "@testingcatalog:9484"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is planning to raise another $30 billion at around a $1.4 trillion valuation (not including the money raised), according to Bloomberg. \n\nWhose IPO will be bigger? \ud83d\udc40",
+            "translated_text": "OpenAI merancang untuk mengumpul lagi $30 bilion pada penilaian sekitar $1.4 trilion (tidak termasuk wang yang telah dikumpul), menurut Bloomberg.\n\nIPO siapa agaknya yang akan lebih besar? \ud83d\udc40",
+            "date": "2026-09-29T22:41:48+00:00",
+            "message_id": 9483,
+            "message_key": "@testingcatalog:9483"
         }
     ]
 }
