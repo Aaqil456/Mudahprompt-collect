@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-28T21:39:25.123157",
+    "timestamp": "2026-09-29T01:35:00.250866",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32376,6 +32376,46 @@
             "date": "2026-09-28T18:01:26+00:00",
             "message_id": 9455,
             "message_key": "@testingcatalog:9455"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is working on \"Spaces\" \ud83d\udc40\n\nA new announcement introducing \"Spaces\" was added recently.\n\nSpaces could be collaborative environments where users and agents work together on generated artifacts (speculation).\n\nSome DevDay sessions mention a \"Codex run that spent more than 1,000 hours\" and the \"Multiplayer Codex\" topic, which might be closely connected (speculation).\n\n* Announcement strings redacted",
+            "translated_text": "OpenAI sedang bangunkan \"Spaces\" \ud83d\udc40\n\nSatu pengumuman baru yang memperkenalkan \"Spaces\" baru saja ditambah.\n\n\"Spaces\" mungkin adalah persekitaran kolaboratif di mana pengguna dan ejen bekerjasama pada artifak yang dihasilkan (spekulasi).\n\nBeberapa sesi DevDay ada menyebut tentang \"Codex run yang mengambil masa lebih 1,000 jam\" dan topik \"Multiplayer Codex\", yang mungkin berkait rapat (spekulasi).\n\n* Teks pengumuman disunting",
+            "date": "2026-09-29T00:47:49+00:00",
+            "message_id": 9463,
+            "message_key": "@testingcatalog:9463"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-29T00:26:33+00:00",
+            "message_id": 9462,
+            "message_key": "@testingcatalog:9462"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: OpenAI won\u2019t release GPT-6.1 Astra due to safety concerns, according to WSJ. \n\n> \u201cThe company had planned to launch the model, known as GPT-6.1 Astra, in the coming days or weeks, aiming for an October debut. The model was more capable than the company\u2019s previous models in completing challenging tasks from end-to-end without human assistance, as well as writing.\u201d\n\n> \u201cWhile GPT-6.1 Astra improved in areas such as \u201cmodel laziness,\u201d Jain said it didn\u2019t quite meet OpenAI\u2019s bar for safety and alignment, so the company decided not to launch the model publicly.\u201d\n\nOpenAI is clearly aiming high on long running tasks performance. \u201cLoop\u201d capabilities will also need new benchmarks and measures. \n\nBack to patience cave \ud83d\udc80",
+            "translated_text": "OPENAI \ud83d\udd25: OpenAI takkan keluarkan GPT-6.1 Astra sebab isu keselamatan, lapor WSJ.\n\n> \u201cSyarikat tu sebenarnya dah rancang nak lancarkan model ni, yang dikenali sebagai GPT-6.1 Astra, dalam masa beberapa hari atau minggu lagi, dengan sasaran untuk debut bulan Oktober. Model ni lebih berkebolehan berbanding model-model syarikat sebelum ni dalam menyiapkan tugasan mencabar dari awal sampai akhir tanpa bantuan manusia, termasuklah dalam penulisan.\u201d\n\n> \u201cWalaupun GPT-6.1 Astra dah ada peningkatan dalam beberapa aspek macam \u201cmodel laziness,\u201d Jain cakap ia tak capai piawaian keselamatan dan penjajaran OpenAI, jadi syarikat tu buat keputusan untuk tak lancarkan model ni secara umum.\u201d\n\nOpenAI memang jelas nak capai tahap tinggi untuk prestasi tugasan jangka panjang. Keupayaan \u201cLoop\u201d pun perlukan penanda aras dan ukuran baru.\n\nKena sabar lagi la nampaknya \ud83d\udc80",
+            "date": "2026-09-29T00:26:33+00:00",
+            "message_id": 9461,
+            "message_key": "@testingcatalog:9461"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Key insights from upcoming DevDay sessions.\n\n* This agenda is not public yet\n\nFirst, OpenAI will build Platform capabilities inside Codex, enabling users to develop plugins, agents, and apps right from a dedicated DevDay page, which is quite cool!\n\nHighlights from the agenda \ud83d\udc40\n\n> Claw Labs \"Join Peter Steinberger for a look at how agents can change the way open-source teams build.\"\n\n> \ud83d\udd25 Codex Game Studio \"What makes a game easy for humans but hard for AI? **Build one and put Codex to the test.**\"\n\n> \ud83d\udd25 What Will You Build With Coding Agents That Don\u2019t Quit? What engineering work deserves your time and tokens? Learn from a **Codex run that spent more than 1,000 hours** keeping builds and tests passing in a large shared codebase. See how this **internal OpenAI agent** had goals, subagents, and persistent plans that helped it investigate failures and coordinate fixes.\n\n> Codex Has Left The Laptop \"As we move from delegating individual tasks to letting Codex tackle entire problems and goals on its own, it\u2019s possible to harness the power of Codex wherever and however you work. \"\n\n> From Single Player to Multiplayer with Codex \"Follow a 2am outage from the first Slack messages to a reviewed fix and an update for the team.\"\n\n> What Comes After Loops?: Deep Dive Into Agentic Architecture \"As models become more capable, agent architectures are changing. We'll trace the evolution from simple loops to collaborating agents, examine the design choices and model advancements behind that shift, and take a deep dive into what comes next.\"",
+            "translated_text": "OPENAI \ud83d\udd25: Intipati penting dari sesi DevDay yang akan datang.\n\n* Agenda ini belum diumumkan secara rasmi lagi.\n\nPertama, OpenAI akan membina keupayaan Platform dalam Codex, membolehkan pengguna membangunkan plugin, ejen, dan aplikasi terus dari halaman DevDay yang khusus. Ini memang menarik!\n\nSorotan dari agenda \ud83d\udc40\n\n> Claw Labs \"Sertai Peter Steinberger untuk melihat bagaimana ejen boleh mengubah cara pasukan sumber terbuka membina sesuatu.\"\n\n> \ud83d\udd25 Codex Game Studio \"Apa yang membuatkan permainan mudah untuk manusia tetapi sukar untuk AI? **Bina satu dan uji Codex.**\"\n\n> \ud83d\udd25 Apa Yang Akan Anda Bina Dengan Ejen Pengekodan Yang Tak Pernah Mengalah? Kerja kejuruteraan apa yang patut anda luangkan masa dan token? Belajar dari **operasi Codex yang menghabiskan lebih 1,000 jam** untuk memastikan binaan dan ujian lulus dalam pangkalan kod kongsi yang besar. Lihat bagaimana **ejen dalaman OpenAI** ini mempunyai matlamat, sub-ejen, dan rancangan berterusan yang membantunya menyiasat kegagalan dan menyelaraskan pembetulan.\n\n> Codex Sudah Tinggalkan Laptop \"Apabila kita beralih daripada menyerahkan tugas individu kepada membiarkan Codex menangani keseluruhan masalah dan matlamatnya sendiri, adalah mungkin untuk memanfaatkan kuasa Codex di mana sahaja dan bagaimana sahaja anda bekerja.\"\n\n> Dari Pemain Tunggal ke Berbilang Pemain dengan Codex \"Ikuti gangguan pada jam 2 pagi dari mesej Slack pertama hingga pembetulan yang disemak dan kemas kini untuk pasukan.\"\n\n> Apa Selepas Gelung?: Selami Seni Bina Ejen \"Apabila model menjadi lebih berkemampuan, seni bina ejen turut berubah. Kita akan menjejaki evolusi dari gelung mudah kepada ejen yang bekerjasama, meneliti pilihan reka bentuk dan kemajuan model di sebalik perubahan itu, dan menyelami apa yang akan datang seterusnya.\"",
+            "date": "2026-09-28T23:32:28+00:00",
+            "message_id": 9460,
+            "message_key": "@testingcatalog:9460"
         }
     ]
 }
