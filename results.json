@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T08:00:54.796423",
+    "timestamp": "2026-09-29T14:49:58.089580",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32436,6 +32436,56 @@
             "date": "2026-09-29T05:12:57+00:00",
             "message_id": 9464,
             "message_key": "@testingcatalog:9464"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Manus 2.0 launches with Studio, Cloud Computer and Cue**](https://www.testingcatalog.com/manus-2-0-launches-with-studio-cloud-computer-and-cue/)\n\nManus 2.0 expands across web, desktop, and mobile with a new agent system, Studio, automations, game and video tools, device control, and Cue personal agents, while reporting lower token use, faster task completion, and reduced cost.\n\n\ud83d\uddde #manus @testingcatalog",
+            "translated_text": "[**Manus 2.0 dilancarkan dengan Studio, Cloud Computer dan Cue**](https://www.testingcatalog.com/manus-2-0-launches-with-studio-cloud-computer-and-cue/)\n\nManus 2.0 kini meluas ke web, desktop, dan mudah alih dengan sistem ejen baharu, Studio, automasi, alatan permainan dan video, kawalan peranti, serta ejen peribadi Cue. Ia juga melaporkan penggunaan token yang lebih rendah, penyiapan tugas yang lebih pantas, dan kos yang berkurangan.\n\n\ud83d\uddde #manus @testingcatalog",
+            "date": "2026-09-29T14:16:00+00:00",
+            "message_id": 9470,
+            "message_key": "@testingcatalog:9470"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: \"10am PT, on the dot\", OpenAI DevDay keynote is set. \"Dots\" are coming!",
+            "translated_text": "OPENAI \ud83d\udd25: \"Tepat pukul 10 pagi PT,\" ucapan utama OpenAI DevDay dah dijadualkan. \"Dots\" akan datang!",
+            "date": "2026-09-29T14:05:53+00:00",
+            "message_id": 9469,
+            "message_key": "@testingcatalog:9469"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 29\n\nANTHROPIC \ud83d\udd25:\n- Claude Sonnet 5.5 is live everywhere, including the Platform and Claude Code. Second model in the 5.5 family; Haiku 5.5 is still weeks out.\n- Same list price as Sonnet 5: $2/$10 per 1M tokens, cache reads $0.20. Official line: 30%+ faster and up to 30% cheaper per task.\n- First Sonnet with Opus-class cyber safeguards. Cursor already has the slug.\n\nOPENAI \ud83d\udd25:\n- DevDay keynote is today. The teaser promised 20+ launches; the agenda points to Codex plugins, a 1,000-hour internal agent run, and multiplayer Codex.\n- Pro $200 reopens to new subscribers tomorrow. Usage math nets to about half the old plan\u2019s API dollars. No 5h cap coming back. Extra subscription features tomorrow will not draw usage.\n- WSJ: GPT-6.1 Astra will not ship. October target pulled over safety and alignment.\n- Build strings name \u201cDots\u201d: text, call, Slack, email, buy with approval, plus a custom-shaped character. \u201cSpaces\u201d also showed up separately. \n\nXAI \ud83d\udd25:\n- Team Bots are in public beta for Teams and Enterprise. Shared teammates with skills, plugins, and credentials in Slack or Grok Bot.\n\nNVIDIA \ud83d\udd25:\n- Open Agent Safety Platform is out with 100+ partners. OpenShell plus Sentry; BlueField-4 and DOCA sit outside the agent\u2019s reach.\n\nELEVENLABS \ud83d\udd25:\n- v4 and v4 Turbo shipped. Turbo median latency ~100 ms. 90+ languages.\n- Two-week API promo: $22 / $11 per 1M characters. Instant clones from 10 seconds of audio.\n\nKLING \ud83d\udd25:\n- 4.0 Flash is live for Ultra Yearly. Full 4.0 is October: 4K HDR, 15 references, 10 keyframes, native 30-second clips.\n\nMANUS \ud83d\udd25:\n- 2.0 adds persistent cloud workspaces and Cue, an agent with email, phone, wallet, and a Cloud Computer.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.\n** This daily brief also arrives in the daily email format; subscribe on the blog.",
+            "translated_text": "RINGKASAN HARIAN AI \ud83d\uddde \u2014 29 Sept\n\nANTHROPIC \ud83d\udd25:\n- Claude Sonnet 5.5 dah boleh guna di mana-mana, termasuk di Platform dan Claude Code. Ini model kedua dalam keluarga 5.5; Haiku 5.5 pula dijangka keluar dalam beberapa minggu lagi.\n- Harga sama macam Sonnet 5: $2/$10 untuk setiap 1 juta token, bacaan cache $0.20. Secara rasmi, ia 30%+ lebih pantas dan sehingga 30% lebih murah untuk setiap tugasan.\n- Sonnet pertama dengan perlindungan siber kelas Opus. Cursor dah ada 'slug' tu.\n\nOPENAI \ud83d\udd25:\n- Ucaptama DevDay hari ini. Teaser dia janji lebih 20 pelancaran; agenda pula tunjuk ada plugin Codex, ejen dalaman yang berjalan 1,000 jam, dan Codex berbilang pemain.\n- Pro $200 akan dibuka semula untuk pelanggan baru esok. Pengiraan penggunaan menunjukkan ia kira-kira separuh daripada kos API pelan lama. Had 5 jam takkan kembali. Ciri langganan tambahan esok takkan guna penggunaan.\n- WSJ: GPT-6.1 Astra takkan dilancarkan. Sasaran Oktober ditarik balik sebab isu keselamatan dan penjajaran.\n- Nama 'Dots' muncul dalam 'build strings': teks, panggilan, Slack, e-mel, beli dengan kelulusan, dan juga karakter berbentuk khas. 'Spaces' pun muncul secara berasingan.\n\nXAI \ud83d\udd25:\n- Team Bots dah dalam beta awam untuk Teams dan Enterprise. Rakan sepasukan yang dikongsi dengan kemahiran, plugin, dan kelayakan dalam Slack atau Grok Bot.\n\nNVIDIA \ud83d\udd25:\n- Open Agent Safety Platform dah keluar dengan lebih 100 rakan kongsi. OpenShell dan Sentry; BlueField-4 dan DOCA berada di luar jangkauan ejen.\n\nELEVENLABS \ud83d\udd25:\n- v4 dan v4 Turbo dah dilancarkan. Latensi median Turbo ~100 ms. Lebih 90 bahasa.\n- Promosi API dua minggu: $22 / $11 untuk setiap 1 juta karakter. Klon segera dari audio 10 saat.\n\nKLING \ud83d\udd25:\n- 4.0 Flash dah boleh guna untuk Ultra Yearly. Versi penuh 4.0 akan keluar Oktober: 4K HDR, 15 rujukan, 10 keyframe, klip asli 30 saat.\n\nMANUS \ud83d\udd25:\n- 2.0 tambah ruang kerja awan yang kekal dan Cue, ejen dengan e-mel, telefon, dompet, dan Cloud Computer.\n\n\\* Ringkasan ini digubah menggunakan Grok, dengan memilih berita penting dan melakukan sedikit suntingan selepas itu.\n\\*\\* Ringkasan harian ini juga dihantar dalam format e-mel harian; langgan di blog.",
+            "date": "2026-09-29T11:41:11+00:00",
+            "message_id": 9468,
+            "message_key": "@testingcatalog:9468"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-29T11:08:25+00:00",
+            "message_id": 9467,
+            "message_key": "@testingcatalog:9467"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "\u201cWe leave in the era of underpriced compute\u201d, \n\nwhy? Because once we have accessible blueprints to convert tokens into money, prices will adjust as a global compute shortage hits. \n\nwhy? Because businesses will start pouring huge money into these funnels, able to generate x5-x100 revenue from token costs. \n\nICYMI \ud83d\udc40: OpenAI is resuming $200 Pro subscriptions but cutting its usage capacity by half. \n\nYet, there won\u2019t be 5h limits, and the expectation is to get even more efficient models soon. \n\nYet, factoring in that there is a new $500 plan potentially coming soon, this doesn\u2019t look very good for any ChatGPT Pro user.",
+            "translated_text": "\"Kita hidup dalam era 'compute' yang harganya masih murah,\"\n\nkenapa? Sebab bila kita dah ada cara mudah untuk tukar token jadi duit, harga akan berubah bila kekurangan 'compute' global melanda.\n\nkenapa? Sebab syarikat-syarikat akan mula melabur banyak duit ke dalam saluran ni, dan boleh jana pendapatan 5 hingga 100 kali ganda dari kos token.\n\nICYMI \ud83d\udc40: OpenAI akan sambung semula langganan Pro $200, tapi kapasiti penggunaannya dipotong separuh.\n\nWalaupun begitu, tiada had 5 jam, dan dijangka model yang lebih cekap akan datang tak lama lagi.\n\nTapi, kalau ambil kira ada pelan $500 baru yang mungkin akan datang tak lama lagi, ini nampak tak berapa bagus untuk mana-mana pengguna ChatGPT Pro.",
+            "date": "2026-09-29T11:08:25+00:00",
+            "message_id": 9466,
+            "message_key": "@testingcatalog:9466"
         }
     ]
 }
