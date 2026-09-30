@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-30T10:58:27.263322",
+    "timestamp": "2026-09-30T16:47:57.623216",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32576,6 +32576,56 @@
             "date": "2026-09-30T09:53:23+00:00",
             "message_id": 9487,
             "message_key": "@testingcatalog:9487"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Ideogram released Ideogram 4.5 image model for precise editing!\n\n> The model is available on Ideogram and APIs, as well as partner services, and the team is planning to publish open weights of this model soon as well.\n\n> The price ranges from 0.8 to 22 cents per image at native 2K resolution.\n\nTesting time! \ud83d\udc40",
+            "translated_text": "Ideogram dah lancarkan model imej Ideogram 4.5 untuk suntingan yang lebih tepat!\n\nModel ni boleh didapati di Ideogram dan API, serta perkhidmatan rakan kongsi. Pasukan mereka pun merancang nak terbitkan 'open weights' model ni tak lama lagi.\n\nHarga dia dari 0.8 hingga 22 sen untuk setiap imej pada resolusi 2K asli.\n\nMasa untuk cuba! \ud83d\udc40",
+            "date": "2026-09-30T16:32:35+00:00",
+            "message_id": 9494,
+            "message_key": "@testingcatalog:9494"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-30T14:27:24+00:00",
+            "message_id": 9493,
+            "message_key": "@testingcatalog:9493"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sesame is building support for Connectors, Skills, Scheduled tasks, and task management features!\n\n> Currently, the app is free; however, Sesame will likely introduce several paid plans soon. Pricing and feature set are yet unclear. \n\n> A hidden Activity tab holds sections for \"Tasks\", \"Schedules,\" and \"Skills\". \n> Connectors currently include Gmail, Google Calendar, and Google Drive.\n> Thinking effort for the underlying model will be adjustable as well. \n\nI still use it as my default voice assistant \ud83d\udc40",
+            "translated_text": "Sesame sedang membangunkan sokongan untuk Connectors, Skills, tugas berjadual, dan ciri-ciri pengurusan tugas!\n\n> Buat masa ni, aplikasi ni percuma je; tapi, Sesame mungkin akan perkenalkan beberapa pelan berbayar tak lama lagi. Harga dan set ciri-cirinya masih belum jelas.\n\n> Ada tab Aktiviti tersembunyi yang ada bahagian untuk \"Tasks\", \"Schedules,\" dan \"Skills\".\n> Connectors sekarang ni termasuklah Gmail, Google Calendar, dan Google Drive.\n> Usaha pemikiran untuk model asasnya pun boleh disesuaikan juga.\n\nSaya masih guna ia sebagai pembantu suara lalai saya \ud83d\udc40",
+            "date": "2026-09-30T14:27:24+00:00",
+            "message_id": 9492,
+            "message_key": "@testingcatalog:9492"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches Dots agents powered by GPT-6 Astra**](https://www.testingcatalog.com/openai-launches-dots-agents-powered-by-gpt-6-astra/)\n\nOpenAI\u2019s Dots are always-on GPT-6 Astra agents that handle ongoing work across apps and devices, retain context, learn user preferences, and operate under permissions, review controls, and enterprise governance.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI melancarkan ejen Dots yang dikuasakan oleh GPT-6 Astra**](https://www.testingcatalog.com/openai-launches-dots-agents-powered-by-gpt-6-astra/)\n\nDots dari OpenAI ini adalah ejen GPT-6 Astra yang sentiasa aktif. Ia boleh menguruskan kerja-kerja berterusan merentasi pelbagai aplikasi dan peranti, mengekalkan konteks, mempelajari pilihan pengguna, dan beroperasi di bawah kebenaran, kawalan semakan, serta tadbir urus perusahaan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-30T13:33:27+00:00",
+            "message_id": 9491,
+            "message_key": "@testingcatalog:9491"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-6.1 Sol at one-fifth of Astra pricing**](https://www.testingcatalog.com/openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-pricing/)\n\nOpenAI launched GPT\u20116.1 Sol, offering near\u2011Astra results for coding, computer use and business workflows at about one\u2011fifth the cost, with cached input at $0.10 per million tokens and stronger accuracy, safety and tool use.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI Melancarkan GPT-6.1 Sol Dengan Harga Satu Perlima Dari Astra**](https://www.testingcatalog.com/openai-launches-gpt-6-1-sol-at-one-fifth-of-astra-pricing/)\n\nOpenAI dah lancarkan GPT-6.1 Sol, yang menawarkan prestasi hampir setanding Astra untuk pengekodan, penggunaan komputer, dan aliran kerja perniagaan, dengan kos lebih kurang satu perlima. Input cache pula pada $0.10 setiap juta token, dan ia datang dengan ketepatan, keselamatan, serta penggunaan alat yang lebih baik.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-09-30T13:24:48+00:00",
+            "message_id": 9490,
+            "message_key": "@testingcatalog:9490"
         }
     ]
 }
