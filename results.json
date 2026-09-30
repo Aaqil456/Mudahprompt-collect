@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-30T16:47:57.623216",
+    "timestamp": "2026-09-30T21:18:22.601104",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32626,6 +32626,56 @@
             "date": "2026-09-30T13:24:48+00:00",
             "message_id": 9490,
             "message_key": "@testingcatalog:9490"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google unveils Gemini 4 Argon with SOTA score on DeepSWE**](https://www.testingcatalog.com/google-unveils-gemini-4-argon-with-sota-score-on-deepswe/)\n\nGoogle introduced Gemini 4 Argon, a reasoning model for long software, enterprise and cyber tasks. It launches first to trusted defenders, then paid API and AI Ultra users, with lower intro pricing and a 1M-token output limit.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google memperkenalkan Gemini 4 Argon dengan skor SOTA dalam DeepSWE**](https://www.testingcatalog.com/google-unveils-gemini-4-argon-with-sota-score-on-deepswe/)\n\nGoogle telah memperkenalkan Gemini 4 Argon, sebuah model penaakulan untuk tugasan perisian, perusahaan, dan siber yang kompleks. Ia akan dilancarkan terlebih dahulu kepada pihak yang dipercayai, kemudian kepada pengguna API berbayar dan AI Ultra, dengan harga pengenalan yang lebih rendah dan had output 1 juta token.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-09-30T20:33:46+00:00",
+            "message_id": 9501,
+            "message_key": "@testingcatalog:9501"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-30T20:10:52+00:00",
+            "message_id": 9500,
+            "message_key": "@testingcatalog:9500"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Google announced Gemini 4 Argon, a new frontier model for \"complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cyber defense.\"\n\n77.9% score on DeepSWE v1.1 is a new SOTA. It performs better then GPT-6 Astra, Opus 5.5 and Fable 5.1 across many benchmarks.\n\nRolling out soon starting with paid API customers and Google AI Ultra subscribers.\n\nSoon! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Google dah umumkan Gemini 4 Argon, model canggih baru untuk \"aliran kerja yang kompleks dalam kejuruteraan perisian dunia sebenar, kerja pengetahuan perusahaan macam undang-undang dan kewangan, serta pertahanan siber.\"\n\nDengan skor 77.9% pada DeepSWE v1.1, ia adalah SOTA baru. Prestasi dia lagi bagus dari GPT-6 Astra, Opus 5.5 dan Fable 5.1 dalam banyak ujian penanda aras.\n\nAkan mula diperkenalkan tak lama lagi, bermula dengan pelanggan API berbayar dan pelanggan Google AI Ultra.\n\nTak lama lagi! \ud83d\udc40",
+            "date": "2026-09-30T20:10:52+00:00",
+            "message_id": 9499,
+            "message_key": "@testingcatalog:9499"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-09-30T19:00:11+00:00",
+            "message_id": 9498,
+            "message_key": "@testingcatalog:9498"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mint is a new Green on ChatGPT app! \n\nThe best change \ud83d\udcaa\ud83d\udc40",
+            "translated_text": "Mint ni aplikasi 'Green' baru di ChatGPT! Perubahan terbaik \ud83d\udcaa\ud83d\udc40",
+            "date": "2026-09-30T19:00:11+00:00",
+            "message_id": 9497,
+            "message_key": "@testingcatalog:9497"
         }
     ]
 }
