@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-29T23:31:47.910696",
+    "timestamp": "2026-09-30T10:58:27.263322",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32566,6 +32566,16 @@
             "date": "2026-09-29T22:41:48+00:00",
             "message_id": 9483,
             "message_key": "@testingcatalog:9483"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Sept 30\n\nOPENAI \ud83d\udd25:\n- dots shipped: always-on GPT-6 Astra agents with a cloud computer and 4,000+ plugins. On Pro (incl. $100), Business Premium, and Enterprise; EEA/UK/Switzerland skipped at launch.\n- GPT-6.1 Sol is live in Work, Codex, and the API. Near-Astra at $2/$10; cached input $0.10, 95% off standard.\n- Ultrafast hits ~300 tok/s in Codex (8x) and 6x in the API. Astra Ultrafast today on Pro 500 and Enterprise; Sol Ultrafast soon.\n- Pro 500 is the new top plan: 25x Plus usage plus Ultrafast.\n- Codex CLI refresh: voice start/steer, /agents view, worktrees, full-screen UI.\n- Codex Cloud: reusable environments keep agents running with the laptop closed.\n- Bloomberg: targeting another $30B at a $1.4T valuation.\n\nMETA \ud83d\udd25:\n- Muse dropped Slack, Notion, Figma, Canva, Shopify, Zoom, and more. Muse for Small Business is out.\n\nPERPLEXITY \ud83d\udd25:\n- Automations landed in Computer: scheduled or event-triggered runs across Slack, Gmail, Outlook, and Linear.\n\nXAI \ud83d\udd25:\n- Elon: Grok 4.7 ranks #1 on the Artificial Analysis Cyber Index.\n\nCURSOR \ud83d\udd25:\n- /visualize draws charts and diagrams inline in the Agents Window.",
+            "translated_text": "Ringkasan AI Harian \ud83d\uddde \u2014 30 Sept\n\nOPENAI \ud83d\udd25:\n- dots dah dilancarkan: agen GPT-6 Astra yang sentiasa aktif dengan komputer awan dan lebih 4,000 plugin. Tersedia untuk pelan Pro (termasuk $100), Business Premium, dan Enterprise; EEA/UK/Switzerland tidak termasuk semasa pelancaran awal.\n- GPT-6.1 Sol dah boleh guna dalam Work, Codex, dan API. Hampir setanding Astra pada harga $2/$10; input cache $0.10, diskaun 95% dari harga biasa.\n- Ultrafast mencapai kelajuan ~300 tok/s dalam Codex (8 kali ganda) dan 6 kali ganda dalam API. Astra Ultrafast dah ada sekarang untuk Pro 500 dan Enterprise; Sol Ultrafast akan menyusul tak lama lagi.\n- Pro 500 adalah pelan teratas yang baru: 25 kali ganda penggunaan Plus, ditambah dengan Ultrafast.\n- Pembaharuan Codex CLI: mula/kawalan suara, paparan /agents, worktrees, UI skrin penuh.\n- Codex Cloud: persekitaran yang boleh diguna semula membolehkan agen terus berjalan walaupun laptop ditutup.\n- Bloomberg: menyasar tambahan $30 bilion pada penilaian $1.4 trilion.\n\nMETA \ud83d\udd25:\n- Muse dah sokong Slack, Notion, Figma, Canva, Shopify, Zoom, dan banyak lagi. Muse untuk Perniagaan Kecil dah keluar.\n\nPERPLEXITY \ud83d\udd25:\n- Automasi dah ada dalam Computer: operasi yang dijadualkan atau dicetus oleh acara merentasi Slack, Gmail, Outlook, dan Linear.\n\nXAI \ud83d\udd25:\n- Elon: Grok 4.7 menduduki tempat #1 dalam Indeks Siber Analisis Buatan.\n\nCURSOR \ud83d\udd25:\n- /visualize boleh melukis carta dan rajah secara terus dalam Tetingkap Agen.",
+            "date": "2026-09-30T09:53:23+00:00",
+            "message_id": 9487,
+            "message_key": "@testingcatalog:9487"
         }
     ]
 }
