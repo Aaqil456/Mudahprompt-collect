@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-30T21:18:22.601104",
+    "timestamp": "2026-10-01T16:06:05.989278",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32676,6 +32676,46 @@
             "date": "2026-09-30T19:00:11+00:00",
             "message_id": 9497,
             "message_key": "@testingcatalog:9497"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-01T11:54:29+00:00",
+            "message_id": 9506,
+            "message_key": "@testingcatalog:9506"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A Wallet, marked as \u201cComing Soon\u201d appeared inside ChatGPT app almost at the same time when Wold app is getting rebranded into World Money and becoming an actual wallet. \n\n> Wallet in ChatGPT will likely be meant to be used by Dots for agentic shopping. \n\n> World, an app that offers a \u201cproof of human\u201d via World ID along with a crypto wallet was co-founded by Sam Altman.\n\nCoincidental? \ud83d\udc40\n\nIn general it would be a solid move to consolidate these two products towards the same direction. If that\u2019s the plan, eventually, it will give OpenAI immediate access to its own payment infrastructure.",
+            "translated_text": "Satu Wallet, yang ditanda \u201cComing Soon\u201d, muncul dalam aplikasi ChatGPT hampir serentak dengan aplikasi Wold dijenamakan semula menjadi World Money dan berfungsi sebagai dompet digital sebenar.\n\n> Wallet dalam ChatGPT mungkin akan digunakan oleh Dots untuk tujuan membeli-belah secara ejen.\n\n> World, sebuah aplikasi yang menawarkan \u201cbukti manusia\u201d melalui World ID bersama dengan dompet kripto, telah diasaskan bersama oleh Sam Altman.\n\nKebetulan? \ud83d\udc40\n\nSecara umumnya, ini adalah langkah yang bijak untuk menggabungkan kedua-dua produk ini ke arah yang sama. Jika ini adalah rancangannya, akhirnya ia akan memberikan OpenAI akses segera kepada infrastruktur pembayaran mereka sendiri.",
+            "date": "2026-10-01T11:54:29+00:00",
+            "message_id": 9505,
+            "message_key": "@testingcatalog:9505"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-01T11:24:10+00:00",
+            "message_id": 9504,
+            "message_key": "@testingcatalog:9504"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Grok Bot is getting a Primary Bot! Primary bot is meant to be your main AI assistant that can manage other bots and act proactively.\n\n> \u201cI'm here to be your primary bot. I can manage your other bots. Task me with anything. I'll make sure it gets to the right bot.\u201d\n\n> Primary Bot appears in the latest iOS update of the Grok Bot app. \n\nNow it\u2019s a SpaceXAI turn to hop into a private assistant area and compete with Muse. I think it is also a best possible time for Grok Bot to capture global markets outside of US. \n\nBot Prime! \ud83e\udd16",
+            "translated_text": "SPACEXAI \ud83d\udd25: Grok Bot dah ada Primary Bot! Primary bot ni akan jadi pembantu AI utama anda yang boleh uruskan bot-bot lain dan bertindak secara proaktif.\n\n> \u201cSaya di sini untuk jadi bot utama anda. Saya boleh uruskan bot-bot anda yang lain. Beri saya apa-apa tugas. Saya akan pastikan ia sampai ke bot yang betul.\u201d\n\n> Primary Bot muncul dalam kemas kini iOS terbaru aplikasi Grok Bot.\n\nSekarang, giliran SpaceXAI pula untuk masuk ke arena pembantu peribadi dan bersaing dengan Muse. Saya rasa ini juga masa terbaik untuk Grok Bot menembusi pasaran global di luar AS.\n\nBot Prime! \ud83e\udd16",
+            "date": "2026-10-01T11:24:10+00:00",
+            "message_id": 9503,
+            "message_key": "@testingcatalog:9503"
         }
     ]
 }
