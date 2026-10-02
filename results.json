@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-02T15:29:20.332699",
+    "timestamp": "2026-10-02T20:29:39.206825",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32786,6 +32786,56 @@
             "date": "2026-10-02T09:03:28+00:00",
             "message_id": 9513,
             "message_key": "@testingcatalog:9513"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-02T20:23:45+00:00",
+            "message_id": 9520,
+            "message_key": "@testingcatalog:9520"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Gadgets and Muse Home Link have been announced!\n\nMuse Gadgets is an open-source ESP32 firmware and Linux SDK.\nMuse Home Link is a device to allow Muse to work with smart devices.\nUsers can Claim their Muse Home Link device on the website!\n\n\u201cConnect Muse to your home Wi-Fi so it can reach compatible devices you already own, or anything you build with a local HTTP API.\u201d\n\n\u201cCommunity-built skills can let Muse turn on a light, control your TV, send a document to a printer, and more, depending on your setup.\u201d\n\n\u201cFree with an active Muse subscription in the United States only, limit one per subscriber. Ships in October, first come, first served.\u201d\n\nCassandra testing time \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Muse Gadgets dan Muse Home Link dah diumumkan!\n\nMuse Gadgets adalah firmware ESP32 sumber terbuka dan Linux SDK.\nMuse Home Link adalah peranti yang membolehkan Muse berfungsi dengan peranti pintar.\nPengguna boleh tuntut peranti Muse Home Link mereka di laman web!\n\n\u201cSambungkan Muse ke Wi-Fi rumah anda supaya ia boleh capai peranti serasi yang anda dah ada, atau apa-apa saja yang anda bina dengan HTTP API tempatan.\u201d\n\n\u201cKemahiran yang dibina komuniti boleh bagi Muse hidupkan lampu, kawal TV anda, hantar dokumen ke pencetak, dan macam-macam lagi, bergantung pada persediaan anda.\u201d\n\n\u201cPercuma dengan langganan Muse yang aktif di Amerika Syarikat saja, had satu untuk setiap pelanggan. Dihantar pada bulan Oktober, siapa cepat dia dapat.\u201d\n\nMasa testing Cassandra \ud83d\udc40",
+            "date": "2026-10-02T20:23:45+00:00",
+            "message_id": 9519,
+            "message_key": "@testingcatalog:9519"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-02T19:27:16+00:00",
+            "message_id": 9518,
+            "message_key": "@testingcatalog:9518"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Looks like profile picture support is coming to Claude apps! \n\nThis feature has been in development for a while. Did you get it too?",
+            "translated_text": "Nampaknya sokongan gambar profil akan datang ke aplikasi Claude!\n\nFungsi ni dah lama dalam pembangunan. Awak dah dapat ke?",
+            "date": "2026-10-02T19:27:16+00:00",
+            "message_id": 9517,
+            "message_key": "@testingcatalog:9517"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft launches MAI-Transcribe-2-Streaming**](https://www.testingcatalog.com/microsoft-launches-mai-transcribe-2-streaming/)\n\nMicrosoft launched MAI-Transcribe-2-Streaming and two MAI-Voice models, offering real-time transcription, multilingual text-to-speech, low-latency audio generation, and voice cloning for conversational agents.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "translated_text": "[**Microsoft melancarkan MAI-Transcribe-2-Streaming**](https://www.testingcatalog.com/microsoft-launches-mai-transcribe-2-streaming/)\n\nMicrosoft telah melancarkan MAI-Transcribe-2-Streaming dan dua model MAI-Voice, menawarkan transkripsi masa nyata, teks-ke-pertuturan berbilang bahasa, penjanaan audio kependaman rendah, dan pengklonan suara untuk ejen perbualan.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "date": "2026-10-02T15:30:48+00:00",
+            "message_id": 9516,
+            "message_key": "@testingcatalog:9516"
         }
     ]
 }
