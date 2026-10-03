@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-03T12:18:09.763977",
+    "timestamp": "2026-10-03T20:43:46.118979",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32856,6 +32856,36 @@
             "date": "2026-10-03T07:52:42+00:00",
             "message_id": 9521,
             "message_key": "@testingcatalog:9521"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Aleph Alpha releases open-weight Kolibri with 1M context**](https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/)\n\nAleph Alpha released Kolibri, a bilingual open-weight 78.1B MoE model for sovereign government and regulated use. Apache 2.0 licensed, on-prem deployable, it offers 1M-token context, German focus, tool calling, and grounding.\n\n\ud83d\uddde #release @testingcatalog",
+            "translated_text": "[**Aleph Alpha melancarkan Kolibri dengan berat terbuka dan konteks 1M**](https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context/)\n\nAleph Alpha telah melancarkan Kolibri, sebuah model MoE 78.1B dwibahasa dengan berat terbuka untuk kegunaan kerajaan berdaulat dan yang dikawal selia. Berlesen Apache 2.0 dan boleh digunakan secara on-premise, ia menawarkan konteks 1 juta token, fokus pada bahasa Jerman, fungsi panggilan alat, dan kemampuan grounding.\n\n\ud83d\uddde #release @testingcatalog",
+            "date": "2026-10-03T20:35:14+00:00",
+            "message_id": 9525,
+            "message_key": "@testingcatalog:9525"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Connecting the \"dots\" between ChatGPT and World Wallet**](https://www.testingcatalog.com/chatgpt-wallet-world-money-same-day/)\n\nLeaked app screens suggest ChatGPT will add a wallet for agent-led purchases. With OpenAI testing payment flows and World App rebranding to World Money, the timing hints at a possible link, though no public evidence confirms it.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**Melihat Kaitan Antara ChatGPT dan World Wallet**](https://www.testingcatalog.com/chatgpt-wallet-world-money-same-day/)\n\nSkrin aplikasi yang bocor menunjukkan ChatGPT mungkin akan menambah fungsi dompet untuk pembelian melalui ejen. Dengan OpenAI sedang menguji aliran pembayaran dan World App pula dijenamakan semula kepada World Money, masa ini macam ada kaitan, walaupun belum ada bukti rasmi yang mengesahkannya.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-10-03T19:53:48+00:00",
+            "message_id": 9524,
+            "message_key": "@testingcatalog:9524"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Aleph Alpha released Kolibri, a 78B-parameter, 3.46B active, MoE open-weight model with 1M context window, distributed under the Apache 2.0 license. \n\nAleph Alpha is a German AI lab, and it is probably the first general-purpose model from the EU, apart from Mistral, to achieve this level of performance! \n\n> \"The model supports an explicit reasoning mode and tool calling. It is optimized for long-context and inference efficiency.\"\n\n> \"The Aleph Alpha team developed a bilingual German/English tokenizer and focused on including organic German data throughout the training process of the model, so that 21.3% of the pre-training tokens are German.\"\n\n> \"Kolibri was built with the EU AI Act, the General-Purpose AI Code of Practice and the GDPR in mind from the ground up, with copyright law being a focus of our work to trustworthy technology.\"\n\nMore EU labs joining the party \ud83d\udc40",
+            "translated_text": "Aleph Alpha dah keluarkan Kolibri, satu model open-weight MoE dengan 78 bilion parameter dan 3.46 bilion yang aktif, dengan tetingkap konteks 1 juta, diedarkan di bawah lesen Apache 2.0.\n\nAleph Alpha ni makmal AI dari Jerman, dan mungkin ini model tujuan umum pertama dari EU, selain Mistral, yang capai tahap prestasi macam ni.\n\n> \"Model ni sokong mod penaakulan eksplisit dan panggilan alat. Ia dioptimumkan untuk konteks panjang dan kecekapan inferens.\"\n\n> \"Pasukan Aleph Alpha dah bangunkan tokenizer dwibahasa Jerman/Inggeris dan fokus masukkan data Jerman organik sepanjang proses latihan model tu, supaya 21.3% daripada token pra-latihan adalah dalam bahasa Jerman.\"\n\n> \"Kolibri dibina dengan mengambil kira EU AI Act, General-Purpose AI Code of Practice dan GDPR dari awal lagi, dengan undang-undang hak cipta jadi fokus utama kerja kami untuk teknologi yang boleh dipercayai.\"\n\nMakin banyak makmal EU yang join sekali \ud83d\udc40",
+            "date": "2026-10-03T18:35:04+00:00",
+            "message_id": 9523,
+            "message_key": "@testingcatalog:9523"
         }
     ]
 }
