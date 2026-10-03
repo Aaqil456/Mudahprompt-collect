@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-02T20:29:39.206825",
+    "timestamp": "2026-10-03T12:18:09.763977",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32836,6 +32836,26 @@
             "date": "2026-10-02T15:30:48+00:00",
             "message_id": 9516,
             "message_key": "@testingcatalog:9516"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meta is working on \u201cAgent Engine\u201d for its Meta API Platform. \n\nAgent Engine is called \u201cForge\u201d internally, however, it is not yet clear what solution will it be offering. \n\nA new harness model incoming? \ud83d\udc40",
+            "translated_text": "Meta sedang membangunkan \u201cAgent Engine\u201d untuk Meta API Platform mereka.\n\n\u201cAgent Engine\u201d dikenali sebagai \u201cForge\u201d secara dalaman, namun masih belum jelas penyelesaian apa yang akan ditawarkannya.\n\nModel harness baru akan datang? \ud83d\udc40",
+            "date": "2026-10-03T10:55:32+00:00",
+            "message_id": 9522,
+            "message_key": "@testingcatalog:9522"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 3\n\nOPENAI \ud83d\udd25:\n* OpenAI's Python SDK 3.24.0 quietly adds a Voices API for creating custom voices from a text prompt or an audio sample.\n* ChatGPT launched virtual Try On globally, letting you see clothes from shopping results on your own photo.\n* OpenAI disclosed a second Australian government incident, where an AI model accessed non-public NSW fire statistics.\n\nGOOGLE \ud83d\udd25:\n* Antigravity quietly added Claude Sonnet 5.5 and Opus 5.5 (thinking) for AI Pro and Ultra plans, with Claude 4.6 models and GPT-OSS-120b being removed on Nov 2.\n* Gemini Desktop is testing a hidden \"Full Access\" mode that lets computer use reach files and apps anywhere on your Mac \ud83d\udc40\n* Guided Vision is rolling out in Gemini Live on Android, describing in real time whatever your camera sees.\n* Google's Project Suncatcher prototype satellite is in orbit, testing how TPUs handle radiation and heat in space.\n\nANTHROPIC \ud83d\udd25:\n* Claude Frontier Academy launched with $100M to train 10,000 Frontier Deployed Engineers by 2027.\n* Profile picture support looks to be coming to Claude apps.\n* Claude Code 2.1.288 adds --max-findings to /code-review.\n\nMICROSOFT \ud83d\udd25:\n* GitHub Copilot CLI and the Copilot desktop app got computer use in public preview.\n* Copilot code review can now be requested through the REST and GraphQL APIs.\n\nSPACEXAI \ud83d\udd25:\n* An official experimental TypeScript SDK for the SpaceXAI API quietly shipped on npm as xai-official/sdk.\n\nDEEPSEEK \ud83d\udd25:\n* DeepSeek Harness v0.2 now ships as desktop apps for macOS and Windows, with Linux via npm.\n\nMETA \ud83d\udd25:\n* Muse Home Link, a USB-C gadget that connects Muse to smart-home devices, is free for US subscribers, with 5,000 units shipping in October.\n\nAPPLE \ud83d\udd25:\n* Apple is tightening macOS Full Disk Access, citing the extra risk from AI agents.\n\nNVIDIA \ud83d\udd25:\n* DGX Spark 64GB arrives Oct 23 from $4,999, and two units can cluster to 128GB.\n\nCLOUDFLARE \ud83d\udd25:\n* Cloudflare released Clef and Clef-flash, open decision models that return probabilities instead of text.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 3 Okt\n\nOPENAI \ud83d\udd25:\n* Python SDK 3.24.0 OpenAI secara senyap menambah API Suara untuk mencipta suara tersuai daripada arahan teks atau sampel audio.\n* ChatGPT melancarkan Try On maya secara global, membolehkan anda melihat pakaian daripada hasil carian beli-belah pada foto anda sendiri.\n* OpenAI mendedahkan insiden kedua melibatkan kerajaan Australia, di mana model AI mengakses statistik kebakaran NSW yang bukan untuk umum.\n\nGOOGLE \ud83d\udd25:\n* Antigravity secara senyap menambah Claude Sonnet 5.5 dan Opus 5.5 (berfikir) untuk pelan AI Pro dan Ultra, dengan model Claude 4.6 dan GPT-OSS-120b akan dikeluarkan pada 2 Nov.\n* Gemini Desktop sedang menguji mod \"Akses Penuh\" tersembunyi yang membolehkan penggunaan komputer mencapai fail dan aplikasi di mana-mana sahaja pada Mac anda \ud83d\udc40\n* Guided Vision sedang dilancarkan dalam Gemini Live di Android, menerangkan secara masa nyata apa sahaja yang dilihat oleh kamera anda.\n* Satelit prototaip Project Suncatcher Google berada di orbit, menguji bagaimana TPU mengendalikan radiasi dan haba di angkasa.\n\nANTHROPIC \ud83d\udd25:\n* Claude Frontier Academy dilancarkan dengan $100 juta untuk melatih 10,000 Jurutera Deployed Frontier menjelang 2027.\n* Sokongan gambar profil nampaknya akan datang ke aplikasi Claude.\n* Claude Code 2.1.288 menambah --max-findings ke /code-review.\n\nMICROSOFT \ud83d\udd25:\n* GitHub Copilot CLI dan aplikasi desktop Copilot mendapat penggunaan komputer dalam pratonton awam.\n* Semakan kod Copilot kini boleh diminta melalui API REST dan GraphQL.\n\nSPACEXAI \ud83d\udd25:\n* SDK TypeScript eksperimen rasmi untuk API SpaceXAI secara senyap dihantar di npm sebagai xai-official/sdk.\n\nDEEPSEEK \ud83d\udd25:\n* DeepSeek Harness v0.2 kini dihantar sebagai aplikasi desktop untuk macOS dan Windows, dengan Linux melalui npm.\n\nMETA \ud83d\udd25:\n* Muse Home Link, gajet USB-C yang menyambungkan Muse ke peranti rumah pintar, adalah percuma untuk pelanggan AS, dengan 5,000 unit dihantar pada bulan Oktober.\n\nAPPLE \ud83d\udd25:\n* Apple sedang mengetatkan Akses Cakera Penuh macOS, memetik risiko tambahan daripada ejen AI.\n\nNVIDIA \ud83d\udd25:\n* DGX Spark 64GB tiba pada 23 Okt bermula dari $4,999, dan dua unit boleh dikelompokkan kepada 128GB.\n\nCLOUDFLARE \ud83d\udd25:\n* Cloudflare mengeluarkan Clef dan Clef-flash, model keputusan terbuka yang mengembalikan kebarangkalian dan bukannya teks.",
+            "date": "2026-10-03T07:52:42+00:00",
+            "message_id": 9521,
+            "message_key": "@testingcatalog:9521"
         }
     ]
 }
