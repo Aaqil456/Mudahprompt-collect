@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-04T15:45:46.404745",
+    "timestamp": "2026-10-04T19:18:14.934186",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32936,6 +32936,26 @@
             "date": "2026-10-04T12:45:29+00:00",
             "message_id": 9530,
             "message_key": "@testingcatalog:9530"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-04T17:10:57+00:00",
+            "message_id": 9532,
+            "message_key": "@testingcatalog:9532"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic started prompting more users to participate into a 15 minutes interview via its Anthropic Interviewer.\n\n\u201cExcited, worried, or somewhere in between? We\u2019re interested to hear how AI fits into your life and your hopes for what comes next.\u201d\n\nLater, users may decide if they want to make their interviews public.\n\nIt seems to be an interesting way to make sure that people have a chance to raise their opinions about AI. Looks like it will be expanded to a broader audience soon.",
+            "translated_text": "Anthropic dah mula ajak lebih ramai pengguna untuk sertai temu bual 15 minit melalui Anthropic Interviewer mereka.\n\n\"Rasa teruja, risau, atau biasa-biasa saja? Kami nak dengar macam mana AI ada dalam hidup anda dan apa harapan anda untuk masa depan.\"\n\nNanti, pengguna boleh tentukan sama ada mereka nak jadikan temu bual tu terbuka kepada umum.\n\nNampak macam cara yang menarik untuk pastikan orang ramai ada peluang suarakan pendapat mereka pasal AI. Nampak gayanya, ia akan diperluaskan kepada lebih ramai orang tak lama lagi.",
+            "date": "2026-10-04T17:10:57+00:00",
+            "message_id": 9531,
+            "message_key": "@testingcatalog:9531"
         }
     ]
 }
