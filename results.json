@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-03T20:43:46.118979",
+    "timestamp": "2026-10-04T10:59:39.353252",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32886,6 +32886,46 @@
             "date": "2026-10-03T18:35:04+00:00",
             "message_id": 9523,
             "message_key": "@testingcatalog:9523"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-04T09:32:53+00:00",
+            "message_id": 9529,
+            "message_key": "@testingcatalog:9529"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic starts prompting users to voluntarily share their voice conversations for training purposes.\n\n\u201cAllow us to use your voice data to improve our AI models\u201d\n\u201cAudio recordings and voice chat data help improve how Anthropic AI models understand and respond to speech. Turn this off or delete this data anytime in settings.\u201d\n\nRealtime voice plz? \ud83d\udc40",
+            "translated_text": "Anthropic mula meminta pengguna untuk berkongsi perbualan suara mereka secara sukarela untuk tujuan latihan.\n\n\u201cBenarkan kami guna data suara anda untuk tingkatkan model AI kami\u201d\n\u201cRakaman audio dan data sembang suara bantu tingkatkan cara model AI Anthropic faham dan balas percakapan. Anda boleh matikan atau padam data ini bila-bila masa dalam tetapan.\u201d\n\nSuara masa nyata, boleh tak? \ud83d\udc40",
+            "date": "2026-10-04T09:32:53+00:00",
+            "message_id": 9528,
+            "message_key": "@testingcatalog:9528"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-04T07:57:22+00:00",
+            "message_id": 9527,
+            "message_key": "@testingcatalog:9527"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is about to release GPT 6.1 Sol Ultrafast soon. \n\nI hope we will hear more news about Astra at some point as well. I don\u2019t think that anything Ultrafast is making enough people excited to shift their attention from Opus 5.5 at this moment.\n\nSoon soon \ud83d\udd1c",
+            "translated_text": "OpenAI akan keluarkan GPT 6.1 Sol Ultrafast tak lama lagi.\n\nHarapnya kita akan dengar lebih banyak berita pasal Astra nanti juga. Buat masa ni, saya rasa tak ada apa-apa yang Ultrafast ni boleh buat orang teruja sangat sampai nak alih perhatian diorang dari Opus 5.5.\n\nTak lama lagi tak lama lagi \ud83d\udd1c",
+            "date": "2026-10-04T07:57:22+00:00",
+            "message_id": 9526,
+            "message_key": "@testingcatalog:9526"
         }
     ]
 }
