@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-04T19:18:14.934186",
+    "timestamp": "2026-10-05T08:34:12.930306",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32956,6 +32956,16 @@
             "date": "2026-10-04T17:10:57+00:00",
             "message_id": 9531,
             "message_key": "@testingcatalog:9531"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Mon 5\n\nGOOGLE \ud83d\udd25:\n* Gemini app is reshuffling model access: free users drop to Flash-Lite only from Oct 9, AI Plus loses Pro, and AI Pro gains Deep Think.\n\nALEPH ALPHA \ud83d\udd25:\n* Kolibri-1 is out as open weights under Apache 2.0: a 78B MoE with 3.46B active parameters, built for German/English sovereign deployments.\n\nANTHROPIC \ud83d\udd25:\n* Claude now asks voice users to opt in to sharing voice data for model training, via a separate privacy toggle that is off by default.\n\nOPENAI \ud83d\udd25:\n* GPT-6.1 Sol Ultrafast is coming soon, per Codex lead Tibo Sottiaux.\n* Safety lead David Robinson resigned, writing in The Atlantic that OpenAI's \"culture is broken.\"\n\nMISTRAL \ud83d\udd25:\n* Mistral is working on its own Voice Mode, which looks TTS-based for now.\n\nMETA \ud83d\udd25:\n* Meta is building an \"Agent Engine\" for its Meta API Platform, codenamed Forge internally.",
+            "translated_text": "Ringkasan AI Harian \ud83d\uddde \u2014 Isnin 5\n\nGOOGLE \ud83d\udd25:\n* Aplikasi Gemini sedang menyusun semula akses modelnya: pengguna percuma hanya akan dapat Flash-Lite mulai 9 Oktober, AI Plus akan kehilangan Pro, dan AI Pro akan mendapat Deep Think.\n\nALEPH ALPHA \ud83d\udd25:\n* Kolibri-1 telah dikeluarkan sebagai 'open weights' di bawah Apache 2.0: ia adalah MoE 78B dengan 3.46B parameter aktif, dibina untuk penggunaan berdaulat dalam bahasa Jerman/Inggeris.\n\nANTHROPIC \ud83d\udd25:\n* Claude kini meminta pengguna suara untuk memilih untuk berkongsi data suara mereka bagi tujuan latihan model, melalui suis privasi berasingan yang dimatikan secara lalai.\n\nOPENAI \ud83d\udd25:\n* GPT-6.1 Sol Ultrafast akan datang tidak lama lagi, menurut ketua Codex, Tibo Sottiaux.\n* Ketua keselamatan, David Robinson, telah meletak jawatan, dan menulis di The Atlantic bahawa 'budaya' OpenAI 'sudah rosak'.\n\nMISTRAL \ud83d\udd25:\n* Mistral sedang membangunkan Mod Suara mereka sendiri, yang buat masa ini nampak seperti berasaskan TTS (Text-to-Speech).\n\nMETA \ud83d\udd25:\n* Meta sedang membina 'Agent Engine' untuk Meta API Platform mereka, yang diberi nama kod Forge secara dalaman.",
+            "date": "2026-10-05T07:36:53+00:00",
+            "message_id": 9533,
+            "message_key": "@testingcatalog:9533"
         }
     ]
 }
