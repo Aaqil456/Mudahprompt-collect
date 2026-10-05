@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-05T08:34:12.930306",
+    "timestamp": "2026-10-05T18:04:20.207290",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -32966,6 +32966,56 @@
             "date": "2026-10-05T07:36:53+00:00",
             "message_id": 9533,
             "message_key": "@testingcatalog:9533"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-05T17:49:59+00:00",
+            "message_id": 9538,
+            "message_key": "@testingcatalog:9538"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GPT-6 Astra and GPT-6.1 Sol are now expected to be 50% faster.\n\nHalfultrafast?! \ud83d\udc40\n\nWould you prefer this or banked reset?",
+            "translated_text": "GPT-6 Astra dan GPT-6.1 Sol kini dijangka akan 50% lebih pantas.\n\nSeparuh ultra pantas?! \ud83d\udc40\n\nAnda lebih suka ini atau banked reset?",
+            "date": "2026-10-05T17:49:59+00:00",
+            "message_id": 9537,
+            "message_key": "@testingcatalog:9537"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI will be rolling out text watermarking for ChatGPT and Codex in the EU in the coming weeks. Watermarking will remain off by default in the API. \n\n> \"Across the benchmarks we use to assess Astra, our latest frontier model, we do not see meaningful performance differences with and without watermarking.\"\n\nThis needs some real testing \ud83d\udc80",
+            "translated_text": "OpenAI akan memperkenalkan penanda air teks untuk ChatGPT dan Codex di EU dalam beberapa minggu akan datang. Penanda air akan kekal dimatikan secara lalai dalam API.\n\n> \"Merentasi penanda aras yang kami gunakan untuk menilai Astra, model sempadan terbaru kami, kami tidak melihat perbezaan prestasi yang ketara dengan dan tanpa penanda air.\"\n\nIni memerlukan ujian sebenar \ud83d\udc80",
+            "date": "2026-10-05T16:12:04+00:00",
+            "message_id": 9536,
+            "message_key": "@testingcatalog:9536"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Gemini Notebook got a new usage limits system, usage estimation for artifact generation, and a background queue for generations when you are out of quota.  \n\n> Limits refresh every 5 hours - Instead of refreshing every 24 hours, your limits now refresh every 5 hours. Get continuous allocation throughout the day.\n\n> Create more of what you love - We are replacing limits per feature with a flexible Notebook-specific limit. You control how you want to spend your limits.\n\n> New background queue - When you are out of limits, you can defer generating videos, slides, etc. for later. These will generate automatically for you.",
+            "translated_text": "Kalau terlepas pandang \ud83d\udc40: Gemini Notebook ada sistem had penggunaan baru, anggaran penggunaan untuk hasilkan artifak, dan giliran di belakang tabir untuk penjanaan bila kuota dah habis.\n\n> Had penggunaan diperbaharui setiap 5 jam - Bukannya di-refresh setiap 24 jam, had anda sekarang diperbaharui setiap 5 jam. Anda akan dapat peruntukan berterusan sepanjang hari.\n\n> Hasilkan lebih banyak apa yang anda suka - Kami gantikan had ikut ciri dengan had fleksibel khusus untuk Notebook. Anda kawal bagaimana anda nak gunakan had anda.\n\n> Giliran di belakang tabir yang baru - Bila had anda dah habis, anda boleh tangguhkan untuk hasilkan video, slaid, dan sebagainya untuk kemudian. Semua ini akan dihasilkan secara automatik untuk anda.",
+            "date": "2026-10-05T15:03:41+00:00",
+            "message_id": 9535,
+            "message_key": "@testingcatalog:9535"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Figure plans to release Hark AI assistant this week**](https://www.testingcatalog.com/figure-plans-to-release-hark-ai-assistant-this-week/)\n\nFigure is planning to release its own proactive AI assistant this week! \n\nHere is what we know so far \ud83d\udc40\n\n> Hark will likely run on Opus 5.5 for general tasks, with Gemini 3.1 Flash Image, Qwen3.6-27B, and GPT-6 Astra referenced in the code for other specific tasks. \n\n> Hark will arrive with Hark Pro, Pro\u00b2, Pro\u00b3, and Pro\u2074 paid plans, with 5\u00d7 and 20\u00d7 usage options and another offering twice the usage of Pro\u00b3. \n\n\"Hark has the power to plan 800 weddings, buy 1000 grand pianos, move across the country 1,500 times, and hire 1,000 lawyers for when it all goes wrong.\"\n\n> Hark will have its own Memory and Soul, support for Projects, widgets, scheduled tasks, and many other features, including computer use.\n\n> Hark will be available on the web, iOS, and iPad; it will launch with a waitlist, and invite codes will likely be available too. \n\nLooks like Muse is about to get some competition, especially if Hark becomes available more broadly. \n\n\ud83d\uddde #leak @testingcatalog",
+            "translated_text": "[**Figure rancang nak lancarkan pembantu AI Hark minggu ni**](https://www.testingcatalog.com/figure-plans-to-release-hark-ai-assistant-this-week/)\n\nFigure memang tengah rancang nak keluarkan pembantu AI proaktif dia sendiri minggu ni!\n\nIni apa yang kita tahu setakat ni \ud83d\udc40\n\n> Hark kemungkinan besar akan guna Opus 5.5 untuk tugasan umum, dengan Gemini 3.1 Flash Image, Qwen3.6-27B, dan GPT-6 Astra disebut dalam kod untuk tugasan spesifik lain.\n\n> Hark akan datang sekali dengan pelan berbayar Hark Pro, Pro\u00b2, Pro\u00b3, dan Pro\u2074, dengan pilihan penggunaan 5 kali ganda dan 20 kali ganda, serta satu lagi tawaran penggunaan dua kali ganda dari Pro\u00b3.\n\n\"Hark ada kuasa untuk rancang 800 majlis kahwin, beli 1000 piano besar, pindah merentas negara 1,500 kali, dan upah 1,000 peguam kalau ada apa-apa yang tak kena.\"\n\n> Hark nanti akan ada Memory dan Soul dia sendiri, sokongan untuk Projek, widget, tugasan berjadual, dan banyak lagi ciri lain, termasuk penggunaan komputer.\n\n> Hark akan boleh didapati di web, iOS, dan iPad; ia akan dilancarkan dengan senarai menunggu, dan kod jemputan pun kemungkinan besar akan ada juga.\n\nNampak gayanya Muse bakal dapat saingan ni, terutamanya kalau Hark boleh didapati dengan lebih meluas.\n\n\ud83d\uddde #leak @testingcatalog",
+            "date": "2026-10-05T14:12:16+00:00",
+            "message_id": 9534,
+            "message_key": "@testingcatalog:9534"
         }
     ]
 }
