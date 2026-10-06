@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-06T14:50:51.988467",
+    "timestamp": "2026-10-06T20:04:01.027893",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33096,6 +33096,56 @@
             "date": "2026-10-06T11:18:09+00:00",
             "message_id": 9547,
             "message_key": "@testingcatalog:9547"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude is now available in Google Docs, Sheets, and Slides! Besides that, these file types now open inside Claude as well. \n\nA small change but a big quality-of-life improvement!",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude kini boleh digunakan dalam Google Docs, Sheets, dan Slides! Selain itu, jenis fail ini pun dah boleh dibuka terus dalam Claude.\n\nPerubahan kecil je, tapi sangat memudahkan kerja kita!",
+            "date": "2026-10-06T19:56:37+00:00",
+            "message_id": 9558,
+            "message_key": "@testingcatalog:9558"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google released EmbeddingGemma 2 open  weight model under Apache 2 license!\n\n\u201cOur lightweight, multimodal embedding model maps text, code, images, video, and audio into a single, unified embedding space.\u201c\n740M parameter form factor with modular encoders and 8K context window.\n\nEmbedded testing time \ud83d\udc40",
+            "translated_text": "Google dah keluarkan model open-weight EmbeddingGemma 2 di bawah lesen Apache 2!\n\n\u201cModel embedding multimodal ringan kami memetakan teks, kod, imej, video, dan audio ke dalam satu ruang embedding yang bersatu.\u201c\nIa datang dengan faktor bentuk 740 juta parameter, pengekod modular, dan tetingkap konteks 8K.\n\nMasa untuk kita cuba sendiri ni \ud83d\udc40",
+            "date": "2026-10-06T17:25:34+00:00",
+            "message_id": 9557,
+            "message_key": "@testingcatalog:9557"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sesame has announced its own eyewear product, launching in 2027!\n\n> \"Our collection will be Made in Japan, available in 2027.\" \n\nAs we reported earlier, Sesame is working on new payment plans, browser use support, scheduled tasks, connectors, and loads of agentic features for its AI assistant app. \n\nOne of the most exciting products for me to monitor, besides major labs. \n\nSoon \ud83d\udc40",
+            "translated_text": "Sesame dah umumkan produk cermin mata dia sendiri, akan dilancarkan pada tahun 2027!\n\n> \"Koleksi kami akan Dibuat di Jepun, dan boleh didapati pada tahun 2027.\"\n\nMacam yang kita laporkan sebelum ni, Sesame sedang usahakan pelan pembayaran baru, sokongan penggunaan pelayar web, tugasan berjadual, penyambung, dan banyak lagi ciri-ciri ejen untuk aplikasi pembantu AI dia.\n\nIni salah satu produk paling menarik untuk saya pantau, selain daripada makmal-makmal besar.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-10-06T17:16:49+00:00",
+            "message_id": 9556,
+            "message_key": "@testingcatalog:9556"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-06T16:24:55+00:00",
+            "message_id": 9555,
+            "message_key": "@testingcatalog:9555"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Hark Pro is now available on web, iOS, and Android and a $100 Pro plan is now available for free. \n\nHark is a proactive AI agent from Figure, with separate screens for widgets, chats and projects.\n\nApp UIUX is very hot \ud83d\udd25",
+            "translated_text": "Hark Pro dah boleh didapati di web, iOS, dan Android, dan pelan Pro berharga $100 sekarang ditawarkan secara percuma.\n\nHark adalah ejen AI proaktif dari Figure, dengan skrin berasingan untuk widget, sembang, dan projek.\n\nApp UIUX ni memang mantap \ud83d\udd25",
+            "date": "2026-10-06T16:24:55+00:00",
+            "message_id": 9554,
+            "message_key": "@testingcatalog:9554"
         }
     ]
 }
