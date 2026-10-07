@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-07T00:26:29.784156",
+    "timestamp": "2026-10-07T14:21:13.433219",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33196,6 +33196,56 @@
             "date": "2026-10-06T20:28:31+00:00",
             "message_id": 9559,
             "message_key": "@testingcatalog:9559"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Besides preparation for Gemini 4 release on Antigravity, Google is also prototyping its own voice agent, internally called \"Concierge\". \n\nYet, it looks like a very early version, and it is hard to say if it will ever see the light of day in its current form.",
+            "translated_text": "GOOGLE \ud83d\udd25: Selain persediaan untuk pelancaran Gemini 4 di Antigravity, Google juga sedang membangunkan prototaip ejen suara mereka sendiri, yang secara dalaman dipanggil \"Concierge\". Namun, ia kelihatan seperti versi yang sangat awal, dan sukar untuk mengatakan sama ada ia akan benar-benar dilancarkan dalam bentuknya sekarang.",
+            "date": "2026-10-07T14:10:04+00:00",
+            "message_id": 9571,
+            "message_key": "@testingcatalog:9571"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Antigravity for Gemini 4 Argon and Concierge**](https://www.testingcatalog.com/google-prepares-antigravity-for-gemini-4-argon-and-concierge/)\n\nGoogle appears to be preparing Antigravity for Gemini 4 Argon, with labels tied to Ultra plans and upgrade prompts. Internal prototypes point to voice control, auto approvals, and customization, but no release date is confirmed.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "**Google sedang mempersiapkan Antigravity untuk Gemini 4 Argon dan Concierge** (https://www.testingcatalog.com/google-prepares-antigravity-for-gemini-4-argon-and-concierge/)\n\nGoogle nampaknya sedang menyediakan Antigravity untuk Gemini 4 Argon, dengan label yang berkaitan dengan pelan Ultra dan arahan naik taraf. Prototaip dalaman menunjukkan kawalan suara, kelulusan automatik, dan penyesuaian, tapi tiada tarikh pelancaran yang disahkan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-07T14:04:52+00:00",
+            "message_id": 9570,
+            "message_key": "@testingcatalog:9570"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Sesame updates voice agents with their own computers**](https://www.testingcatalog.com/sesame-updates-voice-agents-with-their-own-computers/)\n\nSesame previewed a new mobile voice assistant and outlined AI glasses planned for 2027. Its strategy combines handcrafted Japanese frames, a voice-first OS with tool access, and distinct character design for all-day, screen-free use.\n\n\ud83d\uddde #sesame @testingcatalog",
+            "translated_text": "[**Sesame kemas kini ejen suara dengan komputer mereka sendiri**](https://www.testingcatalog.com/sesame-updates-voice-agents-with-their-own-computers/)\n\nSesame dah tunjuk awal pembantu suara mudah alih baharu, dan cerita pasal cermin mata AI yang dirancang untuk tahun 2027. Strategi mereka gabungkan bingkai Jepun buatan tangan, OS yang fokus pada suara dengan akses alatan, dan reka bentuk karakter yang unik untuk kegunaan sepanjang hari tanpa perlu tengok skrin.\n\n\ud83d\uddde #sesame @testingcatalog",
+            "date": "2026-10-07T12:17:46+00:00",
+            "message_id": 9569,
+            "message_key": "@testingcatalog:9569"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude adds editing in Google Docs, Sheets, and Slides**](https://www.testingcatalog.com/claude-adds-editing-in-google-docs-sheets-and-slides/)\n\nClaude now edits Google Docs, Sheets, and Slides in public beta through a Workspace add-on and connectors. It supports in-place changes with approval controls, file creation from chat, and enterprise governance across paid plans.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Claude kini boleh menyunting dalam Google Docs, Sheets, dan Slides**](https://www.testingcatalog.com/claude-adds-editing-in-google-docs-sheets-and-slides/)\n\nClaude kini boleh menyunting Google Docs, Sheets, dan Slides secara beta awam melalui add-on Workspace dan penyambung. Ia menyokong perubahan langsung dengan kawalan kelulusan, membuat fail dari chat, dan tadbir urus perusahaan untuk semua pelan berbayar.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-10-07T12:15:50+00:00",
+            "message_id": 9568,
+            "message_key": "@testingcatalog:9568"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-07T12:03:00+00:00",
+            "message_id": 9566,
+            "message_key": "@testingcatalog:9566"
         }
     ]
 }
