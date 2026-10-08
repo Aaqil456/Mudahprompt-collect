@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-08T15:19:08.040143",
+    "timestamp": "2026-10-08T21:08:03.647542",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33366,6 +33366,36 @@
             "date": "2026-10-08T08:19:14+00:00",
             "message_id": 9584,
             "message_key": "@testingcatalog:9584"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Dashboards is now available on all paid plans; Claude Motion is now available on Team and Enterprise plans.\n\n> Claude can query your data platform or CRM tool to build interactive dashboards or short animations.\n\nEverything is generated as code \ud83d\udc40\n\nAnother proof that Anthropic's focus on software development was the right direction, and it allowed them to slide into the enterprise world very seamlessly. \n\nThat's a huge deal for analytics teams and product manager roles, as well as thousands of others.",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Dashboards kini boleh didapati untuk semua pelan berbayar; Claude Motion pula kini tersedia untuk pelan Team dan Enterprise.\n\n> Claude boleh menyoal platform data atau alat CRM anda untuk membina papan pemuka interaktif atau animasi pendek.\n\nSemuanya dijana sebagai kod \ud83d\udc40\n\nIni satu lagi bukti yang fokus Anthropic pada pembangunan perisian adalah hala tuju yang betul, dan ia membolehkan mereka menembusi dunia korporat dengan sangat lancar.\n\nIni berita baik untuk pasukan analitik dan peranan pengurus produk, serta ribuan lagi.",
+            "date": "2026-10-08T20:47:40+00:00",
+            "message_id": 9589,
+            "message_key": "@testingcatalog:9589"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Argon 4, Gemini Flash 3.8, Claude Opus 5 and Claude Sonnet 5.5 will be available in the recently announced Gemini Agent for Gemini Business. \n\nIt is the first time when Claude models would appear on Gemini, along with Google\u2019s models. \n\nThis should help Google to compete for enterprise customers as loads of them are moving to Claude and ChatGPT these days. In addition, it is the beginning of multi model future that we will start seeing more and more across the board.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Argon 4, Gemini Flash 3.8, Claude Opus 5 dan Claude Sonnet 5.5 akan tersedia dalam Gemini Agent untuk Gemini Business yang baru diumumkan. Ini kali pertama model-model Claude akan muncul di Gemini, bersama dengan model-model Google. Ini boleh bantu Google bersaing untuk pelanggan syarikat besar, sebab ramai yang beralih ke Claude dan ChatGPT sekarang. Selain itu, ini permulaan masa depan multi-model yang kita akan mula nampak makin banyak di semua bidang.",
+            "date": "2026-10-08T18:58:22+00:00",
+            "message_id": 9588,
+            "message_key": "@testingcatalog:9588"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT-6.1 Sol Ultrafast is rolling out on ChatGPT Work, Codex, and the API. \n\n> GPT-6.1 Sol in Ultrafast mode is $12 per million input tokens and $60 per million output tokens.\n\n> Ultrafast mode delivers 8x faster speeds than Sol Standard. \n\nUltrafast testing time \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: GPT-6.1 Sol Ultrafast dah mula dilancarkan di ChatGPT Work, Codex, dan API.\n\n> GPT-6.1 Sol dalam mod Ultrafast berharga $12 untuk setiap sejuta token input dan $60 untuk setiap sejuta token output.\n\n> Mod Ultrafast ni boleh bagi kelajuan 8 kali ganda lebih pantas dari Sol Standard.\n\nMasa untuk uji Ultrafast ni \ud83d\udc40",
+            "date": "2026-10-08T18:39:00+00:00",
+            "message_id": 9587,
+            "message_key": "@testingcatalog:9587"
         }
     ]
 }
