@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-08T21:08:03.647542",
+    "timestamp": "2026-10-09T01:47:25.122387",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33396,6 +33396,16 @@
             "date": "2026-10-08T18:39:00+00:00",
             "message_id": 9587,
             "message_key": "@testingcatalog:9587"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude launches Dashboards and Motion in beta**](https://www.testingcatalog.com/claude-launches-dashboards-and-motion-in-beta/)\n\nAnthropic launched Claude Dashboards and Claude Motion in beta, adding live data dashboards and code-based animations. Docs, Slides, and Design are now on all plans, while standalone Claude Design closes December 14.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Claude memperkenalkan Dashboards dan Motion dalam beta**](https://www.testingcatalog.com/claude-launches-dashboards-and-motion-in-beta/)\n\nAnthropic telah melancarkan Claude Dashboards dan Claude Motion dalam versi beta, dengan penambahan dashboard data langsung dan animasi berasaskan kod. Docs, Slides, dan Design kini tersedia untuk semua pelan, manakala versi kendiri Claude Design akan ditutup pada 14 Disember.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-10-08T21:35:03+00:00",
+            "message_id": 9590,
+            "message_key": "@testingcatalog:9590"
         }
     ]
 }
