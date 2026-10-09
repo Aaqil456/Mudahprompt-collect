@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-09T01:47:25.122387",
+    "timestamp": "2026-10-09T15:53:21.937438",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33406,6 +33406,26 @@
             "date": "2026-10-08T21:35:03+00:00",
             "message_id": 9590,
             "message_key": "@testingcatalog:9590"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**How Sabi's brain-reading cap turns thoughts into text**](https://www.testingcatalog.com/how-sabis-brain-reading-cap-turns-thoughts-into-text/)\n\nSabi is developing a noninvasive EEG cap that decodes internal speech into text. Using custom non-contact sensors and a neural model trained on large in-house datasets, it aims to make brain-to-computer input practical for daily use.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**Bagaimana topi pembaca minda Sabi menukar fikiran jadi teks**](https://www.testingcatalog.com/how-sabis-brain-reading-cap-turns-thoughts-into-text/)\n\nSabi sedang membangunkan topi EEG yang tidak invasif, yang boleh menterjemah percakapan dalaman kita jadi teks. Menggunakan sensor khas tanpa sentuhan dan model saraf yang dilatih guna data dalaman yang banyak, ia bertujuan nak jadikan input dari otak ke komputer ni praktikal untuk kegunaan harian.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-10-09T14:48:10+00:00",
+            "message_id": 9593,
+            "message_key": "@testingcatalog:9593"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares new Ultra mode for AI Studio Build**](https://www.testingcatalog.com/google-prepares-new-ultra-mode-for-ai-studio-build/)\n\nGOOGLE \ud83d\udd25: A new Ultra mode has been spotted in development on Google AI Studio Build. \n\n> \"Build with advanced skills and tools,\" its description says. \n\n> This new mode appears alongside Plan, Build, and the previously discovered Security review mode.  \n\nThere is no sign that Ultra mode will require an Ultra subscription, or which tools and skills it will use. These new modes are likely being developed to work with Gemini 4 Argon.   \n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google Sediakan Mod Ultra Baharu untuk AI Studio Build**](https://www.testingcatalog.com/google-prepares-new-ultra-mode-for-ai-studio-build/)\n\nGOOGLE \ud83d\udd25: Mod Ultra baharu telah dikesan sedang dibangunkan pada Google AI Studio Build.\n\n> \"Bina dengan kemahiran dan alatan canggih,\" kata keterangannya.\n\n> Mod baharu ini muncul bersama Plan, Build, dan mod Security review yang ditemui sebelum ini.\n\nTiada tanda yang mod Ultra ini akan memerlukan langganan Ultra, atau alatan dan kemahiran apa yang akan digunakannya. Mod-mod baharu ini kemungkinan besar sedang dibangunkan untuk berfungsi dengan Gemini 4 Argon.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-09T12:47:38+00:00",
+            "message_id": 9592,
+            "message_key": "@testingcatalog:9592"
         }
     ]
 }
