@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-09T20:37:23.382052",
+    "timestamp": "2026-10-10T00:32:16.271424",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33446,6 +33446,26 @@
             "date": "2026-10-09T18:40:36+00:00",
             "message_id": 9595,
             "message_key": "@testingcatalog:9595"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini 4 Argon hints emerge as Google tests Carbon checkpoint**](https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/)\n\nGoogle has added new references to the Gemini 4 Argon model in Antigravity, with low, medium, and high reasoning efforts. \n\n> Gemini web now also shows low, medium, and high reasoning efforts for all models, unifying the reasoning selector across tools. \n\n> Business Insider recently reported that Google employees are already testing the next Gemini 4 checkpoint, called \"Carbon,\" internally, and it performs at the Opus 5.5 level on coding tasks. \n\n> The internal coding tool \"Jetsky\" referenced in the article is also an internal name for Antigravity (not the IDE version). \n\nUltrasoon? \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Petanda Gemini 4 Argon muncul, Google sedang uji 'checkpoint' Carbon**](https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/)\n\nGoogle dah tambah rujukan baru untuk model Gemini 4 Argon dalam Antigravity, dengan tahap usaha penaakulan rendah, sederhana, dan tinggi.\n\n> Laman web Gemini sekarang pun dah tunjuk tahap usaha penaakulan rendah, sederhana, dan tinggi untuk semua model, menyatukan pemilih penaakulan merentasi semua alatan.\n\n> Business Insider baru-baru ni ada laporkan yang pekerja Google dah pun menguji 'checkpoint' Gemini 4 seterusnya, yang dipanggil \"Carbon,\" secara dalaman, dan ia berprestasi pada tahap Opus 5.5 untuk tugasan pengekodan.\n\n> Alat pengekodan dalaman \"Jetsky\" yang dirujuk dalam artikel tu juga merupakan nama dalaman untuk Antigravity (bukan versi IDE).\n\nUltrasoon? \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-09T22:57:48+00:00",
+            "message_id": 9599,
+            "message_key": "@testingcatalog:9599"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft launches Decision-1 model in Foundry**](https://www.testingcatalog.com/microsoft-launches-decision-1-model-in-foundry/)\n\nMICROSOFT \ud83d\udd25: A new Microsoft-Decision-1 model for fast decision-making is now available on Microsoft Foundry.\n\nMicrosoft-Decision-1 was post-trained on Qwen3.5-9B for fast, single-pass decision scoring. Later, Microsoft is planning to rebase it on other models, including MAI and OpenAI models. \n\n> \"Microsoft-Decision-1 achieved the highest accuracy in our 36-benchmark comparison, spanning nearly 150,000 questions across benchmarks kept blind from training.\"\n\n> \"4.5 times quicker than Quyet-1.0-Large, the runner-up, and 35 times quicker than GPT-6 Sol.\"\n\n> \"We\u2019re already testing it across Microsoft for everything from incident response and quality control to scientific discovery.\"\n\nEveryone is testing \ud83d\udcaa\ud83d\udc40\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "translated_text": "[**Microsoft Lancarkan Model Decision-1 dalam Foundry**](https://www.testingcatalog.com/microsoft-launches-decision-1-model-in-foundry/)\n\nMICROSOFT \ud83d\udd25: Model baru Microsoft-Decision-1 untuk membuat keputusan pantas kini boleh didapati di Microsoft Foundry.\n\nMicrosoft-Decision-1 dilatih semula menggunakan Qwen3.5-9B untuk penilaian keputusan yang pantas, sekali lalu. Kemudian, Microsoft merancang untuk menjadikannya asas kepada model lain, termasuk model MAI dan OpenAI.\n\n> \"Microsoft-Decision-1 mencapai ketepatan tertinggi dalam perbandingan 36 penanda aras kami, meliputi hampir 150,000 soalan merentasi penanda aras yang tidak didedahkan semasa latihan.\"\n\n> \"4.5 kali lebih pantas daripada Quyet-1.0-Large, pencabar terdekat, dan 35 kali lebih pantas daripada GPT-6 Sol.\"\n\n> \"Kami sudah mengujinya di seluruh Microsoft untuk pelbagai perkara, daripada tindak balas insiden dan kawalan kualiti hingga penemuan saintifik.\"\n\nRamai yang sedang menguji \ud83d\udcaa\ud83d\udc40\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "date": "2026-10-09T21:48:45+00:00",
+            "message_id": 9598,
+            "message_key": "@testingcatalog:9598"
         }
     ]
 }
