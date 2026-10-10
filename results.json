@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-10T13:21:11.126665",
+    "timestamp": "2026-10-10T18:16:13.173366",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33496,6 +33496,26 @@
             "date": "2026-10-10T07:19:58+00:00",
             "message_id": 9602,
             "message_key": "@testingcatalog:9602"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic might be developing its own voice models**](https://www.testingcatalog.com/anthropic-might-be-developing-its-own-voice-models/)\n\nANTHROPIC \ud83d\udd25: A hidden Voice tab labeled as \"Preview\" suggests that Claude may offer an upgraded voice experience. \n\nIt is still unclear whether Anthropic is developing its own voice models, but a new option to share voice data for training has recently appeared in Claude's mobile apps. \n\nI bet that for Anthropic, having their own voice models is quite important in case they want to continue releasing solutions for \"vibe coders.\"\n\nOr if they want to ship a proactive assistant \ud83d\udc40\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic mungkin sedang membangunkan model suara sendiri**](https://www.testingcatalog.com/anthropic-might-be-developing-its-own-voice-models/)\n\nANTHROPIC \ud83d\udd25: Ada tab Suara tersembunyi yang dilabelkan \"Preview\", ini menunjukkan Claude mungkin akan tawarkan pengalaman suara yang lebih baik.\n\nMasih tak jelas lagi sama ada Anthropic sedang bangunkan model suara sendiri, tapi ada pilihan baru untuk kongsi data suara bagi tujuan latihan baru-baru ni muncul dalam aplikasi mudah alih Claude.\n\nSaya rasa, untuk Anthropic, ada model suara sendiri ni penting sangat kalau mereka nak terus keluarkan penyelesaian untuk \"vibe coders.\"\n\nAtau kalau mereka nak keluarkan pembantu yang proaktif \ud83d\udc40\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-10-10T15:08:35+00:00",
+            "message_id": 9604,
+            "message_key": "@testingcatalog:9604"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI lists new gpt-rosalind-discovery model in docs**](https://www.testingcatalog.com/openai-lists-new-gpt-rosalind-discovery-model-in-docs/)\n\nOpenAI\u2019s pricing page now lists unannounced gpt-rosalind-discovery beside gpt-rosalind-research at identical rates. The move suggests a broader Rosalind family, likely aimed at biology and drug discovery under trusted access.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI senaraikan model baharu gpt-rosalind-discovery dalam dokumentasi mereka**](https://www.testingcatalog.com/openai-lists-new-gpt-rosalind-discovery-model-in-docs/)\n\nHalaman harga OpenAI kini menyenaraikan gpt-rosalind-discovery yang belum diumumkan di samping gpt-rosalind-research pada kadar yang sama. Langkah ini menunjukkan keluarga Rosalind yang lebih luas, berkemungkinan besar bertujuan untuk biologi dan penemuan ubat di bawah akses yang dipercayai.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-10-10T14:57:57+00:00",
+            "message_id": 9603,
+            "message_key": "@testingcatalog:9603"
         }
     ]
 }
