@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-10T22:16:43.161770",
+    "timestamp": "2026-10-11T01:37:01.437247",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33526,6 +33526,16 @@
             "date": "2026-10-10T20:37:00+00:00",
             "message_id": 9605,
             "message_key": "@testingcatalog:9605"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Codex can now use a reset on its own when users explicitly ask it to do so.\n\n> \"Allow Codex to use resets - Give Codex the ability to use a reset when you explicitly request it during a conversation and your current limit has 10% or less remaining. Resets are never used automatically.\"\n\nThis setting is placed in the Usage & billing section.",
+            "translated_text": "Untuk yang terlepas pandang \ud83d\udc40: Codex kini boleh guna 'reset' sendiri bila pengguna minta secara jelas.\n\n> \"Benarkan Codex guna 'reset' - Beri Codex keupayaan untuk guna 'reset' bila anda minta secara jelas masa berbual dan had semasa anda tinggal 10% atau kurang. 'Reset' takkan digunakan secara automatik.\"\n\nTetapan ni ada dekat bahagian 'Usage & billing'.",
+            "date": "2026-10-10T22:55:32+00:00",
+            "message_id": 9606,
+            "message_key": "@testingcatalog:9606"
         }
     ]
 }
