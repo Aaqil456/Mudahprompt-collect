@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-11T01:37:01.437247",
+    "timestamp": "2026-10-11T23:35:24.360650",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33536,6 +33536,16 @@
             "date": "2026-10-10T22:55:32+00:00",
             "message_id": 9606,
             "message_key": "@testingcatalog:9606"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini 4 Argon spotted in A/B testing on Antigravity**](https://www.testingcatalog.com/gemini-4-argon-ab-tests-early-outputs/)\n\nLeaked A/B tests suggest Google\u2019s unreleased Gemini 4 Argon is quietly appearing behind other model names. Early outputs look stronger than Gemini 3.8 Flash, but the exact checkpoint and real-world performance remain unclear.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Gemini 4 Argon dikesan dalam ujian A/B di Antigravity**](https://www.testingcatalog.com/gemini-4-argon-ab-tests-early-outputs/)\n\nUjian A/B yang bocor ada membayangkan Gemini 4 Argon Google yang belum dilancarkan tu, muncul secara senyap-senyap di sebalik nama model lain. Hasil awal nampak lebih kuat dari Gemini 3.8 Flash, tapi checkpoint yang tepat dan prestasi sebenar masih belum jelas.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-11T21:58:56+00:00",
+            "message_id": 9607,
+            "message_key": "@testingcatalog:9607"
         }
     ]
 }
