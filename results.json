@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-12T04:53:21.706545",
+    "timestamp": "2026-10-12T12:51:10.472289",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33566,6 +33566,26 @@
             "date": "2026-10-11T23:52:39+00:00",
             "message_id": 9608,
             "message_key": "@testingcatalog:9608"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-12T08:52:52+00:00",
+            "message_id": 9611,
+            "message_key": "@testingcatalog:9611"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ChatGPT vs Gemini \ud83d\udc40\n\nChatGPT seems to be on a steady growth again for the past 4 months in terms of web traffic share.\n\nChatGPT went up from 53% to 56% while it is no near 71% it had a year ago.\nGemini went down only from 26% to 25%; Earlier growth last year was a result of Gemini 3 success in particular.\nClaude is definitely a sleeping beast over here. If Anthropic will start looking at general consumers as they do at developers, this chart would change quite quickly.\n\nI also feel like average LTV for these users is quite high and majority of people can react to the dynamic of AI progress.\n\nWill we see another big change on this chart any time soon?",
+            "translated_text": "ChatGPT lawan Gemini \ud83d\udc40\n\nChatGPT nampak macam makin naik balik sejak 4 bulan lepas dari segi perkongsian trafik web.\n\nChatGPT naik dari 53% ke 56% walaupun masih jauh nak capai 71% macam setahun lepas.\nGemini turun sikit je dari 26% ke 25%; Kenaikan awal tahun lepas adalah hasil daripada kejayaan Gemini 3 khususnya.\nClaude memang macam harimau tidur kat sini. Kalau Anthropic mula pandang pengguna umum macam diorang buat pada developer, carta ni boleh berubah dengan cepat.\n\nSaya pun rasa purata LTV untuk pengguna-pengguna ni agak tinggi dan ramai orang boleh ikut rentak kemajuan AI ni.\n\nKita akan nampak ke perubahan besar lagi pada carta ni tak lama lagi?",
+            "date": "2026-10-12T08:52:52+00:00",
+            "message_id": 9610,
+            "message_key": "@testingcatalog:9610"
         }
     ]
 }
