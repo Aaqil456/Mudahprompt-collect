@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-12T12:51:10.472289",
+    "timestamp": "2026-10-12T21:39:18.958599",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33586,6 +33586,56 @@
             "date": "2026-10-12T08:52:52+00:00",
             "message_id": 9610,
             "message_key": "@testingcatalog:9610"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Wonder Full scores second on the Artificial Analysis Index, just 2 points behind Claude Opus 5.5! \n\n> SOTA on DeepSWE, scoring 79 points! \n\n> Muse Wonder capabilities cover Active Memory, Active Focus, Frontier Coding, and more!\n\n> Muse Wonder is now available on the Meta Model API and in Muse Code. Muse Wonder Full is launching exclusively for Muse Code subscribers.\n\n\"Muse Wonder and Muse Wonder Full apply specialized knowledge to problems people encounter at work and in daily life, from understanding a lease to making sense of financial or health information.\"\n\nMeta is among the top AI labs now!",
+            "translated_text": "META \ud83d\udd25: Muse Wonder Full dapat tempat kedua dalam Artificial Analysis Index, cuma 2 mata di belakang Claude Opus 5.5!\n\n> SOTA pada DeepSWE, dengan skor 79 mata!\n\n> Keupayaan Muse Wonder merangkumi Active Memory, Active Focus, Frontier Coding, dan banyak lagi!\n\n> Muse Wonder kini boleh didapati di Meta Model API dan dalam Muse Code. Muse Wonder Full pula akan dilancarkan secara eksklusif untuk pelanggan Muse Code.\n\n\"Muse Wonder dan Muse Wonder Full menggunakan pengetahuan khusus untuk masalah yang dihadapi orang ramai di tempat kerja dan dalam kehidupan seharian, daripada memahami perjanjian sewa hingga mentafsir maklumat kewangan atau kesihatan.\"\n\nMeta kini antara makmal AI terkemuka!",
+            "date": "2026-10-12T17:12:28+00:00",
+            "message_id": 9622,
+            "message_key": "@testingcatalog:9622"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Meta is rolling out Muse Wonder and Muse Wonder Full on the Meta Model API platform!\n\n> Muse Wonder Full - Our most capable model, running at max reasoning. For the hardest, longest-running work \u2014 available to Muse Code subscribers, not on the API.\n\n> Muse Wonder - State-of-the-art at real-world coding, built for long-running tasks. Plans the work, calls tools in parallel, hands parts off to sub-agents, and recovers from errors so complex jobs finish.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Meta sedang melancarkan Muse Wonder dan Muse Wonder Full di platform Meta Model API!\n\n> Muse Wonder Full - Model kami yang paling berkemampuan, beroperasi dengan penaakulan maksimum. Untuk tugasan yang paling mencabar dan berpanjangan \u2014 tersedia untuk pelanggan Muse Code, bukan di API.\n\n> Muse Wonder - Termaju dalam pengekodan dunia sebenar, dibina untuk tugasan berpanjangan. Merancang kerja, memanggil alatan secara selari, menyerahkan bahagian kepada sub-agen, dan pulih daripada ralat agar tugasan yang rumit dapat disiapkan.",
+            "date": "2026-10-12T16:43:06+00:00",
+            "message_id": 9620,
+            "message_key": "@testingcatalog:9620"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-12T14:53:07+00:00",
+            "message_id": 9619,
+            "message_key": "@testingcatalog:9619"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: An upcoming \u201cWatermelon\u201d model from Meta has been teased!\n\nVibes check - would that mean that training has been finalised?\n\nSoon? \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Model \"Watermelon\" yang akan datang dari Meta dah mula diusik-usik!\n\nAgak-agak, ini bermakna latihan dia dah selesai ke?\n\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-10-12T14:53:07+00:00",
+            "message_id": 9618,
+            "message_key": "@testingcatalog:9618"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 4 Argon has reportedly been A/B-tested under Gemini 3.8 Flash on Antigravity for some time. \n\nIt seems like a huge jump compared with the existing Flash model. \n\nWorld gen prompt > Gemini 4 Argon (supposedly)",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 4 Argon dilaporkan telah diuji A/B di bawah Gemini 3.8 Flash pada Antigravity sejak sekian lama. Nampak gayanya, ini satu lonjakan besar berbanding dengan model Flash sedia ada. Prompt penjanaan dunia > Gemini 4 Argon (kononnya)",
+            "date": "2026-10-12T14:22:01+00:00",
+            "message_id": 9616,
+            "message_key": "@testingcatalog:9616"
         }
     ]
 }
