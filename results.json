@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-13T02:53:31.820057",
+    "timestamp": "2026-10-13T10:15:09.382850",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33656,6 +33656,36 @@
             "date": "2026-10-12T21:42:40+00:00",
             "message_id": 9623,
             "message_key": "@testingcatalog:9623"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: A new unified X Subscription plan across Grok, Cursor, and X Premium is gradually rolling out!\n\nPlus - $8/month \nPremium - $30/month\nSuper - $100/month \nUltra - $200/month\n\n\u201cEach plan on The X Subscription provides more usage-per-dollar of our own models than the comparable plan it replaces.\u201d\n\nThat\u2019s an awesome change and a big win for SpaceXSI as well. For me, that\u2019s a free Cursor unlock.",
+            "translated_text": "SPACEXSI \ud83d\udd25: Pelan langganan X yang baru dan disatukan merangkumi Grok, Cursor, dan X Premium sedang dilancarkan secara berperingkat!\n\nPlus - $8/bulan\nPremium - $30/bulan\nSuper - $100/bulan\nUltra - $200/bulan\n\n\u201cSetiap pelan dalam The X Subscription menawarkan penggunaan per dolar untuk model kami sendiri yang lebih banyak berbanding pelan setara yang digantikannya.\u201d\n\nIni satu perubahan yang hebat dan kemenangan besar juga untuk SpaceXSI. Bagi saya, ini membuka kunci Cursor secara percuma.",
+            "date": "2026-10-13T05:47:14+00:00",
+            "message_id": 9627,
+            "message_key": "@testingcatalog:9627"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-13T05:28:08+00:00",
+            "message_id": 9626,
+            "message_key": "@testingcatalog:9626"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: It has been officially confirmed, today is the day for Gemini 4 Argon to arrive (for Ultra subscribers). \n\nIt\u2019s happening \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Dah sah disahkan, hari ni lah Gemini 4 Argon akan sampai (untuk pelanggan Ultra).\n\nMemang akan berlaku ni \ud83d\udc40",
+            "date": "2026-10-13T05:28:08+00:00",
+            "message_id": 9625,
+            "message_key": "@testingcatalog:9625"
         }
     ]
 }
