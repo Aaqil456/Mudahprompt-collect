@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-12T21:39:18.958599",
+    "timestamp": "2026-10-13T02:53:31.820057",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33636,6 +33636,26 @@
             "date": "2026-10-12T14:22:01+00:00",
             "message_id": 9616,
             "message_key": "@testingcatalog:9616"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches Muse Wonder and Wonder Full for AI agents**](https://www.testingcatalog.com/meta-launches-muse-wonder-and-wonder-full-for-ai-agents/)\n\nMeta introduced Muse Wonder and Muse Wonder Full for agentic personal and professional work, highlighting memory, sustained problem-solving, coding, domain expertise, API access, and stronger safety controls for sensitive tasks.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta perkenalkan Muse Wonder dan Wonder Full untuk ejen AI**](https://www.testingcatalog.com/meta-launches-muse-wonder-and-wonder-full-for-ai-agents/)\n\nMeta memperkenalkan Muse Wonder dan Muse Wonder Full untuk bantu kerja peribadi dan profesional, dengan ciri-ciri utama seperti memori, penyelesaian masalah berterusan, pengekodan, kepakaran domain, akses API, dan kawalan keselamatan yang lebih ketat untuk tugasan sensitif.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-10-12T22:16:52+00:00",
+            "message_id": 9624,
+            "message_key": "@testingcatalog:9624"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google is preparing Nano Banana 3 Pro upgrade**](https://www.testingcatalog.com/google-is-preparing-nano-banana-3-pro-upgrade/)\n\nGoogle appears to be developing Gempix 3 Pro, likely Nano Banana 3 Pro, built on Gemini 4 Argon. References point to image-generation and editing upgrades, internal testing, and possible November-December announcement.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[Google sedang bersiap sedia untuk naik taraf Nano Banana 3 Pro](https://www.testingcatalog.com/google-is-preparing-nano-banana-3-pro-upgrade/)\n\nGoogle nampaknya sedang membangunkan Gempix 3 Pro, kemungkinan besar Nano Banana 3 Pro, yang dibina berasaskan Gemini 4 Argon. Rujukan menunjukkan kepada naik taraf penjanaan dan penyuntingan imej, ujian dalaman, dan kemungkinan pengumuman pada November-Disember.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-12T21:42:40+00:00",
+            "message_id": 9623,
+            "message_key": "@testingcatalog:9623"
         }
     ]
 }
