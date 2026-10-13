@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-13T10:15:09.382850",
+    "timestamp": "2026-10-13T18:03:24.835046",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33686,6 +33686,56 @@
             "date": "2026-10-13T05:28:08+00:00",
             "message_id": 9625,
             "message_key": "@testingcatalog:9625"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Google has officially announced Gemini 4 Argon to be available on the APIs and on Gemini for Ultra and Pro subscribers.\n\n\"For developers and enterprises, it\u2019s available in the paid tier of the Gemini API and the Gemini platform, for Ultra subscribers in Google Antigravity, and Ultra and Pro subscribers in the Gemini app and Search.\"\n\nTesting time! \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-10-13T16:13:20+00:00",
+            "message_id": 9635,
+            "message_key": "@testingcatalog:9635"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 4 Argon has started rolling out and is now available in Agent Studio on GCP. \n\nYou can already test the model there \ud83d\udc40\n\nGoogle AI Studio and Gemini apps should follow. Testing time!",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 4 Argon dah mula dilancarkan dan kini dah boleh didapati di Agent Studio di GCP.\n\nAnda dah boleh uji model tu kat sana \ud83d\udc40\n\nGoogle AI Studio dan Gemini apps patut menyusul. Jom uji!",
+            "date": "2026-10-13T15:38:19+00:00",
+            "message_id": 9634,
+            "message_key": "@testingcatalog:9634"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-13T15:33:08+00:00",
+            "message_id": 9633,
+            "message_key": "@testingcatalog:9633"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Fable 5.5 traces have been spotted in Azure configs. \n\nIf this model drops today, it would be a new SOTA across many areas. \n\nSoon? \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Kesan-kesan Claude Fable 5.5 dah dikesan dalam konfigurasi Azure.\nKalau model ni keluar hari ni, ia akan jadi SOTA baru dalam banyak bidang.\nTak lama lagi ke? \ud83d\udc40",
+            "date": "2026-10-13T15:33:08+00:00",
+            "message_id": 9632,
+            "message_key": "@testingcatalog:9632"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-13T12:25:58+00:00",
+            "message_id": 9631,
+            "message_key": "@testingcatalog:9631"
         }
     ]
 }
