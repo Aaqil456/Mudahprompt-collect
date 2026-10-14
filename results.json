@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-14T19:12:38.207098",
+    "timestamp": "2026-10-14T23:04:36.211921",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33816,6 +33816,56 @@
             "date": "2026-10-14T18:01:57+00:00",
             "message_id": 9644,
             "message_key": "@testingcatalog:9644"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-14T21:13:58+00:00",
+            "message_id": 9649,
+            "message_key": "@testingcatalog:9649"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Mistral AI \u2764\ufe0f New Material\n\nNew Material is joining Mistral to help build its frontier solutions. \n\n> \"New Material have shipped award-winning AI-native tools, products and ventures across automotive, retail, legal and healthcare with partners such as Ford, Rafael Nadal, Wellcome Trust and AmLaw 50 firms, among others.\"\n\nLe New Material \ud83d\udc40",
+            "translated_text": "Mistral AI \u2764\ufe0f New Material\n\nNew Material akan bergabung dengan Mistral untuk bantu bangunkan solusi-solusi termaju mereka.\n\n\"New Material telah menghasilkan perkakas, produk dan usaha niaga berteraskan AI yang memenangi anugerah merentasi sektor automotif, peruncitan, undang-undang dan penjagaan kesihatan, bersama rakan kongsi seperti Ford, Rafael Nadal, Wellcome Trust dan firma AmLaw 50, antara lain.\"\n\nIni dia New Material \ud83d\udc40",
+            "date": "2026-10-14T21:13:58+00:00",
+            "message_id": 9648,
+            "message_key": "@testingcatalog:9648"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude Managed Agents, the Messages API, and the Claude SDK now support OpenTelemetry traces. \n\n> By default, they include duration, status, token counts, model, and tool names. \n\nAnthropic is steadily enhancing its cloud platform, and supporting OpenTelemetry is a major step toward enabling AI observability with tools like Grafana, Splunk, and others. \n\nTraces are useful for testing too! \ud83d\udc40",
+            "translated_text": "Claude Managed Agents, Messages API, dan Claude SDK kini menyokong jejak OpenTelemetry.\nSecara lalai, ia merangkumi tempoh, status, kiraan token, model, dan nama alatan.\nAnthropic sedang giat menambah baik platform awannya, dan sokongan OpenTelemetry adalah satu langkah penting ke arah membolehkan kebolehcerapan AI dengan alatan seperti Grafana, Splunk, dan lain-lain.\nJejak ini juga berguna untuk tujuan ujian! \ud83d\udc40",
+            "date": "2026-10-14T21:02:51+00:00",
+            "message_id": 9647,
+            "message_key": "@testingcatalog:9647"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Inworld launched Inworld Inference, an LLM inference API built for consumer AI apps, serving open models including Gemma 4, GLM, DeepSeek, and MiMo.\n\n> Inworld optimizes how each model runs to deliver faster responses for tutors, companions, games, and other consumer apps.\n\n> On Gemma 4 26B, median time to first token is 0.17 seconds, compared with 0.61 seconds for the median of the other providers on OpenRouter - 3.6\u00d7 faster.\n\n> At the 95th percentile, time to first token is 0.31 seconds versus 2.42 seconds for the median of those providers - 7.8\u00d7 faster.\n\n> Developers can also set requests to switch automatically to a fallback model if the first model fails or takes too long.\n\nGemma 4 26B costs $0.07 per million input tokens - nearly 40% below the median among the compared providers offering the same model that don't train on customer data.\n\nDevelopers can choose a service tier for each request, prioritizing live replies while spending less on tasks that can wait.\n\nTry hosted models in the playground!\nhttps://platform.inworld.ai\n#sponsored",
+            "translated_text": "Inworld melancarkan Inworld Inference, sebuah API inferens LLM yang dibina untuk aplikasi AI pengguna, menyokong model terbuka termasuk Gemma 4, GLM, DeepSeek, dan MiMo.\n\nInworld mengoptimumkan cara setiap model beroperasi untuk memberikan respons yang lebih pantas bagi tutor, teman, permainan, dan aplikasi pengguna lain.\n\nUntuk Gemma 4 26B, masa median untuk token pertama ialah 0.17 saat, berbanding 0.61 saat untuk median penyedia lain di OpenRouter - 3.6 kali lebih pantas.\n\nPada persentil ke-95, masa untuk token pertama ialah 0.31 saat berbanding 2.42 saat untuk median penyedia tersebut - 7.8 kali lebih pantas.\n\nPembangun juga boleh menetapkan permintaan untuk bertukar secara automatik kepada model sandaran jika model pertama gagal atau mengambil masa terlalu lama.\n\nGemma 4 26B berharga $0.07 untuk setiap juta token input - hampir 40% di bawah median dalam kalangan penyedia yang dibandingkan yang menawarkan model yang sama dan tidak melatih data pelanggan.\n\nPembangun boleh memilih tahap perkhidmatan untuk setiap permintaan, mengutamakan balasan langsung sambil berbelanja kurang untuk tugasan yang boleh menunggu.\n\nCuba model yang dihoskan di playground!\nhttps://platform.inworld.ai\n#sponsored",
+            "date": "2026-10-14T20:45:06+00:00",
+            "message_id": 9646,
+            "message_key": "@testingcatalog:9646"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Code Desktop now has a new sessions hub, live session statuses on the nav bar, and more!\n\nUsers can now start, track, manage, and follow up on multiple sessions at once from the Claude Code main screen. \n\nThis \"Claude Hub\" experience has been in testing for a while and went through several iterations. \n\nInterestingly, OpenAI was planning to release a similar experience called \"magic notepad\" but abandoned it. \n\nIf you are a heavy Claude Code user, this is worth testing!",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Code Desktop sekarang ada hab sesi baru, status sesi langsung dekat bar navigasi, dan macam-macam lagi!\n\nPengguna sekarang boleh mula, jejak, urus, dan susul beberapa sesi serentak dari skrin utama Claude Code.\n\nPengalaman \"Claude Hub\" ni dah diuji untuk seketika dan dah melalui beberapa pembaharuan.\n\nMenariknya, OpenAI sebenarnya bercadang nak keluarkan pengalaman serupa yang dipanggil \"magic notepad\" tapi dah batalkan.\n\nKalau korang pengguna tegar Claude Code, ini memang berbaloi untuk dicuba!",
+            "date": "2026-10-14T19:22:50+00:00",
+            "message_id": 9645,
+            "message_key": "@testingcatalog:9645"
         }
     ]
 }
