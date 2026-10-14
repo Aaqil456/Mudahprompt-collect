@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-14T03:58:37.893997",
+    "timestamp": "2026-10-14T09:26:04.487070",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33776,6 +33776,16 @@
             "date": "2026-10-13T23:22:30+00:00",
             "message_id": 9638,
             "message_key": "@testingcatalog:9638"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 14\n\nGOOGLE \ud83d\udd25:\n- Google released Gemini 4 Argon globally in the paid Gemini API and Gemini platform, the Gemini app and Search for Pro and Ultra subscribers, and Antigravity for Ultra subscribers.\n- Gemini 4 Argon placed 5th on the Arena Overall leaderboard.\n- Google Play now lets anyone build private vibe-coded Android apps and keep them in a personal library.\n- YouTube's contextual AI search is rolling out to all US users on Android and iOS.\n- Google is rolling out custom MCP support in the Gemini desktop app to more users.\n\nANTHROPIC \ud83d\udd25:\n- Claude Fable 5.5 traces were spotted in Azure configs.\n- Claude Code 2.1.299 adds idle compaction, which compacts large idle conversations before their prompt cache expires.\n\nCURSOR \ud83d\udd25:\n- Cursor added Gemini 4 Argon at $2/$10 per million input/output tokens, scoring 52.8% on CursorBench, on par with Opus 5.5.\n- Origin, Cursor's code hosting platform, now supports over 20 integrations.\n\nMICROSOFT \ud83d\udd25:\n- GitHub Copilot added Gemini 4 Argon.\n\nOPENAI \ud83d\udd25:\n- The ChatGPT and Codex desktop apps now store about 60% less state on disk.\n\nLIQUID AI \ud83d\udd25:\n- Liquid AI released LFM2.5-24B-A2B, an open-weight MoE model with 24B total and 2B active parameters.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 14 Okt\n\nGOOGLE \ud83d\udd25:\n- Google dah lancarkan Gemini 4 Argon secara global dalam Gemini API dan platform Gemini berbayar, aplikasi Gemini dan Carian untuk pelanggan Pro dan Ultra, serta Antigravity untuk pelanggan Ultra.\n- Gemini 4 Argon menduduki tempat ke-5 dalam papan pendahulu Arena Overall.\n- Google Play sekarang membolehkan sesiapa saja bina aplikasi Android peribadi yang dikodkan mengikut 'vibe' dan simpan dalam perpustakaan peribadi.\n- Carian AI kontekstual YouTube sedang dilancarkan kepada semua pengguna AS di Android dan iOS.\n- Google sedang melancarkan sokongan MCP tersuai dalam aplikasi desktop Gemini kepada lebih ramai pengguna.\n\nANTHROPIC \ud83d\udd25:\n- Jejak Claude Fable 5.5 dikesan dalam konfigurasi Azure.\n- Claude Code 2.1.299 menambah pemadatan terbiar (idle compaction), yang memadatkan perbualan terbiar yang besar sebelum cache prompt mereka tamat tempoh.\n\nCURSOR \ud83d\udd25:\n- Cursor dah tambah Gemini 4 Argon pada harga $2/$10 untuk setiap juta token input/output, mencatat 52.8% pada CursorBench, setanding dengan Opus 5.5.\n- Origin, platform pengehosan kod Cursor, kini menyokong lebih 20 integrasi.\n\nMICROSOFT \ud83d\udd25:\n- GitHub Copilot dah tambah Gemini 4 Argon.\n\nOPENAI \ud83d\udd25:\n- Aplikasi desktop ChatGPT dan Codex sekarang menyimpan kira-kira 60% kurang data pada cakera.\n\nLIQUID AI \ud83d\udd25:\n- Liquid AI dah lancarkan LFM2.5-24B-A2B, model MoE 'open-weight' dengan 24B jumlah dan 2B parameter aktif.",
+            "date": "2026-10-14T08:15:49+00:00",
+            "message_id": 9640,
+            "message_key": "@testingcatalog:9640"
         }
     ]
 }
