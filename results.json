@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-13T23:12:12.093802",
+    "timestamp": "2026-10-14T03:58:37.893997",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33756,6 +33756,26 @@
             "date": "2026-10-13T18:17:40+00:00",
             "message_id": 9636,
             "message_key": "@testingcatalog:9636"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-13T23:22:30+00:00",
+            "message_id": 9639,
+            "message_key": "@testingcatalog:9639"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "A small model drop from Liquid AI!\n\nLiquid AI has released a new open-weight LFM2.5-24B-A2B model with 24B total parameters and 2B active parameters. \n\nBased on benchmarks, LFM2.5-24B-A2B performs on par with the larger Qwen3.6-35B-A3B model. \n\nThe model is available on HF \ud83d\udd25",
+            "translated_text": "Liquid AI baru je lancarkan model kecil baru!\n\nLiquid AI dah keluarkan model LFM2.5-24B-A2B open-weight yang baru, dengan 24B jumlah parameter dan 2B parameter aktif.\n\nMengikut ujian penanda aras, LFM2.5-24B-A2B ni prestasinya sama hebat dengan model Qwen3.6-35B-A3B yang lebih besar tu.\n\nModel ni boleh didapati di HF \ud83d\udd25",
+            "date": "2026-10-13T23:22:30+00:00",
+            "message_id": 9638,
+            "message_key": "@testingcatalog:9638"
         }
     ]
 }
