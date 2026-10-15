@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-14T23:04:36.211921",
+    "timestamp": "2026-10-15T08:57:18.551068",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33866,6 +33866,26 @@
             "date": "2026-10-14T19:22:50+00:00",
             "message_id": 9645,
             "message_key": "@testingcatalog:9645"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-15T08:08:04+00:00",
+            "message_id": 9652,
+            "message_key": "@testingcatalog:9652"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NVIDIA \ud83d\udd25: A new model is set to arrive next week, possibly at the upcoming NVIDIA GTC event on Wednesday the 21st. \n\nAre we getting the recently spotted Nemotron 3.5 Super VL, or something else on top of it?\n\n> \"Nemotron 3.5 Super VL combines a Nemotron-H hybrid language decoder with a RADIO vision encoder, a vision projector, and a separate temporal video embedder. It reuses the Nemotron Omni image/video stack without an audio encoder and retains shared Multi-Token Prediction (MTP) weights.\"\n\nMonitoring \ud83d\udc40",
+            "translated_text": "NVIDIA \ud83d\udd25: Model baru akan sampai minggu depan, mungkin di acara NVIDIA GTC yang akan datang pada hari Rabu, 21hb.\n\nKita akan dapat ke Nemotron 3.5 Super VL yang baru nampak tu, atau ada benda lain lagi?\n\n> \"Nemotron 3.5 Super VL menggabungkan penyahkod bahasa hibrid Nemotron-H dengan pengekod penglihatan RADIO, projektor penglihatan, dan pembenam video temporal yang berasingan. Ia guna semula susunan imej/video Nemotron Omni tanpa pengekod audio dan mengekalkan pemberat Multi-Token Prediction (MTP) yang dikongsi.\"\n\nPantau \ud83d\udc40",
+            "date": "2026-10-15T08:08:04+00:00",
+            "message_id": 9651,
+            "message_key": "@testingcatalog:9651"
         }
     ]
 }
