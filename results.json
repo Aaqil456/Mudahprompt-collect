@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T18:57:01.359505",
+    "timestamp": "2026-10-15T22:00:06.290584",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33936,6 +33936,16 @@
             "date": "2026-10-15T17:21:38+00:00",
             "message_id": 9655,
             "message_key": "@testingcatalog:9655"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Black Forest Labs launched FLUX 3 Image Klein, its new open-weight image model!\n\n> \"Customizable and fast. 5.6B parameters and runs on a single consumer GPU. Native 4K, bounding boxes, and pixel-perfect editing.\"\n\n> Developers can post-train and fine-tune FLUX 3 Image Klein. \n\n> It comes with a low-latency version for faster generation and self-hosting, as well as quantized versions - FP8, NVFP4, and INT8.\n\n>  The distilled model with native 4K will also be available on BFL APIs.",
+            "translated_text": "Black Forest Labs dah lancarkan FLUX 3 Image Klein, model imej open-weight baharu mereka.\n\n\"Boleh ubah suai dan laju. Ada 5.6 bilion parameter dan boleh berfungsi dengan satu GPU pengguna biasa. Sokongan 4K asli, bounding box, dan suntingan yang sangat tepat.\"\n\nPembangun boleh latih lanjut dan perhalusi FLUX 3 Image Klein.\n\nIa ada versi latensi rendah untuk penjanaan yang lebih pantas dan self-hosting, serta versi terkuantisasi \u2013 FP8, NVFP4, dan INT8.\n\nModel terdistilasi dengan sokongan 4K asli juga akan tersedia di API BFL.",
+            "date": "2026-10-15T20:21:07+00:00",
+            "message_id": 9660,
+            "message_key": "@testingcatalog:9660"
         }
     ]
 }
