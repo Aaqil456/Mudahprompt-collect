@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T08:57:18.551068",
+    "timestamp": "2026-10-15T18:57:01.359505",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33886,6 +33886,56 @@
             "date": "2026-10-15T08:08:04+00:00",
             "message_id": 9651,
             "message_key": "@testingcatalog:9651"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OpenAI shipped an upgrade to its Voice Mode on ChatGPT, Codex and dots! \n\nA new model, GPT-Live-1.1, comes with support of new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nA constant \u201cChecking..\u201d should be gone as well. It has been quite annoying during vibe coding sessions. \n\nAPI support is coming soon \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OpenAI dah keluarkan kemas kini untuk Mod Suara dia dekat ChatGPT, Codex dan dots!\n\nModel baru, GPT-Live-1.1, datang dengan sokongan suara baru dalam bahasa Perancis, Jerman, Hindi, Sepanyol Mexico, Korea, dan Jepun.\n\nPerkataan \u201cChecking..\u201d yang asyik keluar tu pun sepatutnya dah tak ada. Benda ni memang agak mengganggu masa sesi coding yang santai-santai tu.\n\nSokongan API akan datang tak lama lagi \ud83d\udc40",
+            "date": "2026-10-15T18:54:22+00:00",
+            "message_id": 9659,
+            "message_key": "@testingcatalog:9659"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: MAI-Base-2 pre-training has been completed; MAI-Base-3 training cycle is already being prepared as well.\n\n> \"MAI-Base-2 outperforms every open-weight model we tested on our held-out evaluations. It is 4-12x more pre-training FLOPs-efficient than the strongest open base model, DeepSeek-V4-Pro-Base (see Figure 3 below), and we have put that saving into training a larger model.\"\n\n* Figure 1 shows the performance of MAI-Base-2 and other models with at least one trillion total parameters across a range of pre-training evaluations (lower is better).",
+            "translated_text": "MICROSOFT \ud83d\udd25: Latihan awal (pre-training) MAI-Base-2 dah siap; kitaran latihan MAI-Base-3 pun sedang disiapkan juga.\n\n> \"MAI-Base-2 mengalahkan setiap model open-weight yang kami uji dalam penilaian kami yang terasing. Ia 4-12 kali ganda lebih cekap FLOPs untuk latihan awal berbanding model asas terbuka paling kuat, DeepSeek-V4-Pro-Base (rujuk Rajah 3 di bawah), dan penjimatan itu kami gunakan untuk melatih model yang lebih besar.\"\n\n* Rajah 1 menunjukkan prestasi MAI-Base-2 dan model-model lain dengan sekurang-kurangnya satu trilion jumlah parameter merentasi pelbagai penilaian latihan awal (lagi rendah lagi bagus).",
+            "date": "2026-10-15T18:18:22+00:00",
+            "message_id": 9658,
+            "message_key": "@testingcatalog:9658"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Spark Open (Muse-Spark-Open-816B-A42B) is now available on HuggingFace!\n\n> \"Muse Spark Open is a mixture-of-experts model with 42B active parameters, 816B total parameters, and a 1M-token context window.\"\n\n> \"It\u2019s built for agentic and coding workflows, from understanding large repositories to completing multi-step engineering tasks with tools.\"\n\nBenchmarks \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Muse Spark Open (Muse-Spark-Open-816B-A42B) dah ada dekat HuggingFace!\n\n> \"Muse Spark Open ialah model 'mixture-of-experts' dengan 42 bilion parameter aktif, 816 bilion parameter keseluruhan, dan tetingkap konteks 1 juta token.\"\n\n> \"Ia dibina untuk aliran kerja ejen dan pengekodan, daripada memahami repositori besar sehingga menyiapkan tugas kejuruteraan berbilang langkah dengan alatan.\"\n\nPenanda Aras \ud83d\udc40",
+            "date": "2026-10-15T17:29:07+00:00",
+            "message_id": 9657,
+            "message_key": "@testingcatalog:9657"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-15T17:21:38+00:00",
+            "message_id": 9656,
+            "message_key": "@testingcatalog:9656"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Meta is about to drop Muse Spark Open, an open weight version of Muse Spark 1.2! \n\nIt is teased to be the best open model from US and users will be able to run it locally on new Mac Studio devices.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Meta akan melancarkan Muse Spark Open, versi 'open weight' untuk Muse Spark 1.2!\n\nIa dijangka menjadi model 'open' terbaik dari AS dan pengguna boleh jalankannya secara tempatan pada peranti Mac Studio baharu.",
+            "date": "2026-10-15T17:21:38+00:00",
+            "message_id": 9655,
+            "message_key": "@testingcatalog:9655"
         }
     ]
 }
