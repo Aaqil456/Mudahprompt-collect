@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-16T00:16:50.677165",
+    "timestamp": "2026-10-16T10:56:51.050466",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -33966,6 +33966,26 @@
             "date": "2026-10-15T23:22:00+00:00",
             "message_id": 9661,
             "message_key": "@testingcatalog:9661"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Imagine testing this for the 1st time \ud83e\udd75",
+            "translated_text": "Bayangkan cuba benda ni first time \ud83e\udd75",
+            "date": "2026-10-16T08:06:07+00:00",
+            "message_id": 9664,
+            "message_key": "@testingcatalog:9664"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 16\n\nMETA \ud83d\udd25:\n- Meta released Muse Spark Open, an open-weight 816B-total, 42B-active MoE model with a 1M-token context window, on Hugging Face and optimized to run locally on Mac Studio.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA released Nemotron 3.5 Super VL, an open 120B-total, 12B-active multimodal model for long-running AI agents.\n- NVIDIA also introduced Nemotron 3.5 Bolt 24GB, a model that fits into 24GB of memory.\n\nOPENAI \ud83d\udd25:\n- OpenAI is rolling out GPT-Live-1.1 to Voice in ChatGPT, Codex and dots for all users, with new voices in six languages and API support coming soon.\n- OpenAI launched the Rosalind Academic Plan, giving eligible US university labs sponsored access to GPT-Rosalind.\n- Sites is now generally available for ChatGPT Enterprise with US and EU data residency.\n- ChatGPT can now view your open Chrome tabs.\n- Codex landed changes and more compute to sharply reduce \"Selected model is at capacity\" errors.\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Argon is rolling out in Antigravity to paid Google AI Pro subscribers with a separate weekly Argon quota.\n- Google launched Universal Cart, a cross-retailer shopping cart, in the US.\n- Circle to Search can now check whether a text message is a scam.\n\nMICROSOFT \ud83d\udd25:\n- Microsoft finished pre-training MAI-Base-2 and is already preparing the MAI-Base-3 training cycle.\n- GitHub made agentic autofix for code scanning alerts generally available.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic gave a team from METR employee-like access to assess its safety practices.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity open-sourced SPACE, the Firecracker-based sandbox that runs every Perplexity Computer task, under Apache 2.0.\n- Nemotron 3.5 Super VL is now in Perplexity for Pro and Max subscribers and in the Agent API.\n\nCURSOR \ud83d\udd25:\n- Cursor added Muse Wonder at $4/$20 per million input/output tokens, scoring 46.1% on CursorBench.\n\nBLACK FOREST LABS \ud83d\udd25:\n- Black Forest Labs released FLUX 3 Image Klein, a 5.6B open-weight image model with native 4K that runs on a single consumer GPU.\n\nKREA \ud83d\udd25:\n- Krea launched Krea 3, an image-editing model for prompt-based 2K edits in under 8 seconds.\n\nAMAZON \ud83d\udd25:\n- Amazon's Bee launched two new personal AI devices starting at $75.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 16 Okt\n\nMETA \ud83d\udd25:\n- Meta telah melancarkan Muse Spark Open, sebuah model MoE dengan berat terbuka, jumlah 816 bilion parameter dan 42 bilion aktif, dengan tetingkap konteks 1 juta token, di Hugging Face dan dioptimumkan untuk berjalan secara tempatan di Mac Studio.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA telah melancarkan Nemotron 3.5 Super VL, sebuah model multimodal terbuka dengan jumlah 120 bilion parameter dan 12 bilion aktif untuk ejen AI yang beroperasi jangka panjang.\n- NVIDIA juga memperkenalkan Nemotron 3.5 Bolt 24GB, sebuah model yang muat dalam memori 24GB.\n\nOPENAI \ud83d\udd25:\n- OpenAI sedang melancarkan GPT-Live-1.1 ke Voice dalam ChatGPT, Codex dan dots untuk semua pengguna, dengan suara baharu dalam enam bahasa dan sokongan API akan datang tidak lama lagi.\n- OpenAI melancarkan Rosalind Academic Plan, memberikan makmal universiti AS yang layak akses tajaan kepada GPT-Rosalind.\n- Sites kini tersedia secara umum untuk ChatGPT Enterprise dengan residensi data AS dan EU.\n- ChatGPT kini boleh melihat tab Chrome anda yang terbuka.\n- Codex telah melakukan perubahan dan menambah kuasa pengkomputeran untuk mengurangkan dengan ketara ralat \"Selected model is at capacity\".\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Argon sedang dilancarkan dalam Antigravity kepada pelanggan berbayar Google AI Pro dengan kuota Argon mingguan yang berasingan.\n- Google melancarkan Universal Cart, sebuah troli beli-belah merentas peruncit, di AS.\n- Circle to Search kini boleh menyemak sama ada mesej teks adalah penipuan.\n\nMICROSOFT \ud83d\udd25:\n- Microsoft telah selesai pra-latihan MAI-Base-2 dan sudah pun menyediakan kitaran latihan MAI-Base-3.\n- GitHub menyediakan autofix ejen untuk amaran pengimbasan kod secara umum.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic memberikan akses seperti pekerja kepada pasukan dari METR untuk menilai amalan keselamatannya.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity mengeluarkan SPACE, sandbox berasaskan Firecracker yang menjalankan setiap tugas Perplexity Computer, sebagai sumber terbuka di bawah lesen Apache 2.0.\n- Nemotron 3.5 Super VL kini tersedia dalam Perplexity untuk pelanggan Pro dan Max serta dalam Agent API.\n\nCURSOR \ud83d\udd25:\n- Cursor menambah Muse Wonder pada harga $4/$20 setiap juta token input/output, mencatatkan 46.1% dalam CursorBench.\n\nBLACK FOREST LABS \ud83d\udd25:\n- Black Forest Labs mengeluarkan FLUX 3 Image Klein, sebuah model imej berat terbuka 5.6 bilion parameter dengan resolusi 4K asli yang berjalan pada satu GPU pengguna.\n\nKREA \ud83d\udd25:\n- Krea melancarkan Krea 3, sebuah model penyuntingan imej untuk suntingan 2K berasaskan arahan dalam masa kurang 8 saat.\n\nAMAZON \ud83d\udd25:\n- Bee dari Amazon melancarkan dua peranti AI peribadi baharu bermula dari $75.",
+            "date": "2026-10-16T07:52:15+00:00",
+            "message_id": 9663,
+            "message_key": "@testingcatalog:9663"
         }
     ]
 }
