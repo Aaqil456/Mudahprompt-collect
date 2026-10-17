@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-17T11:27:44.070331",
+    "timestamp": "2026-10-17T15:09:49.163762",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34056,6 +34056,26 @@
             "date": "2026-10-17T08:54:51+00:00",
             "message_id": 9670,
             "message_key": "@testingcatalog:9670"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares to release Claude Fable 5.5 next week**](https://www.testingcatalog.com/anthropic-several-models-coming-fable-5-5-reaches-partners/)\n\nLeaks suggest Anthropic may launch Claude Fable 5.5 soon, with traces found in Azure, third-party tools, and partner testing. Multiple new Claude codenames also point to a broader near-term model rollout, though nothing is official.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic bersedia untuk melancarkan Claude Fable 5.5 minggu depan**](https://www.testingcatalog.com/anthropic-several-models-coming-fable-5-5-reaches-partners/)\n\nAda khabar angin mengatakan Anthropic mungkin akan melancarkan Claude Fable 5.5 tak lama lagi, dengan jejaknya dah ditemui dalam Azure, alatan pihak ketiga, dan ujian rakan kongsi. Beberapa nama kod Claude yang baru juga menunjukkan pelancaran model yang lebih meluas dalam masa terdekat, walaupun belum ada pengumuman rasmi.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-10-17T12:53:08+00:00",
+            "message_id": 9673,
+            "message_key": "@testingcatalog:9673"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ICYMI: Meta's Muse Spark Open is optimized for new Mac Studio**](https://www.testingcatalog.com/icymi-metas-muse-spark-open-is-optimized-for-new-mac-studio/)\n\nMeta released Muse Spark Open, an open-weight multimodal model for coding, agentic work, and multi-step reasoning. It has 816B parameters, a 1M-token context window, runs on two Mac Studio M5 Ultras, and is offered via APIs and downloads.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Untuk pengetahuan korang: Muse Spark Open dari Meta dioptimumkan untuk Mac Studio baharu**](https://www.testingcatalog.com/icymi-metas-muse-spark-open-is-optimized-for-new-mac-studio/)\n\nMeta dah lancarkan Muse Spark Open, satu model multimodal 'open-weight' untuk pengekodan, kerja ejen, dan penaakulan berbilang langkah. Ia ada 816 bilion parameter, tetingkap konteks 1 juta token, boleh jalan atas dua Mac Studio M5 Ultras, dan ditawarkan melalui API serta muat turun.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-10-17T12:24:09+00:00",
+            "message_id": 9672,
+            "message_key": "@testingcatalog:9672"
         }
     ]
 }
