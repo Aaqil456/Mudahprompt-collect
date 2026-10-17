@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-17T15:09:49.163762",
+    "timestamp": "2026-10-17T21:18:56.952236",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34076,6 +34076,26 @@
             "date": "2026-10-17T12:24:09+00:00",
             "message_id": 9672,
             "message_key": "@testingcatalog:9672"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-17T19:29:24+00:00",
+            "message_id": 9675,
+            "message_key": "@testingcatalog:9675"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenCode published an official statement regarding a recent distillation attack.\n\nEarlier today, OpenAI, Anthropic and Google balances of some OpenCode users got drained.\nReportedly, only 1.4% of users were affected and these users were notified via an email.\n\nThis is a serious precedent because if this distillation vector is the simplest to execute, that means that major AI labs are now much more protected than they were earlier. This also means that using smaller providers is now less safe.\n\nAdditionally, tokens from leading AI labs now have a higher value since they are harder to get for distillation.\n\nA wild AI west \ud83d\udc40",
+            "translated_text": "OpenCode mengeluarkan kenyataan rasmi mengenai serangan 'distillation' yang berlaku baru-baru ini.\n\nAwal hari ini, baki OpenAI, Anthropic dan Google milik beberapa pengguna OpenCode telah dikosongkan. Dilaporkan, hanya 1.4% pengguna terjejas dan mereka telah dimaklumkan melalui e-mel.\n\nIni adalah satu kejadian serius sebab kalau 'distillation vector' ini yang paling senang nak laksanakan, itu bermakna makmal AI utama sekarang lebih terlindung berbanding sebelum ini. Ini juga bermakna menggunakan penyedia yang lebih kecil sekarang kurang selamat.\n\nTambahan pula, token dari makmal AI terkemuka sekarang ada nilai yang lebih tinggi sebab susah nak dapat untuk 'distillation'.\n\nDunia AI yang tak terkawal \ud83d\udc40",
+            "date": "2026-10-17T19:29:24+00:00",
+            "message_id": 9674,
+            "message_key": "@testingcatalog:9674"
         }
     ]
 }
