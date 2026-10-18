@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-18T13:03:18.724191",
+    "timestamp": "2026-10-18T20:15:23.789599",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34136,6 +34136,16 @@
             "date": "2026-10-18T12:09:58+00:00",
             "message_id": 9678,
             "message_key": "@testingcatalog:9678"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI testing new \"Aurora\" GPT-Image model on Arena**](https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/)\n\nFinally had a chance to play with the new \"Aurora\" image models from OpenAI, which are currently being tested on Arena. \n\nGreen \ud83d\udfe2 > Red \ud83d\udd34 \n\n> The resulting image feels like one I would expect from Nano Banana and GPT Image models working together.\n\n> Aurora outputs feel much better than gpt-image-2.5-flare, especially in the color scheme.\n\nNano Bana 3 Pro will face tough competition. \n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI sedang menguji model GPT-Image \"Aurora\" yang baharu di Arena**](https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/)\n\nAkhirnya dapat peluang cuba main dengan model imej \"Aurora\" baharu dari OpenAI, yang sedang diuji di Arena.\n\nGreen \ud83d\udfe2 > Red \ud83d\udd34\n\n> Imej yang terhasil rasa macam gabungan model Nano Banana dan GPT Image.\n\n> Hasil Aurora rasa jauh lebih baik dari gpt-image-2.5-flare, terutamanya dari segi skema warna.\n\nNano Bana 3 Pro akan berdepan saingan sengit.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-10-18T18:07:18+00:00",
+            "message_id": 9680,
+            "message_key": "@testingcatalog:9680"
         }
     ]
 }
