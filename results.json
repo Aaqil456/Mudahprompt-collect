@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-17T21:18:56.952236",
+    "timestamp": "2026-10-18T08:39:51.073199",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34096,6 +34096,26 @@
             "date": "2026-10-17T19:29:24+00:00",
             "message_id": 9674,
             "message_key": "@testingcatalog:9674"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-18T07:45:31+00:00",
+            "message_id": 9677,
+            "message_key": "@testingcatalog:9677"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: 3 new model references have been spotted on the APIs recently.\n\n- aurora-red-alpha\n- aurora-green-alpha\n- aurora-blue-alpha\n\nThese model references were removed shortly after so it was a mistake rollout.\nThe chance that normal users will have a chance to test these exact models anytime soon is quite low (alpha).\nHigher probability of a new Daybreak update announcement. This also doesn\u2019t exclude the fact that other model releases might be planned.\n\nNot soon? \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: 3 rujukan model baru dikesan di API baru-baru ni.\n\n- aurora-red-alpha\n- aurora-green-alpha\n- aurora-blue-alpha\n\nRujukan model ni ditarik balik tak lama lepas tu, jadi ia adalah kesilapan pelancaran.\nPeluang pengguna biasa dapat peluang nak uji model-model ni dalam masa terdekat agak rendah (alpha).\nKemungkinan besar akan ada pengumuman update Daybreak baru. Ini tak menolak kemungkinan yang pelancaran model lain mungkin dirancang.\n\nBukan tak lama lagi? \ud83d\udc40",
+            "date": "2026-10-18T07:45:31+00:00",
+            "message_id": 9676,
+            "message_key": "@testingcatalog:9676"
         }
     ]
 }
