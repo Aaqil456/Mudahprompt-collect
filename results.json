@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-19T12:27:45.536892",
+    "timestamp": "2026-10-19T19:06:26.334968",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34196,6 +34196,26 @@
             "date": "2026-10-19T10:28:31+00:00",
             "message_id": 9683,
             "message_key": "@testingcatalog:9683"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-19T14:56:23+00:00",
+            "message_id": 9687,
+            "message_key": "@testingcatalog:9687"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "According to The Information, Anthropic will release a new model this month, along with Gemini 4 Carbon and a new Terra model from OpenAI. \n\n> \"The unreleased model is especially good at discerning a person\u2019s underlying intentions and goals even if they don\u2019t give the model much information.\"\n\n> \"The Anthropic model is also better at thinking outside of the box rather than regurgitating common sense advice or solutions.\"\n\n> \"It\u2019s not clear which model family Anthropic will fall into, such as Fable or Opus.\"\n\nThinking outside of the box is a huge limitation these days. If we get a model that can do it reliably, we'll be properly transitioning into the \"Innovators\" stage. \n\nThe line about \"discerning underlying intentions\" is a bit scary, though, given all the guardrails.",
+            "translated_text": "Menurut The Information, Anthropic akan keluarkan model baru bulan ni, bersama Gemini 4 Carbon dan model Terra baru dari OpenAI.\n\n> \"Model yang belum keluar ni memang bagus sangat dalam mengenal pasti niat dan matlamat sebenar seseorang walaupun tak banyak maklumat diberikan pada model tu.\"\n\n> \"Model Anthropic ni juga lebih baik dalam berfikir di luar kotak daripada sekadar mengulang nasihat atau penyelesaian yang biasa.\"\n\n> \"Tak jelas lagi model keluarga mana Anthropic akan masuk, macam Fable atau Opus.\"\n\nBerfikir di luar kotak ni satu batasan besar sekarang. Kalau kita dapat model yang boleh buat macam tu dengan konsisten, kita akan betul-betul beralih ke fasa \"Innovators\".\n\nAyat pasal \"mengenal pasti niat sebenar\" tu agak menakutkan sikit, walaupun dengan semua kawalan keselamatan yang ada.",
+            "date": "2026-10-19T14:56:23+00:00",
+            "message_id": 9686,
+            "message_key": "@testingcatalog:9686"
         }
     ]
 }
