@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-18T22:50:55.349853",
+    "timestamp": "2026-10-19T12:27:45.536892",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34166,6 +34166,36 @@
             "date": "2026-10-18T22:23:11+00:00",
             "message_id": 9681,
             "message_key": "@testingcatalog:9681"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Minimax officially announced MiniMax M3.1 Flash, formerly known as \"Space Bunny\" on OpenRouter. \n\nMiniMax M3.1 Flash scores 74% on DeepSWE and costs $ 0.15/$0.60 per 1M input/output tokens.\n\nWeights are coming on October 23. In addition, Minimax is preparing to release a Pro model too.",
+            "translated_text": "Minimax dah umumkan secara rasmi MiniMax M3.1 Flash, yang dulunya dikenali sebagai \"Space Bunny\" di OpenRouter.\n\nMiniMax M3.1 Flash mencatat 74% dalam DeepSWE dan berharga $0.15/$0.60 untuk setiap 1 juta token input/output.\n\nData modelnya akan tersedia pada 23 Oktober. Selain itu, Minimax juga sedang siapkan untuk keluarkan model Pro.",
+            "date": "2026-10-19T12:16:17+00:00",
+            "message_id": 9685,
+            "message_key": "@testingcatalog:9685"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 19\n\nOPENAI \ud83d\udd25:\n- OpenAI is testing new \"Aurora\" image models on Arena after aurora-red, green and blue alpha references briefly appeared in its API.\n- The Codex desktop app now lets you edit previous messages within a thread.\n- Replit has made OpenAI its default model provider over Anthropic.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic is committing 5% of its shares to the new Anthropic Public Benefit Fund.\n- Claude Fable 5.5 is reportedly preparing for the launch, with traces found in Azure, third-party tools and partner testing.\n- Claude is preparing a Personal Finance feature, formerly codenamed \"Claude Money\", that analyzes bank data through Plaid and builds dashboards.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA GTC Berlin runs Oct 20\u201322, with Jensen Huang's keynote at the Tempodrom on Oct 21.\n\nMINIMAX \ud83d\udd25:\n- MiniMax teased the upcoming MiniMax-M3.1-Flash.\n\nOPENCODE \ud83d\udd25:\n- OpenCode said a distillation attack drained the OpenAI, Anthropic and Google API balances of about 1.4% of its users.\n\n* Used Grok to compose this brief, cherry-picking the news and doing some post-editing.",
+            "translated_text": "Ringkasan AI Harian \ud83d\uddde \u2014 19 Okt\n\nOPENAI \ud83d\udd25:\n- OpenAI sedang menguji model imej \"Aurora\" yang baru di Arena, selepas rujukan alpha aurora-merah, hijau, dan biru muncul seketika dalam API mereka.\n- Aplikasi desktop Codex kini membolehkan kita edit mesej-mesej sebelum ini dalam satu perbualan.\n- Replit dah jadikan OpenAI sebagai penyedia model lalai mereka, mengatasi Anthropic.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic akan menyumbangkan 5% daripada saham mereka kepada Dana Manfaat Awam Anthropic yang baru.\n- Claude Fable 5.5 dilaporkan sedang bersiap sedia untuk dilancarkan, dengan jejak-jejaknya ditemui dalam Azure, alatan pihak ketiga, dan ujian rakan kongsi.\n- Claude sedang menyediakan ciri Kewangan Peribadi, yang dulunya dikenali sebagai \"Claude Money\", yang akan menganalisis data bank melalui Plaid dan membina papan pemuka.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA GTC Berlin akan berlangsung dari 20\u201322 Okt, dengan ucaptama Jensen Huang di Tempodrom pada 21 Okt.\n\nMINIMAX \ud83d\udd25:\n- MiniMax dah beri bayangan tentang MiniMax-M3.1-Flash yang akan datang.\n\nOPENCODE \ud83d\udd25:\n- OpenCode kata, satu serangan 'distillation' dah menguras baki API OpenAI, Anthropic, dan Google kira-kira 1.4% daripada pengguna mereka.\n\n\\* Ringkasan ini dihasilkan menggunakan Grok, dengan pemilihan berita dan sedikit suntingan selepas itu.",
+            "date": "2026-10-19T10:45:45+00:00",
+            "message_id": 9684,
+            "message_key": "@testingcatalog:9684"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Minimax is preparing to release MiniMax-M3.1-Flash, as outlined in the API reference docs. \n\n> \"MiniMax-M3.1-Flash - Frontier multimodal coding model with 1M context window and tunable thinking depth.\"\n\n> \"Tunable thinking depth\" seems to be a new perk the 3.1 family will offer. \n\nSoon \ud83d\udc40",
+            "translated_text": "Minimax akan lancarkan MiniMax-M3.1-Flash, macam yang ada dalam dokumen rujukan API.\n\n> \"MiniMax-M3.1-Flash - Model pengekodan multimodal termaju dengan tetingkap konteks 1M dan kedalaman pemikiran yang boleh dilaras.\"\n\n> \"Kedalaman pemikiran yang boleh dilaras\" nampaknya ciri baru yang akan ditawarkan oleh siri 3.1 ini.\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-10-19T10:28:31+00:00",
+            "message_id": 9683,
+            "message_key": "@testingcatalog:9683"
         }
     ]
 }
