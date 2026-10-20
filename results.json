@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-20T19:01:28.245503",
+    "timestamp": "2026-10-20T22:14:53.836786",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34306,6 +34306,26 @@
             "date": "2026-10-20T18:03:02+00:00",
             "message_id": 9696,
             "message_key": "@testingcatalog:9696"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MISTRAL \ud83d\udd25: Voxtral 3, a new family of speech-to-text and text-to-speech models, is now available!\n\nVoxtral Small Transcribe 3 landed in 3rd on the Artificial Analysis Speech-to-Text leaderboard, and Voxtral 3 TTS ranked in the top 12.\n\nVoxtral 3 comes with \ud83d\udc40\n- Accurate transcription across 50+ languages. \n- Natural speech that adapts to the conversation.\n- Human-like intelligence at spoken command.\n- Pro Voice for distinctly accurate voice adaptation.\n\nVoxtral 3 models are now available through Mistral's EU-hosted API or for self-hosting.",
+            "translated_text": "MISTRAL \ud83d\udd25: Voxtral 3, satu siri model baharu untuk tukar suara ke teks dan teks ke suara, dah boleh didapati sekarang!\n\nVoxtral Small Transcribe 3 berjaya menduduki tempat ke-3 dalam papan pendahulu Artificial Analysis Speech-to-Text, dan Voxtral 3 TTS pula berada dalam kelompok 12 teratas.\n\nVoxtral 3 datang dengan \ud83d\udc40\n- Transkripsi yang tepat untuk lebih 50 bahasa.\n- Pertuturan semula jadi yang boleh disesuaikan dengan perbualan.\n- Kepintaran macam manusia bila diberi arahan suara.\n- Pro Voice untuk penyesuaian suara yang sangat tepat.\n\nModel-model Voxtral 3 dah boleh didapati melalui API Mistral yang dihoskan di EU atau untuk hos sendiri.",
+            "date": "2026-10-20T20:50:03+00:00",
+            "message_id": 9699,
+            "message_key": "@testingcatalog:9699"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: A fully local option is now available on the Perplexity Computer macOS Desktop app for Pro, Max, and Enterprise subscribers!\n\nThey did it \ud83d\udc40\n\nPerplexity Computer no longer needs the internet or paid credits to work.\n\nA fully local mode is powered by PPLX Pro, a post-trained version of the Qwen 3.8 model. For complex tasks, it can also run in Hybrid mode to use cloud models.\n\nPerplexity Computer has a very good harness, and this needs a lot of testing time!\n\n* 36 GB of unified memory is recommended.",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Sekarang dah ada pilihan yang berfungsi sepenuhnya secara lokal di aplikasi desktop Perplexity Computer macOS, khas untuk pelanggan Pro, Max, dan Enterprise!\n\nDiorang dah buat! \ud83d\udc40\n\nPerplexity Computer dah tak perlukan internet atau kredit berbayar untuk berfungsi.\n\nMod lokal sepenuhnya ni dikuasakan oleh PPLX Pro, yang merupakan versi model Qwen 3.8 yang dah dilatih semula. Kalau untuk tugasan yang rumit, ia boleh juga jalan dalam mod Hibrid untuk guna model awan.\n\nPerplexity Computer ni ada sistem yang sangat mantap, dan memang perlukan banyak masa untuk diuji!\n\n* 36 GB memori bersatu disyorkan.",
+            "date": "2026-10-20T19:03:01+00:00",
+            "message_id": 9698,
+            "message_key": "@testingcatalog:9698"
         }
     ]
 }
