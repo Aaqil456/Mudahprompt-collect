@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-20T09:15:15.937583",
+    "timestamp": "2026-10-20T14:46:35.160749",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34266,6 +34266,26 @@
             "date": "2026-10-20T08:20:58+00:00",
             "message_id": 9693,
             "message_key": "@testingcatalog:9693"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares Muse Confidential VM for private AI work**](https://www.testingcatalog.com/meta-prepares-muse-confidential-vm-for-private-ai-work/)\n\nMETA \ud83d\udd25: Confidential VMs feature is in the works on Muse web. \n\nMeta previously teased that this feature will go live before the end of 2026 and will let users run Muse tasks in an encrypted, confidential environment. \n\nAccording to a new hidden setting, Confidential VMs will initially be available only to Meta AI subscribers. \n\nVoice mode, image and video generation, and wearables support won't be initially available if the user switches to Confidential VMs. \n\n> It stays between you and your Muse - Your conversations run in a secure, encrypted environment.\n\n> Your Muse data won't be used to improve AI at Meta.\n\n> Some features aren't available yet - This includes voice mode, image and video generation, and wearables. \n\n> Availability is limited. For now, Confidential VMs are only available to subscribers.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta siapkan Muse Confidential VM untuk kerja AI peribadi**](https://www.testingcatalog.com/meta-prepares-muse-confidential-vm-for-private-ai-work/)\n\nMETA \ud83d\udd25: Ciri Confidential VMs sedang dibangunkan di web Muse.\n\nMeta sebelum ini membayangkan ciri ini akan dilancarkan sebelum akhir 2026 dan akan membolehkan pengguna menjalankan tugas Muse dalam persekitaran yang disulitkan dan sulit.\n\nMenurut tetapan tersembunyi yang baru, Confidential VMs pada mulanya hanya akan tersedia untuk pelanggan Meta AI.\n\nMod suara, penjanaan imej dan video, serta sokongan peranti boleh pakai tidak akan tersedia pada mulanya jika pengguna beralih kepada Confidential VMs.\n\n> Ia kekal antara anda dan Muse anda - Perbualan anda berjalan dalam persekitaran yang selamat dan disulitkan.\n\n> Data Muse anda tidak akan digunakan untuk menambah baik AI di Meta.\n\n> Beberapa ciri belum tersedia lagi - Ini termasuk mod suara, penjanaan imej dan video, dan peranti boleh pakai.\n\n> Ketersediaan adalah terhad. Buat masa ini, Confidential VMs hanya tersedia untuk pelanggan.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-10-20T12:29:55+00:00",
+            "message_id": 9695,
+            "message_key": "@testingcatalog:9695"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares GPT-6.1 Terra for the upcoming release**](https://www.testingcatalog.com/openai-prepares-gpt-6-1-terra-microsoft-code/)\n\nOpenAI seems to be preparing to release GPT-6.1 Terra model as well. \n\n> The model reference recently showed up in Microsoft's PR for evaluation configs. \n\n> Earlier, The Information reported that this model is also in the works. \n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI bersiap sedia untuk pelancaran GPT-6.1 Terra yang akan datang**](https://www.testingcatalog.com/openai-prepares-gpt-6-1-terra-microsoft-code/)\n\nOpenAI nampaknya sedang bersiap sedia untuk melancarkan model GPT-6.1 Terra juga.\n\n> Rujukan model itu baru-baru ini muncul dalam PR Microsoft untuk konfigurasi penilaian.\n\n> Sebelum ini, The Information melaporkan bahawa model ini juga sedang dibangunkan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-10-20T10:19:54+00:00",
+            "message_id": 9694,
+            "message_key": "@testingcatalog:9694"
         }
     ]
 }
