@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-21T13:33:21.401379",
+    "timestamp": "2026-10-21T22:11:51.918644",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34406,6 +34406,56 @@
             "date": "2026-10-21T08:36:48+00:00",
             "message_id": 9705,
             "message_key": "@testingcatalog:9705"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic opens Claude Duet preview for US Pro and Max users**](https://www.testingcatalog.com/claude-duet/)\n\nAnthropic launched Claude Duet in US research preview for Pro and Max users. The standalone agent surfaces priorities, works in the background, and requires approval for messages, payments, signatures, and deletions.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic buka pratonton Claude Duet untuk pengguna Pro dan Max di AS**](https://www.testingcatalog.com/claude-duet/)\n\nAnthropic melancarkan Claude Duet dalam pratonton penyelidikan di AS untuk pengguna Pro dan Max. Ejen kendiri ini menonjolkan keutamaan, berfungsi di latar belakang, dan memerlukan kelulusan untuk mesej, pembayaran, tandatangan, serta penghapusan.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-10-21T20:38:07+00:00",
+            "message_id": 9715,
+            "message_key": "@testingcatalog:9715"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: An early look at how agentic shopping flow with Stripe Link would work on Claude Duet, Anthropic's upcoming proactive agent. \n\nInteresting to see these hashtags under the agent - does it mean that we will see its UI designed around \"threaded\" conversations like on Slack? \n\nFun fact: Duet's internal name is \"aibo\".\n\nAPKPLZ \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Pandangan awal tentang bagaimana cara ejen menguruskan pembelian dengan Stripe Link akan berfungsi pada Claude Duet, ejen proaktif Anthropic yang akan datang.\n\nMenariknya, ada hashtag-hashtag ni bawah ejen tu \u2014 adakah ini bermakna kita akan melihat UI-nya direka bentuk berdasarkan perbualan berangkai macam di Slack?\n\nFakta menarik: Nama dalaman Duet ialah \"aibo\".\n\nAPKPLZ \ud83d\udc40",
+            "date": "2026-10-21T20:30:42+00:00",
+            "message_id": 9714,
+            "message_key": "@testingcatalog:9714"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Duet, an upcoming proactive agent from Anthropic, will support a wide range of connectors, agentic shopping, and secure login. \n\n> \"Claude Duet can purchase things for your business using Link, Stripe\u2019s digital wallet.\"\n\n> \"It can also use Shopify's Shop Pay to check out at online stores.\"\n\n> \"Coming soon, it will be able to sign in to sites with logins you\u2019ve saved in 1Password.\"",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Duet, ejen proaktif Anthropic yang akan datang, akan menyokong pelbagai penyambung, fungsi membeli-belah secara ejen, dan log masuk yang selamat.\n\n> \"Claude Duet boleh membeli barang untuk perniagaan anda menggunakan Link, dompet digital Stripe.\"\n\n> \"Ia juga boleh menggunakan Shopify's Shop Pay untuk membuat pembayaran di kedai dalam talian.\"\n\n> \"Akan datang, ia akan dapat log masuk ke laman web dengan maklumat log masuk yang anda simpan dalam 1Password.\"",
+            "date": "2026-10-21T19:25:52+00:00",
+            "message_id": 9713,
+            "message_key": "@testingcatalog:9713"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Anthropic announced Claude Duet, a new proactive agent that comes as a standalone research preview app. \n\n> It is available through a waitlist on Pro and Max plans in the US. \n\n> Claude Duet is designed around Claude Opus 5.5 so the agent can judge and decide what you need. \n\n> Memory, skills, and connected apps are taken from your Claude account. \n\nHuge!!! \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Anthropic dah umumkan Claude Duet, ejen proaktif baharu yang datang sebagai aplikasi pratonton penyelidikan kendiri.\n\nIa boleh didapati melalui senarai menunggu untuk pelan Pro dan Max di AS.\n\nClaude Duet direka berasaskan Claude Opus 5.5 supaya ejen ini boleh menilai dan memutuskan apa yang anda perlukan.\n\nMemori, kemahiran, dan aplikasi yang disambungkan diambil dari akaun Claude anda.\n\nHebat!!! \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "date": "2026-10-21T19:20:16+00:00",
+            "message_id": 9712,
+            "message_key": "@testingcatalog:9712"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-21T18:57:44+00:00",
+            "message_id": 9711,
+            "message_key": "@testingcatalog:9711"
         }
     ]
 }
