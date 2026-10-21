@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-20T22:14:53.836786",
+    "timestamp": "2026-10-21T07:13:09.395197",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34326,6 +34326,36 @@
             "date": "2026-10-20T19:03:01+00:00",
             "message_id": 9698,
             "message_key": "@testingcatalog:9698"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral launches Voxtral 3 with a voice agent SDK**](https://www.testingcatalog.com/mistral-launches-voxtral-3-with-a-voice-agent-sdk/)\n\nMistral launched Voxtral 3 with speech-to-text, text-to-speech, and a real-time voice agent SDK. It supports hosted and private deployment, targets enterprise call workflows, and offers multilingual, low-latency voice processing.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral melancarkan Voxtral 3 dengan SDK ejen suara**](https://www.testingcatalog.com/mistral-launches-voxtral-3-with-a-voice-agent-sdk/)\n\nMistral dah lancarkan Voxtral 3, lengkap dengan fungsi speech-to-text, text-to-speech, dan SDK ejen suara masa nyata. Ia menyokong penggunaan secara hosted dan persendirian, sesuai untuk aliran kerja panggilan syarikat, serta menawarkan pemprosesan suara berbilang bahasa dengan kependaman rendah.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-10-21T06:12:50+00:00",
+            "message_id": 9702,
+            "message_key": "@testingcatalog:9702"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity Computer now runs fully locally on Mac**](https://www.testingcatalog.com/perplexity-computer-now-runs-fully-locally-on-mac/)\n\nPerplexity\u2019s Mac app now offers fully local Computer on Apple silicon, keeping model, agent, and task execution on-device. It can access private files and native apps with permission, giving users control over data and credit use.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity Computer kini beroperasi sepenuhnya secara lokal di Mac**](https://www.testingcatalog.com/perplexity-computer-now-runs-fully-locally-on-mac/)\n\nAplikasi Perplexity untuk Mac kini menawarkan fungsi Computer secara lokal sepenuhnya pada cip Apple silicon, dengan model, agen, dan pelaksanaan tugas semuanya dijalankan dalam peranti itu sendiri. Ia boleh mengakses fail peribadi dan aplikasi native dengan kebenaran, memberi pengguna kawalan ke atas penggunaan data dan kredit mereka.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-10-21T06:10:28+00:00",
+            "message_id": 9701,
+            "message_key": "@testingcatalog:9701"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: ElevenLabs released Eleven Realtime Max and Mini speech-to-speech models.\n\nEleven Realtime v1 Max scores 98.8% on Big Bench Audio and starts speaking in 0.57s.\nEleven Realtime v1 mini is optimized for natural conversations at low cost.\n\nBoth models are available on ElevenAgents platform and APIs.",
+            "translated_text": "Sekadar info \ud83d\udc40: ElevenLabs dah keluarkan model speech-to-speech Eleven Realtime Max dan Mini.\n\nEleven Realtime v1 Max mencapai 98.8% dalam Big Bench Audio dan mula bercakap dalam 0.57 saat.\nEleven Realtime v1 mini dioptimumkan untuk perbualan semula jadi dengan kos rendah.\n\nKedua-dua model ini boleh didapati di platform ElevenAgents dan API.",
+            "date": "2026-10-21T05:32:43+00:00",
+            "message_id": 9700,
+            "message_key": "@testingcatalog:9700"
         }
     ]
 }
