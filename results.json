@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-22T13:34:16.088115",
+    "timestamp": "2026-10-22T18:23:35.278156",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34496,6 +34496,46 @@
             "date": "2026-10-22T12:56:43+00:00",
             "message_id": 9720,
             "message_key": "@testingcatalog:9720"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Agent Compute Engine for Google Cloud has been introduced. \n\nACE is a new VM type built for AI agents, designed for users to operate at scale. \n\nThe system includes Agent Gateway, Agent Registry, Agent Identity, and Agent Observability.",
+            "translated_text": "GOOGLE \ud83d\udd25: Agent Compute Engine baharu untuk Google Cloud telah diperkenalkan.\nACE ni jenis VM baharu yang dibina untuk ejen AI, direka supaya pengguna boleh beroperasi secara berskala besar.\nSistem ni merangkumi Agent Gateway, Agent Registry, Agent Identity, dan Agent Observability.",
+            "date": "2026-10-22T17:10:48+00:00",
+            "message_id": 9724,
+            "message_key": "@testingcatalog:9724"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Ideogram released Vector 1.0, a new vector model that generates detailed SVGs and vectorizes images. \n\nThe resulting SVGs are also editable, with each component as a separate layer that users can rotate and move. \n\nIt is now available on Ideogram and via APIs. \n\nSVGs are solved now \ud83d\udc40",
+            "translated_text": "Ideogram melancarkan Vector 1.0, model vektor baharu yang menjana SVG terperinci dan menvektorkan imej.\n\nSVG yang terhasil juga boleh diedit, dengan setiap komponen sebagai lapisan berasingan yang pengguna boleh putar dan gerakkan.\n\nIa kini tersedia di Ideogram dan melalui API.\n\nMasalah SVG dah selesai sekarang \ud83d\udc40",
+            "date": "2026-10-22T16:51:24+00:00",
+            "message_id": 9723,
+            "message_key": "@testingcatalog:9723"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-22T16:04:15+00:00",
+            "message_id": 9722,
+            "message_key": "@testingcatalog:9722"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: Microsoft is rolling out its redesigned Copilot app to more users on web and mobile.\n\nThis new design follows earlier announcement of a \u201cnew\u201d Copilot with Home, Code and Autopilot modes.\nVoice mode seems require a paid plan now.\n\nNeeds testing \ud83d\udc40",
+            "translated_text": "ICYMI \ud83d\udc40: Microsoft sedang melancarkan aplikasi Copilot yang direka semula kepada lebih ramai pengguna di web dan mudah alih.\n\nReka bentuk baharu ini menyusuli pengumuman awal tentang Copilot \u201cbaharu\u201d dengan mod Home, Code dan Autopilot.\nMod suara nampaknya memerlukan pelan berbayar sekarang.\n\nPerlu diuji \ud83d\udc40",
+            "date": "2026-10-22T16:04:15+00:00",
+            "message_id": 9721,
+            "message_key": "@testingcatalog:9721"
         }
     ]
 }
