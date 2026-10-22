@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-22T01:19:23.134973",
+    "timestamp": "2026-10-22T13:34:16.088115",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34486,6 +34486,16 @@
             "date": "2026-10-21T23:26:53+00:00",
             "message_id": 9716,
             "message_key": "@testingcatalog:9716"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The internet isn't safe, and it never will be (and it never was)\n\nCybersecurity risks aren't only determined by the level of cyber defense you have, but by the capabilities available for a cyber offense (Check NIST\u2019s risk framework).\n\nIt is not possible to make the system \"100% secure\", and that implies \"continuous defense\" will be required. \n\nIn the future, 24/7 security agents will likely offer such defense. My concern is that many won't be able to access or afford such protection.\n\nRecent security vulnerability announcements are a direct consequence of the \"Defenders Gap\" (Cloudflare and Microsoft's reported malicious activity highlights the pressure on defenders). \n\nIn fact, it's even worse now, as these incidents have shown. Organizations without access to advanced defensive tools may struggle to keep up.\n\nCyber Defense is named \"defense\" for a reason, as these threats may pose a real monetary impact on the economy. \n\nIf we think of programs like Daybreak as a way for AI labs to pay a \"security tax,\" it becomes clear we have a huge supply-and-demand gap in this area. \n\nThis is the gap between the protection governments need to provide to businesses and individuals and what they currently provide. \n\nCybersecurity risks affect companies worth billions. Soon, tons of rogue agents will be running across the internet, trying to breach whatever they can (speculation).\n\nAt some point, these incidents will be happening almost daily. This will affect normies' day-to-day lives, too. Yet, it is an unmatched opportunity to provide cyber defense solutions. \n\nYOU ARE NOT PREPARED! \ud83d\udc40",
+            "translated_text": "Internet ni tak selamat, dan memang takkan pernah selamat (dulu pun sama).\n\nRisiko keselamatan siber bukan saja ditentukan oleh tahap pertahanan siber yang kita ada, tapi juga oleh keupayaan serangan siber yang ada (Cuba tengok rangka kerja risiko NIST).\n\nMemang tak mungkin nak jadikan sistem ni \"100% selamat\", dan ini bermakna \"pertahanan berterusan\" akan sentiasa diperlukan.\n\nNanti, ejen keselamatan 24/7 mungkin akan tawarkan pertahanan macam ni. Saya risau ramai yang tak mampu nak akses atau bayar perlindungan macam tu.\n\nPengumuman kerentanan keselamatan baru-baru ni adalah kesan langsung daripada \"Jurang Pembela\" (aktiviti jahat yang dilaporkan oleh Cloudflare dan Microsoft menyerlahkan tekanan yang dihadapi oleh pembela).\n\nMalah, keadaan sekarang lagi teruk, macam yang insiden-insiden ni dah tunjukkan. Organisasi yang tak ada akses kepada alat pertahanan canggih mungkin akan susah nak bersaing.\n\nPertahanan Siber dinamakan \"pertahanan\" ada sebabnya, sebab ancaman-ancaman ni boleh beri impak kewangan yang besar pada ekonomi.\n\nKalau kita anggap program macam Daybreak ni sebagai cara untuk makmal AI bayar \"cukai keselamatan,\" memang jelas kita ada jurang penawaran dan permintaan yang besar dalam bidang ni.\n\nIni adalah jurang antara perlindungan yang kerajaan perlu sediakan kepada perniagaan dan individu, dengan apa yang mereka sediakan sekarang.\n\nRisiko keselamatan siber ni menjejaskan syarikat bernilai berbilion. Tak lama lagi, macam-macam ejen jahat akan berleluasa di internet, cuba ceroboh apa saja yang boleh (spekulasi).\n\nNanti, insiden-insiden macam ni akan berlaku hampir setiap hari. Ini akan menjejaskan kehidupan harian orang biasa juga. Tapi, ini adalah peluang keemasan yang tak ada tandingan untuk sediakan penyelesaian pertahanan siber.\n\nKamu semua tidak bersedia! \ud83d\udc40",
+            "date": "2026-10-22T12:56:43+00:00",
+            "message_id": 9720,
+            "message_key": "@testingcatalog:9720"
         }
     ]
 }
