@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-22T18:23:35.278156",
+    "timestamp": "2026-10-22T22:11:09.741538",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34536,6 +34536,36 @@
             "date": "2026-10-22T16:04:15+00:00",
             "message_id": 9721,
             "message_key": "@testingcatalog:9721"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-22T21:36:26+00:00",
+            "message_id": 9727,
+            "message_key": "@testingcatalog:9727"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude will start using auto mode for permission selection on Pro, Max, and Team plans by default, starting from next week. \n\nIn this mode, Claude won\u2019t ask users to approve every step but would rather rely on its internal safety evaluation. \n\nAuto testing \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude akan mula guna mod auto untuk pemilihan kebenaran pada pelan Pro, Max, dan Team secara lalai, bermula minggu depan.\n\nDalam mod ini, Claude takkan minta pengguna luluskan setiap langkah, tapi akan bergantung pada penilaian keselamatan dalamannya.\n\nUjian auto \ud83d\udc40",
+            "date": "2026-10-22T21:36:26+00:00",
+            "message_id": 9726,
+            "message_key": "@testingcatalog:9726"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "1Password announced its Agents platform in collaboration with Meta, Anthropic, OpenAI, SpaceXSI, and many others. \n\n> \"1Password will connect to your personal agents, whether you have one or multiple, so they can work without seeing your passwords.\"\n\nWaitlist OPT-IN is open \ud83d\udc40",
+            "translated_text": "1Password mengumumkan platform Agents mereka dengan kerjasama Meta, Anthropic, OpenAI, SpaceXSI, dan banyak lagi.\n\n\"1Password akan berhubung dengan ejen peribadi anda, sama ada anda ada satu atau banyak, supaya mereka boleh berfungsi tanpa melihat kata laluan anda.\"\n\nPendaftaran untuk senarai menunggu sudah dibuka \ud83d\udc40",
+            "date": "2026-10-22T19:51:44+00:00",
+            "message_id": 9725,
+            "message_key": "@testingcatalog:9725"
         }
     ]
 }
