@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-23T07:07:08.830168",
+    "timestamp": "2026-10-23T13:10:40.195309",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34616,6 +34616,56 @@
             "date": "2026-10-23T05:28:29+00:00",
             "message_id": 9732,
             "message_key": "@testingcatalog:9732"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-23T12:36:01+00:00",
+            "message_id": 9740,
+            "message_key": "@testingcatalog:9740"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse AI agent is rolling out in Japan! \n\nUS, Canada, Japan.. \n\nWe need it EU as well \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Muse AI agent sedang dilancarkan di Jepun!\n\nAS, Kanada, Jepun..\n\nKita perlukan ia di EU juga \ud83d\udc40",
+            "date": "2026-10-23T12:36:01+00:00",
+            "message_id": 9739,
+            "message_key": "@testingcatalog:9739"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-23T09:19:35+00:00",
+            "message_id": 9738,
+            "message_key": "@testingcatalog:9738"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MiniMax has published MiniMax M3.1 Flash weights on HuggingFace.\n\nThe model has 428B parameters total, 23B activated per token.\nMiniMax M3.1 Flash, also known as \"Space Bunny\" stealth model from OpenRouter, was announced on October 19 and is now available on MiniMax platform and APIs.",
+            "translated_text": "MiniMax telah menerbitkan berat MiniMax M3.1 Flash di HuggingFace.\n\nModel ini ada sejumlah 428 bilion parameter, dengan 23 bilion diaktifkan setiap token.\nMiniMax M3.1 Flash, yang juga dikenali sebagai model sulit \"Space Bunny\" dari OpenRouter, telah diumumkan pada 19 Oktober dan kini boleh didapati di platform dan API MiniMax.",
+            "date": "2026-10-23T09:19:35+00:00",
+            "message_id": 9737,
+            "message_key": "@testingcatalog:9737"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini 4 Carbon early test results are in ahead of public release**](https://www.testingcatalog.com/gemini-4-carbon-early-test-results/)\n\nGemini 4 Carbon appears to be in early access outside Google, with testers citing stronger outputs than Argon but weaker UI work and much slower speeds. Leaks suggest launch may be close, though public claims remain unverified.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Keputusan awal ujian Gemini 4 Carbon dah keluar, sebelum pelancaran awam**](https://www.testingcatalog.com/gemini-4-carbon-early-test-results/)\n\nNampaknya Gemini 4 Carbon dah mula diuji secara awal di luar Google. Penguji cakap hasilnya lebih kuat dari Argon, tapi kerja UI dia kurang mantap dan kelajuan pun jauh lebih perlahan. Ada khabar angin cakap ia mungkin akan dilancarkan tak lama lagi, tapi dakwaan awam tu masih belum disahkan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-23T09:06:12+00:00",
+            "message_id": 9736,
+            "message_key": "@testingcatalog:9736"
         }
     ]
 }
