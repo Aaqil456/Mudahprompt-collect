@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-23T18:12:48.895701",
+    "timestamp": "2026-10-23T21:54:41.680497",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34716,6 +34716,26 @@
             "date": "2026-10-23T16:30:50+00:00",
             "message_id": 9744,
             "message_key": "@testingcatalog:9744"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-23T20:45:36+00:00",
+            "message_id": 9750,
+            "message_key": "@testingcatalog:9750"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Frontier AI training was already resumed on October 1st, according to the latest statement from OpenAI.\n\nAdditionally, a substantial amount of compute will be consistently allocated to red teaming.\n\nThis is a very important part as the cost of aligned frontier AI development will go up proportionally to its intelligence. Eventually, this may impact token pricing as well.\n\nYet, even these measures might be not sufficient which would imply further cost increase.\n\n\u201cWe leave in the era of underpriced compute.\u201d",
+            "translated_text": "OPENAI \ud83d\udd25: Latihan AI canggih sudah disambung semula pada 1 Oktober, menurut kenyataan terkini dari OpenAI.\n\nSelain itu, sejumlah besar kuasa pengkomputeran akan sentiasa diperuntukkan untuk 'red teaming'.\n\nIni adalah bahagian yang sangat penting kerana kos pembangunan AI canggih yang selaras akan meningkat secara berkadaran dengan kecerdasannya. Akhirnya, ini mungkin akan memberi kesan kepada harga token juga.\n\nNamun, walaupun langkah-langkah ini mungkin tidak mencukupi, yang akan menyebabkan peningkatan kos tambahan.\n\n\u201cKita berada dalam era kuasa pengkomputeran yang tidak dinilai dengan sewajarnya.\u201d",
+            "date": "2026-10-23T20:45:36+00:00",
+            "message_id": 9749,
+            "message_key": "@testingcatalog:9749"
         }
     ]
 }
