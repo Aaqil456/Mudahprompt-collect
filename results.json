@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-22T22:11:09.741538",
+    "timestamp": "2026-10-23T01:19:05.700072",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34566,6 +34566,46 @@
             "date": "2026-10-22T19:51:44+00:00",
             "message_id": 9725,
             "message_key": "@testingcatalog:9725"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-22T23:50:54+00:00",
+            "message_id": 9731,
+            "message_key": "@testingcatalog:9731"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic \u2764\ufe0f Google Cloud\n\nClaude Platform features are now available on GCP!\n\n\u201cWith the Anthropic managed offering, Google Cloud customers now receive the full set of Claude API features, with new features and betas shipping the same day they go live on the native Claude Platform.\u201d\n\nThis solution covers Claude Managed Agents, Code Execution, Computer Use, Agent Skills and Advisor Strategy.\n\nGoogle is a Platform of Platforms now \ud83d\udc40",
+            "translated_text": "Anthropic dan Google Cloud\n\nCiri-ciri Claude Platform kini dah ada di GCP!\n\n\"Dengan tawaran terurus dari Anthropic ni, pelanggan Google Cloud sekarang boleh dapat semua ciri penuh Claude API. Ciri-ciri baru dan versi beta pun akan dikeluarkan pada hari yang sama ia dilancarkan di Claude Platform asal.\"\n\nPenyelesaian ni meliputi Claude Managed Agents, Code Execution, Computer Use, Agent Skills dan Advisor Strategy.\n\nGoogle sekarang ni dah jadi macam 'Platform kepada Platform-platform' lain \ud83d\udc40",
+            "date": "2026-10-22T23:50:54+00:00",
+            "message_id": 9730,
+            "message_key": "@testingcatalog:9730"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: Grok Bot can now be connected to system mobile apps including Calendar, Reminders, Home and more!\n\nThis capability is rolling out on both iOS and Android. \n\nSo far, I have only seen this integration in Perplexity and Claude. This is quite a big unlock, at least up to a level that iOS and Android provide. \n\nI keep using it more and more!",
+            "translated_text": "SPACEXSI \ud83d\udd25: Grok Bot sekarang dah boleh disambungkan ke aplikasi sistem dalam telefon, termasuk Calendar, Reminders, Home dan banyak lagi!\n\nCiri ni sedang dilancarkan untuk kedua-dua iOS dan Android.\n\nSetakat ni, saya cuma nampak integrasi ni dalam Perplexity dan Claude. Ini satu kemajuan yang agak besar, sekurang-kurangnya setakat tahap yang iOS dan Android sediakan.\n\nSaya makin kerap guna!",
+            "date": "2026-10-22T23:27:04+00:00",
+            "message_id": 9729,
+            "message_key": "@testingcatalog:9729"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Decisions API is now in general availability and can be used via APIs and the OpenAI Platform. \n\n> Decisions API is a Jev-like solution enabling you to build workflows based on extremely quick decisions. \n\n> Predicate, Choice, and Score decisions are available. \n\nIt thinks that there is a 21% chance that the GPT-7 family will be released this year. \n\nLooks right \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Decisions API kini boleh didapati secara umum dan boleh digunakan melalui API serta Platform OpenAI.\n\n> Decisions API adalah penyelesaian seperti Jev yang membolehkan anda membina aliran kerja berdasarkan keputusan yang sangat pantas.\n\n> Keputusan jenis Predicate, Choice, dan Score tersedia.\n\nIa berpendapat ada 21% kemungkinan keluarga GPT-7 akan dikeluarkan tahun ini.\n\nNampak betul \ud83d\udc40",
+            "date": "2026-10-22T22:21:13+00:00",
+            "message_id": 9728,
+            "message_key": "@testingcatalog:9728"
         }
     ]
 }
