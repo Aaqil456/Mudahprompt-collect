@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-23T13:10:40.195309",
+    "timestamp": "2026-10-23T18:12:48.895701",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34666,6 +34666,56 @@
             "date": "2026-10-23T09:06:12+00:00",
             "message_id": 9736,
             "message_key": "@testingcatalog:9736"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-23T17:52:29+00:00",
+            "message_id": 9748,
+            "message_key": "@testingcatalog:9748"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "KIMI AI\ud83d\udd25: Kimi K3.1 Pro landed on the 8th spot on WebDev Arena, with Kimi AI moving to the 4th place among AI labs overall. \n\nThat a big move \ud83d\udc40",
+            "translated_text": "KIMI AI\ud83d\udd25: Kimi K3.1 Pro menduduki tempat ke-8 di WebDev Arena, dengan Kimi AI naik ke kedudukan ke-4 di kalangan makmal AI secara keseluruhan.\n\nItu satu langkah besar \ud83d\udc40",
+            "date": "2026-10-23T17:52:29+00:00",
+            "message_id": 9747,
+            "message_key": "@testingcatalog:9747"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Kimi AI officially announced Kimi K3.1 Pro, a 2.8T total and 104B active params MoE open model. \n\nOn benchmarks, Kimi K3.1 Pro performs on par with leading AI models like Opus 5.5 and GPT-6 Astra, while being significantly cheaper. \n\nOpen weights are coming on November 4th as well!",
+            "translated_text": "TERKINI \ud83d\udd25: Kimi AI dah umumkan secara rasmi Kimi K3.1 Pro, sebuah model terbuka MoE dengan jumlah 2.8T dan 104B parameter aktif. Dalam ujian penanda aras, Kimi K3.1 Pro berprestasi setanding dengan model AI terkemuka macam Opus 5.5 dan GPT-6 Astra, tapi harganya jauh lebih murah. Open weights akan dikeluarkan pada 4 November juga!",
+            "date": "2026-10-23T17:45:53+00:00",
+            "message_id": 9746,
+            "message_key": "@testingcatalog:9746"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: Cursor now has Computer Use capabilities and can operate other applications on your laptop.\n\nThe feature is especially usefull for app development, as it can also run mobile simulators. \n\nComputer Use is activated on demand or via @-mentioning \"Computer Use\" command. \n\nCursor is a Superapp now! \ud83d\udc40",
+            "translated_text": "SPACEXSI \ud83d\udd25: Cursor sekarang dah ada fungsi Computer Use dan boleh jalankan aplikasi lain dekat laptop awak.\nFungsi ni sangat berguna untuk pembangunan aplikasi, sebab dia boleh jalankan simulator mudah alih juga.\nComputer Use diaktifkan bila diminta atau dengan @-mentioning arahan \"Computer Use\".\nCursor dah jadi Superapp sekarang! \ud83d\udc40",
+            "date": "2026-10-23T16:41:43+00:00",
+            "message_id": 9745,
+            "message_key": "@testingcatalog:9745"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ByteDance released Seedance 2.5 4K, featuring richer visual detail. \n\n> Seedance 2.5 4K offers richer color gradations and smoother transitions thanks to 10-bit color depth.\n\n> Users can use Draft mode to experiment with low-cost 480p previews and then upscale them to 4K.\n\nAnnouncement demo \ud83d\udc40",
+            "translated_text": "ByteDance melancarkan Seedance 2.5 4K, menampilkan butiran visual yang lebih kaya.\n\n> Seedance 2.5 4K menawarkan gradasi warna yang lebih kaya dan peralihan yang lebih lancar berkat kedalaman warna 10-bit.\n\n> Pengguna boleh menggunakan mod Draf untuk bereksperimen dengan pratonton 480p kos rendah dan kemudian menaik tarafnya ke 4K.\n\nDemo pengumuman \ud83d\udc40",
+            "date": "2026-10-23T16:30:50+00:00",
+            "message_id": 9744,
+            "message_key": "@testingcatalog:9744"
         }
     ]
 }
