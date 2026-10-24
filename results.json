@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-24T10:29:04.510656",
+    "timestamp": "2026-10-24T22:57:46.870946",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34766,6 +34766,16 @@
             "date": "2026-10-24T08:03:00+00:00",
             "message_id": 9754,
             "message_key": "@testingcatalog:9754"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Interestingly, Google seems to be shifting its internal naming from \"AI\" to \"SI\" as well. \n\n> \"build_arena_andwise_si_comparison\" is an internal string related to model comparison. \n\nWill this spread even further?\n\n- \u2705 SpaceXSI\n- \u2705 MSL\n- \u2705 SSI\n\n- \ud83d\udc40 MAI > MSI?\n- \ud83d\udc40 OpenAI > OpenSI?\n- \ud83d\udc40 Apple Intelligence > ASI?",
+            "translated_text": "Menariknya, Google nampaknya sedang mengubah penamaan dalamannya daripada \"AI\" kepada \"SI\" juga.\n\n> \"build_arena_andwise_si_comparison\" adalah rentetan dalaman yang berkaitan dengan perbandingan model.\n\nAdakah ini akan merebak lebih jauh lagi?\n\n- \u2705 SpaceXSI\n- \u2705 MSL\n- \u2705 SSI\n\n- \ud83d\udc40 MAI > MSI?\n- \ud83d\udc40 OpenAI > OpenSI?\n- \ud83d\udc40 Apple Intelligence > ASI?",
+            "date": "2026-10-24T20:30:38+00:00",
+            "message_id": 9755,
+            "message_key": "@testingcatalog:9755"
         }
     ]
 }
