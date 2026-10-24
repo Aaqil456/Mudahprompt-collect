@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-23T21:54:41.680497",
+    "timestamp": "2026-10-24T00:21:45.012523",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34736,6 +34736,26 @@
             "date": "2026-10-23T20:45:36+00:00",
             "message_id": 9749,
             "message_key": "@testingcatalog:9749"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Jack Dorsey announced a new full-duplex speech model, called Dessa. \n\nDessa was trained solely on voice conversations, with no text data or pretrained models. \n\nCurrently, only demo samples are available, but they far surpass anything else in emotional expression and natural feel. \n\nVoice models will be everywhere \ud83d\udc40",
+            "translated_text": "Jack Dorsey mengumumkan satu model pertuturan dupleks penuh yang baru, dinamakan Dessa.\n\nDessa dilatih hanya menggunakan perbualan suara, tanpa data teks atau model pra-latihan.\n\nBuat masa ini, hanya sampel demo yang tersedia, tetapi ia jauh mengatasi apa-apa yang lain dari segi ekspresi emosi dan rasa semula jadi.\n\nModel suara akan ada di mana-mana \ud83d\udc40",
+            "date": "2026-10-23T23:01:52+00:00",
+            "message_id": 9753,
+            "message_key": "@testingcatalog:9753"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: Grok Bot now has its own Vault for storing logins, contacts and credit card info. \n\nSaved info can be found in a new Vault tab in settings. The feature is rolling out on mobile and desktop apps. \n\nGrok Bot is slowly getting new superpowers!",
+            "translated_text": "SPACEXSI \ud83d\udd25: Grok Bot kini ada Vault sendiri untuk simpan maklumat log masuk, kenalan dan kad kredit.\n\nMaklumat yang disimpan boleh dilihat dalam tab Vault baru di tetapan. Ciri ini sedang dilancarkan di aplikasi mudah alih dan desktop.\n\nGrok Bot perlahan-lahan dapat kuasa super baru!",
+            "date": "2026-10-23T23:01:27+00:00",
+            "message_id": 9752,
+            "message_key": "@testingcatalog:9752"
         }
     ]
 }
