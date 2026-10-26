@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-25T18:13:58.730785",
+    "timestamp": "2026-10-26T16:36:41.591240",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34846,6 +34846,56 @@
             "date": "2026-10-25T16:12:00+00:00",
             "message_id": 9761,
             "message_key": "@testingcatalog:9761"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-26T13:36:49+00:00",
+            "message_id": 9769,
+            "message_key": "@testingcatalog:9769"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI DevDay Exchange in Berlin is about to start soon! \n\nMonitoring \ud83c\udf7f",
+            "translated_text": "OpenAI DevDay Exchange di Berlin akan bermula tak lama lagi!\nPantau \ud83c\udf7f",
+            "date": "2026-10-26T13:36:49+00:00",
+            "message_id": 9768,
+            "message_key": "@testingcatalog:9768"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-26T13:10:00+00:00",
+            "message_id": 9767,
+            "message_key": "@testingcatalog:9767"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: $ANT will be an official Nasdaq ticker for Anthropic according to the latest statement!\n\n\u201cAnthropic intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol \u201cANT.\u201d The number of shares of Class A common stock to be offered and the price range for the proposed offering have not yet been determined.\u201d\n\nNot (ANT Only) soon \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Menurut kenyataan terbaru, $ANT akan jadi simbol rasmi Nasdaq untuk Anthropic!\n\n\u201cAnthropic berhasrat untuk menyenaraikan saham biasa Kelas A mereka di Nasdaq Global Select Market di bawah simbol \u201cANT.\u201d Jumlah saham biasa Kelas A yang akan ditawarkan dan julat harga untuk tawaran yang dicadangkan masih belum ditentukan.\u201d\n\nBukan (ANT sahaja) tak lama lagi \ud83d\udc40",
+            "date": "2026-10-26T13:10:00+00:00",
+            "message_id": 9766,
+            "message_key": "@testingcatalog:9766"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-26T12:32:51+00:00",
+            "message_id": 9765,
+            "message_key": "@testingcatalog:9765"
         }
     ]
 }
