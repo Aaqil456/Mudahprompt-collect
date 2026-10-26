@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-26T16:36:41.591240",
+    "timestamp": "2026-10-26T21:27:38.423003",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34896,6 +34896,56 @@
             "date": "2026-10-26T12:32:51+00:00",
             "message_id": 9765,
             "message_key": "@testingcatalog:9765"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-26T18:25:21+00:00",
+            "message_id": 9777,
+            "message_key": "@testingcatalog:9777"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Some benchmarks \ud83d\udc40",
+            "translated_text": "Beberapa penanda aras \ud83d\udc40",
+            "date": "2026-10-26T18:25:21+00:00",
+            "message_id": 9776,
+            "message_key": "@testingcatalog:9776"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OpenAI officially announced GPT-6.1 Terra!\n\n> \"At max effort, Terra is over three times as token-efficient as Claude Opus 5.5, and one-fourth its price per token, resulting in a ~9x lower cost per task.\"\n\n> \"Terra is also much quicker, completing tasks over three times faster than both GPT-6 Astra and GPT-6.1 Sol.\"\n\nI would call it a Berlin DevDay release \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OpenAI secara rasmi mengumumkan GPT-6.1 Terra!\n\n> \"Dengan usaha penuh, Terra adalah lebih tiga kali ganda lebih cekap token berbanding Claude Opus 5.5, dan seperempat harganya bagi setiap token, menghasilkan kos per tugas yang ~9 kali ganda lebih rendah.\"\n\n> \"Terra juga jauh lebih pantas, menyelesaikan tugasan lebih tiga kali ganda lebih cepat berbanding kedua-dua GPT-6 Astra dan GPT-6.1 Sol.\"\n\nSaya rasa ini adalah pelancaran DevDay Berlin \ud83d\udc40",
+            "date": "2026-10-26T18:24:41+00:00",
+            "message_id": 9775,
+            "message_key": "@testingcatalog:9775"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-26T18:04:17+00:00",
+            "message_id": 9774,
+            "message_key": "@testingcatalog:9774"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A new gpt-6.1-terra model slug has been spotted on the APIs and now is being mentioned on the latest Codex changelog!\n\nGPT-6.1 Terra is now available in ChatGPT Work and Codex on Plus, Pro, Business, Enterprise, and Edu plans. It\u2019s a fast, efficient model for professional work that combines strong image understanding with precise computer use.\nReason about images and screens, then act on what you find across your browser, desktop, and apps. Terra also provides clear, direct writing that puts results first and explains supporting details in plain language.\n\nTesting time soon! \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Model baru gpt-6.1-terra telah dikesan pada API dan kini disebut dalam changelog Codex terkini!\n\nGPT-6.1 Terra kini dah boleh guna dalam ChatGPT Work dan Codex untuk pelan Plus, Pro, Business, Enterprise, dan Edu. Ia model yang pantas, cekap untuk kerja profesional yang menggabungkan pemahaman imej yang kuat dengan penggunaan komputer yang tepat.\nBoleh fahamkan imej dan skrin, kemudian bertindak berdasarkan apa yang ditemui merentasi pelayar, desktop, dan aplikasi anda. Terra juga sediakan penulisan yang jelas, terus terang yang utamakan hasil dan terangkan butiran sokongan dalam bahasa yang mudah difahami.\n\nMasa untuk uji cuba tak lama lagi! \ud83d\udc40",
+            "date": "2026-10-26T18:04:17+00:00",
+            "message_id": 9773,
+            "message_key": "@testingcatalog:9773"
         }
     ]
 }
