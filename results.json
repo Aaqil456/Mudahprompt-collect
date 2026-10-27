@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-27T14:06:28.863965",
+    "timestamp": "2026-10-27T19:55:08.562153",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -34976,6 +34976,56 @@
             "date": "2026-10-27T09:53:32+00:00",
             "message_id": 9778,
             "message_key": "@testingcatalog:9778"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT can now connect to iCloud Calendar and Mail on the web, desktop, and iOS! \n\nA long-awaited feature \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT dah boleh sambung ke iCloud Calendar dan Mail di web, desktop, dan iOS!\n\nCiri yang dah lama dinanti-nantikan \ud83d\udc40",
+            "date": "2026-10-27T19:23:21+00:00",
+            "message_id": 9787,
+            "message_key": "@testingcatalog:9787"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: MAI Cyber 1.1 Flash is now available on MDASH.\n\n> \"MAI Cyber 1.1 Flash advances vulnerability discovery, delivering performance comparable to MAI Cyber 1 Flash while costing 18% less per scan in an internal MDASH vulnerability-scanning evaluation suite.\"\n\nCyber needs more solutions \ud83d\udc40",
+            "translated_text": "MICROSOFT \ud83d\udd25: MAI Cyber 1.1 Flash dah boleh didapati di MDASH.\n\n> \"MAI Cyber 1.1 Flash memajukan penemuan kelemahan, memberikan prestasi setanding dengan MAI Cyber 1 Flash sambil mengurangkan kos sebanyak 18% bagi setiap imbasan dalam suite penilaian pengimbasan kelemahan MDASH yang dijalankan secara dalaman.\"\n\nDunia siber perlukan lebih banyak penyelesaian \ud83d\udc40",
+            "date": "2026-10-27T17:11:55+00:00",
+            "message_id": 9786,
+            "message_key": "@testingcatalog:9786"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MICROSOFT \ud83d\udd25: MAI Image 2.7 Preview, a new image-editing model, is now available on Arena and MAI Playground! \n\n> MAI-Image-2.7-Preview takes #2 on AA-Image-Editing v2.1 from Artificial Analysis. \n\n> It is now #3 on Image Editing Arena with a +45-point jump from 2.6.\n\nBesides that, MAI-Image-2.6 and MAI-Image-2.6-Flash are now generally available in Microsoft Foundry.",
+            "translated_text": "MICROSOFT \ud83d\udd25: MAI Image 2.7 Preview, model penyuntingan imej baharu, dah boleh didapati di Arena dan MAI Playground!\n\n> MAI-Image-2.7-Preview menduduki tempat #2 dalam AA-Image-Editing v2.1 dari Artificial Analysis.\n\n> Sekarang ia berada di tempat #3 dalam Image Editing Arena dengan lonjakan +45 mata dari 2.6.\n\nSelain itu, MAI-Image-2.6 dan MAI-Image-2.6-Flash dah boleh digunakan secara umum di Microsoft Foundry.",
+            "date": "2026-10-27T16:42:49+00:00",
+            "message_id": 9785,
+            "message_key": "@testingcatalog:9785"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Genie 4 has been officially announced! Genie 4 is Google's latest World Model, with advanced realism and interactivity! \n\nUsers can now prompt changes to the world dynamically and generate worlds with native audio. \n\nIt is rolling out to Trusted Testers as a research preview and will soon come to Google AI Ultra subscribers and early access partners via the Gemini API and AI Studio. \n\nA sample from Sundar Pichai \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Genie 4 dah diumumkan secara rasmi! Genie 4 ni adalah World Model terbaru Google, dengan realisme dan interaktiviti yang lebih canggih!\n\nPengguna sekarang boleh minta perubahan pada dunia secara dinamik dan hasilkan dunia dengan audio asli.\n\nIa sedang dilancarkan kepada Trusted Testers sebagai pratonton penyelidikan dan tak lama lagi akan sampai kepada pelanggan Google AI Ultra serta rakan kongsi akses awal melalui Gemini API dan AI Studio.\n\nContoh dari Sundar Pichai \ud83d\udc40",
+            "date": "2026-10-27T16:26:47+00:00",
+            "message_id": 9784,
+            "message_key": "@testingcatalog:9784"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-27T16:10:39+00:00",
+            "message_id": 9783,
+            "message_key": "@testingcatalog:9783"
         }
     ]
 }
