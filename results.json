@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-28T18:03:19.849497",
+    "timestamp": "2026-10-28T22:30:43.968000",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35156,6 +35156,56 @@
             "date": "2026-10-28T16:01:22+00:00",
             "message_id": 9799,
             "message_key": "@testingcatalog:9799"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Voice mode on Perplexity for Mac and web now uses the gpt-live-1 model from OpenAI. \n\nUsers can now run multiple sessions on Perplexity Computer and manage tasks and Projects. \n\nVoice is my favorite interface \ud83d\udc40",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Mod suara pada Perplexity untuk Mac dan web kini menggunakan model gpt-live-1 dari OpenAI.\n\nPengguna kini boleh menjalankan beberapa sesi pada Perplexity Computer serta menguruskan tugasan dan Projek.\n\nAntara muka suara ni memang kegemaran saya \ud83d\udc40",
+            "date": "2026-10-28T21:51:32+00:00",
+            "message_id": 9809,
+            "message_key": "@testingcatalog:9809"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google unveils Gemini 4 Carbon for cyber defenders**](https://www.testingcatalog.com/google-unveils-gemini-4-carbon-for-cyber-defenders/)\n\nGoogle introduced Gemini 4 Carbon, its top model for cybersecurity and long-horizon tasks. It leads key benchmarks, shows strong coding and patching results, and begins a limited rollout before wider release after guardrail testing.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google memperkenalkan Gemini 4 Carbon untuk pakar pertahanan siber**](https://www.testingcatalog.com/google-unveils-gemini-4-carbon-for-cyber-defenders/)\n\nGoogle telah memperkenalkan Gemini 4 Carbon, model utamanya untuk keselamatan siber dan tugasan jangka panjang. Ia menunjukkan prestasi terbaik dalam penanda aras utama, hasil pengekodan dan penampalan yang kukuh, serta memulakan pelancaran terhad sebelum dikeluarkan secara meluas selepas ujian keselamatan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-28T20:48:48+00:00",
+            "message_id": 9808,
+            "message_key": "@testingcatalog:9808"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-28T19:45:26+00:00",
+            "message_id": 9807,
+            "message_key": "@testingcatalog:9807"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "We either should expect one more big model this year from Google or [redacted]!",
+            "translated_text": "Kita mungkin boleh jangkakan satu lagi model besar tahun ini dari Google atau [redacted]!",
+            "date": "2026-10-28T19:45:26+00:00",
+            "message_id": 9806,
+            "message_key": "@testingcatalog:9806"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Pro users in the US now can message their Dots via iMessage or RCS. \n\nI hope that it will get into WhatsApp and Telegram at some point as well!\n\nIn any case, not soon \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Pengguna Pro di AS kini boleh menghantar mesej kepada Dots mereka melalui iMessage atau RCS.\n\nSaya harap ia akan masuk ke WhatsApp dan Telegram pada satu masa nanti juga!\n\nApa-apa pun, bukan dalam masa terdekat \ud83d\udc40",
+            "date": "2026-10-28T19:28:06+00:00",
+            "message_id": 9805,
+            "message_key": "@testingcatalog:9805"
         }
     ]
 }
