@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-27T23:35:52.818117",
+    "timestamp": "2026-10-28T04:36:12.004464",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35036,6 +35036,36 @@
             "date": "2026-10-27T23:10:15+00:00",
             "message_id": 9789,
             "message_key": "@testingcatalog:9789"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Notebook on mobile can now record up to 1 hour of live audio!\n\n> Captured audio can be used as a source for the Notebook afterward.\n\nIt seems to be rolling out gradually. \n\nLive Notebook \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Notebook di telefon bimbit kini boleh merakam audio secara langsung sehingga 1 jam!\n\n> Audio yang dirakam boleh digunakan sebagai sumber untuk Notebook itu nanti.\n\nNampaknya ia sedang dilancarkan secara berperingkat.\n\nLive Notebook \ud83d\udc40",
+            "date": "2026-10-28T00:05:55+00:00",
+            "message_id": 9792,
+            "message_key": "@testingcatalog:9792"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-27T23:47:25+00:00",
+            "message_id": 9791,
+            "message_key": "@testingcatalog:9791"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "X got a Share Photo feature! \ud83d\udd25\n\n\u201cLong press it and tap Post photo. The original author gets credit, and you both earn from Original Content Rewards.\u201d\n\nSo far, only Share Video was available and now there is less need to re upload images as well.",
+            "translated_text": "X dah ada ciri Kongsi Foto! \ud83d\udd25\n\n\"Tekan lama dan ketik Hantar foto. Penulis asal akan diberi kredit, dan anda berdua akan dapat ganjaran dari Ganjaran Kandungan Asal.\"\n\nSebelum ni, cuma Kongsi Video je yang ada, dan sekarang tak perlu lagi nak muat naik semula gambar.",
+            "date": "2026-10-27T23:47:25+00:00",
+            "message_id": 9790,
+            "message_key": "@testingcatalog:9790"
         }
     ]
 }
