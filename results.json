@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-28T04:36:12.004464",
+    "timestamp": "2026-10-28T11:04:11.727142",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35066,6 +35066,46 @@
             "date": "2026-10-27T23:47:25+00:00",
             "message_id": 9790,
             "message_key": "@testingcatalog:9790"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 28\n\nGOOGLE \ud83d\udd25:\n- Google DeepMind announced Genie 4, its most realistic interactive world model with natural-language steering and native audio, rolling out first to Trusted Testers before Google AI Ultra and Gemini API access.\n- Gemini Robotics ER 2 is now in public preview on Google Cloud for enterprise robotics deployments.\n- Gemini Notebook on mobile can now record up to an hour of live audio and use it as a source.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic shared early results from drug-development research partnerships with six organizations using Claude.\n- Anthropic is letting all US Claude Max subscribers off the Claude Duet waitlist this week, with US Pro users next in line and no timeline yet for access outside the US.\n\nOPENAI \ud83d\udd25:\n- ChatGPT added iCloud Mail and Calendar plugins on all plans across web, desktop and iOS.\n- Codex CLI 0.165.0 adds a built-in Google Cloud Vertex AI provider and GPT-6.1 Terra in the model catalog.\n\nMICROSOFT \ud83d\udd25:\n- MAI-Image-2.7-Preview launched as Microsoft AI's new image-editing model, debuting at #3 on Arena Edit and #2 on AA-Image-Editing.\n- MAI-Image-2.6 and MAI-Image-2.6-Flash are now generally available in Microsoft Foundry.\n- MAI Cyber 1.1 Flash is live on MDASH, matching MAI Cyber 1 Flash at 18% lower cost per scan.\n- GitHub Copilot now supports server-to-server authentication for GitHub Apps in public preview, ahead of GitHub Universe opening today.\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot now supports Memory Import to bring over preferences and context from another AI assistant.\n- Cursor Design Mode gained Annotate for editing elements, drawing on the page and reviewing designs at different screen sizes.\n\nMETA \ud83d\udd25:\n- Muse is now available in Singapore on iOS, Android and web.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA and Meta are expanding their collaboration on Muse models, with broader Vera Rubin deployments planned at Meta.\n- Vera Rubin NVL72 and Vera CPUs are now generally available on Oracle Cloud, with OCI Superclusters scaling to multi-gigawatt size.\n\nARTIFICIAL ANALYSIS \ud83d\udd25:\n- Intelligence Index v5 launched with new mostly private benchmarks, putting Claude Opus 5.5 on top at 58.\n\nLIQUID AI \ud83d\udd25:\n- Liquid AI released LFM3, an open-weight family of six 2B-class text, vision, audio and omni models on a new tri-hybrid architecture.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 28 Okt\n\nGOOGLE \ud83d\udd25:\n- Google DeepMind umumkan Genie 4, model dunia interaktif paling realistik mereka dengan kawalan bahasa semula jadi dan audio asli. Ia akan dilancarkan kepada Trusted Testers dahulu sebelum akses Google AI Ultra dan Gemini API.\n- Gemini Robotics ER 2 kini dalam pratonton awam di Google Cloud untuk penggunaan robotik perusahaan.\n- Gemini Notebook di telefon bimbit kini boleh merekod sehingga sejam audio langsung dan menggunakannya sebagai sumber.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic kongsi hasil awal daripada kerjasama penyelidikan pembangunan ubat dengan enam organisasi yang menggunakan Claude.\n- Anthropic akan membenarkan semua pelanggan Claude Max di AS keluar dari senarai menunggu Claude Duet minggu ini, dengan pengguna US Pro seterusnya dalam barisan. Tiada garis masa lagi untuk akses di luar AS.\n\nOPENAI \ud83d\udd25:\n- ChatGPT tambah plugin iCloud Mail dan Calendar untuk semua pelan di web, desktop dan iOS.\n- Codex CLI 0.165.0 menambah penyedia Google Cloud Vertex AI terbina dalam dan GPT-6.1 Terra dalam katalog model.\n\nMICROSOFT \ud83d\udd25:\n- MAI-Image-2.7-Preview dilancarkan sebagai model penyuntingan imej baharu Microsoft AI, membuat penampilan sulung di #3 di Arena Edit dan #2 di AA-Image-Editing.\n- MAI-Image-2.6 dan MAI-Image-2.6-Flash kini tersedia secara umum di Microsoft Foundry.\n- MAI Cyber 1.1 Flash kini aktif di MDASH, setanding dengan MAI Cyber 1 Flash dengan kos 18% lebih rendah setiap imbasan.\n- GitHub Copilot kini menyokong pengesahan server-to-server untuk GitHub Apps dalam pratonton awam, menjelang pembukaan GitHub Universe hari ini.\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot kini menyokong Memory Import untuk membawa masuk pilihan dan konteks dari pembantu AI lain.\n- Cursor Design Mode kini ada fungsi Annotate untuk menyunting elemen, melukis pada halaman dan menyemak reka bentuk pada saiz skrin yang berbeza.\n\nMETA \ud83d\udd25:\n- Muse kini tersedia di Singapura untuk iOS, Android dan web.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA dan Meta sedang memperluaskan kerjasama mereka dalam model Muse, dengan perancangan penggunaan Vera Rubin yang lebih meluas di Meta.\n- Vera Rubin NVL72 dan Vera CPUs kini tersedia secara umum di Oracle Cloud, dengan OCI Superclusters berskala sehingga saiz multi-gigawatt.\n\nARTIFICIAL ANALYSIS \ud83d\udd25:\n- Intelligence Index v5 dilancarkan dengan penanda aras baharu yang kebanyakannya peribadi, meletakkan Claude Opus 5.5 di kedudukan teratas dengan skor 58.\n\nLIQUID AI \ud83d\udd25:\n- Liquid AI keluarkan LFM3, satu keluarga model sumber terbuka dengan enam model kelas 2B untuk teks, penglihatan, audio dan omni, berdasarkan seni bina tri-hibrid baharu.",
+            "date": "2026-10-28T09:27:14+00:00",
+            "message_id": 9796,
+            "message_key": "@testingcatalog:9796"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-28T09:12:26+00:00",
+            "message_id": 9795,
+            "message_key": "@testingcatalog:9795"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Duet is rolling out to Claude Max users in US with Pro US users coming next in line.\n\nBroader expansion beyond US is planned too, yet there is no timeline.\n\nExpect that EU users may have to wait for even longer.\n\nNot soon \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Duet sedang dilancarkan kepada pengguna Claude Max di AS, dan pengguna Pro US akan menyusul.\nPengembangan yang lebih luas di luar AS juga dirancang, tapi tiada garis masa lagi.\nJangkaan pengguna EU mungkin perlu tunggu lebih lama lagi.\nBukan dalam masa terdekat \ud83d\udc40",
+            "date": "2026-10-28T09:12:26+00:00",
+            "message_id": 9794,
+            "message_key": "@testingcatalog:9794"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Artificial Analysis Intelligence Index v5 is now live!\n\n> It includes 2 new benchmarks and 3 upgrades, and most of the Index is built on private datasets. \n\n> New benchmarks include FrontierCode 2.0 from Cognition and Terminal-Bench-Science. \n\n> Claude Opus 5.5 (max) leads at 58, ahead of GPT-6 Astra (max, 57) and GPT-6.1 Sol (max, 55): Anthropic and OpenAI hold the top five models. Gemini 4 Argon (high) is next at 50. \n\nClaude Code still remains in the lead (no surprise here), while we have quite an accurate distribution for the rest.",
+            "translated_text": "Artificial Analysis Intelligence Index v5 dah pun dilancarkan!\n\nIa merangkumi 2 penanda aras baru dan 3 naik taraf, dan kebanyakan Indeks ini dibina berdasarkan set data peribadi.\n\nPenanda aras baru termasuk FrontierCode 2.0 dari Cognition dan Terminal-Bench-Science.\n\nClaude Opus 5.5 (max) mendahului dengan 58 mata, mengatasi GPT-6 Astra (max, 57) dan GPT-6.1 Sol (max, 55): Anthropic dan OpenAI menguasai lima model teratas. Gemini 4 Argon (high) menyusul dengan 50 mata.\n\nClaude Code masih kekal di hadapan (tak mengejutkan pun), manakala kami ada agihan yang agak tepat untuk yang lain.",
+            "date": "2026-10-28T08:10:36+00:00",
+            "message_id": 9793,
+            "message_key": "@testingcatalog:9793"
         }
     ]
 }
