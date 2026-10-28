@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-28T11:04:11.727142",
+    "timestamp": "2026-10-28T18:03:19.849497",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35106,6 +35106,56 @@
             "date": "2026-10-28T08:10:36+00:00",
             "message_id": 9793,
             "message_key": "@testingcatalog:9793"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-28T17:59:32+00:00",
+            "message_id": 9803,
+            "message_key": "@testingcatalog:9803"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 4 Carbon (High) landed in the 1st spot on Text Arena with 1528 pts. \n\n> It ranked #2 in Agent Arena, behind Opus 5.5, and #4 in Web Dev Arena, behind Claude Opus 5.5, GPT-6 Astra, and Sonnet 5.5. \n\n> Gemini 4 Carbon is in a new Pareto Frontier on Agent Arena as well!\n\nThe Artificial Analysis V5 score is 59 \ud83d\udc40",
+            "translated_text": "",
+            "date": "2026-10-28T17:59:31+00:00",
+            "message_id": 9802,
+            "message_key": "@testingcatalog:9802"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-28T17:28:59+00:00",
+            "message_id": 9801,
+            "message_key": "@testingcatalog:9801"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Google announced Gemini 4 Carbon, a new SOTA model that takes the top spot on Artificial Analysis V5 ranking!\n\nGemini 4 Carbon is rolling out to cyber defenders first.\nIt shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching\n\nIt needs testing! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Google mengumumkan Gemini 4 Carbon, model SOTA baharu yang menduduki tempat teratas dalam ranking Artificial Analysis V5!\n\nGemini 4 Carbon sedang dilancarkan kepada pembela siber terlebih dahulu.\nIa menunjukkan peningkatan ketara dalam tugas pengekodan dan agen, serta dalam keupayaan utama yang penting untuk pertahanan keselamatan siber, mendahului dengan kukuh dalam SEC-bench Pro (88.2%) untuk mencari kelemahan, ExploitGym (54.8%) untuk eksploitasi, dan CWE-bench (71.0%) untuk penampalan.\n\nIa perlu diuji! \ud83d\udc40",
+            "date": "2026-10-28T17:28:59+00:00",
+            "message_id": 9800,
+            "message_key": "@testingcatalog:9800"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-28T16:01:22+00:00",
+            "message_id": 9799,
+            "message_key": "@testingcatalog:9799"
         }
     ]
 }
