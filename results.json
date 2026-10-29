@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-29T02:12:51.874907",
+    "timestamp": "2026-10-29T16:42:25.445729",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35256,6 +35256,26 @@
             "date": "2026-10-28T22:49:54+00:00",
             "message_id": 9812,
             "message_key": "@testingcatalog:9812"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Mistral opens Large 4 weights for coding and security**](https://www.testingcatalog.com/mistral-opens-large-4-weights-for-coding-and-security/)\n\nMistral open-sourced Mistral Large 4, a 1T-parameter multimodal model tuned for coding, cybersecurity and enterprise agents, with stronger reasoning, lower token use, open-weight licensing and self-hosting on European-built infrastructure.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "translated_text": "[**Mistral Buka Akses Model Large 4 untuk Pengekodan dan Keselamatan**](https://www.testingcatalog.com/mistral-opens-large-4-weights-for-coding-and-security/)\n\nMistral telah menjadikan Mistral Large 4, sebuah model multimodal dengan 1 trilion parameter, sebagai sumber terbuka. Model ini dioptimumkan untuk pengekodan, keselamatan siber, dan ejen perusahaan, dengan keupayaan penaakulan yang lebih kuat, penggunaan token yang lebih rendah, lesen yang membenarkan parameter modelnya diakses secara terbuka, dan boleh dihoskan sendiri pada infrastruktur yang dibina di Eropah.\n\n\ud83d\uddde #mistral @testingcatalog",
+            "date": "2026-10-29T15:47:14+00:00",
+            "message_id": 9820,
+            "message_key": "@testingcatalog:9820"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MISTRAL \ud83d\udd25: Le Chonk (Mistral Large 4) is now available on HuggingFace! \n\n> \"The new model also features substantial gains in reasoning efficiency that give developers greater performance while lowering inference costs.\"\n\n> \"Mistral Large 4 ranks as the best open-weight model for coding and among the world's most capable open models overall.\"\n\nIt now takes the top spot on Cognition's FrontierCode benchmark among open models!\n\nWe need new Mistral Small now \ud83d\udc40",
+            "translated_text": "MISTRAL \ud83d\udd25: Le Chonk (Mistral Large 4) dah boleh didapati di HuggingFace!\n\n> \"Model baru ni juga ada peningkatan ketara dalam kecekapan penaakulan yang bagi pemaju prestasi lebih baik sambil kurangkan kos inferens.\"\n\n> \"Mistral Large 4 ni dikira model open-weight terbaik untuk coding dan antara model terbuka paling berkemampuan di dunia secara keseluruhan.\"\n\nSekarang ni dia dah ambil tempat teratas dalam penanda aras FrontierCode Cognition antara model terbuka!\n\nKita perlukan Mistral Small baru sekarang \ud83d\udc40",
+            "date": "2026-10-29T14:28:44+00:00",
+            "message_id": 9819,
+            "message_key": "@testingcatalog:9819"
         }
     ]
 }
