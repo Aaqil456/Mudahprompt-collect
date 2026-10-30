@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-29T21:36:51.646639",
+    "timestamp": "2026-10-30T01:39:06.991510",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35306,6 +35306,26 @@
             "date": "2026-10-29T18:13:00+00:00",
             "message_id": 9821,
             "message_key": "@testingcatalog:9821"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-30T00:16:51+00:00",
+            "message_id": 9825,
+            "message_key": "@testingcatalog:9825"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google killed Jules AI agent \ud83d\udc80\n\nIts planned functionalities are about to arrive to Antigravity instead.\n\n\u201cWe\u2019re working on bringing our learnings from Jules into Antigravity so you get the best of both worlds: autonomous remote background task execution and an agent-first development environment.\u201d\n\nAntigravity already has some traces of a new \u201cChief of Staff\u201d agent spotted earlier.\n\nI feel like it  was unfortunate that Jules v2 got planned at a moment when AI super apps emerged and Google had to fight back with Codex.\n\nMonitoring \ud83d\udc40",
+            "translated_text": "Google dah 'bunuh' ejen AI Jules \ud83d\udc80\n\nFungsi-fungsi yang dirancang untuk Jules tu akan tiba di Antigravity pula.\n\n\u201cKami sedang usahakan untuk bawa semua pembelajaran dari Jules ke Antigravity supaya anda dapat yang terbaik dari kedua-duanya: pelaksanaan tugas latar belakang jarak jauh secara autonomi dan persekitaran pembangunan yang mengutamakan ejen.\u201d\n\nAntigravity sendiri dah ada beberapa kesan ejen \u201cChief of Staff\u201d baru yang dikesan sebelum ni.\n\nSaya rasa agak malang bila Jules v2 dirancang pada masa aplikasi super AI mula muncul dan Google terpaksa lawan balik dengan Codex.\n\nMemantau \ud83d\udc40",
+            "date": "2026-10-30T00:16:51+00:00",
+            "message_id": 9824,
+            "message_key": "@testingcatalog:9824"
         }
     ]
 }
