@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-30T01:39:06.991510",
+    "timestamp": "2026-10-30T15:40:05.911575",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35326,6 +35326,46 @@
             "date": "2026-10-30T00:16:51+00:00",
             "message_id": 9824,
             "message_key": "@testingcatalog:9824"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Seems like Antigravity also shows some signs of an upcoming UI redesign. \n\nA possibility of running \u201cCloud\u201d sessions is being in the works too!\n\nGoogle Drive file access is also coming into a dropdown on the prompt bar. \n\nSpot the difference \ud83d\udc40",
+            "translated_text": "Macam Antigravity pun dah nampak tanda-tanda UI dia nak dirombak baru.\n\nAda kemungkinan untuk adakan sesi \"Cloud\" pun sedang dalam perancangan juga!\n\nAkses fail Google Drive pun akan muncul sebagai pilihan drop-down dekat bar prompt.\n\nCuba cari beza dia \ud83d\udc40",
+            "date": "2026-10-30T11:42:09+00:00",
+            "message_id": 9829,
+            "message_key": "@testingcatalog:9829"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Antigravity is about to get a new tab for \u201cRunning\u201d background tasks in settings. \n\nFollowing an announcement of Jules shutdown, advanced scheduled runs are expected to arrive there too.",
+            "translated_text": "Antigravity akan dapat tab baru untuk 'Running' tugasan latar belakang dalam tetapan. Berikutan pengumuman penutupan Jules, tugasan berjadual lanjutan dijangka akan tiba di sana juga.",
+            "date": "2026-10-30T11:38:48+00:00",
+            "message_id": 9828,
+            "message_key": "@testingcatalog:9828"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Just realised that Grok Bot has voice and voice language settings! \n\nYou literally can assign a different voice to different Bot as well as make them speak different languages (via voice). Seems like it is already available. \n\nGood for learning languages \ud83d\udc40",
+            "translated_text": "Baru perasan yang Grok Bot ada tetapan suara dan bahasa suara!\nKita betul-betul boleh tetapkan suara yang berbeza untuk Bot yang berbeza, dan juga buatkan mereka bercakap dalam bahasa yang berbeza (melalui suara).\nNampak gayanya, fungsi ni dah tersedia.\nBagus untuk belajar bahasa \ud83d\udc40",
+            "date": "2026-10-30T11:34:22+00:00",
+            "message_id": 9827,
+            "message_key": "@testingcatalog:9827"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 30\n\nGOOGLE \ud83d\udd25:\n- Google is shutting down Jules and moving its features into Antigravity.\n- Antigravity launched a Plugins marketplace with Jira, Notion, Stripe and Figma.\n- Gemini can now create and edit docs, PDFs, slides and sheets.\n- Gemini lets users share personal avatars for images and videos.\n- Gemini Notebook added hundreds of free textbooks.\n- AI Studio now supports XR Blocks for vibe-coding XR apps.\n\nOPENAI \ud83d\udd25:\n- OpenAI doubled usage limits for Pro and Business Premium.\n- Expanded frontier monitoring caught a model reaching the live internet in September.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic shared a self-assessment technique for safer Claude responses.\n- Claude mobile added multi-account sign-in, CarPlay and 24 new languages.\n- Anthropic expanded its AI for Science program to foundations and institutions.\n\nSPACEXSI \ud83d\udd25:\n- Elon Musk says the delayed Grok 4.8 \"will not be a disappointment,\" targeting usefulness over benchmarks.\n\nMISTRAL \ud83d\udd25:\n- Mistral released Mistral Large 4 open weights, now #1 open model on FrontierCode.\n\nMICROSOFT \ud83d\udd25:\n- Copilot added 25+ finance skills and plugins.\n- Office apps come to the Copilot app in mid-November.\n\nMETA \ud83d\udd25:\n- Meta quietly launched Style Sketch, an AI fashion app, in three Southeast Asian countries.\n\nMOONSHOT \ud83d\udd25:\n- Kimi launched 3D Make for Blender and CAD modeling.\n\nCOHERE \ud83d\udd25:\n- Cohere closed the first part of a Series E at a CAD $35.7B valuation.\n\nCANVA \ud83d\udd25:\n- Canva launched Brush, its own design vision-language model.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 30 Okt\n\nGOOGLE \ud83d\udd25:\n- Google akan tutup Jules dan pindahkan ciri-cirinya ke Antigravity.\n- Antigravity lancarkan pasaran Plugin dengan Jira, Notion, Stripe, dan Figma.\n- Gemini kini boleh cipta dan edit dokumen, PDF, slaid, dan helaian.\n- Gemini benarkan pengguna kongsi avatar peribadi untuk imej dan video.\n- Gemini Notebook tambah ratusan buku teks percuma.\n- AI Studio kini sokong XR Blocks untuk pembangunan aplikasi XR.\n\nOPENAI \ud83d\udd25:\n- OpenAI gandakan had penggunaan untuk Pro dan Business Premium.\n- Pemantauan sempadan yang diperluas kesan satu model yang mencapai internet secara langsung pada September.\n\nANTHROPIC \ud83d\udd25:\n- Anthropic kongsi teknik penilaian kendiri untuk respons Claude yang lebih selamat.\n- Claude mobile tambah log masuk berbilang akaun, CarPlay, dan 24 bahasa baharu.\n- Anthropic luaskan program AI untuk Sains kepada yayasan dan institusi.\n\nSPACEXSI \ud83d\udd25:\n- Elon Musk kata Grok 4.8 yang tertangguh \"tidak akan mengecewakan,\" fokus pada kegunaan berbanding penanda aras.\n\nMISTRAL \ud83d\udd25:\n- Mistral keluarkan Mistral Large 4 open weights, kini model terbuka #1 di FrontierCode.\n\nMICROSOFT \ud83d\udd25:\n- Copilot tambah lebih 25 kemahiran kewangan dan plugin.\n- Aplikasi Office akan datang ke aplikasi Copilot pada pertengahan November.\n\nMETA \ud83d\udd25:\n- Meta senyap-senyap lancarkan Style Sketch, aplikasi fesyen AI, di tiga negara Asia Tenggara.\n\nMOONSHOT \ud83d\udd25:\n- Kimi lancarkan 3D Make untuk Blender dan pemodelan CAD.\n\nCOHERE \ud83d\udd25:\n- Cohere tutup bahagian pertama Siri E pada penilaian CAD $35.7 bilion.\n\nCANVA \ud83d\udd25:\n- Canva lancarkan Brush, model bahasa-penglihatan rekaannya sendiri.",
+            "date": "2026-10-30T09:22:41+00:00",
+            "message_id": 9826,
+            "message_key": "@testingcatalog:9826"
         }
     ]
 }
