@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-31T13:24:58.656064",
+    "timestamp": "2026-10-31T18:18:52.791045",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35456,6 +35456,46 @@
             "date": "2026-10-31T08:14:41+00:00",
             "message_id": 9836,
             "message_key": "@testingcatalog:9836"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-10-31T17:58:31+00:00",
+            "message_id": 9842,
+            "message_key": "@testingcatalog:9842"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Hermes mobile app is now available for beta testing on both iOS and Android. \n\nTESTING TIME! \ud83d\udd25",
+            "translated_text": "Aplikasi mudah alih Hermes dah boleh dicuba untuk ujian beta di iOS dan Android. Jom uji sekarang! \ud83d\udd25",
+            "date": "2026-10-31T17:58:30+00:00",
+            "message_id": 9841,
+            "message_key": "@testingcatalog:9841"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Antigravity is getting a new notice.\n\n> \"AI coding agents are known to have certain security limitations. Users should be aware of potential risks, including data exfiltration and possible code execution. Avoid processing highly sensitive data and verify all the actions taken by the agent.\"\n\nA new agent next week? \ud83e\udd16",
+            "translated_text": "Antigravity mendapat notis baru.\n\n> \"Agen pengekodan AI diketahui ada batasan keselamatan tertentu. Pengguna perlu peka dengan risiko yang mungkin ada, termasuk pengekstrakan data dan kemungkinan pelaksanaan kod. Elakkan memproses data yang sangat sensitif dan sahkan semua tindakan yang diambil oleh agen itu.\"\n\nAda agen baru minggu depan? \ud83e\udd16",
+            "date": "2026-10-31T16:23:00+00:00",
+            "message_id": 9840,
+            "message_key": "@testingcatalog:9840"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Antigravity may get Cloud execution support next week. \n\nUsers will be able to switch between local and cloud environments for task execution. \n\nThis follows an earlier announcement that the Jules AI agent is being discontinued, and Google said its functionality will move to Antigravity. \n\nA separate announcement has teased \"big releases for Antigravity\" next week; however, it is still unclear whether the earlier-spotted \"Chief of Stuff\" agent will be announced. \n\nJulegravity \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Antigravity mungkin akan dapat sokongan pelaksanaan Cloud minggu depan.\nPengguna nanti boleh tukar-tukar antara persekitaran tempatan (local) dan awan (cloud) untuk jalankan tugas.\nIni menyusuli pengumuman sebelum ini yang ejen AI Jules akan dihentikan, dan Google cakap fungsi dia akan dipindahkan ke Antigravity.\nAda satu lagi pengumuman berasingan yang dah bagi bayangan \"pelancaran besar untuk Antigravity\" minggu depan; tapi, masih tak jelas lagi sama ada ejen \"Chief of Stuff\" yang pernah dikesan sebelum ni akan diumumkan.\nJulegravity \ud83d\udc40",
+            "date": "2026-10-31T14:12:52+00:00",
+            "message_id": 9839,
+            "message_key": "@testingcatalog:9839"
         }
     ]
 }
