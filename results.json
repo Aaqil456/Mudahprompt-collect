@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-30T20:30:29.725755",
+    "timestamp": "2026-10-31T00:31:02.883637",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35396,6 +35396,36 @@
             "date": "2026-10-30T17:16:42+00:00",
             "message_id": 9830,
             "message_key": "@testingcatalog:9830"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: The first stable Grok Bot version is now available! Besides this, SpaceXSI is working on the Tasks hub and texting support!\n\n> Grok Bot will get a dedicated tab where users can see all running sessions when it works on several things at once. \n\n> There will be a new setting tab named \"texting\", suggesting that we may get iMessage and RCS support too. \n\nAnd some other things \ud83d\udc40",
+            "translated_text": "SPACEXSI \ud83d\udd25: Versi Grok Bot stabil yang pertama dah boleh guna sekarang! Selain tu, SpaceXSI tengah usahakan 'Tasks hub' dengan sokongan untuk fungsi mesej!\n\n> Grok Bot akan ada tab khas tempat pengguna boleh tengok semua sesi yang sedang berjalan bila ia buat banyak benda serentak.\n\n> Akan ada tab tetapan baru nama dia \"texting\", menunjukkan yang kita mungkin akan dapat sokongan iMessage dengan RCS jugak.\n\nDan ada beberapa benda lain lagi \ud83d\udc40",
+            "date": "2026-10-30T23:31:52+00:00",
+            "message_id": 9835,
+            "message_key": "@testingcatalog:9835"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**SpaceXSI prepares Texting and Tasks hub support for Grok Bot**](https://www.testingcatalog.com/spacexsi-prepares-texting-and-tasks-hub-support-for-grok-bot/)\n\nSpaceX AI is nearing the launch of Grok Bot 1.0.0, its first stable version. New code points to Teams, Tasks, texting, and possible Discord support, while the downloadable build is already available ahead of an official rollout.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**SpaceXSI bersedia dengan sokongan hab untuk fungsi mesej dan tugasan bagi Grok Bot**](https://www.testingcatalog.com/spacexsi-prepares-texting-and-tasks-hub-support-for-grok-bot/)\n\nSpaceX AI makin hampir melancarkan Grok Bot 1.0.0, iaitu versi stabil pertamanya. Kod baharu menunjukkan sokongan untuk Teams, Tasks, fungsi mesej, dan mungkin juga Discord, manakala versi yang boleh dimuat turun sudah tersedia sebelum pelancaran rasmi.\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-10-30T23:23:41+00:00",
+            "message_id": 9834,
+            "message_key": "@testingcatalog:9834"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "I see a lot of confusion around the new Claude Ultra plan concerning the new 10x usage. \n\nWorth clarifying \ud83d\udc40\n\nClaude Max 20x (old plan)\n- 5-hour session allowance - 20x Pro\n- Weekly allowance - 10x Pro\n\nClaude Ultra (new plan)\n- 5-hour session allowance - N/A\n- Weekly allowance - 10x Pro",
+            "translated_text": "Nampak macam ramai yang keliru pasal pelan Claude Ultra yang baru ni, terutamanya tentang penggunaan 10x.\n\nBaik kita jelaskan \ud83d\udc40\n\nClaude Max 20x (pelan lama)\n- Had penggunaan sesi 5 jam - 20x Pro\n- Had penggunaan mingguan - 10x Pro\n\nClaude Ultra (pelan baru)\n- Had penggunaan sesi 5 jam - N/A\n- Had penggunaan mingguan - 10x Pro",
+            "date": "2026-10-30T20:46:01+00:00",
+            "message_id": 9833,
+            "message_key": "@testingcatalog:9833"
         }
     ]
 }
