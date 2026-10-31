@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-31T00:31:02.883637",
+    "timestamp": "2026-10-31T13:24:58.656064",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35426,6 +35426,36 @@
             "date": "2026-10-30T20:46:01+00:00",
             "message_id": 9833,
             "message_key": "@testingcatalog:9833"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Cloud execution is coming to Antigravity soon**](https://www.testingcatalog.com/cloud-execution-is-coming-to-antigravity-soon/)\n\nGoogle will retire Jules on Dec. 31, 2026 and appears to be moving its cloud coding features into Antigravity. New build findings point to running jobs, Drive attachments, and local or cloud execution options.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Pelaksanaan awan akan datang ke Antigravity tak lama lagi**](https://www.testingcatalog.com/cloud-execution-is-coming-to-antigravity-soon/)\n\nGoogle akan menghentikan Jules pada 31 Disember 2026 dan nampaknya sedang memindahkan ciri pengekodan awannya ke Antigravity. Penemuan binaan baharu menunjukkan kepada tugas yang sedang berjalan, lampiran Drive, dan pilihan pelaksanaan tempatan atau awan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-10-31T11:49:55+00:00",
+            "message_id": 9838,
+            "message_key": "@testingcatalog:9838"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Oct 31\n\nGOOGLE \ud83d\udd25:\n- Antigravity is now available in Android Studio.\n- Antigravity is testing a Running tab for background tasks (via testingcatalog).\n- Varun Mohan teased a big week of Antigravity launches.\n- GPT models appeared in Google Cloud quotas, hinting they may come to Antigravity (via AiBattle_).\n- Google's Omni Flash 1.2 was spotted with 1080p and 4K output, frame interpolation and extend (via chetaslua).\n- Project Suncatcher prompted a TPU in orbit and got a haiku back.\n\nANTHROPIC \ud83d\udd25:\n- Max 5x is now Max ($100) and Max 20x is now Ultra ($200), with no 5-hour limit on verified Ultra.\n- Anthropic used thousands of Claude agents to automate subtle misalignment red-teaming.\n- The Claude API max request size rose from 32 MB to 128 MB.\n- Claude Code got a server-side rule restricting rewrites of existing video games (via chasmmmmmmmmmmm).\n\nOPENAI \ud83d\udd25:\n- The Agents API added Auto Review and async compaction.\n- OpenAI, Google, Microsoft and Anthropic will honor a shared robots.txt AI-training opt-out.\n- ChatGPT and Codex will share one usage limit starting in December (via btibor91).\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot 1.0, the first stable build, is out for download.\n- Grok Bot is preparing a Tasks hub and texting support (via testingcatalog).\n- Grok Bot added per-bot voice and voice-language settings.\n\nAMAZON \ud83d\udd25:\n- AWS grew 39% to $46B in Q3, its fastest growth in nearly five years.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity Computer can now control Chrome from the Mac and Windows apps.\n- Computer can now share a session when you ask it to.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA open-sourced RE-USE, a 9.6M-parameter speech-cleanup model.\n\nCOHERE \ud83d\udd25:\n- Cohere will invest over C$4B in Canada and add 1,500+ jobs by 2031.\n\nPIKA \ud83d\udd25:\n- Pika released H3 Flex, an open-weight video model.\n\nGRANOLA \ud83d\udd25:\n- Granola added free, unlimited voice typing in any app.\n\nIDEOGRAM \ud83d\udd25:\n- Ideogram added context-window edits up to 2K in high-res images.",
+            "translated_text": "Ringkasan AI Harian \ud83d\uddde \u2014 31 Okt\n\nGOOGLE \ud83d\udd25:\n- Antigravity kini dah boleh guna dalam Android Studio.\n- Antigravity sedang uji tab 'Running' untuk tugasan latar belakang (melalui testingcatalog).\n- Varun Mohan membayangkan minggu pelancaran Antigravity yang besar.\n- Model GPT muncul dalam kuota Google Cloud, memberi bayangan ia mungkin akan datang ke Antigravity (melalui AiBattle_).\n- Omni Flash 1.2 dari Google dikesan dengan output 1080p dan 4K, interpolasi bingkai dan fungsi 'extend' (melalui chetaslua).\n- Projek Suncatcher meminta TPU di orbit dan mendapat balasan haiku.\n\nANTHROPIC \ud83d\udd25:\n- Max 5x kini dikenali sebagai Max ($100) dan Max 20x pula Ultra ($200), tanpa had 5 jam untuk Ultra yang disahkan.\n- Anthropic guna ribuan ejen Claude untuk automatikkan 'red-teaming' bagi isu ketidakselarasan kecil.\n- Saiz permintaan maksimum API Claude meningkat dari 32 MB ke 128 MB.\n- Claude Code mendapat peraturan di sisi pelayan yang menyekat penulisan semula permainan video sedia ada (melalui chasmmmmmmmmmmm).\n\nOPENAI \ud83d\udd25:\n- API Agents dah tambah Auto Review dan 'async compaction'.\n- OpenAI, Google, Microsoft dan Anthropic akan mematuhi 'robots.txt' yang dikongsi untuk pilihan keluar latihan AI.\n- ChatGPT dan Codex akan berkongsi satu had penggunaan bermula Disember (melalui btibor91).\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot 1.0, versi stabil yang pertama, dah boleh dimuat turun.\n- Grok Bot sedang sediakan hab 'Tasks' dan sokongan pemesejan (melalui testingcatalog).\n- Grok Bot dah tambah tetapan suara dan bahasa suara untuk setiap bot.\n\nAMAZON \ud83d\udd25:\n- AWS berkembang 39% kepada $46 bilion pada suku ketiga, pertumbuhan terpantasnya dalam hampir lima tahun.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity Computer kini boleh kawal Chrome dari aplikasi Mac dan Windows.\n- Computer kini boleh kongsi sesi bila kita minta.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA dah sumber terbuka RE-USE, model pembersihan pertuturan dengan 9.6 juta parameter.\n\nCOHERE \ud83d\udd25:\n- Cohere akan melabur lebih C$4 bilion di Kanada dan tambah lebih 1,500 pekerjaan menjelang 2031.\n\nPIKA \ud83d\udd25:\n- Pika dah keluarkan H3 Flex, model video 'open-weight'.\n\nGRANOLA \ud83d\udd25:\n- Granola dah tambah penaipan suara percuma tanpa had dalam mana-mana aplikasi.\n\nIDEOGRAM \ud83d\udd25:\n- Ideogram dah tambah suntingan 'context-window' sehingga 2K dalam imej resolusi tinggi.",
+            "date": "2026-10-31T08:58:45+00:00",
+            "message_id": 9837,
+            "message_key": "@testingcatalog:9837"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: gpt-6-astra-law is now listed on the API pricing page. There, it is referenced as \"Legal model configuration\".\n\n> Pricing: input $10, Output $50, Cached input $1. \n\n> \"GPT-6 Astra for Law promotional pricing is available at least through December 31, 2026.\" \n\nAstra in law \u2696\ufe0f",
+            "translated_text": "OPENAI \ud83d\udd25: gpt-6-astra-law kini dah disenaraikan dekat halaman harga API. Kat situ, ia dirujuk sebagai \"Legal model configuration\".\n\n> Harga: input $10, Output $50, Cached input $1.\n\n> \"Harga promosi GPT-6 Astra for Law akan tersedia sekurang-kurangnya sehingga 31 Disember 2026.\"\n\nAstra dalam undang-undang \u2696\ufe0f",
+            "date": "2026-10-31T08:14:41+00:00",
+            "message_id": 9836,
+            "message_key": "@testingcatalog:9836"
         }
     ]
 }
