@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-01T15:56:30.247261",
+    "timestamp": "2026-11-01T20:19:25.095967",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35536,6 +35536,26 @@
             "date": "2026-11-01T13:31:15+00:00",
             "message_id": 9844,
             "message_key": "@testingcatalog:9844"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Notebook may add a new \"Comic\" artifact type, letting users generate AI comics from their sources. \n\n> \"Add a high-level outline, or guide the characters, tone, and focus: Create a lighthearted comic explaining key concepts for beginners.\"\n\nEducation will never be the same \ud83d\udc40\nh/t @Thomasguka",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Notebook mungkin akan tambah jenis artifak baru \"Komik\", membolehkan pengguna hasilkan komik AI dari sumber mereka.\n\n> \"Tambah garis besar utama, atau pandu watak, nada, dan fokus: Cipta komik santai yang terangkan konsep penting untuk pemula.\"\n\nPendidikan takkan sama lagi \ud83d\udc40\nh/t @Thomasguka",
+            "date": "2026-11-01T16:40:19+00:00",
+            "message_id": 9848,
+            "message_key": "@testingcatalog:9848"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google testing Comic Artifacts for Gemini Notebook**](https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/)\n\nGoogle is developing Comics for Gemini Notebook, a beta artifact that could turn uploaded sources into illustrated stories with style, language, and layout options, though launch timing and features remain unclear.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang uji Comic Artifacts untuk Gemini Notebook**](https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/)\n\nGoogle sedang bangunkan Comics untuk Gemini Notebook, satu artifak beta yang boleh tukar sumber yang dimuat naik jadi cerita bergambar dengan pilihan gaya, bahasa, dan susun atur. Tapi, masa pelancaran dan ciri-cirinya masih belum jelas lagi.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-01T16:30:46+00:00",
+            "message_id": 9847,
+            "message_key": "@testingcatalog:9847"
         }
     ]
 }
