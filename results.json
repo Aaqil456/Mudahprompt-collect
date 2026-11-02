@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-02T00:22:26.103442",
+    "timestamp": "2026-11-02T17:56:55.808233",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35566,6 +35566,26 @@
             "date": "2026-11-01T20:45:27+00:00",
             "message_id": 9849,
             "message_key": "@testingcatalog:9849"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Meituan released LongCat-2.5, its new multimodal model with 1.6T total parameters and 49B active.\n\nLongCat-2.5\u2019s compares with GPT-5.5, GPT-5.6-Sol, Claude-Opus-4.8, and Claude-Opus-5 and is now available on the APIs.",
+            "translated_text": "Meituan telah melancarkan LongCat-2.5, model multimodal baharu mereka dengan jumlah 1.6 trilion parameter dan 49 bilion yang aktif.\n\nLongCat-2.5 setanding dengan GPT-5.5, GPT-5.6-Sol, Claude-Opus-4.8, dan Claude-Opus-5, dan kini boleh didapati melalui API.",
+            "date": "2026-11-02T15:59:56+00:00",
+            "message_id": 9852,
+            "message_key": "@testingcatalog:9852"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**GPT-6.2 Astra appears in Codex usage ahead of possible launch**](https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/)\n\nCodex analytics show gpt-6.2-astra handling some traffic on October 31, pointing to an A/B test or staged rollout. OpenAI has not confirmed it, but server traces and test outputs suggest a public launch may be near.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**GPT-6.2 Astra dikesan dalam penggunaan Codex, mungkin akan dilancarkan tak lama lagi**](https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage/)\n\nAnalisis Codex menunjukkan gpt-6.2-astra mengendalikan sebahagian trafik pada 31 Oktober, menandakan ia mungkin ujian A/B atau pelancaran berperingkat. OpenAI belum mengesahkannya, tapi jejak pelayan dan hasil ujian membayangkan pelancaran awam mungkin sudah dekat.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-11-02T11:14:37+00:00",
+            "message_id": 9851,
+            "message_key": "@testingcatalog:9851"
         }
     ]
 }
