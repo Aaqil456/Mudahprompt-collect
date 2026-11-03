@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-03T07:41:48.912566",
+    "timestamp": "2026-11-03T21:36:13.372477",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35626,6 +35626,36 @@
             "date": "2026-11-03T00:52:38+00:00",
             "message_id": 9856,
             "message_key": "@testingcatalog:9856"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI is rolling out ChatGPT Voice for the ChatGPT Finance feature. \n\nUsers can now chat about spending, savings, and anything finance-related on the go.\n\n * ChatGPT Finance is only available in the US",
+            "translated_text": "OpenAI sedang melancarkan ChatGPT Voice untuk ciri ChatGPT Finance.\n\nPengguna kini boleh berbual tentang perbelanjaan, simpanan, dan apa-apa sahaja yang berkaitan kewangan di mana sahaja.\n\n* ChatGPT Finance hanya tersedia di AS",
+            "date": "2026-11-03T21:16:50+00:00",
+            "message_id": 9860,
+            "message_key": "@testingcatalog:9860"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ClickUp starts rolling out Browser Use support on Brain**](https://www.testingcatalog.com/clickup-starts-rolling-out-browser-use-support-on-brain/)\n\nClickUp is rolling out browser use for Brain, letting it open sites, navigate pages, fill forms, and fetch files beyond native integrations, with live session views, user login handoff, and full action logs and recordings.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**ClickUp mula memperkenalkan sokongan penggunaan pelayar pada Brain**](https://www.testingcatalog.com/clickup-starts-rolling-out-browser-use-support-on-brain/)\n\nClickUp sedang melancarkan penggunaan pelayar untuk Brain, membolehkannya membuka laman web, melayari halaman, mengisi borang, dan mengambil fail melebihi integrasi sedia ada, dengan paparan sesi langsung, penyerahan log masuk pengguna, serta log tindakan dan rakaman penuh.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-11-03T20:48:18+00:00",
+            "message_id": 9859,
+            "message_key": "@testingcatalog:9859"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude will be able to auto-connect to plugins that accept Claude as a trusted issuer. \n\nLess re-authorisation makes agents much more efficient to use. \n\nNow we need Duet released broadly \ud83d\udc40",
+            "translated_text": "Claude akan dapat sambung secara automatik ke plugin yang menerima Claude sebagai penerbit yang dipercayai.\nKurang perlu kebenaran semula menjadikan ejen lebih cekap untuk digunakan.\nSekarang kita perlukan Duet dilancarkan secara meluas \ud83d\udc40",
+            "date": "2026-11-03T18:30:30+00:00",
+            "message_id": 9858,
+            "message_key": "@testingcatalog:9858"
         }
     ]
 }
