@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-04T01:58:16.081120",
+    "timestamp": "2026-11-04T08:56:56.937554",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35676,6 +35676,16 @@
             "date": "2026-11-03T21:58:23+00:00",
             "message_id": 9861,
             "message_key": "@testingcatalog:9861"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Tencent released Hy4, its new flagship model with performance among the top open models on benchmarks. \n\nHy4 is now available on Tencent Cloud, OpenRouter, CodeBuddy, WorkBuddy, and Hy AI Studio. Open weights are coming soon. \n\n> \"Tencent plans to open-source Hy4\u2019s model weights and have partnered with the vLLM (Inferact Inc.) and SGLang communities to provide ecosystem support. \n\n> \"When we release the weights, we will also publish a comprehensive system card detailing our safety evaluations and additional technical details.\"",
+            "translated_text": "Tencent dah lancarkan Hy4, model utama baharu mereka yang prestasinya antara yang terbaik dalam kalangan model terbuka berdasarkan penanda aras.\n\nHy4 kini boleh didapati di Tencent Cloud, OpenRouter, CodeBuddy, WorkBuddy, dan Hy AI Studio. Berat model terbuka akan dikeluarkan tak lama lagi.\n\n> \"Tencent bercadang untuk menjadikan berat model Hy4 sebagai sumber terbuka dan telah bekerjasama dengan komuniti vLLM (Inferact Inc.) serta SGLang untuk menyediakan sokongan ekosistem.\n\n> \"Bila kami keluarkan berat model itu nanti, kami juga akan menerbitkan kad sistem yang komprehensif, memperincikan penilaian keselamatan kami dan butiran teknikal tambahan.\"",
+            "date": "2026-11-04T07:45:04+00:00",
+            "message_id": 9863,
+            "message_key": "@testingcatalog:9863"
         }
     ]
 }
