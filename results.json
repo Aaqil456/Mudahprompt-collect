@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-04T16:58:24.080552",
+    "timestamp": "2026-11-04T22:31:26.564475",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35726,6 +35726,56 @@
             "date": "2026-11-04T10:51:11+00:00",
             "message_id": 9865,
             "message_key": "@testingcatalog:9865"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-04T21:40:16+00:00",
+            "message_id": 9877,
+            "message_key": "@testingcatalog:9877"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Conductor \u2764\ufe0f Meta\n\nConductor, a platform for running local and cloud coding agents, joined Meta.\n\n\u201cWe have some big, crazy plans for the next interface. If you liked Conductor, you\u2019re gonna love what\u2019s coming. We\u2019ll have something new for you to use early next year.\u201d\n\nMeta is getting its own coding super app?\n\nEarly next year \ud83d\udc40",
+            "translated_text": "Conductor \u2764\ufe0f Meta\n\nConductor, sebuah platform untuk menjalankan ejen pengekodan tempatan dan awan, telah menyertai Meta.\n\n\u201cKami ada beberapa rancangan besar dan gila untuk antaramuka seterusnya. Kalau anda suka Conductor, anda pasti akan suka apa yang akan datang. Kami akan ada sesuatu yang baharu untuk anda guna awal tahun depan.\u201d\n\nMeta akan dapat aplikasi super pengekodan sendiri?\n\nAwal tahun depan \ud83d\udc40",
+            "date": "2026-11-04T21:40:16+00:00",
+            "message_id": 9876,
+            "message_key": "@testingcatalog:9876"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic added a new /storage command to Claude desktop, allowing users to see how much space Claude actually uses. \n\nThere, users can also clear inactive tasks and unused worktrees.",
+            "translated_text": "Anthropic dah tambah arahan baru /storage pada Claude desktop, membolehkan pengguna tengok berapa banyak ruang yang Claude guna sebenarnya.\n\nDi situ, pengguna juga boleh kosongkan tugas yang tak aktif dan worktrees yang tak digunakan.",
+            "date": "2026-11-04T21:33:48+00:00",
+            "message_id": 9875,
+            "message_key": "@testingcatalog:9875"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: The latest Antigravity update (v2.29.0) is getting Voice Mode, Remote Agents, and browser updates, according to the changelog. \n\n> \"Voice mode, powered by Gemini Live, lets you talk to Antigravity and hand requests to the agent by voice. Start it from the button in an empty message box. Voice mode is rolling out gradually, so you may not see it yet.\"\n\n> \"Remote agents are starting to roll out to Google AI Ultra and Pro subscribers. Conversations in a cloud project run in the cloud instead of on your computer.\"\n\n* New versions roll out gradually and may take a few days to reach all users.\n\nDid you get it already? \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Kemas kini Antigravity terbaru (v2.29.0) akan menerima Mod Suara, Ejen Jauh, dan kemas kini pelayar, menurut log perubahan.\n\n> \"Mod Suara, yang dikuasakan oleh Gemini Live, membolehkan anda bercakap dengan Antigravity dan menyerahkan permintaan kepada ejen melalui suara. Mulakannya dari butang dalam kotak mesej kosong. Mod Suara sedang dilancarkan secara berperingkat, jadi anda mungkin belum melihatnya lagi.\"\n\n> \"Ejen jauh mula dilancarkan kepada pelanggan Google AI Ultra dan Pro. Perbualan dalam projek awan berjalan di awan dan bukannya di komputer anda.\"\n\n* Versi baharu dilancarkan secara berperingkat dan mungkin mengambil masa beberapa hari untuk sampai kepada semua pengguna.\n\nAnda dah dapat ke? \ud83d\udc40",
+            "date": "2026-11-04T21:14:01+00:00",
+            "message_id": 9874,
+            "message_key": "@testingcatalog:9874"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-04T20:32:00+00:00",
+            "message_id": 9873,
+            "message_key": "@testingcatalog:9873"
         }
     ]
 }
