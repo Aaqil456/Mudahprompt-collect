@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-04T22:31:26.564475",
+    "timestamp": "2026-11-05T03:17:31.512422",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35776,6 +35776,56 @@
             "date": "2026-11-04T20:32:00+00:00",
             "message_id": 9873,
             "message_key": "@testingcatalog:9873"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches Images 2.6 with GIFs and image reference**](https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/)\n\nOpenAI launched Images 2.6 across ChatGPT and Codex, with Flare and Sunburst in the API. The release delivers 50% faster image generation, GIF creation, reusable references, markup, SVG export, and detail control.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI lancarkan Images 2.6 dengan GIF dan rujukan imej**](https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/)\n\nOpenAI telah melancarkan Images 2.6 di ChatGPT dan Codex, bersama Flare dan Sunburst dalam API. Versi ini menawarkan penjanaan imej 50% lebih pantas, penciptaan GIF, rujukan yang boleh diguna semula, markup, eksport SVG, dan kawalan perincian.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-11-05T00:44:25+00:00",
+            "message_id": 9882,
+            "message_key": "@testingcatalog:9882"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "AI news every day \ud83d\udc40\n\n* Made with the new ChatGPT Images 2.6 for testing purposes.",
+            "translated_text": "Berita AI setiap hari \ud83d\udc40\n\n* Dibuat dengan ChatGPT Images 2.6 yang baru untuk tujuan ujian.",
+            "date": "2026-11-05T00:30:40+00:00",
+            "message_id": 9881,
+            "message_key": "@testingcatalog:9881"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OpenAI released GPT\u2011Image\u20112.6 Flare and Sunburst image models on APIs and ChatGPT!\n\n> \"ChatGPT Images 2.6 now supports GIF generation and reference images.\"\n\n> \"Images 2.6 generates images 50% faster than before.\"\n\nImages 2.6 is available globally today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web.\n\nImages 2.6 pricing for image-to-image and text-to-image - $8/$5 input, $30 output",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OpenAI dah keluarkan model imej GPT\u2011Image\u20112.6 Flare dan Sunburst dekat API dan ChatGPT!\n\n> \"ChatGPT Images 2.6 sekarang dah boleh sokong penjanaan GIF dan imej rujukan.\"\n\n> \"Images 2.6 hasilkan imej 50% lebih pantas dari sebelum ni.\"\n\nImages 2.6 dah tersedia di seluruh dunia hari ni dalam ChatGPT dan Codex untuk semua peringkat langganan dekat desktop, mudah alih, dan web.\n\nHarga Images 2.6 untuk imej-ke-imej dan teks-ke-imej - input $8/$5, output $30.",
+            "date": "2026-11-04T23:48:16+00:00",
+            "message_id": 9880,
+            "message_key": "@testingcatalog:9880"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-04T23:38:34+00:00",
+            "message_id": 9879,
+            "message_key": "@testingcatalog:9879"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: GPT-6.2 Astra and GPT-6.2 Sol have been spotted on the Google Cloud Console quotas page!\n\nThey are indeed coming soon! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: GPT-6.2 Astra dan GPT-6.2 Sol dah dikesan dekat halaman kuota Google Cloud Console!\n\nMemang betul-betul akan datang tak lama lagi ni! \ud83d\udc40",
+            "date": "2026-11-04T23:38:34+00:00",
+            "message_id": 9878,
+            "message_key": "@testingcatalog:9878"
         }
     ]
 }
