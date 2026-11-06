@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-05T19:51:31.778030",
+    "timestamp": "2026-11-06T00:53:23.703127",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35876,6 +35876,56 @@
             "date": "2026-11-05T17:13:43+00:00",
             "message_id": 9888,
             "message_key": "@testingcatalog:9888"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches GPT-6 Cyber for Daybreak Red customers**](https://www.testingcatalog.com/openai-launches-gpt-6-cyber-for-daybreak-red-customers/)\n\nOpenAI launched GPT\u20116 Cyber for approved Daybreak Red users, pairing stronger vulnerability discovery and exploit validation with strict scope controls, monitoring and safeguards. Early results show major gains in kernel, web and Firefox research.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI lancarkan GPT-6 Cyber untuk pelanggan Daybreak Red**](https://www.testingcatalog.com/openai-lunches-gpt-6-cyber-for-daybreak-red-customers/)\n\nOpenAI dah lancarkan GPT-6 Cyber untuk pengguna Daybreak Red yang diluluskan. Ia menggabungkan penemuan kelemahan dan pengesahan eksploitasi yang lebih kuat, bersama kawalan skop yang ketat, pemantauan, dan perlindungan. Keputusan awal menunjukkan peningkatan besar dalam penyelidikan kernel, web, dan Firefox.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-11-05T22:50:40+00:00",
+            "message_id": 9898,
+            "message_key": "@testingcatalog:9898"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Claude adds Personal Finance with read-only bank access**](https://www.testingcatalog.com/claude-adds-personal-finance-with-read-only-bank-access/)\n\nAnthropic is rolling out Claude Personal Finance in US beta for Pro, Max, and Ultra users. It uses read-only Plaid-linked account data to answer spending questions, flag unusual charges, and track bills without ads or financial products.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Claude kini ada Kewangan Peribadi dengan akses bank baca-sahaja**](https://www.testingcatalog.com/claude-adds-personal-finance-with-read-only-bank-access/)\n\nAnthropic sedang melancarkan Claude Personal Finance dalam versi beta di AS untuk pengguna Pro, Max, dan Ultra. Ia menggunakan data akaun baca-sahaja yang disambungkan ke Plaid untuk menjawab soalan perbelanjaan, mengenal pasti caj yang luar biasa, dan menjejaki bil tanpa iklan atau produk kewangan.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-11-05T22:45:33+00:00",
+            "message_id": 9897,
+            "message_key": "@testingcatalog:9897"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta rolls out Muse voice and expressive avatars in the US**](https://www.testingcatalog.com/meta-rolls-out-muse-voice-and-expressive-avatars-in-the-us/)\n\nMeta is bringing Muse voice conversations and expressive avatars to mobile, web and Mac. The rollout starts in the US, with real-time spoken replies, interrupt support, background task handling, and voice or avatar display options.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta Perkenalkan Suara Muse dan Avatar Ekspresif di AS**](https://www.testingcatalog.com/meta-rolls-out-muse-voice-and-expressive-avatars-in-the-us/)\n\nMeta membawakan perbualan suara Muse dan avatar ekspresif ke peranti mudah alih, web, dan Mac. Pelancaran ini bermula di AS, dengan balasan lisan masa nyata, sokongan gangguan, pengendalian tugas latar belakang, dan pilihan paparan suara atau avatar.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-11-05T22:43:39+00:00",
+            "message_id": 9896,
+            "message_key": "@testingcatalog:9896"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse Voice and expressive avatars are rolling out for Muse users in the US.  \n\n> Voice helps users think out loud, making tasks like brainstorming, trip planning, and interview prep easier.\n\n> Your Muse\u2019s avatar reacts as it listens and speaks, with expressions and gestures that match the conversation.\n\nAdditionally, Muse is rolling out in Mexico \ud83c\uddf2\ud83c\uddfd",
+            "translated_text": "META \ud83d\udd25: Muse Voice dan avatar ekspresif sedang dilancarkan untuk pengguna Muse di AS.\n\n> Voice membantu pengguna meluahkan fikiran, menjadikan tugas seperti sumbang saran, perancangan perjalanan, dan persediaan temu duga lebih mudah.\n\n> Avatar Muse anda bertindak balas semasa ia mendengar dan bercakap, dengan ekspresi dan gerak isyarat yang sepadan dengan perbualan.\n\nSelain itu, Muse juga sedang dilancarkan di Mexico \ud83c\uddf2\ud83c\uddfd",
+            "date": "2026-11-05T22:25:55+00:00",
+            "message_id": 9895,
+            "message_key": "@testingcatalog:9895"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-05T21:28:30+00:00",
+            "message_id": 9894,
+            "message_key": "@testingcatalog:9894"
         }
     ]
 }
