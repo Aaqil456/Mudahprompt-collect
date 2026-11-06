@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-06T15:45:27.527458",
+    "timestamp": "2026-11-06T21:21:45.845847",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -35966,6 +35966,46 @@
             "date": "2026-11-06T11:47:52+00:00",
             "message_id": 9900,
             "message_key": "@testingcatalog:9900"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-06T20:47:07+00:00",
+            "message_id": 9908,
+            "message_key": "@testingcatalog:9908"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Claude for iOS is getting another layout redesign with Chats, Projects and Code being separate tabs on a side nav bar. \n\nOther options like Dispatch or Personal Finance got moved into the profile menu.\n\nI feel like a bottom nav was better \ud83d\udc40",
+            "translated_text": "Claude untuk iOS akan dapat reka bentuk susun atur baru lagi, dengan Chats, Projects dan Code jadi tab berasingan dekat bar navigasi sisi.\n\nPilihan lain macam Dispatch atau Personal Finance dah dipindahkan ke menu profil.\n\nSaya rasa bar navigasi bawah lagi bagus \ud83d\udc40",
+            "date": "2026-11-06T20:47:07+00:00",
+            "message_id": 9907,
+            "message_key": "@testingcatalog:9907"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse now has Spaces!\n\nUsers can ask Muse to generate an interactive page on a specific topic or visualize certain data. \n\nThese spaces work like interactive artifacts powered by data from sources Muse can access. \n\nI've asked it to create a space for \"testing\" and got an interactive playground. I think that Meta should now find a way to make these spaces shareable; that would be big. \n\nTesting time! \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Muse sekarang ada Spaces!\n\nPengguna boleh minta Muse hasilkan satu halaman interaktif tentang topik tertentu atau paparkan data tertentu.\n\nSpaces ini berfungsi macam artifak interaktif yang dikuasakan oleh data dari sumber yang Muse boleh akses.\n\nSaya dah minta dia cipta satu space untuk \"testing\" dan dapat satu 'playground' interaktif. Saya rasa Meta patut cari jalan sekarang untuk jadikan spaces ni boleh dikongsi; itu mesti besar.\n\nMasa untuk uji! \ud83d\udc40",
+            "date": "2026-11-06T19:39:34+00:00",
+            "message_id": 9906,
+            "message_key": "@testingcatalog:9906"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: Muse and Meta AI apps now run on new specialized models trained with Muse Wonder. \n\nBoth Active Memory and Active Focus, introduced in Muse Wonder, are now available in Muse and Meta AI.\n\nThe Personal Superintelligence Index is up 9%, and Active Memory Eval is up 14%.",
+            "translated_text": "META \ud83d\udd25: Aplikasi Muse dan Meta AI kini menggunakan model khusus baharu yang dilatih dengan Muse Wonder.\n\nKedua-dua Active Memory dan Active Focus, yang diperkenalkan dalam Muse Wonder, kini tersedia dalam Muse dan Meta AI.\n\nPersonal Superintelligence Index naik 9%, dan Active Memory Eval naik 14%.",
+            "date": "2026-11-06T18:54:40+00:00",
+            "message_id": 9904,
+            "message_key": "@testingcatalog:9904"
         }
     ]
 }
