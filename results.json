@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-07T01:42:07.952160",
+    "timestamp": "2026-11-07T15:31:41.271944",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36016,6 +36016,56 @@
             "date": "2026-11-06T23:34:08+00:00",
             "message_id": 9909,
             "message_key": "@testingcatalog:9909"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udd25: Mistral Studio got a big upgrade this week. Users can now build and host AI apps and improve them based on real usage.\n\n> Connect your systems - Connectors, Knowledge, Search Index, Secrets Manager: set up once, reuse them across every project.\n> Build agents, workflows and apps - Agents for reasoning, workflows for deterministic steps, apps for addressing use cases.\n> Deploy with one command - Studio runs them in production, with durable execution, scaling and recovery.\n> Improve from real usage - Every run leaves a trace. Turn traces into evaluations and improve the next.",
+            "translated_text": "Kalau terlepas pandang \ud83d\udd25: Mistral Studio dah dapat *upgrade* besar minggu ni. Pengguna sekarang boleh bina dan *host* aplikasi AI serta perbaikinya berdasarkan penggunaan sebenar.\n\n> Sambungkan sistem anda - Penyambung, Pengetahuan, Indeks Carian, Pengurus Rahsia: sediakan sekali, guna semula untuk setiap projek.\n> Bina ejen, aliran kerja dan aplikasi - Ejen untuk penaakulan, aliran kerja untuk langkah-langkah yang pasti, aplikasi untuk menangani kes penggunaan.\n> *Deploy* dengan satu arahan - Studio menjalankannya dalam produksi, dengan pelaksanaan yang tahan lama, penskalaan dan pemulihan.\n> Perbaiki berdasarkan penggunaan sebenar - Setiap larian meninggalkan jejak. Tukarkan jejak kepada penilaian dan perbaiki yang seterusnya.",
+            "date": "2026-11-07T13:56:19+00:00",
+            "message_id": 9914,
+            "message_key": "@testingcatalog:9914"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceXSI is preparing to roll out Slack integration for Grok Bot.\n\nUsers will be able to connect their bots to Slack individually and trigger them from Slack as well. \n\n> \"You can DM or @ mention X Marketer in Slack. It\u2019ll respond with the same plugins, context, and memories it uses here.\"\n\nThis feature should arrive in the 1.1.0 build for macOS.",
+            "translated_text": "SpaceXSI sedang bersedia untuk melancarkan integrasi Slack untuk Grok Bot.\n\nPengguna akan dapat sambungkan bot mereka ke Slack secara individu dan aktifkan ia dari Slack juga.\n\n> \"Anda boleh DM atau @ sebut X Marketer dalam Slack. Ia akan membalas dengan plugin, konteks, dan memori yang sama seperti yang digunakannya di sini.\"\n\nCiri ini dijangka tiba dalam binaan 1.1.0 untuk macOS.",
+            "date": "2026-11-07T13:51:15+00:00",
+            "message_id": 9913,
+            "message_key": "@testingcatalog:9913"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "> A project-level overview showing scheduled tasks and threads.\n\nClaude Code Project improvements have been a focus for Anthropic for a while. \n\nThe upcoming collaborative experience seems similar to ChatGPT Spaces. Perplexity is working on a similar feature as well.",
+            "translated_text": "Ringkasan projek yang menunjukkan tugasan dan benang yang dijadualkan.\n\nPenambahbaikan untuk Claude Code Project dah lama jadi tumpuan Anthropic.\n\nPengalaman kolaboratif yang akan datang tu nampak macam sama dengan ChatGPT Spaces. Perplexity pun sedang usahakan ciri yang serupa juga.",
+            "date": "2026-11-07T13:45:02+00:00",
+            "message_id": 9912,
+            "message_key": "@testingcatalog:9912"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic is working on a collaborative mode for Claude Code Projects. \n\n> Recent activity on the Projects page summarises the latest threads. \n\n> \"We don't have multiplayer yet,\" shared Lydia Hallie from Anthropic yesterday. \n\nYet \ud83d\udc40",
+            "translated_text": "Anthropic sedang membangunkan mod kolaboratif untuk Claude Code Projects.\nAktiviti terkini di halaman Projects meringkaskan perbincangan terbaru.\n\"Kami belum ada mod multiplayer lagi,\" kongsi Lydia Hallie dari Anthropic semalam.\nTapi \ud83d\udc40",
+            "date": "2026-11-07T13:44:43+00:00",
+            "message_id": 9911,
+            "message_key": "@testingcatalog:9911"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 7\n\nOPENAI \ud83d\udd25:\n- Bloomberg reports OpenAI has raised $11B so far in a round valuing the company at $1.25T.\n- ChatGPT Remix is rolling out to Business and Enterprise so teams can fork a colleague\u2019s site and keep editing it in chat.\n\nANTHROPIC \ud83d\udd25:\n- Claude Code cloud sessions on Pro, Max, and Ultra now figure out dependencies, network access, and API keys on their own.\n- Claude Duet can check running Claude Code sessions, approve changes, and send updates from your phone.\n- Claude for iOS is testing a side-nav redesign with separate Chats, Projects, and Code tabs.\n\nMETA \ud83d\udd25:\n- Muse Spaces let users generate interactive, updatable pages from chat and pin them in the app.\n- Muse and Meta AI now run specialized models with Active Memory and Active Focus from Muse Wonder.\n\nSPACEXSI \ud83d\udd25:\n- Grok API text watermarking turns on by default today for listed Grok 4.x models, with team opt-out in Console.\n\nALIBABA \ud83d\udd25:\n- Qwen posted a \u201cThe becoming begins\u201d teaser, with Qwen4-Max, Flash, Plus, and 27B expected soon.\n\nNOUS RESEARCH \ud83d\udd25:\n- Nous Research released Arete-27B, a Qwen3.8-27B post-train aimed at Western values.",
+            "translated_text": "DAILY AI BRIEF \ud83d\uddde \u2014 7 Nov\n\nOPENAI \ud83d\udd25:\n- Bloomberg melaporkan OpenAI telah mengumpul $11 bilion setakat ini dalam pusingan yang menilai syarikat itu pada $1.25 trilion.\n- ChatGPT Remix sedang dilancarkan untuk pengguna Business dan Enterprise supaya pasukan boleh menyalin laman rakan sekerja dan terus mengeditnya dalam sembang.\n\nANTHROPIC \ud83d\udd25:\n- Sesi awan Claude Code pada Pro, Max, dan Ultra kini boleh mengenal pasti kebergantungan, akses rangkaian, dan kunci API dengan sendirinya.\n- Claude Duet boleh menyemak sesi Claude Code yang sedang berjalan, meluluskan perubahan, dan menghantar kemas kini dari telefon anda.\n- Claude untuk iOS sedang menguji reka bentuk semula navigasi sisi dengan tab Chats, Projects, dan Code yang berasingan.\n\nMETA \ud83d\udd25:\n- Muse Spaces membolehkan pengguna menjana halaman interaktif yang boleh dikemas kini dari sembang dan menyematkannya dalam aplikasi.\n- Muse dan Meta AI kini menjalankan model khusus dengan Active Memory dan Active Focus dari Muse Wonder.\n\nSPACEXSI \ud83d\udd25:\n- Penanda air teks Grok API dihidupkan secara lalai hari ini untuk model Grok 4.x yang disenaraikan, dengan pilihan untuk pasukan menarik diri dalam Console.\n\nALIBABA \ud83d\udd25:\n- Qwen telah menyiarkan teaser \u201cThe becoming begins\u201d, dengan Qwen4-Max, Flash, Plus, dan 27B dijangka akan datang tidak lama lagi.\n\nNOUS RESEARCH \ud83d\udd25:\n- Nous Research telah mengeluarkan Arete-27B, sebuah model Qwen3.8-27B pasca-latihan yang disasarkan kepada nilai-nilai Barat.",
+            "date": "2026-11-07T09:27:25+00:00",
+            "message_id": 9910,
+            "message_key": "@testingcatalog:9910"
         }
     ]
 }
