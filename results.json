@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-09T09:20:16.134951",
+    "timestamp": "2026-11-09T20:31:24.577732",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36106,6 +36106,56 @@
             "date": "2026-11-09T08:59:09+00:00",
             "message_id": 9918,
             "message_key": "@testingcatalog:9918"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Anthropic officially announced Claude Fable 5.2 and Mythos 5.2 models. \n\nBoth models are powered by the same underlying model with different set of safeguards. \n\nThese models are 30% faster and 20% cheaper than 5.1 series!\n\nCoding performance! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Anthropic dah umumkan secara rasmi model Claude Fable 5.2 dan Mythos 5.2.\nKedua-dua model ni dikuasakan oleh model asas yang sama, tapi dengan set perlindungan yang berlainan.\nModel-model ni 30% lebih pantas dan 20% lebih murah berbanding siri 5.1!\nPrestasi pengekodan! \ud83d\udc40",
+            "date": "2026-11-09T19:05:03+00:00",
+            "message_id": 9927,
+            "message_key": "@testingcatalog:9927"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-09T18:46:50+00:00",
+            "message_id": 9926,
+            "message_key": "@testingcatalog:9926"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Claude Fable 5.2 and Claude Mythos 5.2 have been spotted on the AWS Bedrock Pricing page. \n\n> Pricing: input $8 per 1M tokens, output $40 per 1M tokens. \n\nEarlier traces pointed to version 5.5 instead of 5.2. Will it be a smaller-than-expected upgrade?",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Claude Fable 5.2 dan Claude Mythos 5.2 telah dikesan di halaman harga AWS Bedrock.\n\nHarga: input $8 untuk setiap 1 juta token, output $40 untuk setiap 1 juta token.\n\nSebelum ini ada petunjuk yang menunjukkan versi 5.5 dan bukannya 5.2. Adakah ini akan jadi peningkatan yang lebih kecil daripada jangkaan?",
+            "date": "2026-11-09T18:46:50+00:00",
+            "message_id": 9925,
+            "message_key": "@testingcatalog:9925"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "META \ud83d\udd25: A new Muse Ember model from Meta is now available on the Meta Model API and Muse Code.\n\nMuse Ember is a small, low-cost model that performs on par with Claude 5.5 Haiku. \n\nSmall testing time \ud83d\udc40",
+            "translated_text": "META \ud83d\udd25: Model Muse Ember baharu dari Meta kini tersedia di Meta Model API dan Muse Code.\nMuse Ember ni model kecil, kos pun rendah, dan prestasinya setanding dengan Claude 5.5 Haiku.\nMasa ujian yang singkat \ud83d\udc40",
+            "date": "2026-11-09T18:02:27+00:00",
+            "message_id": 9924,
+            "message_key": "@testingcatalog:9924"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Users can now build AI apps powered by a wide range of Google Maps features, including 3D buildings, Street View, Weather, and others, with simple prompts. \n\nGoogle AI Maps Studio \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Pengguna kini boleh bina aplikasi AI yang dikuasakan oleh pelbagai ciri Google Maps, termasuk bangunan 3D, Street View, Cuaca, dan lain-lain, dengan arahan mudah.\n\nGoogle AI Maps Studio \ud83d\udc40",
+            "date": "2026-11-09T17:47:29+00:00",
+            "message_id": 9923,
+            "message_key": "@testingcatalog:9923"
         }
     ]
 }
