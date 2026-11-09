@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-08T21:48:28.101309",
+    "timestamp": "2026-11-09T09:20:16.134951",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36096,6 +36096,16 @@
             "date": "2026-11-08T20:47:36+00:00",
             "message_id": 9917,
             "message_key": "@testingcatalog:9917"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 9\n\nOPENAI \ud83d\udd25:\n- Dots can now pull sign-in codes from a connected inbox and fill them to log in for you.\n- Faro and Tonada, two Argentinian Spanish ChatGPT Voice voices, are live globally.\n- A Codex Edition of the ModRetro Chromatic handheld is coming to OpenAI Supply Co.\n- Wyvern, a stealth OpenAI-routed model with 1M context, was spotted inside Devin (via abhinavflac).\n\nANTHROPIC \ud83d\udd25:\n- FT reports Anthropic took over about $3.4B of gas-generator orders for 1.7GW of data-center power.\n- Claude Code Projects are getting a collaborative mode with recent activity and scheduled-task overviews.\n- Create files and artifacts is rolling out to free Claude users (via BartokGabi17).\n- Anthropic is also working on Duet invites and merging Claude Enterprise organizations.\n\nGOOGLE \ud83d\udd25:\n- Google is testing a next-generation Gemini agent for Gemini Enterprise, already in internal use.\n- An early Gemini checkpoint called Krypton-a reportedly beats Carbon and Argon in coding demos (via chetaslua).\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot Slack integration is rolling out so you can DM or @ mention your bot from Slack.\n- Elon says Grok Bot token-efficiency and smarter-behavior fixes are landing overnight.\n- Grok Bot Meetings briefly appeared for some accounts before being pulled (via alexmichael).\n\nAPPLE \ud83d\udd25:\n- Bloomberg reports CEO Ternus pressed Federighi to accelerate AI, with Apple eyeing agentic Siri as early as next year.",
+            "translated_text": "Ringkasan AI Harian \ud83d\uddde \u2014 9 Nov\n\nOPENAI \ud83d\udd25:\n- Dots sekarang boleh ambil kod log masuk dari peti masuk yang disambungkan dan isikannya untuk log masuk bagi pihak anda.\n- Faro dan Tonada, dua suara ChatGPT Voice dalam bahasa Sepanyol Argentina, kini tersedia di seluruh dunia.\n- ModRetro Chromatic edisi Codex akan datang ke OpenAI Supply Co.\n- Wyvern, model tersembunyi yang dihalakan oleh OpenAI dengan konteks 1M, dikesan dalam Devin (SUMBER: abhinavflac).\n\nANTHROPIC \ud83d\udd25:\n- FT melaporkan Anthropic mengambil alih pesanan penjana gas bernilai kira-kira $3.4 bilion untuk kuasa pusat data 1.7GW.\n- Projek Kod Claude kini mendapat mod kolaboratif dengan aktiviti terkini dan gambaran keseluruhan tugas berjadual.\n- Fungsi mencipta fail dan artifak sedang dilancarkan kepada pengguna Claude percuma (SUMBER: BartokGabi17).\n- Anthropic juga sedang mengusahakan jemputan Duet dan menggabungkan organisasi Claude Enterprise.\n\nGOOGLE \ud83d\udd25:\n- Google sedang menguji ejen Gemini generasi seterusnya untuk Gemini Enterprise, yang sudah digunakan secara dalaman.\n- Titik semak awal Gemini yang dipanggil Krypton-a dilaporkan mengalahkan Carbon dan Argon dalam demo pengekodan (SUMBER: chetaslua).\n\nSPACEXSI \ud83d\udd25:\n- Integrasi Grok Bot Slack sedang dilancarkan supaya anda boleh DM atau @ sebut bot anda dari Slack.\n- Elon berkata pembetulan kecekapan token dan tingkah laku yang lebih pintar untuk Grok Bot akan tersedia semalaman.\n- Grok Bot Meetings sempat muncul untuk beberapa akaun sebelum ditarik balik (SUMBER: alexmichael).\n\nAPPLE \ud83d\udd25:\n- Bloomberg melaporkan CEO Ternus mendesak Federighi untuk mempercepatkan AI, dengan Apple menyasarkan Siri yang lebih berkuasa seawal tahun depan.",
+            "date": "2026-11-09T08:59:09+00:00",
+            "message_id": 9918,
+            "message_key": "@testingcatalog:9918"
         }
     ]
 }
