@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-10T12:17:24.545230",
+    "timestamp": "2026-11-10T20:20:11.217039",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36256,6 +36256,56 @@
             "date": "2026-11-10T09:56:17+00:00",
             "message_id": 9943,
             "message_key": "@testingcatalog:9943"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-10T20:00:48+00:00",
+            "message_id": 9961,
+            "message_key": "@testingcatalog:9961"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Stripe officially acquired OpenRouter!!! \n\n> Stripe: \"Stripe is building the economic infrastructure for AI.\"\n\n> OpenRouter: \"Our commitment to neutrality stays the same. Models and providers compete on quality, reliability, and price.\"\n\nThat's an official confirmation that the deal announced on August 19 has been officially completed. Prior announcements were for the \"Agreement\".\n\nThis acquisition is quite a huge move. From my POV, OpenRouter is one of the biggest assets for the future AI economy. As demand for AI tokens continues to grow, having control over this infrastructure will be the key.\n\nAI tokens will be a currency one day \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Stripe dah rasmi ambil alih OpenRouter!\n\nStripe kata: \"Stripe sedang membina infrastruktur ekonomi untuk AI.\"\n\nOpenRouter pula cakap: \"Komitmen kami terhadap neutraliti kekal sama. Model dan penyedia bersaing berdasarkan kualiti, kebolehpercayaan, dan harga.\"\n\nIni adalah pengesahan rasmi bahawa perjanjian yang diumumkan pada 19 Ogos dah rasmi selesai. Pengumuman sebelum ni cuma untuk \"Perjanjian\" je.\n\nPengambilalihan ni memang satu langkah besar. Bagi saya, OpenRouter adalah salah satu aset terbesar untuk ekonomi AI masa depan. Memandangkan permintaan untuk AI tokens terus meningkat, mengawal infrastruktur ni akan jadi kunci utama.\n\nAI tokens akan jadi mata wang satu hari nanti \ud83d\udc40",
+            "date": "2026-11-10T20:00:48+00:00",
+            "message_id": 9960,
+            "message_key": "@testingcatalog:9960"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-10T19:37:29+00:00",
+            "message_id": 9959,
+            "message_key": "@testingcatalog:9959"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OpenAI \u2764\ufe0f Odessia\n\nOpenAI acquired Odessia, a travel platform that lets users plan and book trips with AI support. \n\n> \"We started Odessia to reinvent travel. This acquisition marks an exciting next chapter for that mission.\"\n\nThe team will \"focus on the future of travel.\"\n\nSide quests \ud83d\udc40",
+            "translated_text": "OpenAI \u2764\ufe0f Odessia\n\nOpenAI telah mengambil alih Odessia, sebuah platform pelancongan yang membolehkan pengguna merancang dan menempah perjalanan dengan sokongan AI.\n\n> \"Kami mulakan Odessia untuk mencipta semula pengalaman melancong. Pengambilalihan ini menandakan babak seterusnya yang menarik untuk misi tersebut.\"\n\nPasukan itu akan \"fokus pada masa depan pelancongan.\"\n\nMisi sampingan \ud83d\udc40",
+            "date": "2026-11-10T19:37:29+00:00",
+            "message_id": 9958,
+            "message_key": "@testingcatalog:9958"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT Business users can now claim their businesses and build a Business Agent to answer customers' inbound requests. \n\nThis new experience is available to eligible businesses in the US. \n\nEarlier this year, OpenAI also introduced a capability to target custom business AI Agents from ChatGPT ads. \n\nLooks like a funnel is becoming complete \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Pengguna ChatGPT Business sekarang boleh tuntut perniagaan mereka dan bina Ejen Perniagaan untuk jawab permintaan masuk pelanggan. Pengalaman baru ini tersedia untuk perniagaan yang layak di AS. Awal tahun ini, OpenAI juga memperkenalkan satu fungsi untuk menyasarkan Ejen AI perniagaan tersuai daripada iklan ChatGPT. Nampaknya, satu saluran pemasaran dah makin lengkap \ud83d\udc40",
+            "date": "2026-11-10T19:23:37+00:00",
+            "message_id": 9957,
+            "message_key": "@testingcatalog:9957"
         }
     ]
 }
