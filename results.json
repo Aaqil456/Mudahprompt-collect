@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-09T20:31:24.577732",
+    "timestamp": "2026-11-10T03:16:27.414574",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36156,6 +36156,56 @@
             "date": "2026-11-09T17:47:29+00:00",
             "message_id": 9923,
             "message_key": "@testingcatalog:9923"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udd25: Claude Fable 5.2 is included for up to 50% of Claude subscription until November 16. \n\nTesting allowance \ud83d\udc40\n\n> \"Fable is included for up to 50% of your plan limits until November 16. After that, it\u2019s available with usage credits.\"\n\nUpdate: Ultra subscribers will have access to Fable 5.2 after November 16 as well. This notice is relevant to Pro subscribers.",
+            "translated_text": "Kalau terlepas pandang \ud83d\udd25: Claude Fable 5.2 termasuk sehingga 50% daripada langganan Claude sehingga 16 November.\n\nPeluang mencuba \ud83d\udc40\n\n> \"Fable termasuk sehingga 50% daripada had pelan anda sehingga 16 November. Selepas tu, boleh guna dengan kredit penggunaan.\"\n\nKemaskini: Pelanggan Ultra pun akan ada akses Fable 5.2 selepas 16 November. Makluman ni untuk pelanggan Pro.",
+            "date": "2026-11-09T23:08:05+00:00",
+            "message_id": 9937,
+            "message_key": "@testingcatalog:9937"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Fable 5.2 and Mythos 5.2**](https://www.testingcatalog.com/anthropic-launches-claude-fable-5-2-and-mythos-5-2/)\n\nAnthropic launched Claude Fable 5.2 and Mythos 5.2 for demanding technical work, with faster output, lower pricing, strong coding and science results, broad Fable availability, and verified access to Mythos for select groups.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic melancarkan Claude Fable 5.2 dan Mythos 5.2**](https://www.testingcatalog.com/anthropic-launches-claude-fable-5-2-and-mythos-5-2/)\n\nAnthropic telah melancarkan Claude Fable 5.2 dan Mythos 5.2 untuk kerja teknikal yang mencabar, dengan output yang lebih pantas, harga yang lebih rendah, keputusan pengekodan dan sains yang mantap, ketersediaan Fable yang meluas, dan akses Mythos yang disahkan untuk kumpulan terpilih.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-11-09T22:32:16+00:00",
+            "message_id": 9935,
+            "message_key": "@testingcatalog:9935"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta launches Muse Ember for low-cost agentic tasks**](https://www.testingcatalog.com/meta-launches-muse-ember-for-low-cost-agentic-tasks/)\n\nMeta launched Muse Ember for high-volume agent tasks like tool calls, coding subtasks, routing, extraction, and long-document parsing. It offers a 1M-token context window, multimodal input, API access, and low token pricing.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta melancarkan Muse Ember untuk tugasan ejen berkos rendah**](https://www.testingcatalog.com/meta-launches-muse-ember-for-low-cost-agentic-tasks/)\n\nMeta melancarkan Muse Ember untuk tugasan ejen bervolum tinggi seperti panggilan alat, subtugasan pengekodan, penghalaan, pengekstrakan, dan penghuraian dokumen panjang. Ia menawarkan tetingkap konteks 1M-token, input multimodal, akses API, dan harga token yang rendah.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-11-09T22:28:45+00:00",
+            "message_id": 9934,
+            "message_key": "@testingcatalog:9934"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google Maps features come to Google AI Studio Build**](https://www.testingcatalog.com/google-maps-features-come-to-google-ai-studio-build/)\n\nGoogle added Maps Platform to AI Studio, so prompts can become map apps in minutes. It includes setup, Gemini-managed keys, live previews and free sandbox access with 100 daily API calls, before paid production scaling.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Ciri-ciri Google Maps kini tersedia di Google AI Studio Build**](https://www.testingcatalog.com/google-maps-features-come-to-google-ai-studio-build/)\n\nGoogle dah masukkan Maps Platform ke dalam AI Studio, jadi arahan (prompts) boleh terus jadi aplikasi peta dalam masa beberapa minit je. Ia termasuk persediaan, kunci yang diuruskan Gemini, pratonton langsung, dan akses sandbox percuma dengan 100 panggilan API setiap hari, sebelum kena bayar untuk skala pengeluaran.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-09T22:26:10+00:00",
+            "message_id": 9933,
+            "message_key": "@testingcatalog:9933"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-09T22:07:51+00:00",
+            "message_id": 9932,
+            "message_key": "@testingcatalog:9932"
         }
     ]
 }
