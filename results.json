@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-10T03:16:27.414574",
+    "timestamp": "2026-11-10T12:17:24.545230",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36206,6 +36206,56 @@
             "date": "2026-11-09T22:07:51+00:00",
             "message_id": 9932,
             "message_key": "@testingcatalog:9932"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-10T11:50:41+00:00",
+            "message_id": 9947,
+            "message_key": "@testingcatalog:9947"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: IPO Roadshow is launching today where Anthropic will pitch their shares to selected investors ahead of public trading.\n\nThe price is expected to be between $70 and $78 per share.\n\n\u201cThe proposed offering consists of 825,000,000 shares of Class A common stock. Of these, 801,351,354 shares are being offered by Anthropic and 23,648,646 shares are being offered by certain existing stockholders.\u201d\n\n$ANT \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Roadshow IPO bermula hari ini, di mana Anthropic akan menawarkan saham mereka kepada pelabur terpilih sebelum dagangan awam.\n\nHarga dijangka antara $70 dan $78 sesaham.\n\n\u201cTawaran yang dicadangkan terdiri daripada 825,000,000 saham Class A common stock. Daripada jumlah ini, 801,351,354 saham ditawarkan oleh Anthropic dan 23,648,646 saham ditawarkan oleh pemegang saham sedia ada tertentu.\u201d\n\n$ANT \ud83d\udc40",
+            "date": "2026-11-10T11:50:40+00:00",
+            "message_id": 9946,
+            "message_key": "@testingcatalog:9946"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-10T10:41:34+00:00",
+            "message_id": 9945,
+            "message_key": "@testingcatalog:9945"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: Grok 4.8 is currently in RL and expected to be \u201csoft\u201d rolled out to some Grok Bot users already this week. \n\nSoft now, hard soon \ud83e\udd16",
+            "translated_text": "SPACEXSI \ud83d\udd25: Grok 4.8 sekarang ni sedang dalam RL dan dijangka akan dilancarkan secara berperingkat kepada beberapa pengguna Grok Bot seawal minggu ini.\n\nSekarang ni secara berperingkat, nanti akan dilancarkan sepenuhnya \ud83e\udd16",
+            "date": "2026-11-10T10:41:34+00:00",
+            "message_id": 9944,
+            "message_key": "@testingcatalog:9944"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 10\n\nMODEL FORECAST \ud83d\udc40:\n- Gemini 4 Carbon, today!!!\n- Gemini 4 Hydrogen (Flash), today?\n- GPT-6.2 Sol, this week?\n- GPT-6.2 Astra, this week?\n- Inkling 2 Small open weights, soon\n- Qwen4 Max/Flash/Plus/27B, this week?\n- Tencent Hy4 open weights and Flash, soon?\n- Grok 4.8, \u201csoft\u201d this week?\n- Claude Fable 5.5 and Mythos 5.5, not soon?\n- DeepSeek V4.1 Pro, not soon?\n\nANTHROPIC \ud83d\udd25:\n- Claude Fable 5.2 and Mythos 5.2 are out, about 30% faster and 20% cheaper than 5.1, with Mythos limited to vetted organizations.\n- Fable 5.2 tops the Artificial Analysis Intelligence Index at 65 (via ArtificialAnlys).\n- Ultra and Team Premium users get 1 to 3 Fable resets based on tenure, and Pro gets a week of Fable at up to half its weekly limit.\n- Anthropic is reportedly targeting $70 to $80 a share in a Nasdaq IPO under ANT, raising up to $69B.\n\nOPENAI \ud83d\udd25:\n- Dots can now connect to multiple local computers and pick which one runs each task.\n- ChatGPT Enterprise, with ChatGPT Work, Codex, and dots, is now on AWS Marketplace.\n- The Agents API added a 12-hour prompt cache, async functions, and per-session budget control in beta (via AzianMike).\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Carbon appeared in the GCP SKU catalog and Gemini web app config, and its slug already answers on Vertex AI (via AiBattle_).\n- Logan Kilpatrick teased the release by tweeting just \"Gemini\".\n- Google announced TPU 8tx for training and TPU 8i Max for long-context inference.\n- AI Studio can now build Google Maps Platform apps from a prompt, with 3D, Street View, weather, and routing.\n- Antigravity launched a Knowledge Work layout for research, writing, and artifacts without the terminal and git clutter.\n- Varun Mohan teased more Antigravity releases this week.\n- Gemini is rolling out Memory Summary to view and edit what it remembers about you (via SaadhJawwadh).\n\nMETA \ud83d\udd25:\n- Muse Ember, Meta's smallest and cheapest model at $0.10/$0.50 per 1M tokens, is live on the Meta Model API and Muse Code.\n- Muse Wonder, Muse Spark 1.3, and Muse Ember are in public preview on Google Cloud.\n- Muse is now on Apple Watch and Wear OS.\n- Meta is preparing to release Muse in the UK.\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot weekly limits were reset for all users.\n- Grok Bot can now reach private MCP servers on your tailnet via Tailscale.\n- Grok Bot texting is getting closer, linking your number or Apple ID over iMessage only (via alexmichael).\n- Claude Fable 5.2 is in Cursor and tops CursorBench at 60% on max effort.\n- X launched Clipping on iOS and Android, with earnings shared between creator and clipper.\n\nMICROSOFT \ud83d\udd25:\n- Claude Fable 5.2 is generally available in GitHub Copilot.\n\nPERPLEXITY \ud83d\udd25:\n- Claude Fable 5.2 is in Perplexity Computer for Pro and Max, and in Search for Max.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA unveiled GR00T 2, an open world action model for dexterous robots, plus Isaac Lab 3.0 at CoRL.\n\nBYTEDANCE \ud83d\udd25:\n- Seedream 5.5 is rolling out on Dreamina, CapCut, and BytePlus.\n\nMEITUAN \ud83d\udd25:\n- LongCat-2.5 weights, a 1.6T-parameter multimodal agentic model, are out under MIT on Hugging Face.\n\nELEVENLABS \ud83d\udd25:\n- ElevenAgents Campaign Manager runs outbound campaigns over phone and WhatsApp, following up with each contact until it hits a goal.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 10 Nov\n\nRAMALAN MODEL \ud83d\udc40:\n- Gemini 4 Carbon, hari ini!!!\n- Gemini 4 Hydrogen (Flash), hari ini?\n- GPT-6.2 Sol, minggu ini?\n- GPT-6.2 Astra, minggu ini?\n- Inkling 2 Small open weights, tak lama lagi\n- Qwen4 Max/Flash/Plus/27B, minggu ini?\n- Tencent Hy4 open weights dan Flash, tak lama lagi?\n- Grok 4.8, \u201csoft\u201d minggu ini?\n- Claude Fable 5.5 dan Mythos 5.5, lambat lagi?\n- DeepSeek V4.1 Pro, lambat lagi?\n\nANTHROPIC \ud83d\udd25:\n- Claude Fable 5.2 dan Mythos 5.2 dah keluar, lebih kurang 30% lebih pantas dan 20% lebih murah dari 5.1, dengan Mythos terhad untuk organisasi yang dah disahkan.\n- Fable 5.2 mendahului Artificial Analysis Intelligence Index pada 65 (sumber: ArtificialAnlys).\n- Pengguna Ultra dan Team Premium dapat 1 hingga 3 kali reset Fable berdasarkan tempoh langganan, dan pengguna Pro dapat seminggu Fable sehingga separuh dari had mingguan.\n- Anthropic dilaporkan menyasarkan $70 hingga $80 sesaham dalam IPO Nasdaq di bawah ANT, dengan sasaran kutipan sehingga $69 bilion.\n\nOPENAI \ud83d\udd25:\n- Dots kini boleh sambung ke beberapa komputer tempatan dan pilih komputer mana yang jalankan setiap tugas.\n- ChatGPT Enterprise, bersama ChatGPT Work, Codex, dan dots, kini ada di AWS Marketplace.\n- Agents API dah tambah cache prompt 12 jam, fungsi async, dan kawalan bajet setiap sesi dalam versi beta (sumber: AzianMike).\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Carbon muncul dalam katalog GCP SKU dan konfigurasi aplikasi web Gemini, dan slugnya dah boleh jawab di Vertex AI (sumber: AiBattle_).\n- Logan Kilpatrick mengusik tentang pelancaran dengan hanya tweet \"Gemini\".\n- Google umumkan TPU 8tx untuk latihan dan TPU 8i Max untuk inferens konteks panjang.\n- AI Studio kini boleh bina aplikasi Google Maps Platform dari satu prompt, lengkap dengan 3D, Street View, cuaca, dan panduan laluan.\n- Antigravity lancarkan susun atur Knowledge Work untuk penyelidikan, penulisan, dan artifak tanpa kekacauan terminal dan git.\n- Varun Mohan mengusik tentang lebih banyak pelancaran Antigravity minggu ini.\n- Gemini sedang melancarkan Memory Summary untuk melihat dan mengedit apa yang ia ingat tentang anda (sumber: SaadhJawwadh).\n\nMETA \ud83d\udd25:\n- Muse Ember, model Meta yang paling kecil dan murah pada $0.10/$0.50 per 1 juta token, dah tersedia di Meta Model API dan Muse Code.\n- Muse Wonder, Muse Spark 1.3, dan Muse Ember kini dalam pratonton awam di Google Cloud.\n- Muse kini ada di Apple Watch dan Wear OS.\n- Meta sedang bersedia untuk melancarkan Muse di UK.\n\nSPACEXSI \ud83d\udd25:\n- Had mingguan Grok Bot dah diset semula untuk semua pengguna.\n- Grok Bot kini boleh capai pelayan MCP peribadi di tailnet anda melalui Tailscale.\n- Fungsi teks Grok Bot makin hampir, menghubungkan nombor anda atau Apple ID melalui iMessage sahaja (sumber: alexmichael).\n- Claude Fable 5.2 ada dalam Cursor dan mendahului CursorBench pada 60% dengan usaha maksimum.\n- X lancarkan Clipping di iOS dan Android, dengan pendapatan dikongsi antara pencipta dan 'clipper'.\n\nMICROSOFT \ud83d\udd25:\n- Claude Fable 5.2 dah tersedia secara umum dalam GitHub Copilot.\n\nPERPLEXITY \ud83d\udd25:\n- Claude Fable 5.2 ada dalam Perplexity Computer untuk Pro dan Max, dan dalam Search untuk Max.\n\nNVIDIA \ud83d\udd25:\n- NVIDIA memperkenalkan GR00T 2, model aksi dunia terbuka untuk robot yang cekap, serta Isaac Lab 3.0 di CoRL.\n\nBYTEDANCE \ud83d\udd25:\n- Seedream 5.5 sedang dilancarkan di Dreamina, CapCut, dan BytePlus.\n\nMEITUAN \ud83d\udd25:\n- LongCat-2.5 weights, model ejen multimodal 1.6T-parameter, dah keluar di bawah MIT di Hugging Face.\n\nELEVENLABS \ud83d\udd25:\n- ElevenAgents Campaign Manager jalankan kempen keluar melalui telefon dan WhatsApp, membuat susulan dengan setiap kenalan sehingga mencapai matlamat.",
+            "date": "2026-11-10T09:56:17+00:00",
+            "message_id": 9943,
+            "message_key": "@testingcatalog:9943"
         }
     ]
 }
