@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-11T08:58:56.722558",
+    "timestamp": "2026-11-11T17:02:33.780666",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36386,6 +36386,56 @@
             "date": "2026-11-11T07:05:31+00:00",
             "message_id": 9967,
             "message_key": "@testingcatalog:9967"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-11T15:23:35+00:00",
+            "message_id": 9974,
+            "message_key": "@testingcatalog:9974"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BYTEDANCE \ud83d\udd25: According to Bloomberg, ByteDance is planning to release its own proactive AI agent in the coming weeks! \n\nBloomberg also reported that the company has plans to become a frontier lab by 2029. \n\nSeeBot? \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "translated_text": "BYTEDANCE \ud83d\udd25: Menurut Bloomberg, ByteDance merancang untuk melancarkan ejen AI proaktifnya sendiri dalam beberapa minggu akan datang!\n\nBloomberg turut melaporkan bahawa syarikat itu ada rancangan untuk menjadi makmal perintis menjelang 2029.\n\nSeeBot? \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "date": "2026-11-11T15:23:35+00:00",
+            "message_id": 9973,
+            "message_key": "@testingcatalog:9973"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-11T12:00:40+00:00",
+            "message_id": 9972,
+            "message_key": "@testingcatalog:9972"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SpaceX \u2764\ufe0f SINGULUS\n\nSpaceX and SINGULUS signed a contract to supply 100 GW/year of HJT solar manufacturing equipment for Starmind. \n\nGermany mentioned \ud83d\udc40",
+            "translated_text": "SpaceX \u2764\ufe0f SINGULUS\n\nSpaceX dan SINGULUS telah menandatangani kontrak untuk membekalkan peralatan pembuatan solar HJT sebanyak 100 GW/tahun untuk Starmind.\n\nJerman ada disebut \ud83d\udc40",
+            "date": "2026-11-11T12:00:40+00:00",
+            "message_id": 9971,
+            "message_key": "@testingcatalog:9971"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 11\n\nMODEL FORECAST \ud83d\udc40:\n- Gemini 4 Hydrogen (Flash), today!!!\n- GPT-6.2 Sol, this week? codexy\n- GPT-6.2 Astra, this week? codexy\n- Qwen4 Flash/Plus/27B, soon?\n- Grok 4.8, \"soft\" this week\n- Tencent Hy4 open weights and Flash, soon\n- Claude Fable 5.5 and Mythos 5.5, not soon?\n- DeepSeek V4.1 Pro, not soon?\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Carbon is out for Ultra subscribers in the Gemini app, Antigravity, and AI Mode, and in the API at $2/$10 per 1M tokens.\n- Antigravity launched /swarm, which runs agents in parallel and has them coordinate on a shared message board.\n- Gemini Robotics 2.5 is here, hitting 96% accuracy sorting car parts with Apptronik's Apollo 2 at Mercedes-Benz.\n- Gemini for healthcare launched in preview, with read-only Epic and Oracle Health connectors.\n- Google is expanding its Adobe partnership to bring Adobe tools into Gemini, Workspace, and AI Mode.\n\nANTHROPIC \ud83d\udd25:\n- Claude Whiteboards and Sheets are in beta, and Claude Dashboards is now generally available as Claude Data, on all paid plans.\n- Claude Meetings, which joins Google Meet calls as a participant, is coming to Team and Enterprise in beta.\n- Pro, Max, Ultra, and Team users get one free full limit reset to use before December 10.\n- Anthropic launched its IPO roadshow, with a price range of $70 to $78 per share.\n\nOPENAI \ud83d\udd25:\n- Businesses in ChatGPT is in beta, letting companies claim their profiles and build a Business Agent for customers.\n- ChatGPT Business plans now work in tools like Notion, v0, Warp, and opencode through Sign in with ChatGPT.\n- OpenAI acquired Odessia, an AI trip-planning and booking platform.\n- ChatGPT will retire Advanced and Standard Voice modes on December 11.\n- OpenAI will hold a Cyber at the Frontier keynote on November 12.\n\nSPACEXSI \ud83d\udd25:\n- Grok 4.8 is in RL and expected to soft-launch to some Grok Bot users this week.\n- Cursor rebuilt Projects for multiplayer, so teammates and their agents share one workspace.\n- Gemini 4 Carbon is in Cursor and tops CursorBench at 60.4% on high effort.\n- Starlink Mini 2 is up for preorder with a quick-swap battery that lasts up to 4.5 hours.\n\nMETA \ud83d\udd25:\n- Muse now has its own email address for paid subscribers in the US and Canada.\n- Muse can now book Uber Courier deliveries in chat.\n\nMICROSOFT \ud83d\udd25:\n- Gemini 4 Carbon is generally available in GitHub Copilot.\n\nPERPLEXITY \ud83d\udd25:\n- Gemini 4 Carbon is in Perplexity Computer and matches Claude Fable 5.2 on WANDR at 40% of the cost.\n\nALIBABA \ud83d\udd25:\n- Qwen4-Max is in preview on Alibaba's Token Plan, QwenWork, Qoder, and the Qwen app.\n\nMINIMAX \ud83d\udd25:\n- MiniMax H3-Image is a new open-weight model that makes 4K images in about 10 seconds.\n\nSTRIPE \ud83d\udd25:\n- Stripe has completed its acquisition of OpenRouter.\n\nELEVENLABS \ud83d\udd25:\n- ElevenLabs launched Scribe v3 and Scribe v3 Live, its most accurate speech-to-text models yet.",
+            "translated_text": "DAILY AI BRIEF \ud83d\uddde \u2014 11 Nov\n\nRAMALAN MODEL \ud83d\udc40:\n- Gemini 4 Hydrogen (Flash), hari ini!!!\n- GPT-6.2 Sol, minggu ini? codexy\n- GPT-6.2 Astra, minggu ini? codexy\n- Qwen4 Flash/Plus/27B, tak lama lagi?\n- Grok 4.8, \"soft launch\" minggu ini\n- Tencent Hy4 open weights dan Flash, tak lama lagi\n- Claude Fable 5.5 dan Mythos 5.5, belum lagi?\n- DeepSeek V4.1 Pro, belum lagi?\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Carbon dah tersedia untuk pelanggan Ultra dalam aplikasi Gemini, Antigravity, dan AI Mode, serta dalam API pada harga $2/$10 untuk setiap 1 juta token.\n- Antigravity melancarkan /swarm, yang menjalankan ejen secara selari dan menyelaraskan mereka di papan mesej kongsi.\n- Gemini Robotics 2.5 dah tiba, mencapai ketepatan 96% dalam menyusun alat ganti kereta dengan Apptronik's Apollo 2 di Mercedes-Benz.\n- Gemini untuk penjagaan kesihatan dilancarkan dalam pratonton, dengan penyambung Epic dan Oracle Health yang hanya boleh dibaca.\n- Google sedang meluaskan kerjasama dengan Adobe untuk membawa alat Adobe ke dalam Gemini, Workspace, dan AI Mode.\n\nANTHROPIC \ud83d\udd25:\n- Claude Whiteboards dan Sheets sedang dalam fasa beta, dan Claude Dashboards kini tersedia secara umum sebagai Claude Data, untuk semua pelan berbayar.\n- Claude Meetings, yang menyertai panggilan Google Meet sebagai peserta, akan datang ke Team dan Enterprise dalam fasa beta.\n- Pengguna Pro, Max, Ultra, dan Team akan mendapat satu set semula had penuh percuma untuk digunakan sebelum 10 Disember.\n- Anthropic melancarkan jelajah IPO mereka, dengan julat harga $70 hingga $78 setiap saham.\n\nOPENAI \ud83d\udd25:\n- Businesses in ChatGPT sedang dalam fasa beta, membolehkan syarikat menuntut profil mereka dan membina Ejen Perniagaan untuk pelanggan.\n- Pelan ChatGPT Business kini berfungsi dalam alatan seperti Notion, v0, Warp, dan opencode melalui Sign in with ChatGPT.\n- OpenAI telah memperoleh Odessia, sebuah platform perancangan dan tempahan perjalanan AI.\n- ChatGPT akan menghentikan mod Advanced dan Standard Voice pada 11 Disember.\n- OpenAI akan mengadakan ucaptama Cyber at the Frontier pada 12 November.\n\nSPACEXSI \ud83d\udd25:\n- Grok 4.8 sedang dalam RL dan dijangka akan dilancarkan secara berperingkat kepada beberapa pengguna Grok Bot minggu ini.\n- Cursor membina semula Projects untuk mod berbilang pemain, jadi rakan sepasukan dan ejen mereka berkongsi satu ruang kerja.\n- Gemini 4 Carbon ada dalam Cursor dan mendahului CursorBench pada 60.4% untuk usaha tinggi.\n- Starlink Mini 2 kini dibuka untuk pra-tempahan dengan bateri tukar cepat yang tahan sehingga 4.5 jam.\n\nMETA \ud83d\udd25:\n- Muse kini ada alamat e-mel sendiri untuk pelanggan berbayar di AS dan Kanada.\n- Muse kini boleh menempah penghantaran Uber Courier dalam sembang.\n\nMICROSOFT \ud83d\udd25:\n- Gemini 4 Carbon tersedia secara umum dalam GitHub Copilot.\n\nPERPLEXITY \ud83d\udd25:\n- Gemini 4 Carbon ada dalam Perplexity Computer dan setanding dengan Claude Fable 5.2 di WANDR pada 40% daripada kos.\n\nALIBABA \ud83d\udd25:\n- Qwen4-Max sedang dalam pratonton di Alibaba's Token Plan, QwenWork, Qoder, dan aplikasi Qwen.\n\nMINIMAX \ud83d\udd25:\n- MiniMax H3-Image adalah model open-weight baharu yang menghasilkan imej 4K dalam kira-kira 10 saat.\n\nSTRIPE \ud83d\udd25:\n- Stripe telah menyelesaikan pemerolehan OpenRouter.\n\nELEVENLABS \ud83d\udd25:\n- ElevenLabs melancarkan Scribe v3 dan Scribe v3 Live, model pertuturan-ke-teks paling tepat mereka setakat ini.",
+            "date": "2026-11-11T09:06:09+00:00",
+            "message_id": 9970,
+            "message_key": "@testingcatalog:9970"
         }
     ]
 }
