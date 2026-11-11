@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-10T20:20:11.217039",
+    "timestamp": "2026-11-11T01:07:10.319813",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36306,6 +36306,56 @@
             "date": "2026-11-10T19:23:37+00:00",
             "message_id": 9957,
             "message_key": "@testingcatalog:9957"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-11T00:54:06+00:00",
+            "message_id": 9966,
+            "message_key": "@testingcatalog:9966"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Advanced and Standard voice modes on ChatGPT will be retired on December 11!\n\nDoes it mean that we are expecting another realtime voice model upgrade to happen before that? \n\nWe need 12 days of OpenAI \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Mod suara Advanced dan Standard di ChatGPT akan dihentikan pada 11 Disember!\n\nAdakah ini bermakna kita akan dapat satu lagi naik taraf model suara masa nyata sebelum itu?\n\nKita perlukan 12 hari dari OpenAI \ud83d\udc40",
+            "date": "2026-11-11T00:54:06+00:00",
+            "message_id": 9965,
+            "message_key": "@testingcatalog:9965"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXAI \ud83d\udd25: Cursor is getting a multiplayer mode where team members and their agents can work on a unified workspace. \n\nThe feature is built on top of the existing Projects.\n\nSeems like a day-one answer to the Antigravity/swarm feature, with a huge addition on top. \n\nBesides that, Claude and Perplexity are also working on similar multiplayer features.",
+            "translated_text": "SPACEXAI \ud83d\udd25: Cursor akan ada mod berbilang pemain di mana ahli pasukan dan ejen mereka boleh bekerja dalam satu ruang kerja yang bersatu.\nCiri ini dibina di atas Projek sedia ada.\nNampak macam jawapan awal untuk ciri Antigravity/swarm, dengan penambahan besar di atasnya.\nSelain itu, Claude dan Perplexity juga sedang mengusahakan ciri-ciri berbilang pemain yang serupa.",
+            "date": "2026-11-11T00:37:03+00:00",
+            "message_id": 9964,
+            "message_key": "@testingcatalog:9964"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A new Swarm Mode is now available on Antigravity! \n\n/swarm is a new agent orchestrator command that runs multiple agents in parallel to complete a task. \n\nSpawned agents will use a shared message board to communicate with each other. \n\nSwarming \ud83d\udc1d",
+            "translated_text": "GOOGLE \ud83d\udd25: Mod Swarm baharu kini tersedia di Antigravity!\n\n/swarm adalah arahan orkestrator ejen baharu yang menjalankan pelbagai ejen secara selari untuk menyelesaikan sesuatu tugas.\n\nEjen-ejen yang dihasilkan akan menggunakan papan mesej kongsi untuk berkomunikasi antara satu sama lain.\n\nSwarming \ud83d\udc1d",
+            "date": "2026-11-11T00:20:35+00:00",
+            "message_id": 9963,
+            "message_key": "@testingcatalog:9963"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "MINIMAX \ud83d\udd25: MiniMax H3-Image is now available on HuggingFace, MiniMax Code, and MiniMax APIs. \n\nMiniMax H3-Image is a new open-weight image model that supports 4K images. \n\nThere aren't many good open image models; any new release in this category is a big step forward. \n\nNeeds testing \ud83d\udc40",
+            "translated_text": "MINIMAX \ud83d\udd25: MiniMax H3-Image kini dah ada di HuggingFace, MiniMax Code, dan MiniMax APIs.\n\nMiniMax H3-Image ni model imej 'open-weight' baharu yang menyokong imej 4K.\n\nTak banyak model imej sumber terbuka yang bagus; sebarang keluaran baharu dalam kategori ni adalah satu langkah besar ke hadapan.\n\nKena uji ni \ud83d\udc40",
+            "date": "2026-11-10T20:26:23+00:00",
+            "message_id": 9962,
+            "message_key": "@testingcatalog:9962"
         }
     ]
 }
