@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-11T01:07:10.319813",
+    "timestamp": "2026-11-11T08:58:56.722558",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36356,6 +36356,36 @@
             "date": "2026-11-10T20:26:23+00:00",
             "message_id": 9962,
             "message_key": "@testingcatalog:9962"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ALIBABA \ud83d\udd25: Qwen4-Max-Preview is now available on Qwen Chat, Agent Mode, and on Alibaba\u2019s Token Plan.\n\n> \"Get an early look at Qwen4\u2019s deeper knowledge, richer world understanding, and stronger coding and agentic capabilities. Built for complex coding, office work, front-end design, and professional software tasks.\"\n\nNo benchmarks yet \ud83d\udc40",
+            "translated_text": "ALIBABA \ud83d\udd25: Qwen4-Max-Preview dah boleh guna dekat Qwen Chat, Agent Mode, dan dalam Alibaba\u2019s Token Plan.\n\n> \"Jom tengok awal-awal Qwen4 ni. Dia ada pengetahuan yang lebih mendalam, pemahaman dunia yang lebih luas, dan keupayaan pengekodan serta agen yang lebih mantap. Dibina untuk pengekodan kompleks, kerja pejabat, reka bentuk front-end, dan tugas perisian profesional.\"\n\nBelum ada benchmark lagi \ud83d\udc40",
+            "date": "2026-11-11T08:03:19+00:00",
+            "message_id": 9969,
+            "message_key": "@testingcatalog:9969"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-11T07:05:31+00:00",
+            "message_id": 9968,
+            "message_key": "@testingcatalog:9968"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: A second day of Gemini model releases is on its way! A big chance that Google may drop Gemini 4 Hydrogen (Flash). \n\nSoon \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Pelancaran model Gemini hari kedua akan menyusul! Ada kemungkinan besar Google akan keluarkan Gemini 4 Hydrogen (Flash).\n\nTak lama lagi \ud83d\udc40",
+            "date": "2026-11-11T07:05:31+00:00",
+            "message_id": 9967,
+            "message_key": "@testingcatalog:9967"
         }
     ]
 }
