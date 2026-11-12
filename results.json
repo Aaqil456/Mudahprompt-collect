@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-12T16:46:35.795928",
+    "timestamp": "2026-11-12T22:38:59.884825",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36536,6 +36536,46 @@
             "date": "2026-11-12T12:34:59+00:00",
             "message_id": 9989,
             "message_key": "@testingcatalog:9989"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Meetings is now available in beta on Team and Enterprise plans!\n\nDuring the meeting, Claude can work on documents, whiteboards, or other artifacts.  \n\nTwo thoughts \ud83d\udc40\n\nWe can finally have a call with 10 managers and one engineer (Claude) who won't complain.\n\nNow I want to get into a meeting with Claude and Grok bots to see how they interact. \n\nYet, it is clear that Anthropic is aggressively targeting businesses and enterprises. In a few years, they may have a complete office suite served by Claude for an entire work ecosystem (speculation).",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Meetings kini tersedia dalam versi beta untuk pelan Team dan Enterprise!\n\nSemasa mesyuarat, Claude boleh bekerja dengan dokumen, papan putih, atau bahan-bahan lain.\n\nDua pandangan \ud83d\udc40\n\nAkhirnya kita boleh adakan panggilan dengan 10 pengurus dan seorang jurutera (Claude) yang takkan merungut.\n\nSekarang saya nak masuk mesyuarat dengan bot Claude dan Grok untuk tengok macam mana diorang berinteraksi.\n\nNamun begitu, jelas sekali Anthropic sedang giat menyasarkan perniagaan dan syarikat besar. Dalam beberapa tahun, mungkin mereka akan ada suite pejabat lengkap yang dikendalikan oleh Claude untuk keseluruhan ekosistem kerja (spekulasi).",
+            "date": "2026-11-12T20:42:39+00:00",
+            "message_id": 9998,
+            "message_key": "@testingcatalog:9998"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 4 Hydrogen has been officially announced! \n\n2.5x faster than 3.8 Flash; 4 thinking levels, including a new \"Extra\" level. Outperforms Claude Sonnet 5.5 and GPT 6.1 Terra on most benchmarks. \n\nRolling out to Pro and Ultra subscribers, as well as on APIs.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 4 Hydrogen telah diumumkan secara rasmi!\n\n2.5 kali lebih pantas daripada 3.8 Flash; ada 4 tahap pemikiran, termasuk tahap \"Extra\" yang baru. Mengatasi Claude Sonnet 5.5 dan GPT 6.1 Terra dalam kebanyakan penanda aras.\n\nAkan dilancarkan kepada pelanggan Pro dan Ultra, serta melalui API.",
+            "date": "2026-11-12T18:20:45+00:00",
+            "message_id": 9997,
+            "message_key": "@testingcatalog:9997"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Gemini 4 Hydrogen is rolling out to all users in the Gemini app! \n\nIt seems to be a fast, gradual rollout, and we will likely see an official announcement soon. \n\nA Hydrogen doze \ud83d\udc89",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Gemini 4 Hydrogen sedang dilancarkan kepada semua pengguna dalam aplikasi Gemini!\n\nNampaknya, ia adalah pelancaran yang pantas dan berperingkat, dan kemungkinan besar kita akan melihat pengumuman rasmi tidak lama lagi.\n\nSuntikan Hydrogen \ud83d\udc89",
+            "date": "2026-11-12T17:29:28+00:00",
+            "message_id": 9996,
+            "message_key": "@testingcatalog:9996"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 4 Hydrogen (Flash) is rolling out on Antigravity! You will need to update to the latest version in order to give it a try. \n\nTesting time! \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 4 Hydrogen (Flash) dah mula dikeluarkan di Antigravity! Anda perlu kemas kini ke versi terkini untuk mencubanya.\n\nMasa untuk uji cuba! \ud83d\udc40",
+            "date": "2026-11-12T17:13:34+00:00",
+            "message_id": 9995,
+            "message_key": "@testingcatalog:9995"
         }
     ]
 }
