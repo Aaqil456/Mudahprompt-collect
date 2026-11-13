@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-13T11:57:04.312837",
+    "timestamp": "2026-11-13T19:26:49.857025",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36636,6 +36636,56 @@
             "date": "2026-11-13T09:35:53+00:00",
             "message_id": 10004,
             "message_key": "@testingcatalog:10004"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Perplexity brings Teammates to Mac for Max subscribers**](https://www.testingcatalog.com/perplexity-brings-teammates-to-mac-for-max-subscribers/)\n\nPerplexity launched Teammates in its Mac app for Max subscribers. The AI agents can own ongoing tasks alone or in groups, marking a shift from answering queries to handling recurring desktop work across roles like QA and research.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "translated_text": "[**Perplexity bawa Teammates ke Mac untuk pelanggan Max**](https://www.testingcatalog.com/perplexity-brings-teammates-to-mac-for-max-subscribers/)\n\nPerplexity telah melancarkan Teammates dalam aplikasi Mac mereka untuk pelanggan Max. Ejen AI ini boleh menguruskan tugasan berterusan secara bersendirian atau dalam kumpulan, menandakan perubahan daripada menjawab soalan kepada mengendalikan kerja desktop berulang merentasi peranan seperti QA (Quality Assurance) dan penyelidikan.\n\n\ud83d\uddde #perplexity @testingcatalog",
+            "date": "2026-11-13T17:55:15+00:00",
+            "message_id": 10013,
+            "message_key": "@testingcatalog:10013"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "PERPLEXITY \ud83d\udd25: Perplexity Teammates are now available on the Perplexity Mac application for Perplexity Max subscribers. \n\n> Perplexity Teammates are personalized, proactive agents from Perplexity that can operate Plugins and Skills and are powered by Perplexity's range of models. \n\nNeeds testing \ud83d\udc40",
+            "translated_text": "PERPLEXITY \ud83d\udd25: Perplexity Teammates dah boleh guna dekat aplikasi Perplexity Mac untuk pelanggan Perplexity Max.\n\n> Perplexity Teammates ni adalah ejen proaktif dari Perplexity yang boleh disesuaikan, dan dia boleh guna Plugins dengan Skills. Dia juga dikuasakan oleh pelbagai model Perplexity.\n\nKena cuba ni \ud83d\udc40",
+            "date": "2026-11-13T17:45:43+00:00",
+            "message_id": 10012,
+            "message_key": "@testingcatalog:10012"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI launches ChatGPT Wallet for agent purchases**](https://www.testingcatalog.com/openai-launches-chatgpt-wallet-for-agent-purchases/)\n\nOpenAI is launching ChatGPT Wallet for US Pro subscribers using dots, letting agents make approved purchases via tokenized card payments. Each order requires biometric confirmation, while merchants use existing checkout and fraud systems.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI lancarkan ChatGPT Wallet untuk pembelian ejen**](https://www.testingcatalog.com/openai-lunches-chatgpt-wallet-for-agent-purchases/)\n\nOpenAI akan melancarkan ChatGPT Wallet untuk pelanggan US Pro yang guna 'dots', membolehkan ejen buat pembelian yang diluluskan melalui pembayaran kad bertoken. Setiap pesanan perlukan pengesahan biometrik, manakala peniaga pula guna sistem pembayaran dan pencegahan penipuan sedia ada.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-11-13T17:20:41+00:00",
+            "message_id": 10011,
+            "message_key": "@testingcatalog:10011"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta Muse Spark 1.4 surfaces in RocksDB pull request**](https://www.testingcatalog.com/meta-muse-spark-1-4-surfaces-in-rocksdb-pull-request/)\n\nA GitHub PR in Meta\u2019s RocksDB repo references unreleased muse-spark-1.4-internal in production tuning tools, with token and timing data suggesting the next Muse Spark version is already being used internally.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta Muse Spark 1.4 Muncul dalam Pull Request RocksDB**](https://www.testingcatalog.com/meta-muse-spark-1-4-surfaces-in-rocksdb-pull-request/)\n\nSatu PR GitHub dalam repo RocksDB Meta merujuk kepada muse-spark-1.4-internal yang belum dikeluarkan dalam alat penalaan produksi, dengan data token dan masa menunjukkan versi Muse Spark seterusnya sudah digunakan secara dalaman.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-11-13T17:15:00+00:00",
+            "message_id": 10010,
+            "message_key": "@testingcatalog:10010"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT Wallet is rolling out on Dots for ChatGPT Pro subscribers in the US.\n\n> \"It\u2019s the first wallet that lets agents pay without access to users\u2019 actual card details and that requires a security check for every purchase, while also preserving existing card rewards and protections for eligible disputes.\"\n\nChatGPT Wallet was built in partnership with American Express, Mastercard, and Visa.\n\nA new economy \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT Wallet sedang dilancarkan di Dots untuk pelanggan ChatGPT Pro di AS.\n\n> \"Ini adalah dompet pertama yang membolehkan ejen membayar tanpa akses kepada butiran kad sebenar pengguna dan yang memerlukan semakan keselamatan untuk setiap pembelian, sambil turut mengekalkan ganjaran dan perlindungan kad sedia ada untuk pertikaian yang layak.\"\n\nChatGPT Wallet dibangunkan dengan kerjasama American Express, Mastercard, dan Visa.\n\nEkonomi baharu \ud83d\udc40",
+            "date": "2026-11-13T16:39:36+00:00",
+            "message_id": 10009,
+            "message_key": "@testingcatalog:10009"
         }
     ]
 }
