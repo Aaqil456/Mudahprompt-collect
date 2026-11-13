@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-13T03:14:02.743357",
+    "timestamp": "2026-11-13T11:57:04.312837",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36616,6 +36616,26 @@
             "date": "2026-11-12T22:40:56+00:00",
             "message_id": 10000,
             "message_key": "@testingcatalog:10000"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 13\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Hydrogen is out in the Gemini app, Search, AI Studio and the API at $1.50/$7.50 per 1M tokens, finishing tasks 2.5x faster than 3.8 Flash.\n- Antigravity is rolling out Orchestrator to Ultra subscribers, where Carbon plans and a faster model executes.\n- Gemini-powered smart glasses from Warby Parker and Gentle Monster, built with Samsung, are up for pre-order, with Warby Parker at $395.\n\nANTHROPIC \ud83d\udd25:\n- Claude Meetings is rolling out in beta on Team and Enterprise plans.\n- Self-hosted Claude Managed Agents is in private beta.\n- Claude Duet is sending invites, 3 per user, with a free month of Pro for eligible US users.\n- Anthropic is working on a \"Brush\" beta feature for the Claude prompt composer.\n- Anthropic will start trading on Nasdaq as ANT on November 19.\n\nOPENAI \ud83d\udd25:\n- OpenAI launched Daybreak Red Team in early access and Daybreak Defense Factory via the Daybreak plugin in Codex.\n- At the same event, OpenAI showed an unreleased cyber model scoring 77% on ExploitGym (via AiBattle_).\n- Codex is rolling out a banked usage reset to all accounts.\n- Dots now follow custom instructions and reply faster.\n- Dots appears to be rolling out to Pro users in Europe (via kimmonismus).\n\nMETA \ud83d\udd25:\n- Muse can now make phone calls for you, out now for paid subscribers in the US.\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location and Contacts.\n- Grok Bot is working on an \"Outcomes\" tab for jobs that bots own and report on (via nima_owji).\n- Grok Bot preview is adding comments on documents, PDFs and images (via alexmichael).\n- Gemini 4 Hydrogen is in Cursor, scoring 54.3% on CursorBench.\n\nNVIDIA \ud83d\udd25:\n- Jensen Huang has resigned as CEO, and CFO Colette Kress is interim CEO.\n\nMICROSOFT \ud83d\udd25:\n- MAI-Transcribe-2 is generally available in Microsoft Foundry at $0.10 per audio hour.\n- Microsoft Ignite starts next week on November 17, with Microsoft AI teasing new models.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity open-sourced Decider v1.3 and Decider Flash v1.3 with a new \"locate\" feature, free on OpenRouter for a week.\n\nTHINKING MACHINES \ud83d\udd25:\n- Inkling 2 Small weights are on Hugging Face under Apache 2.0.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 13 Nov\n\nGOOGLE \ud83d\udd25:\n- Gemini 4 Hydrogen dah keluar dalam aplikasi Gemini, Search, AI Studio dan API pada harga $1.50/$7.50 untuk setiap 1 juta token, siapkan tugasan 2.5 kali lebih pantas daripada 3.8 Flash.\n- Antigravity sedang melancarkan Orchestrator kepada pelanggan Ultra, di mana pelan Carbon dan model yang lebih pantas akan beroperasi.\n- Cermin mata pintar berkuasa Gemini dari Warby Parker dan Gentle Monster, dibina dengan Samsung, dah boleh pra-tempah, dengan Warby Parker pada harga $395.\n\nANTHROPIC \ud83d\udd25:\n- Claude Meetings sedang dilancarkan dalam versi beta untuk pelan Team dan Enterprise.\n- Claude Managed Agents yang dihoskan sendiri sedang dalam beta peribadi.\n- Claude Duet sedang menghantar jemputan, 3 untuk setiap pengguna, dengan sebulan percuma Pro untuk pengguna AS yang layak.\n- Anthropic sedang membangunkan ciri beta \"Brush\" untuk Claude prompt composer.\n- Anthropic akan mula didagangkan di Nasdaq sebagai ANT pada 19 November.\n\nOPENAI \ud83d\udd25:\n- OpenAI melancarkan Daybreak Red Team dalam akses awal dan Daybreak Defense Factory melalui plugin Daybreak dalam Codex.\n- Pada acara yang sama, OpenAI menunjukkan model siber yang belum dikeluarkan, mencatat 77% di ExploitGym (sumber: AiBattle_).\n- Codex sedang melancarkan penetapan semula penggunaan terkumpul kepada semua akaun.\n- Dots kini mengikut arahan tersuai dan membalas dengan lebih pantas.\n- Dots nampaknya sedang dilancarkan kepada pengguna Pro di Eropah (sumber: kimmonismus).\n\nMETA \ud83d\udd25:\n- Muse kini boleh membuat panggilan telefon untuk anda, dah tersedia untuk pelanggan berbayar di AS.\n\nSPACEXSI \ud83d\udd25:\n- Grok Bot di Mac kini boleh guna Messages, Mail, Notes, Reminders, Calendar, Location dan Contacts.\n- Grok Bot sedang usahakan tab \"Outcomes\" untuk tugasan yang bot miliki dan laporkan (sumber: nima_owji).\n- Pratonton Grok Bot sedang menambah komen pada dokumen, PDF dan imej (sumber: alexmichael).\n- Gemini 4 Hydrogen ada dalam Cursor, mencatat 54.3% di CursorBench.\n\nNVIDIA \ud83d\udd25:\n- Jensen Huang dah letak jawatan sebagai CEO, dan CFO Colette Kress adalah CEO sementara.\n\nMICROSOFT \ud83d\udd25:\n- MAI-Transcribe-2 dah tersedia secara umum di Microsoft Foundry pada harga $0.10 setiap jam audio.\n- Microsoft Ignite bermula minggu depan pada 17 November, dengan Microsoft AI mengusik model-model baharu.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity telah sumber terbuka Decider v1.3 dan Decider Flash v1.3 dengan ciri \"locate\" baharu, percuma di OpenRouter selama seminggu.\n\nTHINKING MACHINES \ud83d\udd25:\n- Berat Inkling 2 Small ada di Hugging Face di bawah Apache 2.0.",
+            "date": "2026-11-13T10:19:56+00:00",
+            "message_id": 10005,
+            "message_key": "@testingcatalog:10005"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Many users are reporting that Dots are rolling out on ChatGPT in EU! \n\nI don\u2019t have it yet but monitoring \ud83d\udc40\n\nHave you gotten them too and in which country?\n\nUPD: False alarm - it was a glitch \ud83d\udc80",
+            "translated_text": "OPENAI \ud83d\udd25: Ramai pengguna melaporkan yang Dots dah mula keluar di ChatGPT di EU!\n\nSaya belum dapat lagi tapi saya pantau \ud83d\udc40\n\nAwak pun dah dapat juga ke dan di negara mana?\n\nUPD: Salah sangka - ia cuma glitch \ud83d\udc80",
+            "date": "2026-11-13T09:35:53+00:00",
+            "message_id": 10004,
+            "message_key": "@testingcatalog:10004"
         }
     ]
 }
