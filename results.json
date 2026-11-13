@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-12T22:38:59.884825",
+    "timestamp": "2026-11-13T03:14:02.743357",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36576,6 +36576,46 @@
             "date": "2026-11-12T17:13:34+00:00",
             "message_id": 9995,
             "message_key": "@testingcatalog:9995"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: Users can now connect a new set of Apple apps to Grok Bot.\n\nA full list: Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts.\n\nNew stuff every day \ud83d\udc40",
+            "translated_text": "SPACEXSI \ud83d\udd25: Pengguna kini boleh sambungkan set aplikasi Apple yang baharu ke Grok Bot.\n\nSenarai penuhnya: Messages, Mail, Notes, Reminders, Calendar, Location, dan Contacts.\n\nAda je benda baru setiap hari \ud83d\udc40",
+            "date": "2026-11-13T00:15:50+00:00",
+            "message_id": 10003,
+            "message_key": "@testingcatalog:10003"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-12T23:13:33+00:00",
+            "message_id": 10002,
+            "message_key": "@testingcatalog:10002"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic started sending invites for Claude Duet. \n\nDuet users are getting 3 invites each. It also comes with a free week of Claude Pro for eligible users while remains US only.",
+            "translated_text": "Anthropic dah mula hantar jemputan untuk Claude Duet. Pengguna Duet dapat 3 jemputan seorang. Ia juga datang dengan seminggu percuma Claude Pro untuk pengguna yang layak, tapi masih terhad di AS saja.",
+            "date": "2026-11-12T23:13:33+00:00",
+            "message_id": 10001,
+            "message_key": "@testingcatalog:10001"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 4 Hydrogen for Pro and Ultra users**](https://www.testingcatalog.com/google-launches-gemini-4-hydrogen-for-pro-and-ultra-users/)\n\nGoogle launched Gemini 4 Hydrogen, a fast, low-cost model for coding, agents and Search, now rolling out across Gemini products. Antigravity\u2019s new Orchestrator pairs Hydrogen with Carbon for faster tasks at lower quota use.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google melancarkan Gemini 4 Hydrogen untuk pengguna Pro dan Ultra**](https://www.testingcatalog.com/google-launches-gemini-4-hydrogen-for-pro-and-ultra-users/)\n\nGoogle telah melancarkan Gemini 4 Hydrogen, sebuah model pantas dengan kos rendah untuk pengekodan, agen dan Carian, yang kini sedang diperkenalkan di seluruh produk Gemini. Orchestrator baharu Antigravity menggandingkan Hydrogen dengan Carbon untuk tugasan yang lebih pantas dengan penggunaan kuota yang lebih rendah.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-12T22:40:56+00:00",
+            "message_id": 10000,
+            "message_key": "@testingcatalog:10000"
         }
     ]
 }
