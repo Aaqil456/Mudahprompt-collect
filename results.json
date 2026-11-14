@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-14T00:45:53.671271",
+    "timestamp": "2026-11-14T19:48:47.141326",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36706,6 +36706,36 @@
             "date": "2026-11-13T21:49:48+00:00",
             "message_id": 10016,
             "message_key": "@testingcatalog:10016"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-14T16:08:19+00:00",
+            "message_id": 10021,
+            "message_key": "@testingcatalog:10021"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "SPACEXSI \ud83d\udd25: Grok Bot now has 7% more usage on paid plans and up to 15% on scheduled runs, according to Grok Bot team. \n\nTime to test it \ud83d\udc40",
+            "translated_text": "SPACEXSI \ud83d\udd25: Grok Bot sekarang ada peningkatan penggunaan sebanyak 7% untuk pelan berbayar dan sehingga 15% untuk larian berjadual, menurut pasukan Grok Bot. Masa untuk cuba ni \ud83d\udc40",
+            "date": "2026-11-14T16:08:19+00:00",
+            "message_id": 10020,
+            "message_key": "@testingcatalog:10020"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google adds Wallet to Gemini for finance insights**](https://www.testingcatalog.com/google-adds-wallet-to-gemini-for-finance-insights/)\n\nGoogle Wallet now connects to Gemini for U.S. users, offering opt-in spending analysis, budgets and savings plans. Optional bank links via Plaid add financial context, while read-only access prevents Gemini from moving or investing money.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google tambah Wallet ke Gemini untuk dapatkan info kewangan**](https://www.testingcatalog.com/google-adds-wallet-to-gemini-for-finance-insights/)\n\nGoogle Wallet kini boleh disambungkan ke Gemini untuk pengguna di A.S., menawarkan analisis perbelanjaan, belanjawan, dan pelan simpanan yang boleh dipilih. Pautan bank pilihan melalui Plaid pula boleh menambah konteks kewangan, manakala akses baca sahaja menghalang Gemini daripada memindahkan atau melaburkan wang.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-14T15:54:30+00:00",
+            "message_id": 10019,
+            "message_key": "@testingcatalog:10019"
         }
     ]
 }
