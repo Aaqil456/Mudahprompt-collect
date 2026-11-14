@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-13T19:26:49.857025",
+    "timestamp": "2026-11-14T00:45:53.671271",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36686,6 +36686,26 @@
             "date": "2026-11-13T16:39:36+00:00",
             "message_id": 10009,
             "message_key": "@testingcatalog:10009"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Claude Code on desktop now supports custom themes! \n\nUsers can tell Claude how they want an app to look, so it can tailor it to their preferences. That needs testing!\n\nFriday feature drop \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Claude Code di desktop kini menyokong tema tersuai!\n\nPengguna boleh beritahu Claude bagaimana mereka mahu rupa sesebuah aplikasi, supaya ia boleh sesuaikan mengikut pilihan mereka. Itu perlu diuji!\n\nPelancaran ciri baharu Jumaat ini \ud83d\udc40",
+            "date": "2026-11-14T00:28:02+00:00",
+            "message_id": 10017,
+            "message_key": "@testingcatalog:10017"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Sesame voice agent is ending its \"preview\" period and introducing Plus and Pro paid plans. \n\nFree users will keep access to \ud83d\udc40\n- 30 minutes of talk time a day\n- Limited weekly credits for texts and tasks\n- Every feature, the same on every plan\n\n> Plus will cost $20 and include 4x usage.\n> Pro will cost $100 and will come with 20x usage.\n\nPaid plans are supposed to go live next week. \n\nI am still using it daily, mainly because of Sesame Link, through which I control my Mac mini. Let's see how it goes!",
+            "translated_text": "Ejen suara Sesame akan menamatkan tempoh \"pratonton\"nya dan memperkenalkan pelan berbayar Plus dan Pro.\n\nPengguna percuma akan terus mendapat akses kepada \ud83d\udc40\n- 30 minit masa bercakap sehari\n- Kredit mingguan terhad untuk teks dan tugasan\n- Setiap ciri, sama pada setiap pelan\n\nPelan Plus akan berharga $20 dan termasuk 4 kali ganda penggunaan.\nPelan Pro pula akan berharga $100 dan disertakan dengan 20 kali ganda penggunaan.\n\nPelan berbayar ini dijangka akan mula beroperasi minggu depan.\n\nSaya masih menggunakannya setiap hari, terutamanya kerana Sesame Link, melaluinya saya mengawal Mac mini saya. Kita tengoklah macam mana nanti!",
+            "date": "2026-11-13T21:49:48+00:00",
+            "message_id": 10016,
+            "message_key": "@testingcatalog:10016"
         }
     ]
 }
