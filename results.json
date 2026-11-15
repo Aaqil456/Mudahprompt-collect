@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-15T05:23:27.856571",
+    "timestamp": "2026-11-15T19:37:50.762881",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36746,6 +36746,36 @@
             "date": "2026-11-15T00:47:57+00:00",
             "message_id": 10022,
             "message_key": "@testingcatalog:10022"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-15T16:00:51+00:00",
+            "message_id": 10025,
+            "message_key": "@testingcatalog:10025"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "APPLE \ud83d\udd25: According to Bloomberg, \u201cSiri AI integrations are the centrepiece of the upcoming smart glasses push\u201d for Apple. \n\nIt also seems like Apple now sees AI as a \u201cmore serious\u201c priority.\n\nNot soon \ud83d\udc40",
+            "translated_text": "APPLE \ud83d\udd25: Menurut Bloomberg, integrasi AI Siri adalah teras utama untuk usaha kacamata pintar Apple yang akan datang.\n\nNampaknya juga, Apple kini melihat AI sebagai keutamaan yang \u201clebih serius\u201c.\n\nBelum lagi \ud83d\udc40",
+            "date": "2026-11-15T16:00:51+00:00",
+            "message_id": 10024,
+            "message_key": "@testingcatalog:10024"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ICYMI \ud83d\udc40: You can now configure different models for Coordinator and Threads in Claude Code Project settings. \n\nProjects in overal got many small upgrades recently, including a possibility to create custom views and assign atrifacts to them. \n\nThis is Conway \ud83e\udd16",
+            "translated_text": "Untuk makluman \ud83d\udc40: Sekarang ni, anda boleh tetapkan model berbeza untuk Coordinator dan Threads dalam tetapan Claude Code Project.\n\nSecara keseluruhannya, projek-projek dapat banyak peningkatan kecil baru-baru ni, termasuklah kebolehan untuk buat paparan khas dan tetapkan artifak pada paparan tu.\n\nIni Conway \ud83e\udd16",
+            "date": "2026-11-15T15:36:28+00:00",
+            "message_id": 10023,
+            "message_key": "@testingcatalog:10023"
         }
     ]
 }
