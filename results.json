@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-15T19:37:50.762881",
+    "timestamp": "2026-11-16T15:07:35.753184",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36776,6 +36776,16 @@
             "date": "2026-11-15T15:36:28+00:00",
             "message_id": 10023,
             "message_key": "@testingcatalog:10023"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ALIBABA \ud83d\udd25: Qwen4-Max benchmarks are out, and it scored 43 points on the Artificial Analysis Index, one point below Muse Wonder. \n\nQwen4-Max is a new MoE architecture model with native vision and a 1M-token context window.\n\n> Qwen4 Max, using xhigh reasoning effort, scores 9 points ahead of Qwen3.8 Max (xhigh) and 3 points behind Kimi K3.1 Pro (max, 46).\n\n> It also debuted at #14 overall on Agent Arena with a +7.5% net improvement across 14.7k real-world agentic sessions.",
+            "translated_text": "ALIBABA \ud83d\udd25: Keputusan penanda aras Qwen4-Max dah keluar, dan ia dapat 43 mata dalam Indeks Analisis Buatan, satu mata di bawah Muse Wonder.\n\nQwen4-Max ni model seni bina MoE yang baru, dengan penglihatan asli dan tetingkap konteks 1M-token.\n\n> Qwen4 Max, dengan usaha penaakulan xhigh, mendapat 9 mata lebih tinggi daripada Qwen3.8 Max (xhigh) dan 3 mata di belakang Kimi K3.1 Pro (max, 46).\n\n> Ia juga membuat penampilan sulung di kedudukan #14 keseluruhan di Agent Arena dengan peningkatan bersih +7.5% merentasi 14.7 ribu sesi agen dunia sebenar.",
+            "date": "2026-11-16T07:59:39+00:00",
+            "message_id": 10026,
+            "message_key": "@testingcatalog:10026"
         }
     ]
 }
