@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-17T08:53:19.973314",
+    "timestamp": "2026-11-17T18:17:04.307912",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36846,6 +36846,56 @@
             "date": "2026-11-17T00:32:03+00:00",
             "message_id": 10038,
             "message_key": "@testingcatalog:10038"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT 6.2 Astra and Sol have been officially announced!\n\n> \"On the Agents\u2019 Last Exam benchmark, GPT\u20116.2 Astra is scoring 5.2 points higher than GPT\u20116 Astra at less than a third of the cost, and 5.5 points ahead of Claude Fable 5.2 at just 5% of the cost.\"\n\nBased on the announced benchmarks, we are getting a much cheaper model than Fable 5.2. 6.2 Sol outperforms Opus 5.5 as well. \n\nTesting time! \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: GPT 6.2 Astra dan Sol dah diumumkan secara rasmi!\n\n> \"Dalam ujian penanda aras Agents\u2019 Last Exam, GPT\u20116.2 Astra dapat markah 5.2 mata lebih tinggi dari GPT\u20116 Astra dengan kos kurang dari satu pertiga, dan 5.5 mata lebih tinggi dari Claude Fable 5.2 dengan hanya 5% dari kosnya.\"\n\nBerdasarkan penanda aras yang diumumkan, kita akan dapat model yang jauh lebih murah dari Fable 5.2. 6.2 Sol pun mengatasi Opus 5.5 juga.\n\nMasa untuk uji cuba! \ud83d\udc40",
+            "date": "2026-11-17T18:05:24+00:00",
+            "message_id": 10046,
+            "message_key": "@testingcatalog:10046"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: OpenAI is rolling out GPT-6.2 Astra and GPT-6.2 Sol on ChatGPT Work, Codex, and the APIs!\n\n- GPT-6.2 Sol scores 57.3 on the Artificial Intelligence Index.\n- Pro 200 users will get GPT-6.2 Sol Ultrafast, while Pro 500 users will get Ultrafast for both GPT-6.2 Sol and Astra models.",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: OpenAI sedang memperkenalkan GPT-6.2 Astra dan GPT-6.2 Sol di ChatGPT Work, Codex, dan API!\n\n- GPT-6.2 Sol mencatatkan skor 57.3 dalam Artificial Intelligence Index.\n- Pengguna Pro 200 akan dapat GPT-6.2 Sol Ultrafast, manakala pengguna Pro 500 akan dapat Ultrafast untuk kedua-dua model GPT-6.2 Sol dan Astra.",
+            "date": "2026-11-17T17:55:44+00:00",
+            "message_id": 10045,
+            "message_key": "@testingcatalog:10045"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Tasks in Gemini are now available for free in the US, Japan, Korea, Canada, Australia, and India. \n\nUsers can use Tasks to run more complex workflows and set up scheduled ones, too. Tasks on Gemini are now powered by Gemini 4 Hydrogen. \n\nI hope EU will get it as well one day \ud83d\udc80",
+            "translated_text": "GOOGLE \ud83d\udd25: Fungsi Tasks dalam Gemini dah boleh guna secara percuma di US, Jepun, Korea, Kanada, Australia, dan India.\n\nPengguna boleh guna Tasks ni untuk jalankan aliran kerja yang lebih kompleks, dan juga boleh jadualkan kerja-kerja tu. Tasks dalam Gemini sekarang dikuasakan oleh Gemini 4 Hydrogen.\n\nHarapnya EU pun akan dapat juga satu hari nanti \ud83d\udc80",
+            "date": "2026-11-17T17:48:19+00:00",
+            "message_id": 10044,
+            "message_key": "@testingcatalog:10044"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-17T12:27:02+00:00",
+            "message_id": 10043,
+            "message_key": "@testingcatalog:10043"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Isomorphic Labs raised $5 Billion in Series C funding from Greenoaks, Sequoia Capital and Andreessen Horowitz, with continued investment from Alphabet.\n\nIsomorphic Labs, founded by Demis Hassabis, is focussed on designing and developing new medicines with AI, ushering in a new era of biomedical breakthroughs.\n\nDrug development is a huge area that everyone is expecting to get pushed forward by AI.\n\nSoon? \ud83d\udc40",
+            "translated_text": "Isomorphic Labs telah mendapat pembiayaan $5 bilion dalam pusingan pembiayaan Siri C daripada Greenoaks, Sequoia Capital dan Andreessen Horowitz, dengan pelaburan berterusan daripada Alphabet.\n\nIsomorphic Labs, yang diasaskan oleh Demis Hassabis, fokus pada mereka bentuk dan membangunkan ubat baharu menggunakan AI, membuka era baharu penemuan bioperubatan.\n\nPembangunan ubat adalah satu bidang yang sangat besar yang semua orang jangkakan akan dimajukan oleh AI.\n\nTak lama lagi? \ud83d\udc40",
+            "date": "2026-11-17T12:27:02+00:00",
+            "message_id": 10042,
+            "message_key": "@testingcatalog:10042"
         }
     ]
 }
