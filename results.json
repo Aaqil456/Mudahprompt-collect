@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-17T00:03:26.105265",
+    "timestamp": "2026-11-17T08:53:19.973314",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36836,6 +36836,16 @@
             "date": "2026-11-16T20:32:37+00:00",
             "message_id": 10033,
             "message_key": "@testingcatalog:10033"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "The Claude Code desktop app's iOS simulator now supports iPhone Duo and a layout control. \n\nNo excuse not to optimize your app for iPhone Duo anymore. Also, wondering if Android foldables will get the same feature eventually.\n\n\"App optimizations\" is a good task for AI \ud83d\udc40",
+            "translated_text": "Simulator iOS dalam aplikasi desktop Claude Code kini menyokong iPhone Duo dan kawalan susun atur.\n\nTiada alasan lagi untuk tidak mengoptimumkan aplikasi anda untuk iPhone Duo. Juga, terfikir sama ada peranti lipat Android akan dapat ciri yang sama nanti.\n\n\"Pengoptimuman aplikasi\" adalah tugas yang bagus untuk AI \ud83d\udc40",
+            "date": "2026-11-17T00:32:03+00:00",
+            "message_id": 10038,
+            "message_key": "@testingcatalog:10038"
         }
     ]
 }
