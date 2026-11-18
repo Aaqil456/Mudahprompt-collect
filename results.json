@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-17T18:17:04.307912",
+    "timestamp": "2026-11-18T01:31:38.615027",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36896,6 +36896,56 @@
             "date": "2026-11-17T12:27:02+00:00",
             "message_id": 10042,
             "message_key": "@testingcatalog:10042"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-18T00:21:10+00:00",
+            "message_id": 10058,
+            "message_key": "@testingcatalog:10058"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83c\udf82: Antigravity is now 1 year old and all users got a usage reset across all models. \n\nAnibirthday \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83c\udf82: Antigravity dah setahun, dan semua pengguna dapat set semula penggunaan untuk semua model.\n\nAnibirthday \ud83d\udc40",
+            "date": "2026-11-18T00:21:10+00:00",
+            "message_id": 10057,
+            "message_key": "@testingcatalog:10057"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**ElevenLabs launches Scribe v3 Live Medical for healthcare**](https://www.testingcatalog.com/elevenlabs-launches-scribe-v3-live-medical-for-healthcare/)\n\nElevenLabs launched Scribe v3 Live Medical in ElevenAgents for real-time medical transcription, targeting accurate drug names, procedures and symptoms. Teams can add up to 10,000 custom terms, with zero retention available.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**ElevenLabs melancarkan Scribe v3 Live Medical untuk sektor kesihatan**](https://www.testingcatalog.com/elevenlabs-launches-scribe-v3-live-medical-for-healthcare/)\n\nElevenLabs telah melancarkan Scribe v3 Live Medical dalam ElevenAgents untuk transkripsi perubatan masa nyata, bertujuan untuk memastikan ketepatan nama ubat, prosedur, dan simptom. Pasukan boleh menambah sehingga 10,000 istilah tersuai, dengan pilihan sifar pengekalan data.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "date": "2026-11-18T00:13:13+00:00",
+            "message_id": 10056,
+            "message_key": "@testingcatalog:10056"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google AI Studio now have an option to buy a custom domain directly via AI Studio Build. \n\nAn option to download Android apps built via AI Studio to the device is now available to US users as well. \n\nI wish we could have .test domains \ud83d\udc40",
+            "translated_text": "Google AI Studio kini ada pilihan untuk beli domain tersuai terus melalui AI Studio Build.\n\nPilihan untuk muat turun aplikasi Android yang dibina melalui AI Studio ke peranti kini tersedia untuk pengguna di AS juga.\n\nSaya harap kita boleh ada domain .test \ud83d\udc40",
+            "date": "2026-11-17T23:33:46+00:00",
+            "message_id": 10055,
+            "message_key": "@testingcatalog:10055"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Microsoft launches MAI Cyber 2 Flash security model**](https://www.testingcatalog.com/microsoft-launches-mai-cyber-2-flash-security-model/)\n\nMicrosoft unveiled MAI Cyber 2 Flash, a security AI model that beats GPT-6 Astra on vulnerability benchmarks at under 2% of its evaluation cost per task. Rollout to Microsoft security products starts in mid-December.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "translated_text": "[**Microsoft melancarkan model keselamatan MAI Cyber 2 Flash**](https://www.testingcatalog.com/microsoft-launches-mai-cyber-2-flash-security-model/)\n\nMicrosoft memperkenalkan MAI Cyber 2 Flash, sebuah model AI keselamatan yang mengalahkan GPT-6 Astra dalam penanda aras kerentanan dengan kos penilaian kurang daripada 2% bagi setiap tugas. Pelaksanaan kepada produk keselamatan Microsoft akan bermula pada pertengahan Disember.\n\n\ud83d\uddde #microsoft @testingcatalog",
+            "date": "2026-11-17T23:18:45+00:00",
+            "message_id": 10054,
+            "message_key": "@testingcatalog:10054"
         }
     ]
 }
