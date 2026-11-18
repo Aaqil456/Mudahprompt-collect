@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-18T09:52:08.671767",
+    "timestamp": "2026-11-18T18:46:21.356594",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -36986,6 +36986,56 @@
             "date": "2026-11-18T06:47:35+00:00",
             "message_id": 10059,
             "message_key": "@testingcatalog:10059"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: ChatGPT got a dictation upgrade that makes it faster and more reliable. \n\nUsers can also see the text as they speak, overlaid on the \"wave\" in the prompt bar. \n\nI use dictation every day, and on ChatGPT I often had to rely on dictation apps instead, especially for abbreviations. \n\nNeeds testing \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: ChatGPT dapat peningkatan ciri imlak yang menjadikannya lebih pantas dan boleh dipercayai.\n\nPengguna juga boleh lihat teks semasa mereka bercakap, tertera di atas 'gelombang' pada bar prompt.\n\nSaya guna imlak setiap hari, dan di ChatGPT, saya selalu kena guna aplikasi imlak lain, terutamanya untuk singkatan.\n\nPerlu diuji \ud83d\udc40",
+            "date": "2026-11-18T18:41:42+00:00",
+            "message_id": 10076,
+            "message_key": "@testingcatalog:10076"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-18T18:33:41+00:00",
+            "message_id": 10075,
+            "message_key": "@testingcatalog:10075"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini 4 Neon is now referenced in the code in Google AI Studio along with a new \"Cobalt\" name. \n\nExample Neon prompts \ud83d\udc40\n- Review my code before I ship it\n- Find the errors in my hospital bill\n- Should my next car be an EV or a hybrid\n- Spot the red flags in my apartment lease",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini 4 Neon kini disebut dalam kod dalam Google AI Studio bersama dengan nama baharu \"Cobalt\".\n\nContoh arahan Neon \ud83d\udc40\n- Semak kod saya sebelum saya lancarkannya\n- Cari kesilapan dalam bil hospital saya\n- Patutkah kereta saya yang seterusnya EV atau hibrid\n- Kenal pasti tanda-tanda amaran dalam perjanjian sewa pangsapuri saya",
+            "date": "2026-11-18T18:33:41+00:00",
+            "message_id": 10074,
+            "message_key": "@testingcatalog:10074"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early look at Loop, new autonomous AI agent from Google**](https://www.testingcatalog.com/early-look-at-loop-new-autonomous-ai-agent-from-google/)\n\nGoogle Labs announced Stitch Loop, an autonomous agent that monitors live products, proposes fixes, tests changes in cloud sandboxes, and opens GitHub pull requests for human approval. Its global waitlist is now open.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Pandangan awal tentang Loop, ejen AI autonomi baharu dari Google**](https://www.testingcatalog.com/early-look-at-loop-new-autonomous-ai-agent-from-google/)\n\nGoogle Labs telah mengumumkan Stitch Loop, sebuah ejen autonomi yang memantau produk yang sedang beroperasi, mencadangkan pembetulan, menguji perubahan dalam 'sandbox' awan, dan membuka 'pull request' GitHub untuk kelulusan manusia. Senarai menunggu globalnya kini dibuka.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-18T17:46:46+00:00",
+            "message_id": 10073,
+            "message_key": "@testingcatalog:10073"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "BREAKING \ud83d\udd25: Google has announced Loop, a new Stitch experiment. \n\nLoop is an AUTONOMOUS AI agent that handles a full cycle from product discovery to implementation and monitoring. \n\nThis is a new type of solution that can improve your product on its own, with the user's role boiled down to setting goals (loops), reviewing outcomes, and making decisions. \n\nI've been testing Loop for weeks, powered by Gemini 3.8 Flash, and I'm super keen to see what it can do with Gemini 4 models. \n\nWaitlist time! \ud83d\udc40",
+            "translated_text": "BERITA TERKINI \ud83d\udd25: Google dah umumkan Loop, satu eksperimen baru dari Stitch.\n\nLoop ni adalah ejen AI AUTONOMI yang menguruskan kitaran penuh, dari pencarian produk sampai ke pelaksanaan dan pemantauan.\n\nIni satu jenis penyelesaian baru yang boleh tingkatkan produk anda sendiri, dengan peranan pengguna cuma perlu tetapkan matlamat (loops), semak hasil, dan buat keputusan.\n\nSaya dah uji Loop ni selama beberapa minggu, dikuasakan oleh Gemini 3.8 Flash, dan saya tak sabar nak tengok apa yang ia boleh buat dengan model Gemini 4.\n\nMasa untuk masuk senarai menunggu! \ud83d\udc40",
+            "date": "2026-11-18T17:22:13+00:00",
+            "message_id": 10072,
+            "message_key": "@testingcatalog:10072"
         }
     ]
 }
