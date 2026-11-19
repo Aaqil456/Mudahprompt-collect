@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-19T01:00:37.764178",
+    "timestamp": "2026-11-19T18:02:59.102300",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37086,6 +37086,56 @@
             "date": "2026-11-18T21:38:29+00:00",
             "message_id": 10082,
             "message_key": "@testingcatalog:10082"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Microsoft released a new Canvas experience on MAI Playground, powered by the MAI Image 2.7 Flash model. \n\nUsers can refine and precisely adjust their diagrams and images via prompts and editing tools. \n\nMAIshop \ud83d\udc40",
+            "translated_text": "Microsoft melancarkan pengalaman Canvas baharu di MAI Playground, yang dikuasakan oleh model MAI Image 2.7 Flash. Pengguna boleh memperhalusi dan melaraskan gambar rajah serta imej mereka dengan tepat melalui arahan (prompts) dan alat penyuntingan. MAIshop \ud83d\udc40",
+            "date": "2026-11-19T17:42:57+00:00",
+            "message_id": 10095,
+            "message_key": "@testingcatalog:10095"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-19T17:06:04+00:00",
+            "message_id": 10093,
+            "message_key": "@testingcatalog:10093"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "$ANT shares are now officially trading live on NASDAQ. \n\nWe are yet to see where it will all go and what is the overall sentiment about Anthropic. I think it would be quite a good marker of a consensus around ai among general public, since Anthropic is one of the first big \u201cAI first\u201d companies. \n\nMonitoring \ud83c\udf7f",
+            "translated_text": "Saham $ANT kini dah rasmi didagangkan secara langsung di NASDAQ.\n\nKita masih belum tahu ke mana arah tujuannya dan apa sentimen keseluruhan tentang Anthropic. Saya rasa ini boleh jadi penanda yang cukup baik untuk melihat persetujuan umum tentang AI di kalangan orang ramai, sebab Anthropic ni antara syarikat \"AI first\" besar yang pertama.\n\nKita pantau \ud83c\udf7f",
+            "date": "2026-11-19T17:06:04+00:00",
+            "message_id": 10092,
+            "message_key": "@testingcatalog:10092"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: Dario Amodei rang the bell on NASDAQ. The biggest IPO in history is officially started for $ANT.\n\nThe price is set at $83 per share; trading hasn\u2019t started yet but expect to begin soon!",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Dario Amodei dah bunyikan loceng di NASDAQ. IPO terbesar dalam sejarah dah rasmi bermula untuk $ANT.\n\nHarga ditetapkan pada $83 seunit saham; dagangan belum bermula lagi tapi dijangka akan mula tak lama lagi!",
+            "date": "2026-11-19T15:09:05+00:00",
+            "message_id": 10091,
+            "message_key": "@testingcatalog:10091"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares Writing Modes for Gemini Notebook notes**](https://www.testingcatalog.com/google-prepares-writing-modes-for-gemini-notebook-notes/)\n\nGoogle is working on different Writing Modes for Gemini Notebook.\n\n- Writing Partner, as a default option, uses AI to help make notes better.\n- Writing Coach acts in the chat and makes suggestions to the user. \n- No AI, for those who don't want to use it at all. \n\nWriting Coach is basically AI that prompts humans to write better text. \n\nSoon \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google siapkan Mod Penulisan untuk nota Gemini Notebook**](https://www.testingcatalog.com/google-prepares-writing-modes-for-gemini-notebook-notes/)\n\nGoogle sedang usahakan pelbagai Mod Penulisan untuk Gemini Notebook.\n\n- Writing Partner, sebagai pilihan lalai, guna AI untuk bantu perbaiki nota.\n- Writing Coach berfungsi dalam sembang dan beri cadangan kepada pengguna.\n- Tiada AI, untuk yang tak nak guna langsung.\n\nWriting Coach ni sebenarnya AI yang beri dorongan kepada manusia untuk tulis teks yang lebih baik.\n\nTak lama lagi \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-19T13:11:10+00:00",
+            "message_id": 10090,
+            "message_key": "@testingcatalog:10090"
         }
     ]
 }
