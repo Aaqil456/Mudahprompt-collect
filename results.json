@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-18T18:46:21.356594",
+    "timestamp": "2026-11-19T01:00:37.764178",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37036,6 +37036,56 @@
             "date": "2026-11-18T17:22:13+00:00",
             "message_id": 10072,
             "message_key": "@testingcatalog:10072"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-19T00:06:36+00:00",
+            "message_id": 10086,
+            "message_key": "@testingcatalog:10086"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: PBC priced $ANT at $83 per share!\n\n\u201cThe offering consists of 980,000,000 shares of Class A common stock, 956,351,354 of which are being sold by Anthropic and 23,648,646 of which are being sold by certain selling stockholders.\u201d\n\nTomorrow will be fun \ud83c\udf7f",
+            "translated_text": "ANTHROPIC \ud83d\udd25: PBC dah tetapkan harga $ANT pada $83 seunit saham!\n\n\u201cTawaran ni melibatkan 980,000,000 unit saham biasa Kelas A, dengan 956,351,354 unit dijual oleh Anthropic dan 23,648,646 unit lagi dijual oleh pemegang saham tertentu.\u201d\n\nEsok mesti seronok ni \ud83c\udf7f",
+            "date": "2026-11-19T00:06:36+00:00",
+            "message_id": 10085,
+            "message_key": "@testingcatalog:10085"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok Bot is getting a set of your favorite features! Flight and hotel booking, as well as car rental, are now supported. \n\njk, I still can't imagine myself using any of these unless service providers offer some good benefits for purchases made via AI agents. \n\nYet, it should be quite useful for discovery and planning!",
+            "translated_text": "Grok Bot akan dapat beberapa ciri kegemaran anda! Tempahan penerbangan dan hotel, serta sewaan kereta, kini disokong.\n\nGurau je, saya masih tak dapat bayangkan diri saya guna semua ni melainkan penyedia perkhidmatan tawarkan faedah menarik untuk pembelian yang dibuat melalui ejen AI.\n\nTapi, ia patutnya cukup berguna untuk penemuan dan perancangan!",
+            "date": "2026-11-18T22:51:27+00:00",
+            "message_id": 10084,
+            "message_key": "@testingcatalog:10084"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google launches Gemini 4 Neon on Gemini, Antigravity, and APIs**](https://www.testingcatalog.com/google-launches-gemini-4-neon-on-gemini-antigravity-and-apis/)\n\nGoogle launches Gemini 4 Neon for coding, knowledge work and science, pairing fast reasoning with a 1 million-token context window. Priced at $3 per million input tokens, it ranks second on Agent Arena and costs less per task than Carbon.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google lancarkan Gemini 4 Neon di Gemini, Antigravity, dan API**](https://www.testingcatalog.com/google-launches-gemini-4-neon-on-gemini-antigravity-and-apis/)\n\nGoogle melancarkan Gemini 4 Neon untuk pengekodan, kerja pengetahuan, dan sains, menggabungkan penaakulan pantas dengan tetingkap konteks 1 juta token. Dengan harga $3 untuk setiap juta token input, ia menduduki tempat kedua di Agent Arena dan kosnya lebih rendah bagi setiap tugas berbanding Carbon.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-18T22:33:10+00:00",
+            "message_id": 10083,
+            "message_key": "@testingcatalog:10083"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-18T21:38:29+00:00",
+            "message_id": 10082,
+            "message_key": "@testingcatalog:10082"
         }
     ]
 }
