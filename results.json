@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-19T18:02:59.102300",
+    "timestamp": "2026-11-20T01:05:04.895924",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37136,6 +37136,56 @@
             "date": "2026-11-19T13:11:10+00:00",
             "message_id": 10090,
             "message_key": "@testingcatalog:10090"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-19T23:56:35+00:00",
+            "message_id": 10103,
+            "message_key": "@testingcatalog:10103"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Hermes \u2764\ufe0f Microsoft\n\nNous Research partnered with Microsoft in order to bring Hermes to Enterprise.\n\n\u201cHermes Enterprise now works inside Microsoft Teams, the Microsoft Store and Azure.\u201d\n\n\u201cIn Teams, employees hand Hermes work like financial analysis, document drafts or inbox triage, and review the result in the same chat.\u201d\n\n\u201cAgent workloads run in isolated Azure Container Apps sandboxes.\u201d\n\nA huge step for Hermes expansion!",
+            "translated_text": "Hermes \u2764\ufe0f Microsoft\n\nNous Research bekerjasama dengan Microsoft untuk membawa Hermes ke Enterprise.\n\n\u201cHermes Enterprise kini boleh digunakan dalam Microsoft Teams, Microsoft Store dan Azure.\u201d\n\n\u201cDalam Teams, pekerja boleh serahkan kerja kepada Hermes seperti analisis kewangan, draf dokumen atau pengurusan e-mel, dan semak hasilnya dalam sembang yang sama.\u201d\n\n\u201cKerja-kerja ejen dijalankan dalam sandbox Azure Container Apps yang terasing.\u201d\n\nIni satu langkah besar untuk pengembangan Hermes!",
+            "date": "2026-11-19T23:56:35+00:00",
+            "message_id": 10102,
+            "message_key": "@testingcatalog:10102"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: Dots are rolling out to a small number of ChatGPT Plus users as well as all ChatGPT Business Standard users.\n\n- In addition, ChatGPT is getting a new mobile experience, where a Dot gets a dedicated tab.\n\n- Codex, Projects, Images, and tabs can also be moved to the bottom nav bar.\n\n- This new experience will arrive for ChatGPT Pro users first. \n\nIt looks like Dots are getting closer to becoming a main interaction interface for ChatGPT as well. \n\nExcept EU \ud83d\udc80",
+            "translated_text": "OPENAI \ud83d\udd25: Fungsi Dots sedang dilancarkan kepada sebilangan kecil pengguna ChatGPT Plus dan juga semua pengguna ChatGPT Business Standard.\n\n- Selain itu, ChatGPT akan mendapat pengalaman mudah alih yang baharu, di mana fungsi Dot akan mempunyai tab khasnya sendiri.\n\n- Tab Codex, Projects, Images, dan lain-lain juga boleh dialihkan ke bar navigasi bawah.\n\n- Pengalaman baharu ini akan tiba untuk pengguna ChatGPT Pro terlebih dahulu.\n\nNampaknya fungsi Dots semakin hampir untuk menjadi antara muka interaksi utama untuk ChatGPT juga.\n\nKecuali EU \ud83d\udc80",
+            "date": "2026-11-19T23:30:24+00:00",
+            "message_id": 10101,
+            "message_key": "@testingcatalog:10101"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google opens Genie 4 world model to developers in Gemini API**](https://www.testingcatalog.com/google-opens-genie-4-world-model-to-developers-in-gemini-api/)\n\nGoogle has opened Genie 4 to developers through the Gemini API and AI Studio, enabling real-time 720p worlds with native audio and live controls for games, design and AI training. Paid access costs about $0.10 per video second.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google buka model dunia Genie 4 kepada pembangun dalam Gemini API**](https://www.testingcatalog.com/google-opens-genie-4-world-model-to-developers-in-gemini-api/)\n\nGoogle dah buka Genie 4 kepada pembangun melalui Gemini API dan AI Studio. Ini membolehkan dunia 720p masa nyata dengan audio asli dan kawalan langsung untuk permainan, reka bentuk, dan latihan AI. Akses berbayar pula berharga kira-kira $0.10 untuk setiap saat video.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-19T23:21:43+00:00",
+            "message_id": 10100,
+            "message_key": "@testingcatalog:10100"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-19T20:26:33+00:00",
+            "message_id": 10099,
+            "message_key": "@testingcatalog:10099"
         }
     ]
 }
