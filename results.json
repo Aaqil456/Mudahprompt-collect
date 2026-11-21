@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-21T00:40:14.556758",
+    "timestamp": "2026-11-21T16:39:30.276969",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37236,6 +37236,46 @@
             "date": "2026-11-20T22:07:23+00:00",
             "message_id": 10108,
             "message_key": "@testingcatalog:10108"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: If you long-press the model selector in Gemini, you will see a new periodic table model selector appear! \n\nGemini 4 Hydrogen, Argon, Carbon, and Neon models are available. Nano Banana is also there under the Potassium element. \n\nImagine this a year from now \ud83e\udd2f",
+            "translated_text": "GOOGLE \ud83d\udd25: Kalau anda tekan lama-lama pemilih model dalam Gemini, anda akan nampak pemilih model jadual berkala yang baru muncul!\n\nModel Gemini 4 Hydrogen, Argon, Carbon, dan Neon dah ada. Nano Banana pun ada juga di bawah elemen Potassium.\n\nBayangkan ini setahun lagi \ud83e\udd2f",
+            "date": "2026-11-21T11:16:39+00:00",
+            "message_id": 10116,
+            "message_key": "@testingcatalog:10116"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-21T10:44:02+00:00",
+            "message_id": 10115,
+            "message_key": "@testingcatalog:10115"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Usage quota has been reset on Antigravity for all users. \n\nAdditionally, new caching improvements should lead to a 22% more usage in overall. \n\nNeon testing time \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Kuota penggunaan untuk Antigravity telah diset semula untuk semua pengguna.\n\nSelain itu, penambahbaikan caching baharu dijangka akan meningkatkan penggunaan sebanyak 22% secara keseluruhan.\n\nMasa ujian Neon \ud83d\udc40",
+            "date": "2026-11-21T10:44:02+00:00",
+            "message_id": 10114,
+            "message_key": "@testingcatalog:10114"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 21\n\nANTHROPIC $88.91 (\u22128.50%) \ud83d\udd25:\n- $ANT gave back most of its IPO gains on its first full trading day, closing just above the $83 IPO price, per Axios.\n- Anthropic lined up nearly $900B in compute contracts, including over $120.5B with SpaceX through 2029, per The Information.\n- Anthropic is offering discounts of over 30% to win bigger spending commitments, per The Information.\n- Claude is rolling out a new mobile design with a bottom bar for Chat, Projects, Code and Artifacts.\n- Claude Code 2.1.330 adds easel, a built-in mod that draws charts on request.\n\nOPENAI \ud83d\udd25:\n- ChatGPT Space is rolling out globally to Plus users, with mobile editing and a faster, redesigned app.\n- You can now call your Dot from Apple CarPlay and see a transcript after each call.\n- Oracle says its OpenAI infrastructure deal is fully funded after a final capital raise, per Reuters.\n\nGOOGLE $265.29 (\u22122.70%) \ud83d\udd25:\n- Gemini can now generate GIFs with Gemini Omni 1.2 Flash for Google AI subscribers in eight countries.\n- Google AI Plus and annual Pro plans are advertised at up to 50% off through Nov 26, but users only see the usual 16% off.\n\nNVIDIA $125.53 (\u221214.01%) \ud83d\udd25:\n- Nvidia has lost more than $2.5T in market cap since its Oct 6 peak amid the Huang scandal fallout, per Axios.\n- AMD and Google are gaining ground on Nvidia as customers turn to cheaper chips, per The Information.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity Computer now works in Chromium browsers through the Perplexity extension.\n- Max users on the web can now create teammates from any Computer task.\n- Gemini 4 Neon is now available in Perplexity Computer.\n\nTHINKING MACHINES \ud83d\udd25:\n- Inkling 2 Mini is a 26B open-weight looped model small enough to run on a laptop.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 21 Nov\n\nANTHROPIC $88.91 (\u22128.50%) \ud83d\udd25:\n- $ANT kehilangan sebahagian besar keuntungan IPO pada hari dagangan penuh pertamanya, ditutup sedikit di atas harga IPO $83, menurut Axios.\n- Anthropic telah mendapatkan kontrak pengkomputeran bernilai hampir $900 bilion, termasuk lebih $120.5 bilion dengan SpaceX sehingga 2029, menurut The Information.\n- Anthropic menawarkan diskaun lebih 30% untuk mendapatkan komitmen perbelanjaan yang lebih besar, menurut The Information.\n- Claude melancarkan reka bentuk mudah alih baharu dengan bar bawah untuk Chat, Projects, Code dan Artifacts.\n- Claude Code 2.1.330 menambah easel, mod terbina dalam yang melukis carta atas permintaan.\n\nOPENAI \ud83d\udd25:\n- ChatGPT Space kini dilancarkan secara global kepada pengguna Plus, dengan fungsi penyuntingan mudah alih dan aplikasi yang lebih pantas serta direka bentuk semula.\n- Anda kini boleh menghubungi Dot anda dari Apple CarPlay dan melihat transkrip selepas setiap panggilan.\n- Oracle menyatakan perjanjian infrastruktur OpenAI mereka telah dibiayai sepenuhnya selepas pengumpulan modal terakhir, menurut Reuters.\n\nGOOGLE $265.29 (\u22122.70%) \ud83d\udd25:\n- Gemini kini boleh menjana GIF dengan Gemini Omni 1.2 Flash untuk pelanggan Google AI di lapan negara.\n- Pelan Google AI Plus dan Pro tahunan diiklankan dengan diskaun sehingga 50% sehingga 26 Nov, tetapi pengguna hanya melihat diskaun biasa 16%.\n\nNVIDIA $125.53 (\u221214.01%) \ud83d\udd25:\n- Nvidia telah kehilangan lebih $2.5 trilion dalam nilai pasaran sejak kemuncaknya pada 6 Okt di tengah-tengah kesan skandal Huang, menurut Axios.\n- AMD dan Google semakin mendahului Nvidia apabila pelanggan beralih kepada cip yang lebih murah, menurut The Information.\n\nPERPLEXITY \ud83d\udd25:\n- Perplexity Computer kini berfungsi dalam pelayar Chromium melalui sambungan Perplexity.\n- Pengguna Max di web kini boleh mencipta rakan sepasukan dari mana-mana tugas Computer.\n- Gemini 4 Neon kini tersedia dalam Perplexity Computer.\n\nTHINKING MACHINES \ud83d\udd25:\n- Inkling 2 Mini ialah model gelung 26B open-weight yang cukup kecil untuk dijalankan pada komputer riba.",
+            "date": "2026-11-21T08:14:34+00:00",
+            "message_id": 10113,
+            "message_key": "@testingcatalog:10113"
         }
     ]
 }
