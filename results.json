@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-20T01:05:04.895924",
+    "timestamp": "2026-11-21T00:40:14.556758",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37186,6 +37186,56 @@
             "date": "2026-11-19T20:26:33+00:00",
             "message_id": 10099,
             "message_key": "@testingcatalog:10099"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Spaces are finally rolling out to ChatGPT Plus users! \n\nThis release also comes with performance, reliability and design improvements. \n\nChatGPT users can now edit spaces from their mobile apps, as well.",
+            "translated_text": "Spaces akhirnya dah mula tersedia untuk pengguna ChatGPT Plus!\n\nPelancaran ni juga datang dengan penambahbaikan pada prestasi, kebolehpercayaan, dan reka bentuk.\n\nPengguna ChatGPT pun kini boleh edit Spaces dari aplikasi mudah alih mereka.",
+            "date": "2026-11-21T00:38:24+00:00",
+            "message_id": 10112,
+            "message_key": "@testingcatalog:10112"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**How Google Stitch Loop works from Workspace to KPIs**](https://www.testingcatalog.com/how-google-stitch-loop-works-from-workspace-to-kpis/)\n\nGoogle\u2019s waitlist-only Stitch Loop connects GitHub projects with production data to pursue product goals autonomously, define metrics, propose tasks, and launch development through Gemini while tracking post-release outcomes.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Bagaimana Google Stitch Loop Berfungsi dari Workspace ke KPI**](https://www.testingcatalog.com/how-google-stitch-loop-works-from-workspace-to-kpis/)\n\nStitch Loop Google, yang hanya boleh diakses melalui senarai menunggu, menghubungkan projek GitHub dengan data pengeluaran. Tujuannya adalah untuk mencapai matlamat produk secara autonomi, menentukan metrik, mencadangkan tugasan, dan melancarkan pembangunan melalui Gemini, sambil menjejaki hasil selepas pelancaran.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-21T00:08:56+00:00",
+            "message_id": 10111,
+            "message_key": "@testingcatalog:10111"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-20T22:40:01+00:00",
+            "message_id": 10110,
+            "message_key": "@testingcatalog:10110"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Anthropic has started rolling out a new mobile experience for Claude, with a bottom navigation bar for Chat, Projects, Code, and Artifacts. \n\nFrom what I have tested earlier, the biggest changes appear around the nav bar, model selector, and attachment menu. \n\nI think it is probably the first real \u201cDesign touch\u201d being released for Claude, and it is visible that there have been a lot of prototyping going on in the background. \n\nClaude is yet to fight for \u201cconsumers\u201d and \u201cgeneral public\u201d users.\n\nMonitoring \ud83d\udc40",
+            "translated_text": "Anthropic dah mula melancarkan pengalaman mudah alih baru untuk Claude, lengkap dengan bar navigasi di bahagian bawah untuk Chat, Projects, Code, dan Artifacts.\n\nDaripada apa yang saya dah cuba tadi, perubahan terbesar nampak pada bar navigasi, pemilih model, dan menu lampiran.\n\nSaya rasa ini mungkin \"sentuhan reka bentuk\" sebenar yang pertama dikeluarkan untuk Claude, dan jelas kelihatan banyak kerja prototaip dah berjalan di belakang tabir.\n\nClaude masih belum bersaing untuk mendapatkan pengguna \"konsumer\" dan \"orang awam\".\n\nMonitoring \ud83d\udc40",
+            "date": "2026-11-20T22:40:01+00:00",
+            "message_id": 10109,
+            "message_key": "@testingcatalog:10109"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Thinking Machines releases Inkling 2 Mini looped open model**](https://www.testingcatalog.com/thinking-machines-releases-inkling-2-mini-looped-open-model/)\n\nThinking Machines Lab releases Inkling 2 Mini, a 26.4B-parameter open-weights model that runs on laptops. Its looped architecture supports strong agentic performance, with weights on Hugging Face and fine-tuning on Tinker.\n\n\ud83d\uddde #thinkingmachines @testingcatalog",
+            "translated_text": "[**Thinking Machines melancarkan model terbuka bergelung Inkling 2 Mini**](https://www.testingcatalog.com/thinking-machines-releases-inkling-2-mini-looped-open-model/)\n\nThinking Machines Lab melancarkan Inkling 2 Mini, sebuah model berat terbuka dengan 26.4 bilion parameter yang boleh dijalankan pada komputer riba. Seni bina bergelungnya menyokong prestasi ejen yang mantap, dengan beratnya tersedia di Hugging Face dan penalaan halus di Tinker.\n\n\ud83d\uddde #thinkingmachines @testingcatalog",
+            "date": "2026-11-20T22:07:23+00:00",
+            "message_id": 10108,
+            "message_key": "@testingcatalog:10108"
         }
     ]
 }
