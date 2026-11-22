@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-21T16:39:30.276969",
+    "timestamp": "2026-11-22T18:17:16.651616",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37276,6 +37276,26 @@
             "date": "2026-11-21T08:14:34+00:00",
             "message_id": 10113,
             "message_key": "@testingcatalog:10113"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Google continues to work on a new \"Inbox mode\" for Antigravity, where users will be able to see threads that require their attention. \n\nIt follows a broader shift we see across other Google AI tools, like Gemini (in the works) and Loop (waitlist). This change positions users in the decision-making seat to approve and review AI outcomes, rather than steering them precisely, as a main interface. \n\nAntigravity is also getting new logic to create AI agents from the prompt, distinguished as \"For Me\" and \"For my Team\". \n\nIt is getting even more interesting now \ud83d\udc40",
+            "translated_text": "Google masih lagi usahakan \"mod Inbox\" baru untuk Antigravity, di mana pengguna boleh tengok perbincangan yang perlukan perhatian mereka.\n\nIni ikut perubahan besar yang kita nampak pada alat AI Google yang lain, macam Gemini (sedang dibangunkan) dan Loop (senarai menunggu). Perubahan ni letakkan pengguna di posisi membuat keputusan untuk luluskan dan semak hasil AI, daripada mengarahkannya dengan tepat, sebagai antara muka utama.\n\nAntigravity pun dapat logik baru untuk cipta ejen AI dari arahan, yang dibezakan sebagai \"Untuk Saya\" dan \"Untuk Pasukan Saya\".\n\nMakin menarik ni sekarang \ud83d\udc40",
+            "date": "2026-11-22T12:10:05+00:00",
+            "message_id": 10118,
+            "message_key": "@testingcatalog:10118"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Gemini subscriptions may reach Hermes Agent on December 2**](https://www.testingcatalog.com/gemini-subscriptions-may-reach-hermes-agent-on-december-2/)\n\nGOOGLE \ud83d\udd25: There have been several hints pointing to a Google AI subscription becoming available on 3rd-party harness apps on December 2nd. \n\nHermes is among the first ones \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Langganan Gemini mungkin sampai ke Hermes Agent pada 2 Disember**](https://www.testingcatalog.com/gemini-subscriptions-may-reach-hermes-agent-on-december-2/)\n\nGOOGLE \ud83d\udd25: Ada beberapa petunjuk yang menunjukkan langganan AI Google akan tersedia di aplikasi pihak ketiga pada 2 Disember.\n\nHermes adalah antara yang terawal \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-22T11:50:41+00:00",
+            "message_id": 10117,
+            "message_key": "@testingcatalog:10117"
         }
     ]
 }
