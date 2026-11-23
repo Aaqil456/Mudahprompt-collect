@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-23T08:39:59.137415",
+    "timestamp": "2026-11-23T20:57:14.625605",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37316,6 +37316,56 @@
             "date": "2026-11-23T00:36:21+00:00",
             "message_id": 10119,
             "message_key": "@testingcatalog:10119"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-23T20:43:01+00:00",
+            "message_id": 10133,
+            "message_key": "@testingcatalog:10133"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "I\u2019ve got a new UI design on ChatGPT and now my Dot is available there as well (in the EU). \n\nIt seems like GPT 6.2 Sol rollout was in fact bigger than we thought. \n\nI hope it will stay there this time \ud83d\ude05",
+            "translated_text": "Saya ada reka bentuk UI baru di ChatGPT dan sekarang Dot saya pun dah ada kat sana juga (di EU).\n\nNampaknya, pelancaran GPT 6.2 Sol sebenarnya lebih besar dari yang kita sangka.\n\nHarap-harap kali ni kekal lah kat sana \ud83d\ude05",
+            "date": "2026-11-23T20:43:01+00:00",
+            "message_id": 10132,
+            "message_key": "@testingcatalog:10132"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-23T20:26:22+00:00",
+            "message_id": 10131,
+            "message_key": "@testingcatalog:10131"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Carbon is now available on Google AI Pro plans! \n\nGemini usage quota on Antigravity has been reset once again as well! \n\nI feel like we are getting to the point where we need banked reset functionality.",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Carbon dah boleh guna untuk pelan Google AI Pro!\n\nKuota penggunaan Gemini di Antigravity pun dah direset semula sekali lagi!\n\nRasa-rasanya kita dah sampai satu tahap di mana kita perlukan fungsi reset yang boleh dikumpul.",
+            "date": "2026-11-23T20:26:22+00:00",
+            "message_id": 10130,
+            "message_key": "@testingcatalog:10130"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT 6.2 Sol is rolling out on ChatGPT Chat to Plus, Pro, Business, and Enterprise users. \n\nMore testing time \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: GPT 6.2 Sol sedang dilancarkan di ChatGPT Chat untuk pengguna Plus, Pro, Business, dan Enterprise.\nPerlukan lebih masa untuk ujian \ud83d\udc40",
+            "date": "2026-11-23T19:25:19+00:00",
+            "message_id": 10129,
+            "message_key": "@testingcatalog:10129"
         }
     ]
 }
