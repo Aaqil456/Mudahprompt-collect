@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-22T18:17:16.651616",
+    "timestamp": "2026-11-23T08:39:59.137415",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37296,6 +37296,26 @@
             "date": "2026-11-22T11:50:41+00:00",
             "message_id": 10117,
             "message_key": "@testingcatalog:10117"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Grok Bot to get local Computer Use and Dictation in any app**](https://www.testingcatalog.com/grok-bot-to-get-local-computer-use-and-dictation-in-any-app/)\n\nSPACEXSI \ud83d\udd25: Grok Bot app for macOS is about to get Computer Use and system-level dictation features. \n\nCurrently, Computer Use on Grok Bot is already available through cloud VMs, while the team is working on a local Computer Use feature that lets Grok Bot operate apps on your desktop. \n\nAdditionally, \"Dictation in any app\" is in the works! \n\n> \"Talk in any app, Hotkeys, dictionary, snippets, whisper, retention, and history live in their own window.\"\n\nSupergrok app incoming \ud83d\udc40\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "translated_text": "[**Grok Bot akan dapat ciri Penggunaan Komputer tempatan dan Dikte dalam mana-mana aplikasi**](https://www.testingcatalog.com/grok-bot-to-get-local-computer-use-and-dictation-in-any-app/)\n\nSPACEXSI \ud83d\udd25: Aplikasi Grok Bot untuk macOS tak lama lagi akan dapat ciri Penggunaan Komputer dan ciri dikte peringkat sistem.\n\nBuat masa ini, ciri Penggunaan Komputer pada Grok Bot dah ada melalui VM awan (cloud VMs), sementara pasukan sedang usahakan ciri Penggunaan Komputer tempatan yang membolehkan Grok Bot jalankan aplikasi di desktop anda.\n\nSelain tu, ciri \"Dikte dalam mana-mana aplikasi\" pun sedang diusahakan!\n\n> \"Berbual dalam mana-mana aplikasi, Hotkeys, kamus, coretan, bisikan, pengekalan, dan sejarah semuanya ada dalam tetingkapnya sendiri.\"\n\nAplikasi Supergrok akan datang \ud83d\udc40\n\n\ud83d\uddde #spacexai @testingcatalog",
+            "date": "2026-11-23T00:46:29+00:00",
+            "message_id": 10120,
+            "message_key": "@testingcatalog:10120"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google prepares new Inbox mode for Antigravity sidebar**](https://www.testingcatalog.com/google-prepares-new-inbox-mode-for-antigravity-sidebar/)\n\nGoogle is developing Inbox mode for Antigravity to organize threads into Inbox and Resolved sections, highlighting those needing attention. A prompt-based flow for creating personal and team AI agents is also in development.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google sedang membangunkan mod Inbox baharu untuk bar sisi Antigravity**](https://www.testingcatalog.com/google-prepares-new-inbox-mode-for-antigravity-sidebar/)\n\nGoogle sedang membangunkan mod Inbox untuk Antigravity bagi menyusun perbualan ke dalam bahagian Inbox dan Resolved, menonjolkan yang memerlukan perhatian. Aliran kerja berasaskan arahan untuk mencipta ejen AI peribadi dan pasukan juga sedang dibangunkan.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-23T00:36:21+00:00",
+            "message_id": 10119,
+            "message_key": "@testingcatalog:10119"
         }
     ]
 }
