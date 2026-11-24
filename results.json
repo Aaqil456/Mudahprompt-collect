@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-23T20:57:14.625605",
+    "timestamp": "2026-11-24T05:11:35.909270",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37366,6 +37366,56 @@
             "date": "2026-11-23T19:25:19+00:00",
             "message_id": 10129,
             "message_key": "@testingcatalog:10129"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI brings GPT-6.2 Sol to ChatGPT Chat and Dots to EU**](https://www.testingcatalog.com/openai-brings-gpt-6-2-sol-to-chatgpt-chat-and-dots-to-eu/)\n\nOpenAI is rolling out GPT-6.2 Sol for everyday ChatGPT conversations and launching Dots in the EU. The update improves complex requests, web search and image reading, while a new design gives persistent agents a dedicated tab.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI Bawa GPT-6.2 Sol ke ChatGPT Chat dan Dots ke EU**](https://www.testingcatalog.com/openai-brings-gpt-6-2-sol-to-chatgpt-chat-and-dots-to-eu/)\n\nOpenAI sedang melancarkan GPT-6.2 Sol untuk perbualan harian ChatGPT dan memperkenalkan Dots di EU. Kemas kini ini menambah baik permintaan yang kompleks, carian web dan pembacaan imej, manakala reka bentuk baharu pula memberikan ejen yang berterusan tab khusus.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-11-24T00:23:39+00:00",
+            "message_id": 10140,
+            "message_key": "@testingcatalog:10140"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google adds task checklists to Antigravity and Carbon for Pro**](https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/)\n\nGoogle is rolling out Antigravity quota resets, Gemini 4 Carbon for Pro users and Hydrogen for all, merged Pro quota pools, separate planner and executor settings, and live checklists for long-running tasks.\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google tambah senarai semak tugas untuk Antigravity dan Carbon bagi pengguna Pro**](https://www.testingcatalog.com/google-adds-task-checklists-to-antigravity-and-carbon-for-pro/)\n\nGoogle sedang melancarkan tetapan semula kuota Antigravity, Gemini 4 Carbon untuk pengguna Pro dan Hydrogen untuk semua, penggabungan kumpulan kuota Pro, tetapan perancang dan pelaksana yang berasingan, serta senarai semak langsung untuk tugas jangka panjang.\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-24T00:02:52+00:00",
+            "message_id": 10139,
+            "message_key": "@testingcatalog:10139"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic launches Claude Ship to review and approve PRs**](https://www.testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs/)\n\nAnthropic's Claude Ship beta automates GitHub pull request reviews, fixes CI failures and merge conflicts, and approves changes under team policies. Available on Team and Enterprise plans, it combines Code Review with two new agents.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic lancarkan Claude Ship untuk semak dan luluskan PR**](https://www.testingcatalog.com/anthropic-launches-claude-ship-to-review-and-approve-prs/)\n\nClaude Ship beta dari Anthropic automatikkan semakan pull request GitHub, baiki kegagalan CI dan konflik gabungan, serta luluskan perubahan mengikut polisi pasukan. Boleh didapati dalam pelan Team dan Enterprise, ia gabungkan Code Review dengan dua ejen baharu.\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-11-23T23:28:40+00:00",
+            "message_id": 10138,
+            "message_key": "@testingcatalog:10138"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "ANTHROPIC \ud83d\udd25: A new Claude Ship feature lets Claude review, fix, and approve PRs on its own. \n\n> /ship is rolling out in the CLI and desktop app.\n\n> On Team and Enterprise, admins can turn it on for a whole repo, so it runs on your team's PRs with no /ship needed. \n\nAI is eating toil for breakfast \ud83d\udc40",
+            "translated_text": "ANTHROPIC \ud83d\udd25: Ciri baru Claude Ship membolehkan Claude menyemak, membaiki, dan meluluskan PRs sendiri.\n\n> /ship sedang dilancarkan dalam CLI dan aplikasi desktop.\n\n> Untuk Team dan Enterprise, pentadbir boleh mengaktifkannya untuk keseluruhan repo, jadi ia akan berjalan pada PRs pasukan anda tanpa perlu /ship.\n\nAI sedang 'telan' kerja-kerja leceh \ud83d\udc40",
+            "date": "2026-11-23T22:15:03+00:00",
+            "message_id": 10137,
+            "message_key": "@testingcatalog:10137"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-23T21:01:25+00:00",
+            "message_id": 10136,
+            "message_key": "@testingcatalog:10136"
         }
     ]
 }
