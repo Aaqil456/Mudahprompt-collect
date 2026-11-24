@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-24T05:11:35.909270",
+    "timestamp": "2026-11-24T17:07:39.283520",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37416,6 +37416,46 @@
             "date": "2026-11-23T21:01:25+00:00",
             "message_id": 10136,
             "message_key": "@testingcatalog:10136"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**OpenAI prepares dedicated email inboxes for ChatGPT Dots**](https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/)\n\nOpenAI is testing dedicated email addresses for Dots, its always-on ChatGPT agents, to handle scheduling and refund requests from their own inboxes. The feature remains unavailable to users, with no release date announced.\n\n\ud83d\uddde #openai @testingcatalog",
+            "translated_text": "[**OpenAI sediakan peti masuk e-mel khas untuk ChatGPT Dots**](https://www.testingcatalog.com/openai-prepares-dedicated-email-inboxes-for-chatgpt-dots/)\n\nOpenAI sedang menguji alamat e-mel khas untuk Dots, ejen ChatGPT mereka yang sentiasa aktif, bagi menguruskan permintaan penjadualan dan bayaran balik terus dari peti masuk mereka sendiri. Ciri ini masih belum tersedia kepada pengguna, dan tiada tarikh pelancaran yang diumumkan.\n\n\ud83d\uddde #openai @testingcatalog",
+            "date": "2026-11-24T17:06:36+00:00",
+            "message_id": 10144,
+            "message_key": "@testingcatalog:10144"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**TheStage launches Edgent and ASRKit for offline speech**](https://www.testingcatalog.com/thestage-launches-edgent-and-asrkit-for-offline-speech/)\n\nTheStage AI launched Edgent, a free iPhone and Mac app for on-device transcription, dictation and AI chats, plus ASRKit, an offline speech recognition SDK free for commercial use on up to 1,000 devices.\n\n\ud83d\uddde #sponsored @testingcatalog",
+            "translated_text": "[**TheStage melancarkan Edgent dan ASRKit untuk pertuturan luar talian**](https://www.testingcatalog.com/thestage-launches-edgent-and-asrkit-for-offline-speech/)\n\nTheStage AI telah melancarkan Edgent, sebuah aplikasi percuma untuk iPhone dan Mac yang membolehkan transkripsi, imlak, dan sembang AI terus pada peranti. Selain itu, mereka juga memperkenalkan ASRKit, sebuah SDK pengecaman pertuturan luar talian yang percuma untuk kegunaan komersial sehingga 1,000 peranti.\n\n\ud83d\uddde #ditaja @testingcatalog",
+            "date": "2026-11-24T15:27:27+00:00",
+            "message_id": 10143,
+            "message_key": "@testingcatalog:10143"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Meta prepares Apple Messages support for Muse AI agent**](https://www.testingcatalog.com/meta-prepares-apple-messages-support-for-muse-ai-agent/)\n\nMeta is preparing Apple Messages support for its Muse AI agent via a hidden Messages for Business setting. Eligibility and launch timing remain unclear, while Telegram and Messenger integrations are also unreleased.\n\n\ud83d\uddde #meta @testingcatalog",
+            "translated_text": "[**Meta sedang siapkan sokongan Apple Messages untuk ejen AI Muse**](https://www.testingcatalog.com/meta-prepares-apple-messages-support-for-muse-ai-agent/)\n\nMeta sedang siapkan sokongan Apple Messages untuk ejen AI Muse mereka melalui tetapan Messages for Business yang tersembunyi. Syarat kelayakan dan masa pelancaran masih belum jelas, manakala integrasi dengan Telegram dan Messenger pun belum dikeluarkan lagi.\n\n\ud83d\uddde #meta @testingcatalog",
+            "date": "2026-11-24T14:30:10+00:00",
+            "message_id": 10142,
+            "message_key": "@testingcatalog:10142"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "DAILY AI BRIEF \ud83d\uddde \u2014 Nov 24\n\nANTHROPIC $87.64 (\u22121.43%) \ud83d\udd25:\n- Anthropic's formal-math repo now has a Claude-written paper and Lean proof claiming VP \u2260 VNP over every field (via Liam06972452).\n- Claude Ship is in beta on Team and Enterprise plans, letting Claude review, fix and approve PRs.\n- Connectors and skills are now merged into plugins, with more than 10,000 available on Free, Pro, Max and Ultra.\n- Zero data retention with Enterprise Frontier Safeguards is now in public beta for eligible businesses.\n- Claude Code on desktop has a redesigned side panel with tabs, rolling out on Mac first.\n- Pro, Max and Ultra users get guest passes and earn $50 in credits when a friend subscribes (via alexmichael).\n\nOPENAI \ud83d\udd25:\n- GPT-6.2 Sol is rolling out in ChatGPT's Chat tab to Plus, Pro, Business and Enterprise users.\n- Dots are rolling out in the EU, and a new travel mode keeps existing Dots working abroad.\n- GPT-5.6 models will be retired in ChatGPT and Codex on December 23.\n- OpenAI and Cisco released Shirudo, an open-source Linux runtime that lets agents shield systems from exploits without downtime.\n- OpenWorks pays local AI experts up to $8,000 a month to help small businesses adopt AI.\n\nGOOGLE $282.10 (+6.34%) \ud83d\udd25:\n- Antigravity gives AI Pro users Gemini 4 Carbon, opens Hydrogen to everyone, and reset quotas again.\n- Antigravity adds task checklists and lets you pick Orchestrator models and effort levels.\n- Gemini 4 Neon is rolling out to Google Workspace customers in the Gemini app.\n- The Gemini API can now process only the pages, cells or segments you request from a file.\n- Personal Intelligence in AI Mode can now connect Google Wallet for spending insights in the US.\n- DeepMind's Gemini 4 agent teams built quantum circuits that cut future simulation costs by up to 10x.\n\nNVIDIA $165.05 (+31.48%) \ud83d\udd25:\n- Nvidia reinstated Jensen Huang as president, CEO and board director.\n- Trump and Vance backed his return partly to protect open-source AI, per The Information.\n\nAMAZON $255.39 (+3.47%) \ud83d\udd25:\n- Amazon agreed to buy Decart's Optimization Stack and hire its founders for about $7.5B, per Bloomberg.\n\nMICROSOFT $492.50 (+1.65%) \ud83d\udd25:\n- GitHub now recognizes ACCESSIBILITY.md files on repo overview pages.\n\nMISTRAL \ud83d\udd25:\n- Every builder in Europe now gets a free month of Vibe Pro, with no more capped drops (again).\n\nPERPLEXITY \ud83d\udd25:\n- The Monitor API adds Agent monitors that run a task on a schedule and alert you when the answer changes.",
+            "translated_text": "RINGKASAN AI HARIAN \ud83d\uddde \u2014 24 Nov\n\nANTHROPIC $87.64 (\u22121.43%) \ud83d\udd25:\n- Repositori matematik formal Anthropic kini mempunyai kertas kerja yang ditulis oleh Claude dan bukti Lean yang mendakwa VP \u2260 VNP merentasi setiap bidang (melalui Liam06972452).\n- Claude Ship kini dalam fasa beta untuk pelan Team dan Enterprise, membolehkan Claude menyemak, membaiki dan meluluskan PR.\n- Penyambung (connectors) dan kemahiran (skills) kini digabungkan menjadi plugin, dengan lebih 10,000 tersedia untuk pengguna Free, Pro, Max dan Ultra.\n- Pengekalan data sifar dengan Enterprise Frontier Safeguards kini dalam fasa beta awam untuk perniagaan yang layak.\n- Claude Code di desktop kini mempunyai panel sisi yang direka semula dengan tab, dan akan dilancarkan di Mac terlebih dahulu.\n- Pengguna Pro, Max dan Ultra akan mendapat pas tetamu dan memperoleh $50 dalam bentuk kredit apabila rakan melanggan (melalui alexmichael).\n\nOPENAI \ud83d\udd25:\n- GPT-6.2 Sol sedang dilancarkan dalam tab Chat ChatGPT untuk pengguna Plus, Pro, Business dan Enterprise.\n- Dots sedang dilancarkan di EU, dan mod perjalanan baharu membolehkan Dots sedia ada berfungsi di luar negara.\n- Model GPT-5.6 akan dihentikan penggunaannya dalam ChatGPT dan Codex pada 23 Disember.\n- OpenAI dan Cisco telah melancarkan Shirudo, sebuah runtime Linux sumber terbuka yang membolehkan ejen melindungi sistem daripada eksploitasi tanpa henti tugas.\n- OpenWorks membayar pakar AI tempatan sehingga $8,000 sebulan untuk membantu perniagaan kecil mengadaptasi AI.\n\nGOOGLE $282.10 (+6.34%) \ud83d\udd25:\n- Antigravity memberikan pengguna AI Pro Gemini 4 Carbon, membuka Hydrogen kepada semua orang, dan menetapkan semula kuota sekali lagi.\n- Antigravity menambah senarai semak tugas dan membolehkan anda memilih model Orchestrator serta tahap usaha.\n- Gemini 4 Neon sedang dilancarkan kepada pelanggan Google Workspace dalam aplikasi Gemini.\n- Gemini API kini boleh memproses hanya halaman, sel atau segmen yang anda minta daripada fail.\n- Personal Intelligence dalam AI Mode kini boleh disambungkan ke Google Wallet untuk mendapatkan pandangan perbelanjaan di AS.\n- Pasukan ejen Gemini 4 DeepMind telah membina litar kuantum yang mengurangkan kos simulasi masa depan sehingga 10 kali ganda.\n\nNVIDIA $165.05 (+31.48%) \ud83d\udd25:\n- Nvidia telah melantik semula Jensen Huang sebagai presiden, CEO dan pengarah lembaga.\n- Trump dan Vance menyokong kepulangannya sebahagiannya untuk melindungi AI sumber terbuka, menurut The Information.\n\nAMAZON $255.39 (+3.47%) \ud83d\udd25:\n- Amazon bersetuju untuk membeli Optimization Stack milik Decart dan mengambil pengasasnya dengan nilai kira-kira $7.5 bilion, menurut Bloomberg.\n\nMICROSOFT $492.50 (+1.65%) \ud83d\udd25:\n- GitHub kini mengiktiraf fail ACCESSIBILITY.md pada halaman gambaran keseluruhan repo.\n\nMISTRAL \ud83d\udd25:\n- Setiap pembangun di Eropah kini mendapat sebulan percuma Vibe Pro, tanpa lagi had penurunan (sekali lagi).\n\nPERPLEXITY \ud83d\udd25:\n- Monitor API menambah pemantau Ejen yang menjalankan tugas mengikut jadual dan memberitahu anda apabila jawapan berubah.",
+            "date": "2026-11-24T09:04:44+00:00",
+            "message_id": 10141,
+            "message_key": "@testingcatalog:10141"
         }
     ]
 }
