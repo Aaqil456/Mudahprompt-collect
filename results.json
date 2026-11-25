@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-25T02:01:16.589668",
+    "timestamp": "2026-11-25T21:15:23.438269",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37476,6 +37476,56 @@
             "date": "2026-11-24T17:42:35+00:00",
             "message_id": 10145,
             "message_key": "@testingcatalog:10145"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Google stretches Antigravity Neon quota with caching gains**](https://www.testingcatalog.com/google-stretches-antigravity-neon-quota-with-caching-gains/)\n\nGOOGLE \ud83d\udd25: Cache hit ratio for Gemini 4 Neon in Antigravity went up by another 4.5%.\n\nAll this on top of earlier improvements in Neon usage, bringing it close to a 75% gain. \n\nOverall, usage optimization is as important as increasing compute capacity. \n\nOr probably even better \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "translated_text": "[**Google Tingkatkan Kuota Antigravity Neon Dengan Peningkatan Caching**](https://www.testingcatalog.com/google-stretches-antigravity-neon-quota-with-caching-gains/)\n\nGOOGLE \ud83d\udd25: Nisbah hit cache untuk Gemini 4 Neon dalam Antigravity naik lagi 4.5%.\n\nIni semua berlaku selepas penambahbaikan awal dalam penggunaan Neon, menjadikan ia hampir mencapai peningkatan 75%.\n\nSecara keseluruhan, pengoptimuman penggunaan sama pentingnya dengan meningkatkan kapasiti pengkomputeran.\n\nAtau mungkin lebih baik lagi \ud83d\udc40\n\n\ud83d\uddde #google @testingcatalog",
+            "date": "2026-11-25T18:46:55+00:00",
+            "message_id": 10153,
+            "message_key": "@testingcatalog:10153"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini Live now supports 60+ more voices with local accents across the US, UK, India, Indonesia, Korea, and Brazil. \n\nThat's a huge variety of choices! \ud83e\udd2f\n\nLooks like I need to pick a new voice now \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Gemini Live sekarang menyokong lebih 60 suara baharu dengan loghat tempatan di seluruh AS, UK, India, Indonesia, Korea, dan Brazil.\n\nWah, banyak betul pilihan ni! \ud83e\udd2f\n\nNampaknya saya kena pilih suara baharu sekarang \ud83d\udc40",
+            "date": "2026-11-25T17:39:01+00:00",
+            "message_id": 10152,
+            "message_key": "@testingcatalog:10152"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-25T17:29:44+00:00",
+            "message_id": 10151,
+            "message_key": "@testingcatalog:10151"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: A new Private Inference is now being tested with a small group of OpenAI business customers. \n\nPrivate inference is a new offering inside OpenAI Private Intelligence to enable users to process inference via their own hosting. \n\nPinference \ud83d\udc40",
+            "translated_text": "OPENAI \ud83d\udd25: Satu Private Inference baharu kini sedang diuji dengan sekumpulan kecil pelanggan perniagaan OpenAI.\n\nPrivate Inference adalah tawaran baharu dalam OpenAI Private Intelligence untuk membolehkan pengguna memproses inference melalui hosting mereka sendiri.\n\nPinference \ud83d\udc40",
+            "date": "2026-11-25T17:29:44+00:00",
+            "message_id": 10150,
+            "message_key": "@testingcatalog:10150"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Early outputs: Anthropic is A/B testing Claude Opus 5.6**](https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/)\n\nAnthropic is reportedly A/B testing its next version of the Opus model on Claude Code, presumably Claude Opus 5.6.  \n\nWe are getting to the point where AI models can generate almost anything via code, and soon it will be very hard to challenge them with a \"hard prompt\". \n\nA collection of early outputs \ud83d\udc40\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Hasil awal: Anthropic sedang melakukan ujian A/B untuk Claude Opus 5.6**](https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/)\n\nKhabarnya, Anthropic sedang melakukan ujian A/B untuk versi seterusnya model Opus mereka pada Claude Code, yang dijangka adalah Claude Opus 5.6.\n\nKita dah sampai ke tahap di mana model AI boleh menjana hampir apa sahaja melalui kod, dan tak lama lagi, akan jadi sangat susah nak cabar mereka dengan 'prompt yang susah'.\n\nKoleksi output awal \ud83d\udc40\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-11-25T16:31:37+00:00",
+            "message_id": 10149,
+            "message_key": "@testingcatalog:10149"
         }
     ]
 }
