@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-26T03:59:21.090647",
+    "timestamp": "2026-11-26T13:45:38.869613",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37536,6 +37536,46 @@
             "date": "2026-11-26T00:31:05+00:00",
             "message_id": 10154,
             "message_key": "@testingcatalog:10154"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-26T07:25:29+00:00",
+            "message_id": 10158,
+            "message_key": "@testingcatalog:10158"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: Gemini quota on Antigravity has been reset for all users as a Thanksgiving celebration. \n\nThat\u2019s a touch\u00e9 \ud83d\udc40",
+            "translated_text": "GOOGLE \ud83d\udd25: Kuota Gemini di Antigravity telah diset semula untuk semua pengguna sempena sambutan Thanksgiving.\n\nMemang 'touch\u00e9' lah tu \ud83d\udc40",
+            "date": "2026-11-26T07:25:29+00:00",
+            "message_id": 10157,
+            "message_key": "@testingcatalog:10157"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-26T07:12:48+00:00",
+            "message_id": 10156,
+            "message_key": "@testingcatalog:10156"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "OPENAI \ud83d\udd25: GPT 6.2 Astra usage will now be consumed by 40% faster; 25% faster for GPT 6.2 Sol, all this due to the initial issue with usage calculation during the launch.\n\nOn a positive side, a new banked reset is coming to Go, Plus, Pro, and Business plans.\n\nPersonally, I am not using GPT 6.2 models and had to stick with GPT 6.1 Sol instead anyway.",
+            "translated_text": "OPENAI \ud83d\udd25: Penggunaan GPT 6.2 Astra kini akan habis 40% lebih cepat; 25% lebih cepat untuk GPT 6.2 Sol. Semua ini disebabkan oleh isu awal dengan pengiraan penggunaan semasa pelancaran.\n\nBerita baiknya, akan ada reset baki terkumpul yang baru untuk pelan Go, Plus, Pro, dan Business.\n\nSecara peribadi, saya tidak menggunakan model GPT 6.2 dan terpaksa kekal dengan GPT 6.1 Sol saja.",
+            "date": "2026-11-26T07:12:48+00:00",
+            "message_id": 10155,
+            "message_key": "@testingcatalog:10155"
         }
     ]
 }
