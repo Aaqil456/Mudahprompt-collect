@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-26T13:45:38.869613",
+    "timestamp": "2026-11-26T22:52:08.128683",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37576,6 +37576,56 @@
             "date": "2026-11-26T07:12:48+00:00",
             "message_id": 10155,
             "message_key": "@testingcatalog:10155"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "",
+            "translated_text": "",
+            "date": "2026-11-26T21:46:37+00:00",
+            "message_id": 10164,
+            "message_key": "@testingcatalog:10164"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "Grok Bot usage has been optimised by 11% for normal chats and up to 50% for Routines. \n\nThis is the way \ud83d\udcaa\ud83d\udc40",
+            "translated_text": "Penggunaan Grok Bot dah dioptimumkan sebanyak 11% untuk sembang biasa dan sehingga 50% untuk Rutin.\n\nIni caranya \ud83d\udcaa\ud83d\udc40",
+            "date": "2026-11-26T21:46:37+00:00",
+            "message_id": 10163,
+            "message_key": "@testingcatalog:10163"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Anthropic prepares Google Drive file browser for Claude**](https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/)\nAnthropic is testing Google Drive file management for Claude to let users browse Docs, Sheets, and Slides directly inside its UI. \n\nInterestingly, a similar functionality already exists in ChatGPT Spaces. \n\nNo one will need to leave AI superapps eventually; they are about to consume everything. When will we see AI labs acquiring Grub, Gojack, Rappi, and others?\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "translated_text": "[**Anthropic siapkan pelayar fail Google Drive untuk Claude**](https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude/)\nAnthropic sedang uji pengurusan fail Google Drive untuk Claude, supaya pengguna boleh semak Docs, Sheets, dan Slides terus dalam antaramuka pengguna (UI) mereka.\n\nMenariknya, fungsi yang serupa dah ada dalam ChatGPT Spaces.\n\nNanti, tak ada siapa pun perlu keluar dari aplikasi super AI; mereka akan 'makan' semua benda. Bila agaknya kita akan nampak makmal AI beli Grub, Gojack, Rappi, dan lain-lain?\n\n\ud83d\uddde #anthropic @testingcatalog",
+            "date": "2026-11-26T17:59:36+00:00",
+            "message_id": 10162,
+            "message_key": "@testingcatalog:10162"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "NOUS RESEARCH \ud83d\udd25: Hermes desktop app is expected to get a major redesign next week, focused on Hermes Agents. \n\nAlso, Bot Marketplace is coming soon, allowing users to share their agents with others and kickstart new bots from pre-made templates.\n\nWhat's next? \ud83d\udc40\n\nh/t Hermes Release Watch",
+            "translated_text": "NOUS RESEARCH \ud83d\udd25: Aplikasi desktop Hermes dijangka akan ada rombakan besar minggu depan, fokus pada Hermes Agents.\n\nJuga, Bot Marketplace akan datang tidak lama lagi, membolehkan pengguna berkongsi ejen mereka dengan orang lain dan memulakan bot baharu daripada templat sedia ada.\n\nApa yang seterusnya? \ud83d\udc40\n\nKredit kepada Hermes Release Watch",
+            "date": "2026-11-26T15:47:03+00:00",
+            "message_id": 10161,
+            "message_key": "@testingcatalog:10161"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "[**Nous Research readies Hermes Desktop redesign for next week**](https://www.testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week/)\n\nNous Research plans to release its redesigned Hermes Desktop early next week after internal fixes. Its roadmap includes a mobile app, a bot marketplace and proactive scheduling, while a Google-related entry remains unexplained.\n\n\ud83d\uddde #hermes @testingcatalog",
+            "translated_text": "[**Nous Research Siapkan Reka Bentuk Semula Hermes Desktop Untuk Minggu Depan**](https://www.testingcatalog.com/nous-research-readies-hermes-desktop-redesign-for-next-week/)\n\nNous Research bercadang untuk melancarkan Hermes Desktop yang direka bentuk semula awal minggu depan, selepas pembetulan dalaman. Peta jalan mereka termasuk aplikasi mudah alih, pasaran bot, dan penjadualan proaktif, manakala satu perkara berkaitan Google masih belum diterangkan.\n\n\ud83d\uddde #hermes @testingcatalog",
+            "date": "2026-11-26T15:26:30+00:00",
+            "message_id": 10160,
+            "message_key": "@testingcatalog:10160"
         }
     ]
 }
