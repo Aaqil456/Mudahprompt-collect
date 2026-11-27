@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-27T14:46:12.336017",
+    "timestamp": "2026-11-27T23:15:57.082189",
     "messages": [
         {
             "channel_link": "https://t.me/testingcatalog",
@@ -37646,6 +37646,16 @@
             "date": "2026-11-27T13:24:09+00:00",
             "message_id": 10166,
             "message_key": "@testingcatalog:10166"
+        },
+        {
+            "channel_link": "https://t.me/testingcatalog",
+            "channel_type": "AI News",
+            "channel_username": "@testingcatalog",
+            "original_text": "GOOGLE \ud83d\udd25: In addition to existing Plugins, Google is preparing to release Bundles too! \n\n> \"Curated sets of plugins for common workflows and roles.\"\n\nBundles are meant to be collections of Plugins combined around a specific scope, like Finance, Legal, and others. A similar functionality exists in Claude, for instance.",
+            "translated_text": "GOOGLE \ud83d\udd25: Selain daripada Plugins yang sedia ada, Google sedang bersedia untuk melancarkan Bundles juga!\n\n> \"Set Plugins yang dikurasi untuk aliran kerja dan peranan biasa.\"\n\nBundles ini direka untuk menjadi koleksi Plugins yang digabungkan mengikut skop tertentu, seperti Kewangan, Undang-undang, dan lain-lain. Fungsi yang serupa juga ada dalam Claude, contohnya.",
+            "date": "2026-11-27T15:05:26+00:00",
+            "message_id": 10168,
+            "message_key": "@testingcatalog:10168"
         }
     ]
 }
